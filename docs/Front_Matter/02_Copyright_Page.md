@@ -4,7 +4,7 @@ hide:
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="/assets/etis-logo.svg"
+  <img src="/../../assets/etis-logo.svg"
        alt="ETIS"
        style="width:320px; max-width:60%; height:auto;">
 </div>
