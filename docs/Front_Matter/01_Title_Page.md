@@ -9,7 +9,7 @@ hide:
 
     <div style="margin-bottom: 0.35rem;">
       <img
-        src="/assets/etis-logo.svg"
+        src="../../assets/etis-logo.svg"
         alt="ETIS Framework"
         style="width: 580px; max-width: 90%; height: auto;">
     </div>
