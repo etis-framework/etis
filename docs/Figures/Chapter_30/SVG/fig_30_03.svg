@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <marker id="arrow" markerWidth="6.5" markerHeight="6.5" refX="6.0" refY="3.25" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L6.5,3.25 L0,6.5 Z" fill="#596a73"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1600" height="900" fill="#f4f6f7"/>
+<text x="800.0" y="46" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#27343b"><tspan x="800.0" dy="0">Incident Timeline Becomes Evidence</tspan></text>
+<text x="800.0" y="84" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#55666f"><tspan x="800.0" dy="0">The timeline preserves what happened, what the team knew, what it decided, who owned action, and</tspan><tspan x="800.0" dy="26">what proved recovery.</tspan></text>
+<text x="215" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#27343b"><tspan x="215" dy="0">Incident Signals</tspan></text>
+<text x="740" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#27343b"><tspan x="740" dy="0">Timeline Backbone</tspan></text>
+<text x="1280" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#27343b"><tspan x="1280" dy="0">Evidence Artifacts</tspan></text>
+<rect x="60" y="165" width="300" height="530" rx="22" fill="#edf6fb" stroke="#5f8ba6" stroke-width="2"/>
+<rect x="88" y="197" width="244" height="70" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="210.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="210.0" dy="0">Routing Latency</tspan></text>
+<text x="210.0" y="248" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.8" font-weight="400" fill="#55666f"><tspan x="210.0" dy="0">above expected threshold</tspan></text>
+<rect x="88" y="279" width="244" height="70" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="210.0" y="305" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="210.0" dy="0">Queue Growth</tspan></text>
+<text x="210.0" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.8" font-weight="400" fill="#55666f"><tspan x="210.0" dy="0">backlog rising</tspan></text>
+<rect x="88" y="361" width="244" height="70" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="210.0" y="387" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="210.0" dy="0">Notification Status</tspan></text>
+<text x="210.0" y="412" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.8" font-weight="400" fill="#55666f"><tspan x="210.0" dy="0">confirmations intermittent</tspan></text>
+<rect x="88" y="443" width="244" height="70" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="210.0" y="469" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="210.0" dy="0">AI Context Version</tspan></text>
+<text x="210.0" y="494" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.8" font-weight="400" fill="#55666f"><tspan x="210.0" dy="0">policy source stale</tspan></text>
+<rect x="88" y="525" width="244" height="70" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="210.0" y="551" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="210.0" dy="0">Stakeholder Reports</tspan></text>
+<text x="210.0" y="576" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.8" font-weight="400" fill="#55666f"><tspan x="210.0" dy="0">fragments from departments</tspan></text>
+<rect x="88" y="607" width="244" height="70" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="210.0" y="633" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="210.0" dy="0">Evidence Snapshot</tspan></text>
+<text x="210.0" y="658" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.8" font-weight="400" fill="#55666f"><tspan x="210.0" dy="0">logs, metrics, request IDs</tspan></text>
+<rect x="430" y="165" width="620" height="570" rx="24" fill="#ffffff" stroke="#7f8a93" stroke-width="2"/>
+<text x="740.0" y="201" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="740.0" dy="0">Facts, Decisions, Owners, and Rationale</tspan></text>
+<text x="740.0" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#55666f"><tspan x="740.0" dy="0">kept separate so the incident can be reconstructed</tspan></text>
+<rect x="555" y="265" width="445" height="68" rx="14" fill="#dcebf4" stroke="#5f8ba6" stroke-width="2"/>
+<text x="627" y="293" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="627" dy="0">T0 Detect</tspan></text>
+<text x="837" y="293" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.0" font-weight="400" fill="#55666f"><tspan x="837" dy="0">signals exceed expected operating</tspan><tspan x="837" dy="21">range</tspan></text>
+<rect x="555" y="341" width="445" height="68" rx="14" fill="#eef1f4" stroke="#7f8a93" stroke-width="2"/>
+<text x="627" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="627" dy="0">T1 Triage</tspan></text>
+<text x="837" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.0" font-weight="400" fill="#55666f"><tspan x="837" dy="0">scope, impact, uncertainty, and risk</tspan><tspan x="837" dy="21">assessed</tspan></text>
+<rect x="555" y="417" width="445" height="68" rx="14" fill="#f6edcf" stroke="#b88f2c" stroke-width="2"/>
+<text x="627" y="445" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="627" dy="0">T2 Decide</tspan></text>
+<text x="837" y="445" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.0" font-weight="400" fill="#55666f"><tspan x="837" dy="0">AI summary drafting paused for</tspan><tspan x="837" dy="21">affected categories</tspan></text>
+<rect x="555" y="493" width="445" height="68" rx="14" fill="#eee8f6" stroke="#7d66a2" stroke-width="2"/>
+<text x="627" y="521" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="627" dy="0">T3 Communicate</tspan></text>
+<text x="837" y="521" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.0" font-weight="400" fill="#55666f"><tspan x="837" dy="0">status update sent with evidence-</tspan><tspan x="837" dy="21">backed wording</tspan></text>
+<rect x="555" y="569" width="445" height="68" rx="14" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="627" y="597" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="627" dy="0">T4 Mitigate</tspan></text>
+<text x="837" y="597" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.0" font-weight="400" fill="#55666f"><tspan x="837" dy="0">routing and notification paths</tspan><tspan x="837" dy="21">stabilized</tspan></text>
+<rect x="555" y="645" width="445" height="68" rx="14" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="627" y="673" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" fill="#27343b"><tspan x="627" dy="0">T5 Verify</tspan></text>
+<text x="837" y="673" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.0" font-weight="400" fill="#55666f"><tspan x="837" dy="0">recovery checks confirm behavior</tspan><tspan x="837" dy="21">returned</tspan></text>
+<line x1="505" y1="299.0" x2="505" y2="679.0" stroke="#6a7881" stroke-width="4" stroke-linecap="round"/>
+<circle cx="505" cy="299.0" r="9" fill="#6a7881"/>
+<circle cx="505" cy="375.0" r="9" fill="#6a7881"/>
+<circle cx="505" cy="451.0" r="9" fill="#6a7881"/>
+<circle cx="505" cy="527.0" r="9" fill="#6a7881"/>
+<circle cx="505" cy="603.0" r="9" fill="#6a7881"/>
+<circle cx="505" cy="679.0" r="9" fill="#6a7881"/>
+<line x1="334" y1="232.0" x2="422" y2="300" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="334" y1="314.0" x2="422" y2="370" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="334" y1="396.0" x2="422" y2="440" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="334" y1="478.0" x2="422" y2="510" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="334" y1="560.0" x2="422" y2="580" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="334" y1="642.0" x2="422" y2="650" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="1110" y="165" width="430" height="570" rx="22" fill="#f8fbf9" stroke="#5f8a72" stroke-width="2"/>
+<text x="1325.0" y="201" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">Repository Evidence</tspan></text>
+<text x="1325.0" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">linked records, not emergency memory</tspan></text>
+<rect x="1140" y="260" width="370" height="64" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1325.0" y="285" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">Incident Evidence Index</tspan></text>
+<text x="1325.0" y="309" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.4" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">what exists • where • owner • captured</tspan><tspan x="1325.0" dy="20">time</tspan></text>
+<rect x="1140" y="334" width="370" height="64" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1325.0" y="359" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">Incident Timeline</tspan></text>
+<text x="1325.0" y="383" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.4" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">ordered facts and observations</tspan></text>
+<rect x="1140" y="408" width="370" height="64" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1325.0" y="433" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">Decision Log</tspan></text>
+<text x="1325.0" y="457" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.4" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">decisions separated from facts</tspan></text>
+<rect x="1140" y="482" width="370" height="64" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1325.0" y="507" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">AI Use Record</tspan></text>
+<text x="1325.0" y="531" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.4" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">context version and verified drafts</tspan></text>
+<rect x="1140" y="556" width="370" height="64" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1325.0" y="581" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">Access and Audit Evidence</tspan></text>
+<text x="1325.0" y="605" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.4" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">security-relevant access remains scoped</tspan></text>
+<rect x="1140" y="630" width="370" height="64" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1325.0" y="655" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="700" fill="#27343b"><tspan x="1325.0" dy="0">Recovery Verification</tspan></text>
+<text x="1325.0" y="679" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.4" font-weight="400" fill="#55666f"><tspan x="1325.0" dy="0">tests, monitoring, owner approval</tspan></text>
+<line x1="1004" y1="299.0" x2="1132" y2="292.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1004" y1="375.0" x2="1132" y2="366.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1004" y1="444.0" x2="1132" y2="433.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1004" y1="458.0" x2="1132" y2="521.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1004" y1="537.0" x2="1132" y2="302.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1004" y1="596.0" x2="1132" y2="655.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1004" y1="686.0" x2="1132" y2="669.0" stroke="#596a73" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="70" y="780" width="1460" height="85" rx="18" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="315" y="814" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="315" dy="0">Incident Evidence Index</tspan></text>
+<text x="315" y="841" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" fill="#55666f"><tspan x="315" dy="0">evidence • location • owner • capture time</tspan></text>
+<text x="800" y="814" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="800" dy="0">Incident Record and Timeline</tspan></text>
+<text x="800" y="841" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" fill="#55666f"><tspan x="800" dy="0">facts, decisions, owners, rationale</tspan></text>
+<text x="1285" y="814" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="1285" dy="0">Postmortem and Release Handoff</tspan></text>
+<text x="1285" y="841" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" fill="#55666f"><tspan x="1285" dy="0">recovery proof and unresolved questions</tspan></text>
+<path d="M 740 735 L 740 756" fill="none" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<line x1="1325.0" y1="739" x2="1325.0" y2="772" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<text x="800.0" y="772" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#27343b"><tspan x="800.0" dy="0">Evidence preservation is part of response.</tspan></text>
+</svg>

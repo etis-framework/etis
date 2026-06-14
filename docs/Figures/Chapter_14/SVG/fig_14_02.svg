@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.classify{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.control{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.6}
+.govern{fill:#eef3f7;stroke:#334e68;stroke-width:2.5}
+.repo{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+
+<rect x="350" y="35" width="500" height="82" rx="14" ry="14" class="top"/>
+<text x="600" y="88" text-anchor="middle" font-size="34" font-weight="700" class="label">Context Sources</text>
+
+<rect x="40" y="190" width="260" height="82" rx="12" ry="12" class="classify"/>
+<text x="170" y="243" text-anchor="middle" font-size="26" font-weight="700" class="label">Authoritative</text>
+
+<rect x="320" y="190" width="260" height="82" rx="12" ry="12" class="classify"/>
+<text x="450" y="243" text-anchor="middle" font-size="28" font-weight="700" class="label">Advisory</text>
+
+<rect x="600" y="190" width="260" height="82" rx="12" ry="12" class="classify"/>
+<text x="730" y="243" text-anchor="middle" font-size="28" font-weight="700" class="label">Sensitive</text>
+
+<rect x="880" y="190" width="280" height="82" rx="12" ry="12" class="classify"/>
+<text x="1020" y="243" text-anchor="middle" font-size="28" font-weight="700" class="label">Excluded</text>
+
+<rect x="290" y="360" width="620" height="96" rx="14" ry="14" class="control"/>
+<text x="600" y="420" text-anchor="middle" font-size="38" font-weight="700" class="label">Context Control</text>
+
+<rect x="70" y="560" width="300" height="84" rx="14" ry="14" class="govern"/>
+<text x="220" y="613" text-anchor="middle" font-size="29" font-weight="700" class="label">Access Rules</text>
+
+<rect x="450" y="560" width="300" height="84" rx="14" ry="14" class="govern"/>
+<text x="600" y="613" text-anchor="middle" font-size="30" font-weight="700" class="label">Review</text>
+
+<rect x="830" y="560" width="300" height="84" rx="14" ry="14" class="govern"/>
+<text x="980" y="613" text-anchor="middle" font-size="29" font-weight="700" class="label">Provenance</text>
+
+<rect x="330" y="700" width="540" height="86" rx="14" ry="14" class="repo"/>
+<text x="600" y="755" text-anchor="middle" font-size="34" font-weight="700" class="label">Repository Evidence</text>
+
+</svg>

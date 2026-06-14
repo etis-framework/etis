@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="80" y="55" width="1440" height="58" rx="18" fill="#edf2f7" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="800.0" y="93" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="800.0" dy="0">Moving downward increases delegated authority and operational consequence.</tspan>
+</text>
+<rect x="80" y="129" width="1440" height="766" rx="18" fill="#ffffff" stroke="#5f6b7a" stroke-width="2"/>
+<rect x="80" y="129" width="1440" height="70" rx="18" fill="#dfe7f0"/>
+<rect x="80" y="163" width="1440" height="36" fill="#dfe7f0"/>
+<text x="290.0" y="172" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Delegation category</tspan>
+</text>
+<text x="707.5" y="172" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Authority impact</tspan>
+</text>
+<text x="1217.5" y="172" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Required governance controls</tspan>
+</text>
+<line x1="500" y1="147" x2="500" y2="877" stroke="#c5ced8" stroke-width="1.5"/>
+<line x1="915" y1="147" x2="915" y2="877" stroke="#c5ced8" stroke-width="1.5"/>
+<rect x="102" y="215" width="1396" height="88" rx="12" fill="#f3f6f9" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="227" x2="500" y2="291" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="227" x2="915" y2="291" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="260" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Draft assistance</tspan>
+</text>
+<text x="707.5" y="246" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Produces proposed text</tspan>
+<tspan x="707.5" dy="32">only</tspan>
+</text>
+<text x="1217.5" y="246" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Engineer review</tspan>
+<tspan x="1217.5" dy="32">before use</tspan>
+</text>
+<rect x="102" y="311" width="1396" height="88" rx="12" fill="#f1f5f9" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="323" x2="500" y2="387" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="323" x2="915" y2="387" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="356" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Recommendation</tspan>
+</text>
+<text x="707.5" y="342" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Influences human</tspan>
+<tspan x="707.5" dy="32">judgment</tspan>
+</text>
+<text x="1217.5" y="342" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Logged rationale</tspan>
+<tspan x="1217.5" dy="32">human review</tspan>
+</text>
+<rect x="102" y="407" width="1396" height="88" rx="12" fill="#eef3f8" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="419" x2="500" y2="483" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="419" x2="915" y2="483" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="452" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Decision support</tspan>
+</text>
+<text x="707.5" y="438" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Shapes operational</tspan>
+<tspan x="707.5" dy="32">choice</tspan>
+</text>
+<text x="1217.5" y="438" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Named approval</tspan>
+<tspan x="1217.5" dy="32">audit evidence</tspan>
+</text>
+<rect x="102" y="503" width="1396" height="88" rx="12" fill="#ebf1f7" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="515" x2="500" y2="579" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="515" x2="915" y2="579" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="548" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Tool preparation</tspan>
+</text>
+<text x="707.5" y="534" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Prepares possible</tspan>
+<tspan x="707.5" dy="32">state change</tspan>
+</text>
+<text x="1217.5" y="534" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Approval gate</tspan>
+<tspan x="1217.5" dy="32">active monitoring</tspan>
+</text>
+<rect x="102" y="599" width="1396" height="88" rx="12" fill="#e8eef5" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="611" x2="500" y2="675" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="611" x2="915" y2="675" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="630" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Human-approved</tspan>
+<tspan x="290.0" dy="32">execution</tspan>
+</text>
+<text x="707.5" y="630" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Changes system</tspan>
+<tspan x="707.5" dy="32">state</tspan>
+</text>
+<text x="1217.5" y="630" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Explicit approval</tspan>
+<tspan x="1217.5" dy="32">full audit trail</tspan>
+</text>
+<rect x="102" y="695" width="1396" height="88" rx="12" fill="#e4ecf4" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="707" x2="500" y2="771" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="707" x2="915" y2="771" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="726" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Bounded autonomous</tspan>
+<tspan x="290.0" dy="32">action</tspan>
+</text>
+<text x="707.5" y="726" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Acts within narrow</tspan>
+<tspan x="707.5" dy="32">approved policy</tspan>
+</text>
+<text x="1217.5" y="726" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Continuous monitoring</tspan>
+<tspan x="1217.5" dy="32">rollback + revocation</tspan>
+</text>
+<rect x="102" y="791" width="1396" height="88" rx="12" fill="#f3e4e4" stroke="#5f6b7a" stroke-width="1.2"/>
+<line x1="500" y1="803" x2="500" y2="867" stroke="#c5ced8" stroke-width="1.2"/>
+<line x1="915" y1="803" x2="915" y2="867" stroke="#c5ced8" stroke-width="1.2"/>
+<text x="290.0" y="822" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="290.0" dy="0">Prohibited</tspan>
+<tspan x="290.0" dy="32">delegation</tspan>
+</text>
+<text x="707.5" y="822" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="707.5" dy="0">Authority is too</tspan>
+<tspan x="707.5" dy="32">high or unclear</tspan>
+</text>
+<text x="1217.5" y="822" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1217.5" dy="0">Not permitted</tspan>
+<tspan x="1217.5" dy="32">blocked by policy</tspan>
+</text>
+<rect x="80" y="921" width="1440" height="82" rx="18" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="800.0" y="956" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="800.0" dy="0">Higher authority requires stronger approval, audit, monitoring,</tspan>
+<tspan x="800.0" dy="32">rollback, and revocation controls.</tspan>
+</text>
+</svg>

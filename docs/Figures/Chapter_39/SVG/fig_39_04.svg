@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780">
+<defs><marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto" markerUnits="strokeWidth"><path d="M1.8,1.8 L9,5.5 L1.8,9.2 Z" fill="#2f3b45"/></marker></defs>
+<rect x="0" y="0" width="1600" height="780" fill="#ffffff"/>
+<rect x="52" y="42" width="1496" height="696" rx="18" ry="18" fill="#ffffff" stroke="#c8d2dc" stroke-width="2.0"/>
+<rect x="80" y="235" width="350" height="290" rx="16" ry="16" fill="#f4f8fb" stroke="#2f3b45" stroke-width="2.6"/>
+<text x="255.0" y="293" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="34" font-weight="800" fill="#17212b">
+<tspan x="255.0" dy="0">Portfolio</tspan>
+<tspan x="255.0" dy="36.72">Evidence</tspan>
+</text>
+<line x1="122" y1="365" x2="388" y2="365" stroke="#cbd5df" stroke-width="2.0" stroke-linecap="round"/>
+<text x="255.0" y="407" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#334155">
+<tspan x="255.0" dy="0">evidence map</tspan>
+<tspan x="255.0" dy="31.68">review records</tspan>
+<tspan x="255.0" dy="31.68">stewardship proof</tspan>
+</text>
+<text x="255.0" y="497" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#334155">
+<tspan x="255.0" dy="0">claims are inspectable</tspan>
+</text>
+<rect x="500" y="75" width="600" height="565" rx="18" ry="18" fill="#f8faf7" stroke="#2f3b45" stroke-width="3.0"/>
+<text x="800.0" y="133" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Review Board</tspan>
+<tspan x="800.0" dy="41.040000000000006">Challenge</tspan>
+</text>
+<text x="800.0" y="217" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#334155">
+<tspan x="800.0" dy="0">seven responsibilities</tspan>
+<tspan x="800.0" dy="28.06">tested against evidence</tspan>
+</text>
+<rect x="580" y="275" width="440" height="42" rx="10" ry="10" fill="#ffffff" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800.0" y="304" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Define Intent</tspan>
+</text>
+<rect x="580" y="325" width="440" height="42" rx="10" ry="10" fill="#f6f8fa" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800.0" y="354" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Engineer Context</tspan>
+</text>
+<rect x="580" y="375" width="440" height="42" rx="10" ry="10" fill="#ffffff" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800.0" y="404" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Bound Authority</tspan>
+</text>
+<rect x="580" y="425" width="440" height="42" rx="10" ry="10" fill="#f6f8fa" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800.0" y="454" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Verify Behavior</tspan>
+</text>
+<rect x="580" y="475" width="440" height="42" rx="10" ry="10" fill="#ffffff" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800.0" y="504" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Operate Reality</tspan>
+</text>
+<rect x="580" y="525" width="440" height="42" rx="10" ry="10" fill="#f6f8fa" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800.0" y="554" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Explain Decisions</tspan>
+</text>
+<rect x="580" y="575" width="440" height="42" rx="10" ry="10" fill="#ffffff" stroke="#6c5f2f" stroke-width="2.4"/>
+<text x="800.0" y="604" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800.0" dy="0">Own Outcomes</tspan>
+</text>
+<rect x="1170" y="235" width="350" height="290" rx="16" ry="16" fill="#fffdf5" stroke="#6c5f2f" stroke-width="2.8"/>
+<text x="1345.0" y="293" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="32" font-weight="800" fill="#17212b">
+<tspan x="1345.0" dy="0">Professional</tspan>
+<tspan x="1345.0" dy="34.56">Trust Defended</tspan>
+</text>
+<line x1="1212" y1="365" x2="1478" y2="365" stroke="#d9cfaa" stroke-width="2.0" stroke-linecap="round"/>
+<text x="1345.0" y="399" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#334155">
+<tspan x="1345.0" dy="0">judgment explained</tspan>
+<tspan x="1345.0" dy="31.68">conditions named</tspan>
+<tspan x="1345.0" dy="31.68">outcomes owned</tspan>
+</text>
+<text x="1345.0" y="486" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#334155">
+<tspan x="1345.0" dy="0">trust is defended,</tspan>
+<tspan x="1345.0" dy="23.599999999999998">not claimed</tspan>
+</text>
+<line x1="430" y1="380.0" x2="500" y2="380.0" stroke="#2f3b45" stroke-width="3.0" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1100" y1="380.0" x2="1170" y2="380.0" stroke="#2f3b45" stroke-width="3.0" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="190" y="675" width="1220" height="44" rx="10" ry="10" fill="#f6f8fa" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800" y="704" text-anchor="middle" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="23" font-weight="800" fill="#17212b">
+<tspan x="800" dy="0">claim → evidence → challenge → conditions → ownership → next evidence action</tspan>
+</text>
+</svg>

@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1040" viewBox="0 0 1800 1040">
+<defs>
+<marker id="arrow" markerWidth="9" markerHeight="7" refX="8" refY="3.5" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L8,3.5 L0,7 Z" fill="#111827" />
+</marker>
+<marker id="arrowSmall" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L6,3 L0,6 Z" fill="#111827" />
+</marker>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #111827; }
+.box-title { font-size: 23px; font-weight: 700; }
+.box-title-small { font-size: 20px; font-weight: 700; }
+.body { font-size: 18px; }
+.body-small { font-size: 16.5px; }
+.emphasis { font-size: 19px; font-weight: 700; }
+.label { font-size: 17px; font-weight: 700; }
+</style>
+</defs>
+<rect x="0" y="0" width="1800" height="1040" fill="#ffffff"/>
+<rect x="70" y="40" width="1660" height="265" rx="10" fill="#f8fafc" stroke="#1f2937" stroke-width="2.2"/>
+<text class="box-title" x="900" y="78" text-anchor="middle">Repository Stewardship Review Challenge Areas</text>
+<rect x="105" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="207.5" y="154" text-anchor="middle">Repository</text>
+<text class="box-title-small" x="207.5" y="177" text-anchor="middle">Health</text>
+<line x1="117" y1="184" x2="298" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="207.5" y="218" text-anchor="middle">Structure</text>
+<text class="body-small" x="207.5" y="242" text-anchor="middle">links</text>
+<text class="body-small" x="207.5" y="266" text-anchor="middle">owners</text>
+<rect x="328" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="430.5" y="154" text-anchor="middle">Evidence</text>
+<text class="box-title-small" x="430.5" y="177" text-anchor="middle">Freshness</text>
+<line x1="340" y1="184" x2="521" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="430.5" y="218" text-anchor="middle">current</text>
+<text class="body-small" x="430.5" y="242" text-anchor="middle">conditional</text>
+<text class="body-small" x="430.5" y="266" text-anchor="middle">stale</text>
+<rect x="551" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="653.5" y="154" text-anchor="middle">AI Context</text>
+<text class="box-title-small" x="653.5" y="177" text-anchor="middle">Governance</text>
+<line x1="563" y1="184" x2="744" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="653.5" y="218" text-anchor="middle">approved sources</text>
+<text class="body-small" x="653.5" y="242" text-anchor="middle">permissions</text>
+<rect x="774" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="876.5" y="154" text-anchor="middle">Operational</text>
+<text class="box-title-small" x="876.5" y="177" text-anchor="middle">Traceability</text>
+<line x1="786" y1="184" x2="967" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="876.5" y="218" text-anchor="middle">incident to action</text>
+<text class="body-small" x="876.5" y="242" text-anchor="middle">runbook update</text>
+<rect x="997" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="1099.5" y="154" text-anchor="middle">Review</text>
+<text class="box-title-small" x="1099.5" y="177" text-anchor="middle">Traceability</text>
+<line x1="1009" y1="184" x2="1190" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="1099.5" y="218" text-anchor="middle">conditions</text>
+<text class="body-small" x="1099.5" y="242" text-anchor="middle">closure evidence</text>
+<rect x="1220" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="1322.5" y="154" text-anchor="middle">Continuity</text>
+<text class="box-title-small" x="1322.5" y="177" text-anchor="middle">Readiness</text>
+<line x1="1232" y1="184" x2="1413" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="1322.5" y="218" text-anchor="middle">handoff</text>
+<text class="body-small" x="1322.5" y="242" text-anchor="middle">role ownership</text>
+<rect x="1443" y="118" width="205" height="160" rx="7" fill="#eef5fc" stroke="#1f2937" stroke-width="1.7"/>
+<text class="box-title-small" x="1545.5" y="154" text-anchor="middle">Stewardship</text>
+<text class="box-title-small" x="1545.5" y="177" text-anchor="middle">Readiness</text>
+<line x1="1455" y1="184" x2="1636" y2="184" stroke="#334155" stroke-width="1.3"/>
+<text class="body-small" x="1545.5" y="218" text-anchor="middle">refresh cadence</text>
+<text class="body-small" x="1545.5" y="242" text-anchor="middle">retirement rules</text>
+<rect x="110" y="455" width="225" height="150" rx="8" fill="#eef7ee" stroke="#1f2937" stroke-width="2.1"/>
+<text class="box-title" x="222.5" y="493" text-anchor="middle">Claim</text>
+<line x1="128" y1="513" x2="317" y2="513" stroke="#334155" stroke-width="1.4"/>
+<text class="body" x="222.5" y="544" text-anchor="middle">What is being</text>
+<text class="body" x="222.5" y="568" text-anchor="middle">asserted about</text>
+<text class="body" x="222.5" y="592" text-anchor="middle">repository memory?</text>
+<rect x="375" y="455" width="225" height="150" rx="8" fill="#eef7ee" stroke="#1f2937" stroke-width="2.1"/>
+<text class="box-title" x="487.5" y="493" text-anchor="middle">Evidence</text>
+<line x1="393" y1="513" x2="582" y2="513" stroke="#334155" stroke-width="1.4"/>
+<text class="body" x="487.5" y="544" text-anchor="middle">What repository</text>
+<text class="body" x="487.5" y="568" text-anchor="middle">evidence supports</text>
+<text class="body" x="487.5" y="592" text-anchor="middle">the claim?</text>
+<rect x="640" y="455" width="225" height="150" rx="8" fill="#fff8e8" stroke="#1f2937" stroke-width="2.1"/>
+<text class="box-title" x="752.5" y="493" text-anchor="middle">Challenge Gate</text>
+<line x1="658" y1="513" x2="847" y2="513" stroke="#334155" stroke-width="1.4"/>
+<text class="body" x="752.5" y="544" text-anchor="middle">Can evidence be</text>
+<text class="body" x="752.5" y="568" text-anchor="middle">found, understood,</text>
+<text class="body" x="752.5" y="592" text-anchor="middle">trusted, and used?</text>
+<rect x="905" y="455" width="225" height="150" rx="8" fill="#f5f0fa" stroke="#1f2937" stroke-width="2.1"/>
+<text class="box-title" x="1017.5" y="493" text-anchor="middle">Decision</text>
+<line x1="923" y1="513" x2="1112" y2="513" stroke="#334155" stroke-width="1.4"/>
+<text class="body" x="1017.5" y="544" text-anchor="middle">Approve, condition,</text>
+<text class="body" x="1017.5" y="568" text-anchor="middle">defer, restrict,</text>
+<text class="body" x="1017.5" y="592" text-anchor="middle">or reject.</text>
+<rect x="1170" y="455" width="225" height="150" rx="8" fill="#eef5fc" stroke="#1f2937" stroke-width="2.1"/>
+<text class="box-title" x="1282.5" y="493" text-anchor="middle">Owner</text>
+<line x1="1188" y1="513" x2="1377" y2="513" stroke="#334155" stroke-width="1.4"/>
+<text class="body" x="1282.5" y="544" text-anchor="middle">Who owns</text>
+<text class="body" x="1282.5" y="568" text-anchor="middle">correction and</text>
+<text class="body" x="1282.5" y="592" text-anchor="middle">follow-up?</text>
+<rect x="1435" y="455" width="225" height="150" rx="8" fill="#eef5fc" stroke="#1f2937" stroke-width="2.1"/>
+<text class="box-title" x="1547.5" y="493" text-anchor="middle">Next Action</text>
+<line x1="1453" y1="513" x2="1642" y2="513" stroke="#334155" stroke-width="1.4"/>
+<text class="body" x="1547.5" y="544" text-anchor="middle">What changes,</text>
+<text class="body" x="1547.5" y="568" text-anchor="middle">review dates, or</text>
+<text class="body" x="1547.5" y="592" text-anchor="middle">records are needed?</text>
+<line x1="343" y1="530.0" x2="363" y2="530.0" stroke="#111827" stroke-width="2.2" marker-end="url(#arrowSmall)"/>
+<line x1="608" y1="530.0" x2="628" y2="530.0" stroke="#111827" stroke-width="2.2" marker-end="url(#arrowSmall)"/>
+<line x1="873" y1="530.0" x2="893" y2="530.0" stroke="#111827" stroke-width="2.2" marker-end="url(#arrowSmall)"/>
+<line x1="1138" y1="530.0" x2="1158" y2="530.0" stroke="#111827" stroke-width="2.2" marker-end="url(#arrowSmall)"/>
+<line x1="1403" y1="530.0" x2="1423" y2="530.0" stroke="#111827" stroke-width="2.2" marker-end="url(#arrowSmall)"/>
+<line x1="222.5" y1="305" x2="222.5" y2="440" stroke="#111827" stroke-width="1.8" marker-end="url(#arrowSmall)"/>
+<line x1="487.5" y1="305" x2="487.5" y2="440" stroke="#111827" stroke-width="1.8" marker-end="url(#arrowSmall)"/>
+<line x1="752.5" y1="305" x2="752.5" y2="440" stroke="#111827" stroke-width="1.8" marker-end="url(#arrowSmall)"/>
+<line x1="1017.5" y1="305" x2="1017.5" y2="440" stroke="#111827" stroke-width="1.8" marker-end="url(#arrowSmall)"/>
+<line x1="1282.5" y1="305" x2="1282.5" y2="440" stroke="#111827" stroke-width="1.8" marker-end="url(#arrowSmall)"/>
+<line x1="1547.5" y1="305" x2="1547.5" y2="440" stroke="#111827" stroke-width="1.8" marker-end="url(#arrowSmall)"/>
+<rect x="220" y="725" width="1360" height="190" rx="9" fill="#f8fafc" stroke="#1f2937" stroke-width="2.2"/>
+<text class="box-title" x="900.0" y="765" text-anchor="middle">Repository Stewardship Review Record</text>
+<line x1="244" y1="787" x2="1556" y2="787" stroke="#334155" stroke-width="1.5"/>
+<text class="emphasis" x="390.0" y="821" text-anchor="middle">Claims inspected</text>
+<text class="body" x="390.0" y="851" text-anchor="middle">repository health</text>
+<text class="body" x="390.0" y="874" text-anchor="middle">operational state</text>
+<text class="body" x="390.0" y="897" text-anchor="middle">AI context use</text>
+<line x1="560.0" y1="803" x2="560.0" y2="891" stroke="#cbd5e1" stroke-width="1.4"/>
+<text class="emphasis" x="730.0" y="821" text-anchor="middle">Evidence reviewed</text>
+<text class="body" x="730.0" y="851" text-anchor="middle">freshness status</text>
+<text class="body" x="730.0" y="874" text-anchor="middle">trace links</text>
+<text class="body" x="730.0" y="897" text-anchor="middle">ownership records</text>
+<line x1="900.0" y1="803" x2="900.0" y2="891" stroke="#cbd5e1" stroke-width="1.4"/>
+<text class="emphasis" x="1070.0" y="821" text-anchor="middle">Gaps and risks</text>
+<text class="body" x="1070.0" y="851" text-anchor="middle">stale artifacts</text>
+<text class="body" x="1070.0" y="874" text-anchor="middle">broken links</text>
+<text class="body" x="1070.0" y="897" text-anchor="middle">open conditions</text>
+<line x1="1240.0" y1="803" x2="1240.0" y2="891" stroke="#cbd5e1" stroke-width="1.4"/>
+<text class="emphasis" x="1410.0" y="821" text-anchor="middle">Owner and due date</text>
+<text class="body" x="1410.0" y="851" text-anchor="middle">responsible role</text>
+<text class="body" x="1410.0" y="874" text-anchor="middle">required action</text>
+<text class="body" x="1410.0" y="897" text-anchor="middle">closure evidence</text>
+<path d="M280,725 L280,660 L222.5,660 L222.5,617" fill="none" stroke="#111827" stroke-width="2" stroke-dasharray="8 7" marker-end="url(#arrowSmall)"/>
+<path d="M1520,725 L1520,660 L1547.5,660 L1547.5,617" fill="none" stroke="#111827" stroke-width="2" stroke-dasharray="8 7" marker-end="url(#arrowSmall)"/>
+<rect x="280" y="950" width="1240" height="58" rx="6" fill="#fffdf5" stroke="#1f2937" stroke-width="1.8"/>
+<text class="emphasis" x="900.0" y="986" text-anchor="middle">A stewardship review challenges whether repository memory still supports operational trust.</text>
+</svg>

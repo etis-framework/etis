@@ -1,0 +1,51 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1380" viewBox="0 70 2600 1380">
+<rect width="100%" height="100%" fill="white"/>
+
+<style>
+.title{font-family:Arial,Helvetica,sans-serif;font-size:38px;font-weight:700;fill:#0B1F3A}
+.label{font-family:Arial,Helvetica,sans-serif;font-size:33px;font-weight:700;fill:#0B1F3A}
+.note{font-family:Arial,Helvetica,sans-serif;font-size:37px;font-weight:700;fill:#7F1D1D}
+.assert{font-family:Arial,Helvetica,sans-serif;font-size:37px;font-weight:700;fill:#0B1F3A}
+</style>
+
+<rect x="980" y="180" width="640" height="110" rx="18" fill="#EAF2FF" stroke="#1E3A8A" stroke-width="4"/>
+<text x="1300" y="248" text-anchor="middle" class="title">Recovery</text>
+
+<line x1="1300" y1="420" x2="1300" y2="315" stroke="#64748B" stroke-width="6"/>
+<polygon points="1300,315 1288,340 1312,340" fill="#64748B"/>
+
+<rect x="860" y="430" width="880" height="110" rx="18" fill="white" stroke="#64748B" stroke-width="4"/>
+<text x="1300" y="500" text-anchor="middle" class="title">Incident Reconstruction</text>
+
+<line x1="500" y1="700" x2="2100" y2="700" stroke="#0B1F3A" stroke-width="5"/>
+
+<!-- foundation row: taller boxes and balanced text -->
+<rect x="220" y="760" width="320" height="120" rx="16" fill="white" stroke="#64748B" stroke-width="3"/>
+<text x="380" y="835" text-anchor="middle" class="label">Visibility</text>
+
+<rect x="580" y="760" width="320" height="120" rx="16" fill="white" stroke="#64748B" stroke-width="3"/>
+<text x="740" y="835" text-anchor="middle" class="label">Evidence</text>
+
+<rect x="940" y="760" width="320" height="120" rx="16" fill="white" stroke="#64748B" stroke-width="3"/>
+<text x="1100" y="818" text-anchor="middle" class="label">Authority</text>
+<text x="1100" y="852" text-anchor="middle" class="label">Clarity</text>
+
+<rect x="1300" y="760" width="320" height="120" rx="16" fill="white" stroke="#64748B" stroke-width="3"/>
+<text x="1460" y="835" text-anchor="middle" class="label">Observability</text>
+
+<rect x="1660" y="760" width="320" height="120" rx="16" fill="white" stroke="#64748B" stroke-width="3"/>
+<text x="1820" y="818" text-anchor="middle" class="label">Recovery</text>
+<text x="1820" y="852" text-anchor="middle" class="label">Controls</text>
+
+<rect x="2020" y="760" width="320" height="120" rx="16" fill="white" stroke="#64748B" stroke-width="3"/>
+<text x="2180" y="818" text-anchor="middle" class="label">Learning</text>
+<text x="2180" y="852" text-anchor="middle" class="label">Systems</text>
+
+<rect x="620" y="1040" width="1360" height="100" rx="18" fill="white" stroke="#0B1F3A" stroke-width="3"/>
+<text x="1300" y="1103" text-anchor="middle" class="assert">You cannot reconstruct what you did not preserve.</text>
+
+<rect x="700" y="1240" width="1200" height="95" rx="18" fill="#FEF2F2" stroke="#B91C1C" stroke-width="4"/>
+<text x="1300" y="1298" text-anchor="middle" class="note">Recovery begins before failure.</text>
+
+</svg>

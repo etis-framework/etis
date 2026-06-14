@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="920" viewBox="0 0 1200 920">
+<rect width="1200" height="920" fill="white"/>
+<text x="600" y="40" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#475569">Good output is judged by criteria,</text>
+<text x="600" y="75" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#475569">not impressions.</text>
+<rect x="80" y="105" width="1040" height="760" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.2"/>
+<rect x="330" y="155" width="540" height="120" rx="16" fill="#fbf8ff" stroke="#7b6897" stroke-width="3"/>
+<text x="600" y="205" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" fill="#1f2933">Intelligent Behavior</text>
+<text x="600" y="242" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Routing • Summaries • Drafts • Explanations</text>
+<rect x="110" y="325" width="430" height="205" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="325.0" y="365" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Quality</text>
+<text x="325.0" y="407" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Relevance</text>
+<text x="325.0" y="435" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Correctness</text>
+<text x="325.0" y="463" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Completeness</text>
+<text x="325.0" y="491" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Faithfulness</text>
+<text x="325.0" y="519" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Consistency</text>
+<rect x="660" y="325" width="430" height="205" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="875.0" y="365" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Governance</text>
+<text x="875.0" y="407" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Authority</text>
+<text x="875.0" y="435" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Privacy</text>
+<text x="875.0" y="463" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Auditability</text>
+<rect x="110" y="585" width="430" height="205" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="325.0" y="625" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Reliability</text>
+<text x="325.0" y="667" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Uncertainty</text>
+<text x="325.0" y="695" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Fallback</text>
+<rect x="660" y="585" width="430" height="205" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="875.0" y="625" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Human Value</text>
+<text x="875.0" y="667" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Usefulness</text>
+</svg>

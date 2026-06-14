@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780">
+<defs><marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto" markerUnits="strokeWidth"><path d="M1.8,1.8 L9,5.5 L1.8,9.2 Z" fill="#2f3b45"/></marker></defs>
+<rect x="0" y="0" width="1600" height="780" fill="#ffffff"/>
+<rect x="48" y="48" width="1504" height="684" rx="18" fill="#ffffff" stroke="#c8d2dc" stroke-width="2"/>
+<text x="290" y="100" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290" dy="0">Repository Evidence</tspan>
+<tspan x="290" dy="36.58">Domains</tspan>
+</text>
+<text x="800" y="100" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="800" dy="0">Curated Portfolio</tspan>
+<tspan x="800" dy="36.58">Evidence Map</tspan>
+</text>
+<text x="1310" y="100" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="1310" dy="0">Reviewable</tspan>
+<tspan x="1310" dy="36.58">Professional Defense</tspan>
+</text>
+<rect x="95" y="150" width="390" height="64" rx="12" fill="#f4f8fb" stroke="#35434f" stroke-width="2.4"/>
+<text x="290.0" y="176" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290.0" dy="0">Intent and Requirements</tspan>
+</text>
+<text x="290.0" y="201" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="290.0" dy="0">claims, scope, acceptance</tspan>
+</text>
+<rect x="95" y="230" width="390" height="64" rx="12" fill="#f4f8fb" stroke="#35434f" stroke-width="2.4"/>
+<text x="290.0" y="256" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290.0" dy="0">Architecture Decisions</tspan>
+</text>
+<text x="290.0" y="281" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="290.0" dy="0">ADRs, tradeoffs, constraints</tspan>
+</text>
+<rect x="95" y="310" width="390" height="64" rx="12" fill="#f4f8fb" stroke="#35434f" stroke-width="2.4"/>
+<text x="290.0" y="336" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290.0" dy="0">Reviewed Change</tspan>
+</text>
+<text x="290.0" y="361" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="290.0" dy="0">issues, branches, PRs, comments</tspan>
+</text>
+<rect x="95" y="390" width="390" height="64" rx="12" fill="#f4f8fb" stroke="#35434f" stroke-width="2.4"/>
+<text x="290.0" y="416" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290.0" dy="0">Verification Evidence</tspan>
+</text>
+<text x="290.0" y="441" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="290.0" dy="0">tests, CI, release readiness</tspan>
+</text>
+<rect x="95" y="470" width="390" height="64" rx="12" fill="#f4f8fb" stroke="#35434f" stroke-width="2.4"/>
+<text x="290.0" y="496" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290.0" dy="0">AI Governance Evidence</tspan>
+</text>
+<text x="290.0" y="521" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="290.0" dy="0">use logs, context, rejected output</tspan>
+</text>
+<rect x="95" y="550" width="390" height="64" rx="12" fill="#f4f8fb" stroke="#35434f" stroke-width="2.4"/>
+<text x="290.0" y="576" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="290.0" dy="0">Operations and Learning</tspan>
+</text>
+<text x="290.0" y="601" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="290.0" dy="0">runbooks, incidents, stewardship</tspan>
+</text>
+<line x1="535" y1="170" x2="535" y2="600" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="485" y1="182" x2="535" y2="182" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="485" y1="262" x2="535" y2="262" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="485" y1="342" x2="535" y2="342" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="485" y1="422" x2="535" y2="422" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="485" y1="502" x2="535" y2="502" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="485" y1="582" x2="535" y2="582" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="535" y1="386.0" x2="600" y2="386.0" stroke="#35434f" stroke-width="2.8" marker-end="url(#arrow)"/>
+<rect x="600" y="176" width="400" height="420" rx="16" fill="#f8faf7" stroke="#334155" stroke-width="3"/>
+<text x="800.0" y="234" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="800.0" dy="0">Evidence Map</tspan>
+</text>
+<line x1="640" y1="260" x2="960" y2="260" stroke="#b8ad79" stroke-width="2"/>
+<text x="800.0" y="294" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#312d1d" text-anchor="middle">
+<tspan x="800.0" dy="0">navigates evidence</tspan>
+<tspan x="800.0" dy="29.5">instead of duplicating it</tspan>
+</text>
+<rect x="650" y="368" width="300" height="174" rx="10" fill="#ffffff" stroke="#cbd5df" stroke-width="2"/>
+<text x="800.0" y="404" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#334155" text-anchor="middle">
+<tspan x="800.0" dy="0">/docs/professional_portfolio/</tspan>
+</text>
+<text x="800.0" y="434" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="800.0" dy="0">evidence_map.md</tspan>
+<tspan x="800.0" dy="20.06">engineering_judgment</tspan>
+<tspan x="800.0" dy="20.06">statement.md</tspan>
+</text>
+<text x="800.0" y="509" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#334155" text-anchor="middle">
+<tspan x="800.0" dy="0">/docs/final_defense/</tspan>
+</text>
+<text x="800.0" y="538" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="800.0" dy="0">portfolio_evidence_index.md</tspan>
+</text>
+<rect x="1115" y="182" width="390" height="98" rx="12" fill="#f7fafc" stroke="#35434f" stroke-width="2.5"/>
+<text x="1310.0" y="215" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="1310.0" dy="0">Defensible Claims</tspan>
+</text>
+<text x="1310.0" y="247" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="1310.0" dy="0">What changed, why it changed,</tspan>
+<tspan x="1310.0" dy="22.419999999999998">and what evidence supports it.</tspan>
+</text>
+<rect x="1115" y="318" width="390" height="98" rx="12" fill="#f7fafc" stroke="#35434f" stroke-width="2.5"/>
+<text x="1310.0" y="351" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="1310.0" dy="0">Review Challenge</tspan>
+</text>
+<text x="1310.0" y="383" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="1310.0" dy="0">Inspect decisions, risks,</tspan>
+<tspan x="1310.0" dy="22.419999999999998">AI use, and limitations.</tspan>
+</text>
+<rect x="1115" y="454" width="390" height="98" rx="12" fill="#fffdf5" stroke="#6c5f2f" stroke-width="2.5"/>
+<text x="1310.0" y="487" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="1310.0" dy="0">Accountable Outcomes</tspan>
+</text>
+<text x="1310.0" y="519" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#334155" text-anchor="middle">
+<tspan x="1310.0" dy="0">Name what worked, what failed,</tspan>
+<tspan x="1310.0" dy="22.419999999999998">and what still needs work.</tspan>
+</text>
+<line x1="1000" y1="386.0" x2="1065" y2="386.0" stroke="#35434f" stroke-width="2.8" marker-end="url(#arrow)"/>
+<line x1="1065" y1="231" x2="1065" y2="503" stroke="#9aa7b2" stroke-width="2.2"/>
+<line x1="1065" y1="231.0" x2="1115" y2="231.0" stroke="#5e6b75" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="1065" y1="367.0" x2="1115" y2="367.0" stroke="#5e6b75" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="1065" y1="503.0" x2="1115" y2="503.0" stroke="#5e6b75" stroke-width="2.2" marker-end="url(#arrow)"/>
+<rect x="232" y="638" width="1136" height="54" rx="10" fill="#f6f8fa" stroke="#cbd5df" stroke-width="1.8"/>
+<text x="800" y="672" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2933" text-anchor="middle">
+<tspan x="800" dy="0">Professional readiness is evidenced, not asserted.</tspan>
+</text>
+</svg>

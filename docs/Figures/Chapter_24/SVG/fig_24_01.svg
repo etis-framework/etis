@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+  <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+ </marker>
+ <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.10"/>
+ </filter>
+</defs>
+<style>
+.domain{fill:#f8fafc;stroke:#475569;stroke-width:2.2;}
+.domain2{fill:#f5f7fb;stroke:#475569;stroke-width:2.2;}
+.domain3{fill:#f3f6fb;stroke:#475569;stroke-width:2.2;}
+.principle{fill:#f8fafc;stroke:#475569;stroke-width:1.8;}
+.cardBlue{fill:#eef4fb;stroke:#50657d;stroke-width:1.8;filter:url(#softShadow);}
+.cardAmber{fill:#fff7ed;stroke:#9a6b2f;stroke-width:1.8;filter:url(#softShadow);}
+.cardGreen{fill:#eef7f0;stroke:#4f7159;stroke-width:1.8;filter:url(#softShadow);}
+.heading{font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:700;fill:#1e293b;}
+.label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#1e293b;}
+.body{font-family:Arial,Helvetica,sans-serif;font-size:21px;fill:#334155;}
+.note{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-style:italic;font-weight:600;fill:#334155;}
+.arrow{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}
+</style>
+
+<rect x="90" y="40" width="1020" height="160" class="domain"/>
+<text x="600" y="80" text-anchor="middle" class="heading">Inherited Operational Learning</text>
+
+<rect x="185" y="110" width="300" height="68" class="cardBlue"/>
+<text x="335" y="140" text-anchor="middle" class="label">Postmortem Findings</text>
+<text x="335" y="166" text-anchor="middle" class="body">facts and conditions</text>
+
+<rect x="715" y="110" width="300" height="68" class="cardBlue"/>
+<text x="865" y="140" text-anchor="middle" class="label">Corrective Actions</text>
+<text x="865" y="166" text-anchor="middle" class="body">learning and ownership</text>
+
+<path d="M600 200 L600 238" class="arrow"/>
+
+<rect x="90" y="238" width="1020" height="145" class="domain2"/>
+<text x="600" y="278" text-anchor="middle" class="heading">Stabilization Inputs</text>
+
+<rect x="185" y="303" width="300" height="60" class="cardAmber"/>
+<text x="335" y="341" text-anchor="middle" class="label">Defect Candidates</text>
+
+<rect x="715" y="303" width="300" height="60" class="cardAmber"/>
+<text x="865" y="341" text-anchor="middle" class="label">Defect Register</text>
+
+<path d="M600 383 L600 421" class="arrow"/>
+
+<rect x="90" y="421" width="1020" height="160" class="domain3"/>
+<text x="600" y="461" text-anchor="middle" class="heading">Stabilization Engineering</text>
+
+<rect x="185" y="492" width="300" height="68" class="cardGreen"/>
+<text x="335" y="522" text-anchor="middle" class="label">Stabilization Plan</text>
+<text x="335" y="548" text-anchor="middle" class="body">reduce recurrence</text>
+
+<rect x="715" y="492" width="300" height="68" class="cardGreen"/>
+<text x="865" y="522" text-anchor="middle" class="label">Regression Evidence</text>
+<text x="865" y="548" text-anchor="middle" class="body">prove improvement</text>
+
+<rect x="110" y="612" width="980" height="58" class="principle"/>
+<text x="600" y="648" text-anchor="middle" class="note">Learning becomes trustworthy when evidence reduces recurring instability.</text>
+</svg>

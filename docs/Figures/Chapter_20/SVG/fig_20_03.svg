@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="920" viewBox="0 0 1200 920">
+<rect width="1200" height="920" fill="white"/>
+<text x="600" y="40" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#475569">Representative coverage is stronger</text>
+<text x="600" y="75" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#475569">than a few successful examples.</text>
+<rect x="80" y="105" width="1040" height="760" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.2"/>
+<rect x="300" y="180" width="600" height="120" rx="16" fill="#fbf8ff" stroke="#7b6897" stroke-width="3"/>
+<text x="600" y="228" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" fill="#1f2933">Scenario Evaluation Set</text>
+<text x="600" y="268" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="400" fill="#1f2933">Representative evaluation coverage</text>
+<rect x="110" y="360" width="430" height="185" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="325.0" y="400" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#1f2933">Routine Cases</text>
+<text x="325.0" y="442" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Facilities</text>
+<text x="325.0" y="470" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Student Services</text>
+<text x="325.0" y="498" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Campus Safety</text>
+<rect x="660" y="360" width="430" height="185" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="875.0" y="400" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#1f2933">Boundary &amp; Ambiguous</text>
+<text x="875.0" y="442" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Missing Information</text>
+<text x="875.0" y="470" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Mixed Responsibility</text>
+<text x="875.0" y="498" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Ambiguous Category</text>
+<rect x="110" y="600" width="430" height="185" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="325.0" y="640" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#1f2933">Governance-Sensitive</text>
+<text x="325.0" y="682" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Privacy</text>
+<text x="325.0" y="710" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Authority</text>
+<text x="325.0" y="738" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Escalation</text>
+<text x="325.0" y="766" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Clarification</text>
+<rect x="660" y="600" width="430" height="185" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="875.0" y="640" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#1f2933">Golden &amp; Regression</text>
+<text x="875.0" y="682" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Golden Cases</text>
+<text x="875.0" y="710" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Regression Cases</text>
+<text x="875.0" y="738" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#1f2933">Behavior Preservation</text>
+</svg>

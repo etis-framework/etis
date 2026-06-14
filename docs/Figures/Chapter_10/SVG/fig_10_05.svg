@@ -1,0 +1,95 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="5200" height="2400" viewBox="0 0 5200 2400">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:4.5; }
+.box { fill:white; stroke:#444; stroke-width:4.5; }
+.review { fill:#f8fbfd; stroke:#333; stroke-width:5; }
+.outcome { fill:#f4f7f9; stroke:#444; stroke-width:4.5; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:4.5; }
+.hdr { font-size:88px; font-weight:bold; }
+.title { font-size:68px; font-weight:bold; }
+.body { font-size:60px; }
+.smallbody { font-size:54px; }
+</style>
+
+<rect x="280" y="55" width="4640" height="170" class="band"/>
+<text x="2600" y="165" text-anchor="middle" class="hdr">Architecture Readiness Requires Evidence, Not Confidence</text>
+
+<!-- Left evidence column -->
+<rect x="140" y="330" width="980" height="250" class="box"/>
+<text x="630" y="430" text-anchor="middle" class="title">Stakeholder Understanding</text>
+<text x="630" y="520" text-anchor="middle" class="smallbody">Map and Conflicts</text>
+
+<rect x="140" y="650" width="980" height="250" class="box"/>
+<text x="630" y="755" text-anchor="middle" class="title">Assumptions</text>
+<text x="630" y="845" text-anchor="middle" class="smallbody">Log and Open Questions</text>
+
+<rect x="140" y="970" width="980" height="250" class="box"/>
+<text x="630" y="1075" text-anchor="middle" class="title">Constraints</text>
+<text x="630" y="1165" text-anchor="middle" class="smallbody">Operational and Governance</text>
+
+<rect x="140" y="1290" width="980" height="250" class="box"/>
+<text x="630" y="1395" text-anchor="middle" class="title">Requirements</text>
+<text x="630" y="1485" text-anchor="middle" class="smallbody">Classification and Traceability</text>
+
+<rect x="140" y="1610" width="980" height="250" class="box"/>
+<text x="630" y="1715" text-anchor="middle" class="title">AI Disclosure</text>
+<text x="630" y="1805" text-anchor="middle" class="smallbody">Assistance and Verification</text>
+
+<rect x="140" y="1930" width="980" height="250" class="box"/>
+<text x="630" y="2035" text-anchor="middle" class="title">Risk Evidence</text>
+<text x="630" y="2125" text-anchor="middle" class="smallbody">Register and Ownership</text>
+
+<!-- Central review surface -->
+<rect x="1650" y="800" width="1300" height="780" class="review"/>
+<text x="2300" y="950" text-anchor="middle" class="title">Requirements Readiness Review</text>
+<text x="2300" y="1140" text-anchor="middle" class="body">Evidence Examined</text>
+<text x="2300" y="1290" text-anchor="middle" class="body">Understanding Defended</text>
+<text x="2300" y="1440" text-anchor="middle" class="body">Readiness Evaluated</text>
+
+<!-- Right outcomes column: oversized for longest labels -->
+<rect x="3500" y="330" width="1350" height="250" class="outcome"/>
+<text x="4175" y="430" text-anchor="middle" class="title">Approved Baseline</text>
+<text x="4175" y="520" text-anchor="middle" class="smallbody">Requirements Can Anchor Design</text>
+
+<rect x="3500" y="650" width="1350" height="250" class="outcome"/>
+<text x="4175" y="790" text-anchor="middle" class="title">Required Clarifications</text>
+
+<rect x="3500" y="970" width="1350" height="250" class="outcome"/>
+<text x="4175" y="1110" text-anchor="middle" class="title">Stakeholder Questions</text>
+
+<rect x="3500" y="1290" width="1350" height="250" class="outcome"/>
+<text x="4175" y="1430" text-anchor="middle" class="title">Governance Escalations</text>
+
+<rect x="3500" y="1610" width="1350" height="250" class="outcome"/>
+<text x="4175" y="1715" text-anchor="middle" class="title">Risk Updates</text>
+<text x="4175" y="1805" text-anchor="middle" class="smallbody">Register and Assumptions</text>
+
+<rect x="3500" y="1930" width="1350" height="250" class="outcome"/>
+<text x="4175" y="2035" text-anchor="middle" class="title">Architecture Readiness</text>
+<text x="4175" y="2125" text-anchor="middle" class="title">Decision</text>
+
+<!-- Input connectors -->
+<line x1="1120" y1="455" x2="1650" y2="930" stroke="#555" stroke-width="4.5"/>
+<line x1="1120" y1="775" x2="1650" y2="1080" stroke="#555" stroke-width="4.5"/>
+<line x1="1120" y1="1095" x2="1650" y2="1205" stroke="#555" stroke-width="4.5"/>
+<line x1="1120" y1="1415" x2="1650" y2="1325" stroke="#555" stroke-width="4.5"/>
+<line x1="1120" y1="1735" x2="1650" y2="1450" stroke="#555" stroke-width="4.5"/>
+<line x1="1120" y1="2055" x2="1650" y2="1580" stroke="#555" stroke-width="4.5"/>
+
+<!-- Outcome connectors -->
+<line x1="2950" y1="930" x2="3500" y2="455" stroke="#555" stroke-width="4.5"/>
+<line x1="2950" y1="1080" x2="3500" y2="775" stroke="#555" stroke-width="4.5"/>
+<line x1="2950" y1="1205" x2="3500" y2="1095" stroke="#555" stroke-width="4.5"/>
+<line x1="2950" y1="1325" x2="3500" y2="1415" stroke="#555" stroke-width="4.5"/>
+<line x1="2950" y1="1450" x2="3500" y2="1735" stroke="#555" stroke-width="4.5"/>
+<line x1="2950" y1="1580" x2="3500" y2="2055" stroke="#555" stroke-width="4.5"/>
+
+<!-- Lower observation and principle -->
+<rect x="700" y="2250" width="2850" height="125" class="band"/>
+<text x="2125" y="2332" text-anchor="middle" class="title">Review Prevents Requirements Confusion From Becoming Architecture</text>
+
+<rect x="3650" y="2225" width="1450" height="160" class="principle"/>
+<text x="4375" y="2328" text-anchor="middle" class="title">Review Is An Engineering Safety Mechanism</text>
+</svg>

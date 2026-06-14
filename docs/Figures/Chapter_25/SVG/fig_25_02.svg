@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="825" viewBox="0 0 1600 825" role="img" aria-label="A single COICP request ID creates diagnostic continuity across intake, classification, routing, AI summary, human approval, notification, department queue, and closure.">
+<rect x="0" y="0" width="1600" height="825" fill="#f7f9fb"/>
+
+<rect x="560" y="45" width="480" height="112" rx="20" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#475569">REQUEST ID</text>
+<text x="800" y="123" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="500" fill="#111827">coicp-2026-01437</text>
+
+<line x1="800" y1="168" x2="800" y2="213" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,227 790,211 810,211" fill="#475569"/>
+
+
+<rect x="125" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="200.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="200.0" dy="0">Intake</tspan></text>
+
+<rect x="297" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="372.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="372.0" dy="0">Classification</tspan></text>
+
+<rect x="469" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="544.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="544.0" dy="0">Routing</tspan></text>
+
+<rect x="641" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="716.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="716.0" dy="0">AI Summary</tspan></text>
+
+<rect x="813" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="888.0" y="297" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="888.0" dy="0">Human</tspan><tspan x="888.0" dy="30">Approval</tspan></text>
+
+<rect x="985" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="1060.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="1060.0" dy="0">Notification</tspan></text>
+
+<rect x="1157" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="1232.0" y="297" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="1232.0" dy="0">Department</tspan><tspan x="1232.0" dy="30">Queue</tspan></text>
+
+<rect x="1329" y="245" width="150" height="125" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="1404.0" y="311" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111827"><tspan x="1404.0" dy="0">Closure</tspan></text>
+
+
+<line x1="279" y1="307.5" x2="291" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="298,307.5 284,299.5 284,315.5" fill="#475569"/>
+
+<line x1="451" y1="307.5" x2="463" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="470,307.5 456,299.5 456,315.5" fill="#475569"/>
+
+<line x1="623" y1="307.5" x2="635" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="642,307.5 628,299.5 628,315.5" fill="#475569"/>
+
+<line x1="795" y1="307.5" x2="807" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="814,307.5 800,299.5 800,315.5" fill="#475569"/>
+
+<line x1="967" y1="307.5" x2="979" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="986,307.5 972,299.5 972,315.5" fill="#475569"/>
+
+<line x1="1139" y1="307.5" x2="1151" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="1158,307.5 1144,299.5 1144,315.5" fill="#475569"/>
+
+<line x1="1311" y1="307.5" x2="1323" y2="307.5" stroke="#475569" stroke-width="3" stroke-linecap="round"/>
+<polygon points="1330,307.5 1316,299.5 1316,315.5" fill="#475569"/>
+
+<line x1="800" y1="370" x2="800" y2="410" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,424 790,408 810,408" fill="#475569"/>
+
+<rect x="110" y="445" width="1380" height="160" rx="20" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="482" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#475569">RUNTIME EVIDENCE CAN RECONSTRUCT</text>
+<text x="800" y="526" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="500" fill="#111827"><tspan x="800" dy="0">What happened  •  When it happened  •  Who approved it</tspan><tspan x="800" dy="42">Where delays occurred  •  Which workflow path was followed</tspan></text>
+
+<line x1="800" y1="605" x2="800" y2="635" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,649 790,633 810,633" fill="#475569"/>
+
+<rect x="110" y="670" width="1380" height="125" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="716" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827"><tspan x="800" dy="0">A request ID does not solve the problem.</tspan><tspan x="800" dy="36">It makes the problem traceable.</tspan></text>
+</svg>

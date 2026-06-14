@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1002" viewBox="0 0 1600 1002">
+<rect x="0" y="0" width="1600" height="1002" fill="#f7f9fb"/>
+
+
+<rect x="170" y="28" width="1260" height="54" rx="15" fill="#e7f0f7" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Request ID</text>
+<text x="1070" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">coicp-2026-01437</text>
+
+<rect x="170" y="108" width="1260" height="54" rx="15" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Intake Timestamp</text>
+<text x="1070" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">When did the request enter?</text>
+
+<rect x="170" y="188" width="1260" height="54" rx="15" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="224" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Routing Decision Log</text>
+<text x="1070" y="224" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">How was the request classified?</text>
+
+<rect x="170" y="268" width="1260" height="54" rx="15" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Queue Transition</text>
+<text x="1070" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">Where did workflow state change?</text>
+
+<rect x="170" y="348" width="1260" height="54" rx="15" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="384" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Notification Event</text>
+<text x="1070" y="384" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">Did communication leave the system?</text>
+
+<rect x="170" y="428" width="1260" height="54" rx="15" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Department Visibility Check</text>
+<text x="1070" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">Could Student Services see it?</text>
+
+<rect x="170" y="508" width="1260" height="54" rx="15" fill="#e8eef5" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="544" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">AI Summary Status</text>
+<text x="1070" y="544" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">Was human approval pending?</text>
+
+<rect x="170" y="588" width="1260" height="54" rx="15" fill="#e8eef5" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="624" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Audit Event</text>
+<text x="1070" y="624" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">Was authority-bearing action recorded?</text>
+
+<rect x="170" y="668" width="1260" height="54" rx="15" fill="#e8eef5" stroke="#334155" stroke-width="2.2"/>
+<text x="490" y="704" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Metric Threshold Check</text>
+<text x="1070" y="704" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500" fill="#111827">Is this isolated or degradation?</text>
+
+<line x1="800" y1="86" x2="800" y2="91" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,103 791,91 809,91" fill="#475569"/>
+
+<line x1="800" y1="166" x2="800" y2="171" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,183 791,171 809,171" fill="#475569"/>
+
+<line x1="800" y1="246" x2="800" y2="251" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,263 791,251 809,251" fill="#475569"/>
+
+<line x1="800" y1="326" x2="800" y2="331" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,343 791,331 809,331" fill="#475569"/>
+
+<line x1="800" y1="406" x2="800" y2="411" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,423 791,411 809,411" fill="#475569"/>
+
+<line x1="800" y1="486" x2="800" y2="491" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,503 791,491 809,491" fill="#475569"/>
+
+<line x1="800" y1="566" x2="800" y2="571" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,583 791,571 809,571" fill="#475569"/>
+
+<line x1="800" y1="646" x2="800" y2="651" stroke="#475569" stroke-width="3.5" stroke-linecap="round"/>
+<polygon points="800,663 791,651 809,651" fill="#475569"/>
+
+<line x1="800" y1="728" x2="800" y2="741" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,755 790,741 810,741" fill="#475569"/>
+
+<rect x="150" y="760" width="1300" height="108" rx="18" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="800" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Runbook Decision Point</text>
+<text x="800" y="838" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#111827">Escalate • Mitigate • Communicate • Monitor • Close</text>
+
+<line x1="800" y1="874" x2="800" y2="883" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,897 790,883 810,883" fill="#475569"/>
+
+<rect x="170" y="902" width="1260" height="72" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="947" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Signal → Evidence → Decision → Action → Verification</text>
+</svg>

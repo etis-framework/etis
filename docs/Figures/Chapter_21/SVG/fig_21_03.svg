@@ -1,0 +1,62 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+<style>
+.pageTitle {font-family:Arial;font-size:42px;font-weight:bold;}
+.pageSub {font-family:Arial;font-size:26px;}
+.frameTitle {font-family:Arial;font-size:25px;font-weight:bold;}
+.boxTitle {font-family:Arial;font-size:26px;font-weight:bold;}
+.boxText {font-family:Arial;font-size:23px;}
+.outer {fill:white;stroke:#9aa8b4;stroke-width:2.2;}
+.layer {fill:#f8fafc;stroke:#b7c2cc;stroke-width:2.2;}
+.cat {fill:#eef4fb;stroke:#3f637d;stroke-width:2.4;}
+.band {fill:#f5f0e6;stroke:#8a6d3b;stroke-width:2.2;}
+</style>
+
+<text x="800" y="55" text-anchor="middle" class="pageTitle">Defects, Known Limitations, and Risk Disposition</text>
+<text x="800" y="95" text-anchor="middle" class="pageSub">Unresolved issues must be understood, owned, and dispositioned.</text>
+
+<rect x="70" y="112" width="1460" height="740" rx="18" class="outer"/>
+
+<rect x="115" y="150" width="1370" height="430" rx="14" class="layer"/>
+<text x="145" y="185" class="frameTitle">Classification and disposition</text>
+
+<rect x="145" y="215" width="400" height="330" rx="12" class="cat"/>
+<text x="345" y="250" text-anchor="middle" class="boxTitle">Defects</text>
+<text x="345" y="288" text-anchor="middle" class="boxText">Mismatch between expected</text>
+<text x="345" y="316" text-anchor="middle" class="boxText">and actual behavior</text>
+<text x="345" y="370" text-anchor="middle" class="boxTitle">Disposition Options</text>
+<text x="345" y="410" text-anchor="middle" class="boxText">• Fix</text>
+<text x="345" y="440" text-anchor="middle" class="boxText">• Defer</text>
+<text x="345" y="470" text-anchor="middle" class="boxText">• Convert to Limitation</text>
+<text x="345" y="500" text-anchor="middle" class="boxText">• Block Release</text>
+
+<rect x="600" y="215" width="400" height="330" rx="12" class="cat"/>
+<text x="800" y="250" text-anchor="middle" class="boxTitle">Known Limitations</text>
+<text x="800" y="288" text-anchor="middle" class="boxText">Understood capability</text>
+<text x="800" y="316" text-anchor="middle" class="boxText">boundaries</text>
+<text x="800" y="370" text-anchor="middle" class="boxTitle">Disposition Options</text>
+<text x="800" y="410" text-anchor="middle" class="boxText">• Disclose</text>
+<text x="800" y="440" text-anchor="middle" class="boxText">• Mitigate</text>
+<text x="800" y="470" text-anchor="middle" class="boxText">• Constrain Scope</text>
+<text x="800" y="500" text-anchor="middle" class="boxText">• Block Release</text>
+
+<rect x="1055" y="215" width="400" height="330" rx="12" class="cat"/>
+<text x="1255" y="250" text-anchor="middle" class="boxTitle">Risks</text>
+<text x="1255" y="288" text-anchor="middle" class="boxText">Potential future harm</text>
+<text x="1255" y="316" text-anchor="middle" class="boxText">or failure condition</text>
+<text x="1255" y="370" text-anchor="middle" class="boxTitle">Disposition Options</text>
+<text x="1255" y="410" text-anchor="middle" class="boxText">• Accept</text>
+<text x="1255" y="440" text-anchor="middle" class="boxText">• Mitigate</text>
+<text x="1255" y="470" text-anchor="middle" class="boxText">• Transfer</text>
+<text x="1255" y="500" text-anchor="middle" class="boxText">• Monitor</text>
+
+<rect x="115" y="610" width="1370" height="100" rx="14" class="layer"/>
+<text x="145" y="645" class="frameTitle">Every disposition requires</text>
+<text x="350" y="685" text-anchor="middle" class="boxTitle">Owner</text>
+<text x="650" y="685" text-anchor="middle" class="boxTitle">Rationale</text>
+<text x="950" y="685" text-anchor="middle" class="boxTitle">Evidence</text>
+<text x="1250" y="685" text-anchor="middle" class="boxTitle">Visibility</text>
+
+<rect x="450" y="740" width="700" height="48" rx="8" class="band"/>
+<text x="800" y="772" text-anchor="middle" class="boxText">What remains unresolved must be visible.</text>
+</svg>

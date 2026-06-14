@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="763" viewBox="0 0 1600 763" role="img" aria-label="Operational readiness is a connected evidence system linking runbooks, owners, escalation, recovery, communication, validation evidence, and review records.">
+<rect x="0" y="0" width="1600" height="763" fill="#f7f9fb"/>
+
+
+<rect x="170.0" y="35" width="390" height="92" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="365.0" y="73" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Runbooks</text>
+<text x="365.0" y="103" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">diagnosis and response</text>
+
+<rect x="605.0" y="35" width="390" height="92" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="800.0" y="73" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Owner Matrix</text>
+<text x="800.0" y="103" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">who acts next</text>
+
+<rect x="1040.0" y="35" width="390" height="92" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="1235.0" y="73" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Escalation Paths</text>
+<text x="1235.0" y="103" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">when authority changes</text>
+
+<rect x="170.0" y="157" width="390" height="92" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="365.0" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Rollback Plan</text>
+<text x="365.0" y="225" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">return to safe state</text>
+
+<rect x="605.0" y="157" width="390" height="92" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="800.0" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Fallback Procedures</text>
+<text x="800.0" y="225" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">manual or alternate path</text>
+
+<rect x="1040.0" y="157" width="390" height="92" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="1235.0" y="195" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Communication Plan</text>
+<text x="1235.0" y="225" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">stakeholder updates</text>
+
+<line x1="800" y1="257" x2="800" y2="285" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,299 790,285 810,285" fill="#475569"/>
+
+
+<rect x="110.0" y="323" width="430" height="96" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="325.0" y="362" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Readiness Checklist</text>
+<text x="325.0" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">coverage and completeness</text>
+
+<rect x="585.0" y="323" width="430" height="96" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="800.0" y="362" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Walkthrough Evidence</text>
+<text x="800.0" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">procedure tested</text>
+
+<rect x="1060.0" y="323" width="430" height="96" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1275.0" y="362" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#111827">Review Record</text>
+<text x="1275.0" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">challenge and decisions</text>
+
+<line x1="800" y1="427" x2="800" y2="455" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,469 790,455 810,455" fill="#475569"/>
+
+<rect x="170" y="493" width="1260" height="112" rx="20" fill="#e7f0f7" stroke="#334155" stroke-width="2.5"/>
+<text x="800" y="538" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827">Operational Readiness Package</text>
+<text x="800" y="575" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#111827">Connected procedures, owners, evidence, review, and follow-through</text>
+
+<line x1="800" y1="611" x2="800" y2="620" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,634 790,620 810,620" fill="#475569"/>
+
+<rect x="170" y="639" width="1260" height="96" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="679" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Operational readiness is not a collection of documents.</text>
+<text x="800" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500" fill="#111827">It is a connected evidence system.</text>
+</svg>

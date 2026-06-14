@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.mid{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.review{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.5}
+.outcome{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+
+<rect x="330" y="40" width="540" height="82" rx="14" ry="14" class="top"/>
+<text x="600" y="92" text-anchor="middle" font-size="34" font-weight="700" class="label">Proposed Architecture</text>
+
+<rect x="40" y="205" width="260" height="80" rx="12" ry="12" class="mid"/>
+<text x="170" y="257" text-anchor="middle" font-size="28" font-weight="700" class="label">Responsibilities</text>
+
+<rect x="320" y="205" width="260" height="80" rx="12" ry="12" class="mid"/>
+<text x="450" y="257" text-anchor="middle" font-size="28" font-weight="700" class="label">Interfaces</text>
+
+<rect x="600" y="205" width="260" height="80" rx="12" ry="12" class="mid"/>
+<text x="730" y="257" text-anchor="middle" font-size="28" font-weight="700" class="label">Dependencies</text>
+
+<rect x="880" y="205" width="280" height="80" rx="12" ry="12" class="mid"/>
+<text x="1020" y="257" text-anchor="middle" font-size="28" font-weight="700" class="label">Governance</text>
+
+<rect x="300" y="390" width="600" height="92" rx="14" ry="14" class="review"/>
+<text x="600" y="448" text-anchor="middle" font-size="36" font-weight="700" class="label">Architecture Readiness Review</text>
+
+<rect x="70" y="575" width="300" height="84" rx="14" ry="14" class="mid"/>
+<text x="220" y="628" text-anchor="middle" font-size="30" font-weight="700" class="label">Clarifications</text>
+
+<rect x="450" y="575" width="300" height="84" rx="14" ry="14" class="mid"/>
+<text x="600" y="628" text-anchor="middle" font-size="30" font-weight="700" class="label">ADRs</text>
+
+<rect x="830" y="575" width="300" height="84" rx="14" ry="14" class="mid"/>
+<text x="980" y="628" text-anchor="middle" font-size="28" font-weight="700" class="label">Risk Corrections</text>
+
+<rect x="330" y="700" width="540" height="84" rx="14" ry="14" class="outcome"/>
+<text x="600" y="753" text-anchor="middle" font-size="34" font-weight="700" class="label">Implementation Ready</text>
+
+</svg>

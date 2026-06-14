@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.mid{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.review{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.5}
+.change{fill:#eef3f7;stroke:#334e68;stroke-width:2.5}
+.outcome{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+<defs>
+<marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+<path d="M0 0 L14 7 L0 14 z" fill="#3f4a54"/>
+</marker>
+</defs>
+
+<rect x="380" y="35" width="440" height="78" rx="14" ry="14" class="top"/>
+<text x="600" y="84" text-anchor="middle" font-size="34" font-weight="700" class="label">Execution Baseline</text>
+
+<line x1="600" y1="113" x2="600" y2="175" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="70" y="195" width="240" height="78" rx="12" ry="12" class="mid"/>
+<text x="190" y="245" text-anchor="middle" font-size="30" font-weight="700" class="label">Scope</text>
+
+<rect x="340" y="195" width="240" height="78" rx="12" ry="12" class="mid"/>
+<text x="460" y="245" text-anchor="middle" font-size="30" font-weight="700" class="label">Estimates</text>
+
+<rect x="610" y="195" width="240" height="78" rx="12" ry="12" class="mid"/>
+<text x="730" y="245" text-anchor="middle" font-size="30" font-weight="700" class="label">Risks</text>
+
+<rect x="880" y="195" width="240" height="78" rx="12" ry="12" class="mid"/>
+<text x="1000" y="245" text-anchor="middle" font-size="30" font-weight="700" class="label">Dependencies</text>
+
+<line x1="600" y1="273" x2="600" y2="340" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="330" y="360" width="540" height="84" rx="14" ry="14" class="review"/>
+<text x="600" y="413" text-anchor="middle" font-size="34" font-weight="700" class="label">Planning and Risk Review</text>
+
+<line x1="600" y1="444" x2="600" y2="510" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="350" y="530" width="500" height="84" rx="14" ry="14" class="change"/>
+<text x="600" y="583" text-anchor="middle" font-size="34" font-weight="700" class="label">Approved Changes</text>
+
+<line x1="600" y1="614" x2="600" y2="680" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="350" y="700" width="500" height="84" rx="14" ry="14" class="outcome"/>
+<text x="600" y="753" text-anchor="middle" font-size="34" font-weight="700" class="label">Trusted Execution Plan</text>
+
+</svg>

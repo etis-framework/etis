@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820">
+  <!-- 
+Figure 22.2 v5 Geometry Validation
+Root cause corrected: v4 had vertical containment failures. Three-line lists extended below the domain box bottom.
+Canvas: 1600 x 820.
+Outer frame: x=70 y=112 w=1460 h=664; bottom y=776.
+Canvas bottom clearance: 44 px.
+Domain parent layer: x=115 y=270 w=1370 h=266; bottom y=536.
+Domain boxes: y=332 h=164; bottom y=496.
+Evidence/Location list baselines: 423, 453, 483. Last baseline is 13 px above child bottom, plus text descender clearance.
+Domain child bottom clearance inside parent: 40 px.
+Discipline layer: y=562 h=102; bottom y=664.
+Principle band: y=704 h=46; bottom y=750.
+Outer frame bottom clearance from lowest child: 26 px.
+Smallest font: 25 px. No shrink-to-fit.
+Zero arrows/connectors.
+ -->
+  <defs>
+    <style>
+      .pageTitle { font-family: Arial, Helvetica, sans-serif; font-size: 42px; font-weight: 700; fill: #1f2f3d; }
+      .pageSub { font-family: Arial, Helvetica, sans-serif; font-size: 27px; font-weight: 400; fill: #3c4b57; }
+      .frameTitle { font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: 700; fill: #263845; }
+      .boxTitle { font-family: Arial, Helvetica, sans-serif; font-size: 29px; font-weight: 700; fill: #1f2f3d; }
+      .boxText { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 400; fill: #2f3f4a; }
+      .outer { fill: #ffffff; stroke: #9aa8b4; stroke-width: 2.2; }
+      .claim { fill: #e8f1fb; stroke: #2f5678; stroke-width: 3.2; }
+      .layer { fill: #f8fafc; stroke: #b7c2cc; stroke-width: 2.2; }
+      .domain { fill: #eef4fb; stroke: #3f637d; stroke-width: 2.4; }
+      .discipline { fill: #f5f0e6; stroke: #8a6d3b; stroke-width: 2.3; }
+      .principle { fill: #eef1f8; stroke: #52637c; stroke-width: 2.3; }
+    </style>
+  </defs>
+
+  <text x="800" y="54" text-anchor="middle" class="pageTitle">Claim-to-Evidence Alignment</text>
+  <text x="800" y="94" text-anchor="middle" class="pageSub">Slides do not carry trust. Evidence carries trust.</text>
+
+  <rect x="70" y="112" width="1460" height="664" rx="18" class="outer"/>
+
+  <rect x="355" y="145" width="890" height="92" rx="16" class="claim"/>
+  <text x="800" y="181" text-anchor="middle" class="boxTitle">Engineering Claim</text>
+  <text x="800" y="214" text-anchor="middle" class="boxText">release ready • workflow ready • AI behavior evaluated</text>
+
+  <rect x="115" y="270" width="1370" height="266" rx="14" class="layer"/>
+  <text x="145" y="307" text-anchor="start" class="frameTitle">Alignment disciplines the claim before the defense</text>
+
+  <rect x="130" y="332" width="420" height="164" rx="12" class="domain"/>
+  <text x="340" y="373" text-anchor="middle" class="boxTitle">Concern</text>
+  <text x="340" y="423" text-anchor="middle" class="boxText">What is asserted?</text>
+<text x="340" y="453" text-anchor="middle" class="boxText">Why does it matter?</text>
+
+  <rect x="590" y="332" width="420" height="164" rx="12" class="domain"/>
+  <text x="800" y="373" text-anchor="middle" class="boxTitle">Evidence</text>
+  <text x="800" y="423" text-anchor="middle" class="boxText">Tests</text>
+<text x="800" y="453" text-anchor="middle" class="boxText">Evaluation</text>
+<text x="800" y="483" text-anchor="middle" class="boxText">Reviews</text>
+
+  <rect x="1050" y="332" width="420" height="164" rx="12" class="domain"/>
+  <text x="1260" y="373" text-anchor="middle" class="boxTitle">Location</text>
+  <text x="1260" y="423" text-anchor="middle" class="boxText">Release evidence</text>
+<text x="1260" y="453" text-anchor="middle" class="boxText">Tests</text>
+<text x="1260" y="483" text-anchor="middle" class="boxText">AI evaluation</text>
+
+  <rect x="115" y="562" width="1370" height="102" rx="14" class="discipline"/>
+  <text x="145" y="599" text-anchor="start" class="frameTitle">If evidence is missing</text>
+  <text x="800" y="637" text-anchor="middle" class="boxText">weaken claim • mark assumption • disclose limitation • remove claim</text>
+
+  <rect x="315" y="704" width="970" height="46" rx="9" class="principle"/>
+  <text x="800" y="735" text-anchor="middle" class="boxText">Claims require evidence. Evidence carries trust.</text>
+</svg>

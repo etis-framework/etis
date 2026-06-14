@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2320" height="1410" viewBox="40 0 2320 1410">
+<rect width="2400" height="1500" fill="#ffffff"/>
+<defs>
+  <marker id="arrow" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M 0 0 L 16 6 L 0 12 z" fill="#6f7b87"/>
+  </marker>
+</defs>
+<text x="1200.0" y="92.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#263746">Part I doctrine becomes Chapter 8 launch discipline</text>
+<line x1="530" y1="124" x2="1870" y2="124" stroke="#6f7b87" stroke-width="2" opacity="0.45"/>
+<rect x="110" y="210" width="560" height="700" rx="24" fill="#eef3f7" stroke="#71879a" stroke-width="3"/>
+<text x="390.0" y="272.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#263746">Part I Worldview</text>
+<line x1="146" y1="302" x2="634" y2="302" stroke="#71879a" stroke-width="2" opacity="0.55"/>
+<circle cx="172" cy="347" r="5.5" fill="#71879a" opacity="0.85"/>
+<text x="196" y="356" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Hidden assumptions</text>
+<circle cx="172" cy="405" r="5.5" fill="#71879a" opacity="0.85"/>
+<text x="196" y="414" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Weak or private evidence</text>
+<circle cx="172" cy="463" r="5.5" fill="#71879a" opacity="0.85"/>
+<text x="196" y="472" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Vague ownership</text>
+<circle cx="172" cy="521" r="5.5" fill="#71879a" opacity="0.85"/>
+<text x="196" y="530" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Shallow review</text>
+<circle cx="172" cy="579" r="5.5" fill="#71879a" opacity="0.85"/>
+<text x="196" y="588" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">AI / governance drift</text>
+<circle cx="172" cy="637" r="5.5" fill="#71879a" opacity="0.85"/>
+<text x="196" y="646" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Repository theater</text>
+<rect x="920" y="190" width="560" height="740" rx="24" fill="#f6f0df" stroke="#9a8142" stroke-width="3"/>
+<text x="1200.0" y="252.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#263746">Launch Controls</text>
+<line x1="956" y1="282" x2="1444" y2="282" stroke="#9a8142" stroke-width="2" opacity="0.55"/>
+<circle cx="982" cy="327" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="336" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Team charter</text>
+<circle cx="982" cy="385" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="394" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Repository baseline</text>
+<circle cx="982" cy="443" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="452" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Engineering standards</text>
+<circle cx="982" cy="501" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="510" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Definition of Done</text>
+<circle cx="982" cy="559" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="568" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">AI-use policy and log</text>
+<circle cx="982" cy="617" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="626" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Risk register</text>
+<circle cx="982" cy="675" r="5.5" fill="#9a8142" opacity="0.85"/>
+<text x="1006" y="684" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Project launch review</text>
+<rect x="1730" y="210" width="560" height="700" rx="24" fill="#edf5ef" stroke="#6f9277" stroke-width="3"/>
+<text x="2010.0" y="264.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#263746">Disciplined Construction</text>
+<text x="2010.0" y="299.6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#263746">Readiness</text>
+<line x1="1766" y1="302" x2="2254" y2="302" stroke="#6f9277" stroke-width="2" opacity="0.55"/>
+<circle cx="1792" cy="347" r="5.5" fill="#6f9277" opacity="0.85"/>
+<text x="1816" y="356" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Visible work</text>
+<circle cx="1792" cy="405" r="5.5" fill="#6f9277" opacity="0.85"/>
+<text x="1816" y="414" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Preserved decisions</text>
+<circle cx="1792" cy="463" r="5.5" fill="#6f9277" opacity="0.85"/>
+<text x="1816" y="472" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Owned risks</text>
+<circle cx="1792" cy="521" r="5.5" fill="#6f9277" opacity="0.85"/>
+<text x="1816" y="530" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Reviewable evidence</text>
+<circle cx="1792" cy="579" r="5.5" fill="#6f9277" opacity="0.85"/>
+<text x="1816" y="588" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Governed AI use</text>
+<circle cx="1792" cy="637" r="5.5" fill="#6f9277" opacity="0.85"/>
+<text x="1816" y="646" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f2933">Responsible implementation</text>
+<line x1="700" y1="560" x2="890" y2="560" stroke="#6f7b87" stroke-width="6" marker-end="url(#arrow)"/>
+<text x="795" y="520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#5b6673">operationalized as</text>
+<line x1="1510" y1="560" x2="1700" y2="560" stroke="#6f7b87" stroke-width="6" marker-end="url(#arrow)"/>
+<text x="1605" y="520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#5b6673">creates</text>
+<rect x="260" y="1010" width="1880" height="150" rx="20" fill="#ffffff" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="1200" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#263746">Launch discipline prevents trust debt from forming before implementation accelerates.</text>
+<rect x="340" y="1080" width="220" height="72" rx="18" fill="#f8fafb" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="450.0" y="1109.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">Work</text>
+<text x="450.0" y="1139.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">visible</text>
+<rect x="610" y="1080" width="220" height="72" rx="18" fill="#f8fafb" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="720.0" y="1109.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">Decisions</text>
+<text x="720.0" y="1139.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">preserved</text>
+<rect x="880" y="1080" width="220" height="72" rx="18" fill="#f8fafb" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="990.0" y="1109.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">Risks</text>
+<text x="990.0" y="1139.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">owned</text>
+<rect x="1150" y="1080" width="220" height="72" rx="18" fill="#f8fafb" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="1260.0" y="1109.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">AI use</text>
+<text x="1260.0" y="1139.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">governed</text>
+<rect x="1420" y="1080" width="220" height="72" rx="18" fill="#f8fafb" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="1530.0" y="1109.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">Evidence</text>
+<text x="1530.0" y="1139.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">reviewable</text>
+<rect x="1690" y="1080" width="220" height="72" rx="18" fill="#f8fafb" stroke="#9aa4ad" stroke-width="2.5"/>
+<text x="1800.0" y="1109.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">Completion</text>
+<text x="1800.0" y="1139.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#1f2933">defensible</text>
+<line x1="568" y1="1116" x2="602" y2="1116" stroke="#9aa4ad" stroke-width="3"/>
+<line x1="838" y1="1116" x2="872" y2="1116" stroke="#9aa4ad" stroke-width="3"/>
+<line x1="1108" y1="1116" x2="1142" y2="1116" stroke="#9aa4ad" stroke-width="3"/>
+<line x1="1378" y1="1116" x2="1412" y2="1116" stroke="#9aa4ad" stroke-width="3"/>
+<line x1="1648" y1="1116" x2="1682" y2="1116" stroke="#9aa4ad" stroke-width="3"/>
+<rect x="360" y="1250" width="1680" height="135" rx="26" fill="#f7f7f2" stroke="#7f868c" stroke-width="3"/>
+<text x="1200" y="1312.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#263746">Before the team builds the system,</text>
+<text x="1200" y="1352.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#263746">it must build the way it will work.</text>
+<text x="390" y="955.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#5b6673">Failure patterns exposed</text>
+<text x="1200" y="975.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#5b6673">Controls established before serious commits</text>
+<text x="2010" y="955.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#5b6673">Responsible implementation enabled</text>
+</svg>

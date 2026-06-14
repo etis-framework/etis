@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960" role="img" aria-labelledby="title desc">
+<title id="title">Operational Trust Over Time</title>
+<desc id="desc">A simple trust-over-time diagram showing that active stewardship sustains operational trust while halted stewardship allows evidence, context, and capability to decay.</desc>
+<rect width="1600" height="960" fill="#ffffff"/>
+<defs>
+  <marker id="axisArrow" markerWidth="10" markerHeight="10" refX="8.8" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+    <path d="M1.8,1.6 L8.8,5 L1.8,8.4 Z" fill="#6b7c86"/>
+  </marker>
+</defs>
+<text x="800.0" y="50" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2933">Operational Trust Over Time</text>
+<text x="800.0" y="87" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="24" font-weight="400" fill="#52616b">Trust is sustained by stewardship cadence; it decays when review and renewal stop.</text>
+<rect x="170" y="155" width="1260" height="560" rx="18" fill="#fbfcfd" stroke="#c8d2d9" stroke-width="2.0"/>
+<line x1="190" y1="295.0" x2="1410" y2="295.0" stroke="#d9e0e5" stroke-width="1.4"/>
+<line x1="190" y1="435.0" x2="1410" y2="435.0" stroke="#d9e0e5" stroke-width="1.4"/>
+<line x1="190" y1="575.0" x2="1410" y2="575.0" stroke="#d9e0e5" stroke-width="1.4"/>
+<line x1="422.0" y1="175" x2="422.0" y2="695" stroke="#d9e0e5" stroke-width="1.2"/>
+<line x1="674.0" y1="175" x2="674.0" y2="695" stroke="#d9e0e5" stroke-width="1.2"/>
+<line x1="926.0" y1="175" x2="926.0" y2="695" stroke="#d9e0e5" stroke-width="1.2"/>
+<line x1="1178.0" y1="175" x2="1178.0" y2="695" stroke="#d9e0e5" stroke-width="1.2"/>
+<line x1="240" y1="645" x2="1365" y2="645" stroke="#6b7c86" stroke-width="3" marker-end="url(#axisArrow)"/>
+<line x1="240" y1="645" x2="240" y2="210" stroke="#6b7c86" stroke-width="3" marker-end="url(#axisArrow)"/>
+<text x="802.5" y="699" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="24" font-weight="600" fill="#1f2933">Time</text>
+<text x="158" y="192" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="23" font-weight="600" fill="#1f2933">Operational Trust</text>
+<path d="M 290 535 C 470 570, 655 600, 830 625 S 1150 660, 1295 670" fill="none" stroke="#9a6a2f" stroke-width="4" stroke-dasharray="11 9" stroke-linecap="round"/>
+<path d="M 290 535 C 450 495, 560 525, 695 475 S 930 495, 1060 440 S 1270 450, 1295 400" fill="none" stroke="#4f7660" stroke-width="5" stroke-linecap="round"/>
+<circle cx="290" cy="535" r="6" fill="#1f2933"/>
+<rect x="178" y="457" width="224" height="50" rx="12" fill="#f6f7f8" stroke="#cfd7de" stroke-width="1.5"/>
+<text x="290" y="489" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2933">Initial trustworthy state</text>
+<circle cx="540" cy="502" r="7" fill="#4f7660" stroke="#ffffff" stroke-width="2"/>
+<line x1="540" y1="502" x2="540" y2="472" stroke="#4f7660" stroke-width="2"/>
+<rect x="462" y="414" width="156" height="58" rx="12" fill="#eef6f1" stroke="#7ca08a" stroke-width="1.6"/>
+<text x="540" y="437" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">Evidence</text>
+<text x="540" y="459" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">review</text>
+<circle cx="745" cy="479" r="7" fill="#4f7660" stroke="#ffffff" stroke-width="2"/>
+<line x1="745" y1="479" x2="745" y2="509" stroke="#4f7660" stroke-width="2"/>
+<rect x="667" y="509" width="156" height="58" rx="12" fill="#eef6f1" stroke="#7ca08a" stroke-width="1.6"/>
+<text x="745" y="532" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">Context</text>
+<text x="745" y="554" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">renewal</text>
+<circle cx="945" cy="468" r="7" fill="#4f7660" stroke="#ffffff" stroke-width="2"/>
+<line x1="945" y1="468" x2="945" y2="438" stroke="#4f7660" stroke-width="2"/>
+<rect x="867" y="380" width="156" height="58" rx="12" fill="#eef6f1" stroke="#7ca08a" stroke-width="1.6"/>
+<text x="945" y="403" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">AI capability</text>
+<text x="945" y="425" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">review</text>
+<circle cx="1150" cy="438" r="7" fill="#4f7660" stroke="#ffffff" stroke-width="2"/>
+<line x1="1150" y1="438" x2="1150" y2="468" stroke="#4f7660" stroke-width="2"/>
+<rect x="1072" y="468" width="156" height="58" rx="12" fill="#eef6f1" stroke="#7ca08a" stroke-width="1.6"/>
+<text x="1150" y="491" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">Runbook</text>
+<text x="1150" y="513" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">rehearsal</text>
+<circle cx="1350" cy="413" r="7" fill="#4f7660" stroke="#ffffff" stroke-width="2"/>
+<line x1="1350" y1="413" x2="1350" y2="443" stroke="#4f7660" stroke-width="2"/>
+<rect x="1272" y="443" width="156" height="58" rx="12" fill="#eef6f1" stroke="#7ca08a" stroke-width="1.6"/>
+<text x="1350" y="466" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">Limit review</text>
+<text x="1350" y="488" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2933">or retirement</text>
+<rect x="1085" y="330" width="300" height="60" rx="14" fill="#eef6f1" stroke="#7ca08a" stroke-width="1.7"/>
+<text x="1235" y="354" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="20" font-weight="700" fill="#4f7660">Stewardship active:</text>
+<text x="1235" y="378" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="20" font-weight="700" fill="#4f7660">trust is renewed</text>
+<rect x="1000" y="633" width="330" height="62" rx="14" fill="#fff7e8" stroke="#b79254" stroke-width="1.7"/>
+<text x="1165" y="658" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="20" font-weight="700" fill="#7f5524">Stewardship stops:</text>
+<text x="1165" y="682" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="20" font-weight="700" fill="#7f5524">evidence and context decay</text>
+<rect x="300" y="785" width="1000" height="92" rx="18" fill="#f6f7f8" stroke="#d0d8de" stroke-width="1.8"/>
+<text x="800.0" y="822" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2933">Stewardship turns time into an engineering concern.</text>
+<text x="800.0" y="854" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="22" font-weight="400" fill="#52616b">Trustworthy behavior must be reviewed, renewed, constrained, or retired as conditions change.</text>
+</svg>

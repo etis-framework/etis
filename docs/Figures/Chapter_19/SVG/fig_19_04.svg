@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="white"/>
+<text x="600" y="50" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#475569">Higher-risk behavior requires deeper verification.</text>
+<rect x="90" y="85" width="1020" height="760" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.2"/>
+<rect x="150" y="130" width="900" height="120" rx="18" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.8"/>
+<text x="600" y="168" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Low-Risk Behavior</text>
+<text x="600" y="206" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="400" fill="#1f2933">Review • Smoke Check</text>
+<text x="600" y="238" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#475569">Minor text changes • Visual formatting</text>
+<rect x="150" y="280" width="900" height="130" rx="18" fill="#fbf8ff" stroke="#7b6897" stroke-width="2.8"/>
+<text x="600" y="318" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Moderate-Risk Behavior</text>
+<text x="600" y="356" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="400" fill="#1f2933">Unit Testing • Integration Testing</text>
+<text x="600" y="388" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#475569">Workflow logic • Data processing</text>
+<rect x="150" y="440" width="900" height="140" rx="18" fill="#f7fcf9" stroke="#5d846b" stroke-width="2.8"/>
+<text x="600" y="478" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">High-Risk Behavior</text>
+<text x="600" y="516" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="400" fill="#1f2933">Scenario Testing • Regression Testing • Manual Review</text>
+<text x="600" y="548" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#475569">Routing outcomes • Operational consequences</text>
+<rect x="150" y="610" width="900" height="180" rx="18" fill="#fffaf0" stroke="#92733c" stroke-width="2.8"/>
+<text x="600" y="648" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#1f2933">Governance-Sensitive Behavior</text>
+<text x="600" y="686" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="400" fill="#1f2933">Audit Verification • ADR Traceability • Review-Board Challenge</text>
+<text x="600" y="718" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" fill="#475569">Authority boundaries • Context restrictions • Human approval</text>
+</svg>

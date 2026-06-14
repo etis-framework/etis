@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850">
+<defs>
+  <marker id="arrow" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L6,3 L0,6 Z" fill="#596a73"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1600" height="850" fill="#f4f6f7"/>
+<text x="800" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#27343b">Release Decision Options and Conditions</text>
+<text x="800" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#53636c">Release authority is a menu of accountable choices, not a single yes/no button.</text>
+<rect x="45" y="145" width="420" height="410" rx="22" fill="#edf6fb" stroke="#5f8ba6" stroke-width="2"/>
+<text x="255.0" y="187" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#27343b">Evidence Package</text>
+<rect x="80" y="237" width="350" height="66" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="255.0" y="263" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19.5" font-weight="700" fill="#27343b">Incident evidence</text>
+<text x="255.0" y="288" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.7" font-weight="400" fill="#53636c">record • timeline • recovery</text>
+<rect x="80" y="315" width="350" height="66" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="255.0" y="341" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19.5" font-weight="700" fill="#27343b">Reliability evidence</text>
+<text x="255.0" y="366" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.7" font-weight="400" fill="#53636c">failure modes • monitoring</text>
+<rect x="80" y="393" width="350" height="66" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="255.0" y="419" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19.5" font-weight="700" fill="#27343b">Engineering evidence</text>
+<text x="255.0" y="444" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.7" font-weight="400" fill="#53636c">patch • PR • tests • CI</text>
+<rect x="80" y="471" width="350" height="66" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="255.0" y="497" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19.5" font-weight="700" fill="#27343b">Governance evidence</text>
+<text x="255.0" y="522" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.7" font-weight="400" fill="#53636c">security • AI • risk</text>
+<rect x="570" y="205" width="460" height="290" rx="24" fill="#fffaf0" stroke="#b88f2c" stroke-width="2.4"/>
+<text x="800.0" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#27343b">Release Authority Decision</text>
+<text x="800.0" y="293" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#53636c">Evidence informs the decision.</text>
+<text x="800.0" y="323" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#53636c">Authority selects the option.</text>
+<rect x="630" y="365" width="340" height="92" rx="14" fill="#ffffff" stroke="#c7d0d5" stroke-width="1.5"/>
+<text x="800.0" y="398" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#27343b">Decision must name</text>
+<text x="800.0" y="431" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="400" fill="#53636c">scope • conditions • owner • review point</text>
+<rect x="1135" y="145" width="420" height="410" rx="22" fill="#f8fbf9" stroke="#5f8a72" stroke-width="2"/>
+<text x="1345.0" y="187" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#27343b">Governed Options</text>
+<rect x="1170" y="235" width="350" height="140" rx="15" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1345.0" y="269" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="700" fill="#27343b">Operational Decisions</text>
+<text x="1345.0" y="303" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.3" font-weight="400" fill="#53636c">Approve • Conditional approve • Defer</text>
+<text x="1345.0" y="333" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.3" font-weight="400" fill="#53636c">Roll back • Constrain scope • Expand</text>
+<rect x="1170" y="397" width="350" height="140" rx="15" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1345.0" y="431" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="700" fill="#27343b">AI Capability Decisions</text>
+<text x="1345.0" y="465" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.3" font-weight="400" fill="#53636c">Re-enable • Narrow • Keep disabled</text>
+<text x="1345.0" y="495" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.3" font-weight="400" fill="#53636c">Revoke • Prohibit • Defer</text>
+<line x1="469" y1="350" x2="561" y2="350" stroke="#596a73" stroke-width="2.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1039" y1="350" x2="1126" y2="350" stroke="#596a73" stroke-width="2.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="75" y="655" width="1450" height="102" rx="18" fill="#ffffff" stroke="#c7d0d5" stroke-width="1.8"/>
+<text x="800" y="689" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#27343b">Every release option creates obligations.</text>
+<text x="800" y="722" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#53636c">Evidence • Owner • Conditions • Monitoring • Communication • Rollback / Fallback • Review Date</text>
+<text x="800" y="805" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19.5" font-weight="700" fill="#53636c">The release decision can approve action, limit action, delay action, reverse action, or prohibit action.</text>
+</svg>

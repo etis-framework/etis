@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.control{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.pressure{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.6}
+.outcome{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+
+<rect x="350" y="35" width="500" height="82" rx="14" ry="14" class="top"/>
+<text x="600" y="88" text-anchor="middle" font-size="34" font-weight="700" class="label">Structural Baseline</text>
+
+<rect x="60" y="195" width="320" height="82" rx="12" ry="12" class="control"/>
+<text x="220" y="248" text-anchor="middle" font-size="30" font-weight="700" class="label">Context</text>
+
+<rect x="440" y="195" width="320" height="82" rx="12" ry="12" class="control"/>
+<text x="600" y="248" text-anchor="middle" font-size="30" font-weight="700" class="label">Authority</text>
+
+<rect x="820" y="195" width="320" height="82" rx="12" ry="12" class="control"/>
+<text x="980" y="248" text-anchor="middle" font-size="30" font-weight="700" class="label">Oversight</text>
+
+<rect x="60" y="325" width="320" height="82" rx="12" ry="12" class="control"/>
+<text x="220" y="378" text-anchor="middle" font-size="30" font-weight="700" class="label">Fallback</text>
+
+<rect x="440" y="325" width="320" height="82" rx="12" ry="12" class="control"/>
+<text x="600" y="378" text-anchor="middle" font-size="30" font-weight="700" class="label">Evidence</text>
+
+<rect x="820" y="325" width="320" height="82" rx="12" ry="12" class="control"/>
+<text x="980" y="378" text-anchor="middle" font-size="28" font-weight="700" class="label">Accountability</text>
+
+<rect x="280" y="500" width="640" height="94" rx="14" ry="14" class="pressure"/>
+<text x="600" y="560" text-anchor="middle" font-size="38" font-weight="700" class="label">Intelligent-System Pressure</text>
+
+<rect x="340" y="695" width="520" height="86" rx="14" ry="14" class="outcome"/>
+<text x="600" y="750" text-anchor="middle" font-size="34" font-weight="700" class="label">Control Baseline</text>
+
+</svg>

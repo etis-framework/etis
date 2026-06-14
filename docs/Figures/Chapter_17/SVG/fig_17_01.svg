@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1085" viewBox="0 0 1200 1085" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M2,2 L10,6 L2,10 Z" fill="#374151"/>
+</marker>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.small{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.proposed{fill:#EEF1F4;stroke:#5C6873;stroke-width:2.4}
+.evidence{fill:#F4F8FC;stroke:#47657E;stroke-width:3}
+.inner{fill:#FFFFFF;stroke:#47657E;stroke-width:2}
+.accepted{fill:#E8F2EC;stroke:#4E6F5D;stroke-width:2.4}
+.arrow{stroke:#374151;stroke-width:3.2;fill:none;marker-end:url(#arrow)}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">From Proposed Implementation to Accepted Change</text>
+
+<rect x="320" y="95" width="560" height="82" rx="18" class="proposed"/>
+<text x="600" y="136" class="label">Proposed Implementation</text>
+
+<path d="M600 177 L600 222" class="arrow"/>
+
+<!-- Enlarged evidence container with visible bottom breathing room -->
+<rect x="180" y="240" width="840" height="620" rx="24" class="evidence"/>
+<text x="600" y="285" class="label">Acceptance Evidence</text>
+
+<rect x="270" y="325" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="351" class="small">Issue Intent</text>
+
+<rect x="270" y="400" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="426" class="small">Requirements</text>
+
+<rect x="270" y="475" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="501" class="small">Architecture &amp; ADRs</text>
+
+<rect x="270" y="550" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="576" class="small">Tests</text>
+
+<rect x="270" y="625" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="651" class="small">Review Challenge</text>
+
+<rect x="270" y="700" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="726" class="small">CI/CD Evidence</text>
+
+<rect x="270" y="775" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="801" class="small">AI-Use Disclosure</text>
+
+<!-- Starts at container border, stops before accepted box -->
+<path d="M600 860 L600 935" class="arrow"/>
+
+<rect x="260" y="950" width="680" height="82" rx="18" class="accepted"/>
+<text x="600" y="991" class="label">Accepted Change</text>
+
+</svg>

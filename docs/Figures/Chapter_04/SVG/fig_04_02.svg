@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+<rect width="100%" height="100%" fill="white"/>
+
+<line x1="220" y1="900" x2="1380" y2="900" stroke="#3f5368" stroke-width="3"/>
+<line x1="220" y1="900" x2="220" y2="180" stroke="#3f5368" stroke-width="3"/>
+
+<text x="800" y="980" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700">Uncertainty</text>
+<text x="220" y="1030" text-anchor="start" font-family="Arial" font-size="26">Low</text>
+<text x="1320" y="1030" text-anchor="start" font-family="Arial" font-size="26">High</text>
+
+<text x="70" y="560" transform="rotate(-90 70,560)" text-anchor="middle"
+font-family="Arial" font-size="34" font-weight="700">Governance / Risk Sensitivity</text>
+
+<text x="115" y="890" text-anchor="middle" font-family="Arial" font-size="26">Low</text>
+<text x="115" y="220" text-anchor="middle" font-family="Arial" font-size="26">High</text>
+
+<rect x="300" y="760" width="260" height="105" rx="14" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="430" y="800" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">Sequential</text>
+<text x="430" y="836" text-anchor="middle" font-family="Arial" font-size="24">Stable Requirements</text>
+
+<rect x="650" y="690" width="280" height="105" rx="14" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="790" y="730" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">Incremental</text>
+<text x="790" y="766" text-anchor="middle" font-family="Arial" font-size="24">Controlled Learning</text>
+
+<rect x="1080" y="610" width="240" height="105" rx="14" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="1200" y="650" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">Agile</text>
+<text x="1200" y="686" text-anchor="middle" font-family="Arial" font-size="24">Adaptation</text>
+
+<!-- moved upward off axis -->
+<rect x="1080" y="740" width="340" height="105" rx="14" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="1250" y="780" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">DevOps</text>
+<text x="1250" y="816" text-anchor="middle" font-family="Arial" font-size="24">Operational Feedback</text>
+
+<rect x="1050" y="280" width="260" height="105" rx="14" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="1180" y="320" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">Spiral</text>
+<text x="1180" y="356" text-anchor="middle" font-family="Arial" font-size="24">Risk Reduction</text>
+
+<rect x="760" y="430" width="260" height="105" rx="14" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="890" y="470" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">Hybrid</text>
+<text x="890" y="506" text-anchor="middle" font-family="Arial" font-size="24">Engineering Judgment</text>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="840" viewBox="0 0 1200 840">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.mid{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.adr{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.6}
+.bottom{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+
+<rect x="320" y="35" width="560" height="84" rx="14" ry="14" class="top"/>
+<text x="600" y="89" text-anchor="middle" font-size="34" font-weight="700" class="label">Architecture Claim</text>
+
+<rect x="70" y="190" width="300" height="82" rx="12" ry="12" class="mid"/>
+<text x="220" y="243" text-anchor="middle" font-size="30" font-weight="700" class="label">Review</text>
+
+<rect x="450" y="190" width="300" height="82" rx="12" ry="12" class="mid"/>
+<text x="600" y="243" text-anchor="middle" font-size="30" font-weight="700" class="label">Ownership</text>
+
+<rect x="830" y="190" width="300" height="82" rx="12" ry="12" class="mid"/>
+<text x="980" y="243" text-anchor="middle" font-size="30" font-weight="700" class="label">Rationale</text>
+
+<rect x="190" y="355" width="820" height="100" rx="14" ry="14" class="adr"/>
+<text x="600" y="417" text-anchor="middle" font-size="38" font-weight="700" class="label">Architecture Decision Record</text>
+
+<rect x="70" y="545" width="300" height="84" rx="12" ry="12" class="mid"/>
+<text x="220" y="598" text-anchor="middle" font-size="28" font-weight="700" class="label">Consequences</text>
+
+<rect x="450" y="545" width="300" height="84" rx="12" ry="12" class="mid"/>
+<text x="600" y="598" text-anchor="middle" font-size="29" font-weight="700" class="label">Constraints</text>
+
+<rect x="830" y="545" width="300" height="84" rx="12" ry="12" class="mid"/>
+<text x="980" y="598" text-anchor="middle" font-size="25" font-weight="700" class="label">Revisit Triggers</text>
+
+<rect x="330" y="710" width="540" height="86" rx="14" ry="14" class="bottom"/>
+<text x="600" y="765" text-anchor="middle" font-size="34" font-weight="700" class="label">Decision Evidence</text>
+
+</svg>

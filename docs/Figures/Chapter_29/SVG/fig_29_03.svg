@@ -1,0 +1,60 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080">
+<rect width="100%" height="100%" fill="white"/>
+
+<rect x="95" y="80" width="520" height="180" rx="24" fill="#f4f7f9" stroke="#c8d0d8" stroke-width="1.8"/>
+<text x="355" y="142" text-anchor="middle" font-family="Arial" font-size="35" font-weight="700" fill="#23303d">Normal Operation</text>
+<text x="355" y="208" text-anchor="middle" font-family="Arial" font-size="26" fill="#334155">Signals stable • queues healthy</text>
+
+<path d="M 250 330
+         C 465 342, 590 395, 725 470
+         C 870 552, 1010 615, 1160 680
+         C 1245 718, 1300 750, 1345 790"
+      fill="none" stroke="#c79a4b" stroke-width="46" stroke-linecap="round" opacity="0.40"/>
+<path d="M 250 330
+         C 465 342, 590 395, 725 470
+         C 870 552, 1010 615, 1160 680
+         C 1245 718, 1300 750, 1345 790"
+      fill="none" stroke="#7a8794" stroke-width="3" stroke-linecap="round"/>
+
+<rect x="160" y="292" width="260" height="100" rx="16" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="290" y="332" text-anchor="middle" font-size="26" font-weight="700">Weak Signal</text>
+<text x="290" y="368" text-anchor="middle" font-size="23">noise without clarity</text>
+
+<rect x="445" y="355" width="285" height="100" rx="16" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="588" y="395" text-anchor="middle" font-size="26" font-weight="700">Rising Latency</text>
+<text x="588" y="431" text-anchor="middle" font-size="23">delay grows gradually</text>
+
+<rect x="760" y="465" width="270" height="100" rx="16" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="895" y="505" text-anchor="middle" font-size="26" font-weight="700">Queue Growth</text>
+<text x="895" y="541" text-anchor="middle" font-size="23">work accumulates</text>
+
+<rect x="1045" y="585" width="320" height="104" rx="16" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1205" y="626" text-anchor="middle" font-size="26" font-weight="700">Review Pressure</text>
+<text x="1205" y="662" text-anchor="middle" font-size="23">approvals batch up</text>
+
+<rect x="1315" y="430" width="325" height="104" rx="16" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1478" y="471" text-anchor="middle" font-size="26" font-weight="700">Delayed Notification</text>
+<text x="1478" y="507" text-anchor="middle" font-size="23">updates arrive late</text>
+
+<rect x="1320" y="875" width="355" height="100" rx="16" fill="#f4f6f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1498" y="915" text-anchor="middle" font-size="26" font-weight="700">Stakeholder Impact</text>
+<text x="1498" y="951" text-anchor="middle" font-size="23">confidence weakens</text>
+
+<rect x="1185" y="735" width="410" height="110" rx="20" fill="#f7f1e8" stroke="#b89a68" stroke-width="2.2"/>
+<text x="1390" y="777" text-anchor="middle" font-size="28" font-weight="700">Response Point</text>
+
+<text x="1390" y="805" text-anchor="middle" font-size="23">reliability review</text>
+<text x="1390" y="835" text-anchor="middle" font-size="23">or incident threshold</text>
+
+
+<rect x="120" y="720" width="570" height="140" rx="20" fill="#f8f9fb" stroke="#c8d0d8" stroke-width="1.8"/>
+<text x="405" y="770" text-anchor="middle" font-size="29" font-weight="700">Degradation is gradual</text>
+<text x="405" y="816" text-anchor="middle" font-size="24">The system still appears operational</text>
+
+<rect x="180" y="965" width="1000" height="66" rx="16" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="2"/>
+<text x="680" y="1007" text-anchor="middle" font-size="29" font-weight="700">
+Degradation is a system behavior, not an embarrassment.
+</text>
+
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="816" viewBox="0 0 1600 816" role="img" aria-label="Operational Readiness Review receives evidence and procedures, challenges readiness, and produces records, gaps, owner assignments, and governance handoff.">
+<rect x="0" y="0" width="1600" height="816" fill="#f7f9fb"/>
+
+
+<rect x="60" y="42" width="350" height="118" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Runtime Evidence</text>
+<text x="235.0" y="114" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Logs • Metrics • Traces</text>
+<text x="235.0" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Audit Events</text>
+<rect x="60" y="194" width="350" height="118" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Operational Procedures</text>
+<text x="235.0" y="266" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Runbooks</text>
+<text x="235.0" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Fallback • Rollback</text>
+<rect x="60" y="346" width="350" height="118" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Ownership &amp; Escalation</text>
+<text x="235.0" y="418" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Owner Matrix</text>
+<text x="235.0" y="448" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Escalation Paths</text>
+<rect x="60" y="498" width="350" height="118" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="532" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Governance Inputs</text>
+<text x="235.0" y="570" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Known Limitations</text>
+<text x="235.0" y="600" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">AI Evidence • Walkthroughs</text>
+
+<line x1="428" y1="344.0" x2="484" y2="344.0" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="498,344.0 482,334.0 482,354.0" fill="#475569"/>
+
+<rect x="500" y="205" width="600" height="278" rx="22" fill="#e7f0f7" stroke="#334155" stroke-width="3"/>
+<text x="800" y="267" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827">Operational Readiness</text>
+<text x="800" y="313" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827">Review</text>
+<text x="800" y="379" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500" fill="#111827">Can the organization</text>
+<text x="800" y="417" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500" fill="#111827">diagnose, respond,</text>
+<text x="800" y="455" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500" fill="#111827">recover, and govern?</text>
+
+<line x1="1116" y1="344.0" x2="1172" y2="344.0" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1188,344.0 1172,334.0 1172,354.0" fill="#475569"/>
+
+
+<rect x="1190" y="42" width="350" height="118" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Approved Outputs</text>
+<text x="1365.0" y="114" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Readiness Record</text>
+<text x="1365.0" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Operational Scope</text>
+<rect x="1190" y="194" width="350" height="118" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Remaining Work</text>
+<text x="1365.0" y="266" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Readiness Gaps</text>
+<text x="1365.0" y="296" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Owner Assignments</text>
+<rect x="1190" y="346" width="350" height="118" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Required Updates</text>
+<text x="1365.0" y="418" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Procedure Updates</text>
+<text x="1365.0" y="448" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Evidence Updates</text>
+<rect x="1190" y="498" width="350" height="118" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="532" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Governance Transition</text>
+<text x="1365.0" y="570" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Security Questions</text>
+<text x="1365.0" y="600" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" fill="#111827">Chapter 27 Handoff</text>
+
+<line x1="800" y1="491" x2="800" y2="654" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,669 790,654 810,654" fill="#475569"/>
+
+<rect x="280" y="674" width="1040" height="112" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="717" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Operational readiness is not a feeling.</text>
+<text x="800" y="754" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">It is a reviewed claim.</text>
+</svg>

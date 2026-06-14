@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="710" viewBox="0 75 1600 710">
+<rect x="0" y="75" width="1600" height="710" fill="#f7f9fb"/>
+
+<!-- INPUTS -->
+<rect x="60" y="120" width="340" height="140" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="230" y="155" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Stabilization Evidence</text>
+<text x="230" y="195" text-anchor="middle" font-family="Arial" font-size="22">Stabilization Questions</text>
+<text x="230" y="225" text-anchor="middle" font-family="Arial" font-size="22">Defect Trend Log</text>
+
+<rect x="60" y="300" width="340" height="140" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="230" y="335" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Runtime Signals</text>
+<text x="230" y="372" text-anchor="middle" font-family="Arial" font-size="22">Logs • Metrics • Traces</text>
+<text x="230" y="410" text-anchor="middle" font-family="Arial" font-size="22">Audit Events</text>
+
+<rect x="60" y="480" width="340" height="140" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="230" y="515" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Governance Evidence</text>
+<text x="230" y="555" text-anchor="middle" font-family="Arial" font-size="22">Signal Inventory</text>
+<text x="230" y="585" text-anchor="middle" font-family="Arial" font-size="22">AI Visibility Notes</text>
+
+<!-- CENTER GATE -->
+<rect x="520" y="220" width="560" height="260" rx="22" fill="#e7f0f7" stroke="#334155" stroke-width="3"/>
+<text x="800" y="290" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700">Observability</text>
+<text x="800" y="335" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700">Readiness Review</text>
+
+<text x="800" y="392" text-anchor="middle" font-family="Arial" font-size="26">
+Can responsible humans
+</text>
+<text x="800" y="427" text-anchor="middle" font-family="Arial" font-size="26">
+reconstruct, diagnose,
+</text>
+<text x="800" y="462" text-anchor="middle" font-family="Arial" font-size="26">
+audit, and act?
+</text>
+
+<!-- OUTPUTS -->
+<rect x="1200" y="120" width="340" height="140" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.2"/>
+<text x="1370" y="155" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Approved Evidence</text>
+<text x="1370" y="195" text-anchor="middle" font-family="Arial" font-size="22">Observability Plan</text>
+<text x="1370" y="225" text-anchor="middle" font-family="Arial" font-size="22">Runtime Evidence Index</text>
+
+<rect x="1200" y="300" width="340" height="140" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.2"/>
+<text x="1370" y="335" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Required Follow-Up</text>
+<text x="1370" y="372" text-anchor="middle" font-family="Arial" font-size="22">Signal Gap Backlog</text>
+<text x="1370" y="410" text-anchor="middle" font-family="Arial" font-size="22">Escalation Triggers</text>
+
+<rect x="1200" y="480" width="340" height="140" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.2"/>
+<text x="1370" y="515" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Operational Handoff</text>
+<text x="1370" y="555" text-anchor="middle" font-family="Arial" font-size="22">Chapter 26</text>
+<text x="1370" y="585" text-anchor="middle" font-family="Arial" font-size="22">Runbook Inputs</text>
+
+<!-- arrows -->
+<line x1="400" y1="350" x2="520" y2="350" stroke="#475569" stroke-width="4"/>
+<polygon points="520,350 505,342 505,358" fill="#475569"/>
+
+<line x1="1080" y1="350" x2="1200" y2="350" stroke="#475569" stroke-width="4"/>
+<polygon points="1200,350 1185,342 1185,358" fill="#475569"/>
+
+<!-- bottom handoff -->
+<line x1="800" y1="480" x2="800" y2="650" stroke="#475569" stroke-width="4"/>
+<polygon points="800,650 790,635 810,635" fill="#475569"/>
+
+<rect x="450" y="650" width="700" height="110" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="695" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700">Visibility Must Be Defensible</text>
+<text x="800" y="730" text-anchor="middle" font-family="Arial" font-size="24">Runtime evidence must support action under pressure.</text>
+</svg>

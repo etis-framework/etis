@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.mid{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.control{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.5}
+.repo{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+<defs>
+<marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto">
+<path d="M0 0 L14 7 L0 14 z" fill="#3f4a54"/>
+</marker>
+</defs>
+
+<rect x="450" y="70" width="300" height="80" rx="14" ry="14" class="top"/>
+<text x="600" y="120" text-anchor="middle" font-size="34" font-weight="700" class="label">Risk</text>
+
+<line x1="600" y1="150" x2="600" y2="220" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="70" y="250" width="180" height="75" rx="12" ry="12" class="mid"/>
+<text x="160" y="298" text-anchor="middle" font-size="28" font-weight="700" class="label">Evidence</text>
+
+<rect x="290" y="250" width="180" height="75" rx="12" ry="12" class="mid"/>
+<text x="380" y="298" text-anchor="middle" font-size="28" font-weight="700" class="label">Owner</text>
+
+<rect x="510" y="250" width="180" height="75" rx="12" ry="12" class="mid"/>
+<text x="600" y="298" text-anchor="middle" font-size="28" font-weight="700" class="label">Response</text>
+
+<rect x="730" y="250" width="180" height="75" rx="12" ry="12" class="mid"/>
+<text x="820" y="298" text-anchor="middle" font-size="28" font-weight="700" class="label">Trigger</text>
+
+<rect x="950" y="250" width="180" height="75" rx="12" ry="12" class="mid"/>
+<text x="1040" y="298" text-anchor="middle" font-size="28" font-weight="700" class="label">Review</text>
+
+<line x1="600" y1="325" x2="600" y2="405" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="350" y="435" width="500" height="90" rx="14" ry="14" class="control"/>
+<text x="600" y="492" text-anchor="middle" font-size="34" font-weight="700" class="label">Controlled Risk</text>
+
+<line x1="600" y1="525" x2="600" y2="610" stroke="#3f4a54" stroke-width="3.2" marker-end="url(#arrow)"/>
+
+<rect x="350" y="640" width="500" height="90" rx="14" ry="14" class="repo"/>
+<text x="600" y="697" text-anchor="middle" font-size="34" font-weight="700" class="label">Repository Evidence</text>
+
+</svg>

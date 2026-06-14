@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940" role="img" aria-labelledby="title desc">
+<title id="title">Stewardship Evidence Chain</title>
+<desc id="desc">A disciplined evidence-chain architecture showing evidence inputs feeding repository stewardship memory and producing stewardship decisions, owners, and next actions.</desc>
+<rect width="1600" height="1020" fill="#ffffff"/>
+<defs>
+  <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto" markerUnits="userSpaceOnUse">
+    <path d="M2,2 L12,7 L2,12 Z" fill="#56636d"/>
+  </marker>
+</defs>
+<text x="800.0" y="52" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2933">Stewardship Evidence Chain</text>
+<text x="800.0" y="88" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="23" font-weight="400" fill="#52616b">Evidence becomes stewardship when it is reviewed, owned, decided, and updated.</text>
+<rect x="80" y="150" width="420" height="615" rx="16" fill="#ffffff" stroke="#244963" stroke-width="2.0"/>
+<path d="M80,166 Q80,150 96,150 H484 Q500,150 500,166 V220 H80 Z" fill="#3f6680" stroke="#244963" stroke-width="2"/>
+<text x="290.0" y="195" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Evidence Inputs</text>
+<rect x="114" y="248" width="352" height="138" rx="12" fill="#f6f9fb" stroke="#9eb4c3" stroke-width="1.5"/>
+<text x="136" y="282" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Operational signals</text>
+<text x="136" y="315" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Incidents and near misses</text>
+<text x="136" y="344" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Runtime evidence</text>
+<text x="136" y="373" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Stakeholder feedback</text>
+<rect x="114" y="408" width="352" height="138" rx="12" fill="#fafbfc" stroke="#c7d0d6" stroke-width="1.5"/>
+<text x="136" y="442" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Change signals</text>
+<text x="136" y="475" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Context updates</text>
+<text x="136" y="504" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Policy or workflow changes</text>
+<text x="136" y="533" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• ADRs and release limits</text>
+<rect x="114" y="568" width="352" height="138" rx="12" fill="#faf7fc" stroke="#b9abc9" stroke-width="1.5"/>
+<text x="136" y="602" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Capability signals</text>
+<text x="136" y="635" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• AI evaluations</text>
+<text x="136" y="664" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Runbook rehearsals</text>
+<text x="136" y="693" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Review-board decisions</text>
+<rect x="570" y="130" width="460" height="655" rx="16" fill="#ffffff" stroke="#4f7660" stroke-width="2.0"/>
+<path d="M570,146 Q570,130 586,130 H1014 Q1030,130 1030,146 V200 H570 Z" fill="#6f927b" stroke="#4f7660" stroke-width="2"/>
+<text x="800.0" y="175" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Repository Stewardship Memory</text>
+<rect x="615" y="228" width="370" height="88" rx="12" fill="#f7fbf8" stroke="#84a58d" stroke-width="1.7"/>
+<text x="800.0" y="262" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Stewardship Evidence Index</text>
+<text x="800.0" y="292" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="400" fill="#52616b">current evidence surface</text>
+<line x1="800.0" y1="323" x2="800.0" y2="341" stroke="#56636d" stroke-width="2.8" marker-end="url(#arrow)"/>
+<rect x="615" y="354" width="370" height="88" rx="12" fill="#ffffff" stroke="#84a58d" stroke-width="1.7"/>
+<text x="800.0" y="388" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Cadence / Capability Review</text>
+<text x="800.0" y="418" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="400" fill="#52616b">claim, evidence, risk, decision</text>
+<line x1="800.0" y1="449" x2="800.0" y2="467" stroke="#56636d" stroke-width="2.8" marker-end="url(#arrow)"/>
+<rect x="615" y="480" width="370" height="88" rx="12" fill="#f7fbf8" stroke="#84a58d" stroke-width="1.7"/>
+<text x="800.0" y="514" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Ownership and Conditions</text>
+<text x="800.0" y="544" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="400" fill="#52616b">owner, constraint, escalation</text>
+<line x1="800.0" y1="575" x2="800.0" y2="593" stroke="#56636d" stroke-width="2.8" marker-end="url(#arrow)"/>
+<rect x="615" y="606" width="370" height="88" rx="12" fill="#f7fbf8" stroke="#84a58d" stroke-width="1.7"/>
+<text x="800.0" y="640" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Next Review / Update</text>
+<text x="800.0" y="670" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="400" fill="#52616b">date, action, artifact correction</text>
+<rect x="615" y="704" width="370" height="58" rx="12" fill="#ffffff" stroke="#cfe0d3" stroke-width="1.4"/>
+<text x="800.0" y="728" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#6f927b">/docs/stewardship is living memory</text>
+<text x="800.0" y="751" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="18" font-weight="600" fill="#6f927b">not archive storage</text>
+<rect x="1100" y="150" width="420" height="615" rx="16" fill="#ffffff" stroke="#8a673d" stroke-width="2.0"/>
+<path d="M1100,166 Q1100,150 1116,150 H1504 Q1520,150 1520,166 V220 H1100 Z" fill="#a88456" stroke="#8a673d" stroke-width="2"/>
+<text x="1310.0" y="195" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Stewardship Decisions</text>
+<rect x="1134" y="248" width="352" height="138" rx="12" fill="#fffaf0" stroke="#c4a06c" stroke-width="1.5"/>
+<text x="1156" y="282" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Decision outcomes</text>
+<text x="1156" y="315" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Continue, constrain, or expand</text>
+<text x="1156" y="344" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Re-evaluate or revoke</text>
+<text x="1156" y="373" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Retire stale capability</text>
+<rect x="1134" y="426" width="352" height="138" rx="12" fill="#fafbfc" stroke="#c7d0d6" stroke-width="1.5"/>
+<text x="1156" y="460" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Accountability outputs</text>
+<text x="1156" y="493" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Named owner</text>
+<text x="1156" y="522" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Conditions and escalation</text>
+<text x="1156" y="551" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Next review date</text>
+<rect x="1134" y="604" width="352" height="138" rx="12" fill="#ffffff" stroke="#c7d0d6" stroke-width="1.5"/>
+<text x="1156" y="638" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="21" font-weight="700" fill="#1f2933">Repository update</text>
+<text x="1156" y="671" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Evidence corrected</text>
+<text x="1156" y="700" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Decision recorded</text>
+<text x="1156" y="729" text-anchor="start" font-family="Aptos, Arial, sans-serif" font-size="19" font-weight="400" fill="#1f2933">• Practice changed</text>
+<line x1="500" y1="457.5" x2="570" y2="457.5" stroke="#56636d" stroke-width="3.2" marker-end="url(#arrow)"/>
+<line x1="1030" y1="457.5" x2="1100" y2="457.5" stroke="#56636d" stroke-width="3.2" marker-end="url(#arrow)"/>
+<rect x="300" y="835" width="1000" height="80" rx="16" fill="#fafbfc" stroke="#d0d8de" stroke-width="1.6"/>
+<text x="800.0" y="867" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2933">The repository converts evidence into decisions, owners, and next actions.</text>
+<text x="800.0" y="897" text-anchor="middle" font-family="Aptos, Arial, sans-serif" font-size="20" font-weight="400" fill="#52616b">The chain fails when records exist but are not reviewed, renewed, or corrected.</text>
+</svg>

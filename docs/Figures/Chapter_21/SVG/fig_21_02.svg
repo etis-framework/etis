@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+  <!-- 
+Figure 21.2 v4 Geometry Validation
+Canvas: 1600 x 980; unchanged from v2/v3.
+Outer frame: x=70 y=112 w=1460 h=824; bottom y=936.
+Canvas bottom clearance: 44 px. FG-001 compliant.
+Reviewable Release Judgment parent: x=115 y=724 w=1370 h=174; bottom y=898.
+Principle child: x=390 y=852 w=820 h=40; bottom y=892.
+Principle child bottom clearance inside parent: 6 px; top clearance from outcome row: 10 px.
+Outcome row: y=790 h=52; bottom y=842.
+Outer frame bottom clearance from lowest child: 38 px. FG-023 compliant.
+Source evidence parent: x=115 y=382 w=1370 h=326; bottom y=708.
+Gap between source evidence parent and judgment parent: 16 px.
+Architecture remains containment/register; zero arrows; no canvas growth.
+ -->
+  <defs>
+    <style>
+      .pageTitle { font-family: Arial, Helvetica, sans-serif; font-size: 42px; font-weight: 700; fill: #1f2f3d; }
+      .pageSub { font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: 400; fill: #3c4b57; }
+      .frameTitle { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; fill: #263845; }
+      .frameNote { font-family: Arial, Helvetica, sans-serif; font-size: 21px; font-weight: 400; fill: #465663; }
+      .boxTitle { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; fill: #1f2f3d; }
+      .boxTitleSmall { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; fill: #1f2f3d; }
+      .boxText { font-family: Arial, Helvetica, sans-serif; font-size: 23px; font-weight: 400; fill: #2f3f4a; }
+      .boxTextSmall { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 400; fill: #2f3f4a; }
+      .outer { fill: #ffffff; stroke: #9aa8b4; stroke-width: 2.2; }
+      .layer { fill: #f8fafc; stroke: #b7c2cc; stroke-width: 2.2; }
+      .package { fill: #e8f1fb; stroke: #2f5678; stroke-width: 3.2; }
+      .evidence { fill: #f7f9fc; stroke: #3f637d; stroke-width: 2.4; }
+      .outcome { fill: #f6f6f3; stroke: #6b6b60; stroke-width: 2.4; }
+      .principle { fill: #f5f0e6; stroke: #8a6d3b; stroke-width: 2.3; }
+    </style>
+  </defs>
+
+  <text x="800" y="54" text-anchor="middle" class="pageTitle">The Release Evidence Package</text>
+  <text x="800" y="94" text-anchor="middle" class="pageSub">Release claims must be supported by evidence and risk disposition.</text>
+
+  <rect x="70" y="112" width="1460" height="824" rx="18" class="outer"/>
+
+  <rect x="115" y="146" width="1370" height="198" rx="14" class="layer"/>
+  <text x="145" y="184" text-anchor="start" class="frameTitle">Package-level synthesis</text>
+  <text x="145" y="216" text-anchor="start" class="frameNote">The package interprets evidence for a release decision; it is not a ceremonial binder.</text>
+  <rect x="390" y="244" width="820" height="72" rx="16" class="package"/>
+  <text x="800" y="282" text-anchor="middle" class="boxTitle">Release Evidence Package</text>
+  <text x="800" y="309" text-anchor="middle" class="boxText">readiness summary • release scope • decision ownership</text>
+
+  <rect x="115" y="382" width="1370" height="326" rx="14" class="layer"/>
+  <text x="145" y="420" text-anchor="start" class="frameTitle">Source evidence gathered from the repository</text>
+
+  <rect x="145" y="452" width="400" height="104" rx="10" class="evidence"/>
+  <text x="345" y="488" text-anchor="middle" class="boxTitleSmall">Requirements &amp; ADRs</text>
+  <text x="345" y="520" text-anchor="middle" class="boxTextSmall">scope, constraints,</text>
+<text x="345" y="547" text-anchor="middle" class="boxTextSmall">architecture decisions</text>
+
+  <rect x="600" y="452" width="400" height="104" rx="10" class="evidence"/>
+  <text x="800" y="488" text-anchor="middle" class="boxTitleSmall">Test Evidence</text>
+  <text x="800" y="520" text-anchor="middle" class="boxTextSmall">test plans, cases,</text>
+<text x="800" y="547" text-anchor="middle" class="boxTextSmall">regression results</text>
+
+  <rect x="1055" y="452" width="400" height="104" rx="10" class="evidence"/>
+  <text x="1255" y="488" text-anchor="middle" class="boxTitleSmall">AI Evaluation Evidence</text>
+  <text x="1255" y="520" text-anchor="middle" class="boxTextSmall">AI-use records,</text>
+<text x="1255" y="547" text-anchor="middle" class="boxTextSmall">context and oversight checks</text>
+
+  <rect x="145" y="582" width="400" height="104" rx="10" class="evidence"/>
+  <text x="345" y="618" text-anchor="middle" class="boxTitleSmall">Defects &amp; Limitations</text>
+  <text x="345" y="650" text-anchor="middle" class="boxTextSmall">open, deferred,</text>
+<text x="345" y="677" text-anchor="middle" class="boxTextSmall">known unsupported cases</text>
+
+  <rect x="600" y="582" width="400" height="104" rx="10" class="evidence"/>
+  <text x="800" y="618" text-anchor="middle" class="boxTitleSmall">Risk Disposition</text>
+  <text x="800" y="650" text-anchor="middle" class="boxTextSmall">accepted, mitigated,</text>
+<text x="800" y="677" text-anchor="middle" class="boxTextSmall">deferred, blocking</text>
+
+  <rect x="1055" y="582" width="400" height="104" rx="10" class="evidence"/>
+  <text x="1255" y="618" text-anchor="middle" class="boxTitleSmall">Operational Notes</text>
+  <text x="1255" y="650" text-anchor="middle" class="boxTextSmall">rollback, fallback,</text>
+<text x="1255" y="677" text-anchor="middle" class="boxTextSmall">support assumptions</text>
+
+  <rect x="115" y="724" width="1370" height="174" rx="14" class="layer"/>
+  <text x="145" y="762" text-anchor="start" class="frameTitle">Reviewable release judgment</text>
+
+  <rect x="170" y="790" width="300" height="52" rx="10" class="outcome"/>
+  <text x="320" y="825" text-anchor="middle" class="boxTitleSmall">Supported Claims</text>
+
+  <rect x="495" y="790" width="310" height="52" rx="10" class="outcome"/>
+  <text x="650" y="825" text-anchor="middle" class="boxTitleSmall">Disclosed Limitations</text>
+
+  <rect x="830" y="790" width="270" height="52" rx="10" class="outcome"/>
+  <text x="965" y="825" text-anchor="middle" class="boxTitleSmall">Owned Risks</text>
+
+  <rect x="1125" y="790" width="305" height="52" rx="10" class="outcome"/>
+  <text x="1277.5" y="825" text-anchor="middle" class="boxTitleSmall">Defensible Decision</text>
+
+  <rect x="390" y="852" width="820" height="40" rx="8" class="principle"/>
+  <text x="800" y="879" text-anchor="middle" class="boxTextSmall">Everything important leaves evidence.</text>
+</svg>

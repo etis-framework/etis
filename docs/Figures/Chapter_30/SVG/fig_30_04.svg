@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <marker id="arrow" markerWidth="5.6" markerHeight="5.6" refX="5.2" refY="2.8" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L5.6,2.8 L0,5.6 Z" fill="#596a73"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1600" height="900" fill="#f4f6f7"/>
+<text x="800.0" y="48" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#27343b"><tspan x="800.0" dy="0">Communication and Escalation Path</tspan></text>
+<text x="800.0" y="86" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#53636c"><tspan x="800.0" dy="0">Incident communication moves through evidence, approval, audience boundaries, and a</tspan><tspan x="800.0" dy="26">durable log.</tspan></text>
+<rect x="70" y="155" width="330" height="505" rx="22" fill="#edf6fb" stroke="#5f8ba6" stroke-width="2"/>
+<text x="235.0" y="193" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#27343b"><tspan x="235.0" dy="0">Evidence Inputs</tspan></text>
+<rect x="100" y="237" width="270" height="68" rx="13" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="235.0" y="263" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.8" font-weight="700" fill="#27343b"><tspan x="235.0" dy="0">Responder Status</tspan></text>
+<text x="235.0" y="288" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="400" fill="#53636c"><tspan x="235.0" dy="0">current condition and actions</tspan></text>
+<rect x="100" y="319" width="270" height="68" rx="13" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="235.0" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.8" font-weight="700" fill="#27343b"><tspan x="235.0" dy="0">Incident Record</tspan></text>
+<text x="235.0" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="400" fill="#53636c"><tspan x="235.0" dy="0">facts and severity</tspan></text>
+<rect x="100" y="401" width="270" height="68" rx="13" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="235.0" y="427" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.8" font-weight="700" fill="#27343b"><tspan x="235.0" dy="0">Evidence Index</tspan></text>
+<text x="235.0" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="400" fill="#53636c"><tspan x="235.0" dy="0">logs, metrics, request IDs</tspan></text>
+<rect x="100" y="483" width="270" height="68" rx="13" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="235.0" y="509" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.8" font-weight="700" fill="#27343b"><tspan x="235.0" dy="0">Timeline</tspan></text>
+<text x="235.0" y="534" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="400" fill="#53636c"><tspan x="235.0" dy="0">what changed and when</tspan></text>
+<rect x="100" y="565" width="270" height="68" rx="13" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="235.0" y="591" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.8" font-weight="700" fill="#27343b"><tspan x="235.0" dy="0">Recovery Checks</tspan></text>
+<text x="235.0" y="616" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.6" font-weight="400" fill="#53636c"><tspan x="235.0" dy="0">proof before claims</tspan></text>
+<rect x="515" y="165" width="330" height="82" rx="16" fill="#dcebf4" stroke="#5f8ba6" stroke-width="2"/>
+<text x="680.0" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="680.0" dy="0">Incident Lead</tspan></text>
+<text x="680.0" y="223" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="400" fill="#53636c"><tspan x="680.0" dy="0">sets status, severity, cadence</tspan></text>
+<rect x="515" y="295" width="330" height="82" rx="16" fill="#eee8f6" stroke="#7d66a2" stroke-width="2"/>
+<text x="680.0" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="680.0" dy="0">Communications Lead</tspan></text>
+<text x="680.0" y="353" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="400" fill="#53636c"><tspan x="680.0" dy="0">coordinates wording and timing</tspan></text>
+<rect x="515" y="425" width="330" height="82" rx="16" fill="#f6edcf" stroke="#b88f2c" stroke-width="2"/>
+<text x="680.0" y="456" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="680.0" dy="0">Approval Checkpoint</tspan></text>
+<text x="680.0" y="483" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="400" fill="#53636c"><tspan x="680.0" dy="0">verifies claims before release</tspan></text>
+<rect x="515" y="555" width="330" height="82" rx="16" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="680.0" y="586" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="680.0" dy="0">Communications Log</tspan></text>
+<text x="680.0" y="613" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="400" fill="#53636c"><tspan x="680.0" dy="0">who • what • when • channel</tspan></text>
+<line x1="680.0" y1="252" x2="680.0" y2="287" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="680.0" y1="382" x2="680.0" y2="417" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="680.0" y1="512" x2="680.0" y2="547" stroke="#596a73" stroke-width="2.6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="374" y1="271.0" x2="507" y2="206" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="374" y1="353.0" x2="507" y2="336" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="374" y1="435.0" x2="507" y2="448" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="374" y1="517.0" x2="507" y2="466" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="374" y1="599.0" x2="507" y2="484" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="900" y="155" width="300" height="190" rx="20" fill="#fffaf0" stroke="#b88f2c" stroke-width="2"/>
+<text x="1050.0" y="189" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="1050.0" dy="0">Governance Constraints</tspan></text>
+<text x="1050.0" y="227" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1050.0" dy="0">Security boundary</tspan></text>
+<text x="1050.0" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.2" font-weight="400" fill="#53636c"><tspan x="1050.0" dy="0">minimize sensitive detail</tspan></text>
+<text x="1050.0" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1050.0" dy="0">AI draft review</tspan></text>
+<text x="1050.0" y="293" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.2" font-weight="400" fill="#53636c"><tspan x="1050.0" dy="0">proposed language only</tspan></text>
+<text x="1050.0" y="313" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1050.0" dy="0">Uncertainty rule</tspan></text>
+<text x="1050.0" y="336" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16.2" font-weight="400" fill="#53636c"><tspan x="1050.0" dy="0">evidence-backed claims</tspan></text>
+<rect x="1235" y="155" width="300" height="505" rx="22" fill="#f8fbf9" stroke="#5f8a72" stroke-width="2"/>
+<text x="1385.0" y="193" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#27343b"><tspan x="1385.0" dy="0">Audience Paths</tspan></text>
+<rect x="1261" y="237" width="248" height="68" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1385.0" y="263" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1385.0" dy="0">Responder Coordination</tspan></text>
+<text x="1385.0" y="288" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400" fill="#53636c"><tspan x="1385.0" dy="0">technical status and actions</tspan></text>
+<rect x="1261" y="319" width="248" height="68" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1385.0" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1385.0" dy="0">Leadership Notice</tspan></text>
+<text x="1385.0" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400" fill="#53636c"><tspan x="1385.0" dy="0">impact, severity, cadence</tspan></text>
+<rect x="1261" y="401" width="248" height="68" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1385.0" y="427" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1385.0" dy="0">Affected Departments</tspan></text>
+<text x="1385.0" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400" fill="#53636c"><tspan x="1385.0" dy="0">service impact and workaround</tspan></text>
+<rect x="1261" y="483" width="248" height="68" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1385.0" y="509" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1385.0" dy="0">Stakeholder Update</tspan></text>
+<text x="1385.0" y="534" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400" fill="#53636c"><tspan x="1385.0" dy="0">approved bounded message</tspan></text>
+<rect x="1261" y="565" width="248" height="68" rx="13" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.6"/>
+<text x="1385.0" y="591" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="700" fill="#27343b"><tspan x="1385.0" dy="0">Post-Incident Follow-up</tspan></text>
+<text x="1385.0" y="616" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.2" font-weight="400" fill="#53636c"><tspan x="1385.0" dy="0">recovery proof and next steps</tspan></text>
+<line x1="850" y1="466" x2="1216" y2="466" stroke="#596a73" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="1216" y1="271.0" x2="1216" y2="599.0" stroke="#596a73" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="1216" y1="271.0" x2="1252" y2="271.0" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1216" y1="353.0" x2="1252" y2="353.0" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1216" y1="435.0" x2="1252" y2="435.0" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1216" y1="517.0" x2="1252" y2="517.0" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1216" y1="599.0" x2="1252" y2="599.0" stroke="#596a73" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="470" y="715" width="670" height="62" rx="16" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="805.0" y="742" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#27343b"><tspan x="805.0" dy="0">Communication Record</tspan></text>
+<text x="805.0" y="767" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="400" fill="#53636c"><tspan x="805.0" dy="0">message • audience • approver • channel • uncertainty</tspan></text>
+<line x1="680.0" y1="642" x2="680.0" y2="707" stroke="#596a73" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1385.0" y1="665" x2="1134" y2="710" stroke="#596a73" stroke-width="2.3" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="70" y="805" width="1460" height="66" rx="18" fill="#ffffff" stroke="#c7d0d5" stroke-width="1.8"/>
+<text x="800.0" y="833" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20.5" font-weight="700" fill="#27343b"><tspan x="800.0" dy="0">Trust is protected by timely, accurate, bounded, audience-aware communication.</tspan></text>
+<text x="800.0" y="858" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17.8" font-weight="400" fill="#53636c"><tspan x="800.0" dy="0">Responsible clarity matters more than sounding reassuring.</tspan></text>
+</svg>

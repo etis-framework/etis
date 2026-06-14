@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="920" viewBox="0 0 1200 920" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.header{font-family:Arial,sans-serif;font-size:30px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.safePanel{fill:#F4F8FC;stroke:#47657E;stroke-width:3}
+.safeBox{fill:#FFFFFF;stroke:#47657E;stroke-width:2.2}
+.driftPanel{fill:#FCF4F4;stroke:#8B5A5A;stroke-width:3}
+.driftBox{fill:#FFFFFF;stroke:#8B5A5A;stroke-width:2.2}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">Scaffolding Must Preserve Architecture</text>
+
+<!-- Safe -->
+<rect x="70" y="95" width="500" height="760" rx="24" class="safePanel"/>
+<text x="320" y="140" class="header">Safe Scaffolding</text>
+
+<rect x="120" y="190" width="400" height="88" rx="16" class="safeBox"/>
+<text x="320" y="234" class="label">Advisory Summary</text>
+
+<rect x="120" y="320" width="400" height="88" rx="16" class="safeBox"/>
+<text x="320" y="364" class="label">Official Incident Record</text>
+
+<rect x="120" y="450" width="400" height="88" rx="16" class="safeBox"/>
+<text x="320" y="494" class="label">Human Review</text>
+
+<rect x="120" y="580" width="400" height="88" rx="16" class="safeBox"/>
+<text x="320" y="624" class="label">Audit Evidence</text>
+
+<rect x="120" y="710" width="400" height="88" rx="16" class="safeBox"/>
+<text x="320" y="754" class="label">Tests Confirm Boundaries</text>
+
+<!-- Drift -->
+<rect x="630" y="95" width="500" height="760" rx="24" class="driftPanel"/>
+<text x="880" y="140" class="header">Architectural Drift</text>
+
+<rect x="680" y="190" width="400" height="88" rx="16" class="driftBox"/>
+<text x="880" y="234" class="label">Summary Stored as Fact</text>
+
+<rect x="680" y="320" width="400" height="88" rx="16" class="driftBox"/>
+<text x="880" y="364" class="label">Automatic Status Change</text>
+
+<rect x="680" y="450" width="400" height="88" rx="16" class="driftBox"/>
+<text x="880" y="494" class="label">Notification Before Review</text>
+
+<rect x="680" y="580" width="400" height="88" rx="16" class="driftBox"/>
+<text x="880" y="624" class="label">Sensitive Context Included</text>
+
+<rect x="680" y="710" width="400" height="88" rx="16" class="driftBox"/>
+<text x="880" y="754" class="label">Audit Gap</text>
+
+</svg>

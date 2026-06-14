@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1000" viewBox="0 0 1900 1000">
+<rect width="100%" height="100%" fill="white"/>
+
+<rect x="60" y="420" width="180" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="150" y="475" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700">Discovery</text>
+
+<rect x="290" y="420" width="210" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="395" y="475" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700">Requirements</text>
+
+<rect x="550" y="420" width="260" height="90" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="680" y="475" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Architecture Review</text>
+
+<rect x="860" y="420" width="220" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="970" y="475" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Iterative Build</text>
+
+<rect x="1130" y="420" width="220" height="90" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="1240" y="475" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">PR / CI Review</text>
+
+<rect x="1400" y="420" width="210" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="1505" y="475" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Pilot Release</text>
+
+<rect x="1660" y="420" width="220" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="1770" y="460" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Operational</text>
+<text x="1770" y="490" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Evidence</text>
+
+<line x1="240" y1="465" x2="290" y2="465" stroke="#7a8795" stroke-width="3"/>
+<line x1="500" y1="465" x2="550" y2="465" stroke="#7a8795" stroke-width="3"/>
+<line x1="810" y1="465" x2="860" y2="465" stroke="#7a8795" stroke-width="3"/>
+<line x1="1080" y1="465" x2="1130" y2="465" stroke="#7a8795" stroke-width="3"/>
+<line x1="1350" y1="465" x2="1400" y2="465" stroke="#7a8795" stroke-width="3"/>
+<line x1="1610" y1="465" x2="1660" y2="465" stroke="#7a8795" stroke-width="3"/>
+
+<rect x="1020" y="220" width="240" height="80" rx="12" fill="#f4f6f8" stroke="#56677d" stroke-width="2"/>
+<text x="1140" y="268" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">AI Verification Gate</text>
+<line x1="1140" y1="300" x2="1140" y2="420" stroke="#7a8795" stroke-width="2"/>
+
+<!-- widened box -->
+<rect x="1380" y="220" width="350" height="80" rx="12" fill="#f4f6f8" stroke="#56677d" stroke-width="2"/>
+<text x="1555" y="268" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Governance Approval Gate</text>
+<line x1="1555" y1="300" x2="1555" y2="420" stroke="#7a8795" stroke-width="2"/>
+
+<rect x="760" y="700" width="340" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2"/>
+<text x="930" y="755" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700">Learning / Next Iteration</text>
+
+<line x1="1770" y1="510" x2="1770" y2="620" stroke="#7a8795" stroke-width="3"/>
+<line x1="1770" y1="620" x2="930" y2="620" stroke="#7a8795" stroke-width="3"/>
+<line x1="930" y1="620" x2="930" y2="700" stroke="#7a8795" stroke-width="3"/>
+
+<line x1="760" y1="745" x2="150" y2="745" stroke="#7a8795" stroke-width="3"/>
+<line x1="150" y1="745" x2="150" y2="510" stroke="#7a8795" stroke-width="3"/>
+
+<rect x="600" y="860" width="700" height="90" rx="14" fill="#eef3f8" stroke="#3f5368" stroke-width="3"/>
+<text x="950" y="915" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700">Deliberate Hybrid Lifecycle</text>
+
+</svg>

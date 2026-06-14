@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690">
+<rect width="1200" height="690" fill="white"/>
+<text x="600" y="38" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#475569">Evaluation evidence supports</text>
+<text x="600" y="70" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#475569">defensible release judgment.</text>
+<rect x="90" y="95" width="1020" height="535" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.2"/>
+<rect x="250" y="135" width="700" height="185" rx="16" fill="#fbf8ff" stroke="#7b6897" stroke-width="3"/>
+<text x="600" y="178" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" fill="#1f2933">Evaluation Evidence Package</text>
+<text x="600" y="222" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400" fill="#1f2933">Criteria • Scenarios</text>
+<text x="600" y="257" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400" fill="#1f2933">Oversight Findings • Results</text>
+<text x="600" y="292" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400" fill="#1f2933">Limitations • Defects</text>
+<text x="600" y="370" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#475569">Risk Disposition</text>
+<rect x="145" y="395" width="430" height="90" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="360.0" y="429" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#1f2933">Acceptable</text>
+<text x="360.0" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" fill="#1f2933">Verified Behavior</text>
+<rect x="625" y="395" width="430" height="90" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="840.0" y="429" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#1f2933">Requires Action</text>
+<text x="840.0" y="456" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" fill="#1f2933">Defect • ADR Update</text>
+<text x="840.0" y="477" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" fill="#1f2933">UI / Fallback Change</text>
+<rect x="145" y="505" width="430" height="90" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="360.0" y="539" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#1f2933">Requires Review</text>
+<text x="360.0" y="566" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" fill="#1f2933">Test Gap</text>
+<text x="360.0" y="587" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" fill="#1f2933">Governance Question</text>
+<rect x="625" y="505" width="430" height="90" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.5"/>
+<text x="840.0" y="539" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#1f2933">Release Impact</text>
+<text x="840.0" y="566" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" fill="#1f2933">Blocker • Limitation</text>
+<text x="840.0" y="587" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" fill="#1f2933">Monitoring Need</text>
+<!-- QA: rightmost child edge = 1055; outer frame right edge = 1110; clearance = 55 px. -->
+<!-- QA: lowest child bottom = 595; outer frame bottom = 630; canvas bottom = 690. -->
+<!-- QA: two-column grid replaces cramped four-box row; labels wrapped before shrinking. -->
+</svg>

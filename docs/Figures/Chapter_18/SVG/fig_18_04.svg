@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.top{fill:#EEF4FA;stroke:#47657E;stroke-width:2.5}
+.middle{fill:#F8F1E8;stroke:#8A6442;stroke-width:2.5}
+.bottom{fill:#F4EDED;stroke:#8B5A5A;stroke-width:2.8}
+.header{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:22px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">Generated Explanation, Generated Test, and Evidence Gap</text>
+
+<!-- Top layer -->
+<rect x="120" y="130" width="400" height="90" rx="18" class="top"/>
+<text x="320" y="175" class="header">Generated Explanation</text>
+
+<rect x="680" y="130" width="400" height="90" rx="18" class="top"/>
+<text x="880" y="175" class="header">Generated Test</text>
+
+<!-- Middle -->
+<rect x="390" y="305" width="420" height="90" rx="18" class="middle"/>
+<text x="600" y="350" class="header">Shared Assumptions</text>
+
+<!-- Bottom -->
+<rect x="250" y="500" width="700" height="320" rx="22" class="bottom"/>
+
+<text x="600" y="550" class="header">Evidence Gap</text>
+
+<text x="600" y="620" class="label">Missing Scenarios</text>
+<text x="600" y="675" class="label">Missing Boundary Cases</text>
+<text x="600" y="730" class="label">Missing Risk Challenges</text>
+<text x="600" y="785" class="label">Missing Verification</text>
+
+</svg>

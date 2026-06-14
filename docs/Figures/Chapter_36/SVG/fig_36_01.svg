@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M 0 0 L 12 6 L 0 12 z" fill="#677684"/>
+  </marker>
+</defs>
+<rect width="1600" height="1000" fill="#ffffff"/>
+
+<text x="800" y="50" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#1f2933" text-anchor="middle">Cognitive Load Accumulates at the Point of Oversight</text>
+<text x="800" y="82" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#53606b" text-anchor="middle">Evidence may exist, but the reviewer still needs a usable path to judgment.</text>
+<rect x="110" y="170" width="340" height="118" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="280.0" y="208" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Incident Record</text>
+<text x="280.0" y="248" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">current event</text>
+<text x="280.0" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">timeline and facts</text>
+<rect x="110" y="382" width="340" height="118" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="280.0" y="420" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Runbook Guidance</text>
+<text x="280.0" y="460" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">steps plus exception</text>
+<text x="280.0" y="491" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">applicability note</text>
+<rect x="110" y="594" width="340" height="118" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="280.0" y="632" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Incident History</text>
+<text x="280.0" y="672" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">prior cases</text>
+<text x="280.0" y="703" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">similar but not same</text>
+<rect x="500" y="135" width="270" height="126" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="635.0" y="173" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Workflow</text>
+<text x="635.0" y="213" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">routing</text>
+<text x="635.0" y="244" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">recommendation</text>
+<rect x="830" y="135" width="270" height="126" rx="12" fill="#fff8e8" stroke="#9b5c2e" stroke-width="3"/>
+<text x="965.0" y="173" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">AI Summary</text>
+<text x="965.0" y="213" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">proposed interpretation</text>
+<text x="965.0" y="244" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">uncertainty must remain</text>
+<rect x="1150" y="170" width="340" height="118" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="1320.0" y="208" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Escalation Rules</text>
+<text x="1320.0" y="248" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">who applies</text>
+<text x="1320.0" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">after-hours authority</text>
+<rect x="1150" y="382" width="340" height="118" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="1320.0" y="420" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Release Limits</text>
+<text x="1320.0" y="460" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">active, retired,</text>
+<text x="1320.0" y="491" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">or conditional?</text>
+<rect x="1150" y="594" width="340" height="118" rx="12" fill="#f8fafc" stroke="#2f3b45" stroke-width="3"/>
+<text x="1320.0" y="632" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Context Sources</text>
+<text x="1320.0" y="672" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">authority, freshness,</text>
+<text x="1320.0" y="703" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#53606b" text-anchor="middle">permitted use</text>
+<rect x="540" y="350" width="520" height="240" rx="14" fill="#eef4f8" stroke="#2f3b45" stroke-width="4"/>
+<text x="800.0" y="392" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933" text-anchor="middle">Accountable Human</text>
+<text x="800.0" y="428" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933" text-anchor="middle">Reviewer</text>
+<line x1="588" y1="448" x2="1012" y2="448" stroke="#c7d2da" stroke-width="2"/>
+<text x="800.0" y="487" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#1f2933" text-anchor="middle">Must understand enough to:</text>
+<text x="800.0" y="518" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#53606b" text-anchor="middle">• accept or reject</text>
+<text x="800.0" y="549" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#53606b" text-anchor="middle">• escalate or intervene</text>
+<text x="800.0" y="580" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#53606b" text-anchor="middle">• reconstruct the evidence path</text>
+<path d="M 450 229 L 540 405" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 450 441 L 540 470" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 450 653 L 540 535" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 635 261 L 700 350" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 965 261 L 900 350" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 1150 229 L 1060 405" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 1150 441 L 1060 470" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<path d="M 1150 653 L 1060 535" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+<rect x="320" y="795" width="960" height="125" rx="12" fill="#f7f7f4" stroke="#2f3b45" stroke-width="3"/>
+<text x="800" y="840" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1f2933" text-anchor="middle">Oversight Risk</text>
+<text x="800" y="872" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#53606b" text-anchor="middle">Formal authority degrades when evidence is not navigable under pressure.</text>
+<path d="M 800 590 L 800 795" fill="none" stroke="#677684" stroke-width="3.2" marker-end="url(#arrow)"/>
+</svg>

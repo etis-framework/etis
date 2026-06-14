@@ -1,0 +1,104 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# macOS
+
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# Python Virtual Environments
+
+.venv/
+venv/
+env/
+
+# MkDocs Build Output
+
+site/
+
+# Building PDFs
+
+build/
+scripts/
+publication/
+
+# Word source files
+
+*.doc
+*.docx
+~$*.doc
+~$*.docx
+
+# Archives / backups
+
+*.tar.gz
+*.zip
+
+# Microsoft Office yemporary files
+
+~$*
+
+# Temporary Files
+
+*.tmp
+*.bak
+*.swp
+
+# Logs
+
+*.log
+
+# Generated PDFs (optional)
+
+# Uncomment if generated PDFs should not be committed
+
+# *.pdf
+
+# Archive Files
+
+*.tar.gz
+*.zip
+
+# Word Temporary Files
+
+~$*.docx
+~$*.doc
+
+# Misc
+
+Thumbs.db
+
+# Node (if you ever use MkDocs themes or tooling requiring npm)
+node_modules/
+
+# Generated publication artifacts
+*.pptx
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*

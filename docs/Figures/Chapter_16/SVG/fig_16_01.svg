@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1020" viewBox="0 0 1200 1020" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M2,2 L10,6 L2,10 Z" fill="#374151"/>
+</marker>
+<style>
+.outer-context{fill:#F4F8FC;stroke:#2F536F;stroke-width:3}
+.source-box{fill:#FFF;stroke:#47657E;stroke-width:2.2}
+.ai-box{fill:#EEF1F4;stroke:#5C6873;stroke-width:2.4}
+.verify-box{fill:#EFEAF5;stroke:#67577B;stroke-width:2.4}
+.accepted-box{fill:#E8F2EC;stroke:#4E6F5D;stroke-width:2.4}
+.outer-title,.label,.small-label{font-family:Arial,sans-serif;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.outer-title{font-size:34px}.label{font-size:28px}.small-label{font-size:25px}
+.arrow-line{stroke:#374151;stroke-width:3.2;fill:none;marker-end:url(#arrow)}
+</style>
+</defs>
+
+<rect x="90" y="55" width="1020" height="455" rx="26" class="outer-context"/>
+<text x="600" y="103" class="outer-title">Engineering Context</text>
+
+<rect x="140" y="145" width="270" height="82" rx="16" class="source-box"/><text x="275" y="187" class="label">Requirements</text>
+<rect x="465" y="145" width="270" height="82" rx="16" class="source-box"/><text x="600" y="187" class="label">Architecture</text>
+<rect x="790" y="145" width="270" height="82" rx="16" class="source-box"/><text x="925" y="187" class="label">ADRs</text>
+
+<rect x="140" y="270" width="270" height="82" rx="16" class="source-box"/><text x="275" y="312" class="label">Issues</text>
+<rect x="465" y="270" width="270" height="82" rx="16" class="source-box"/><text x="600" y="312" class="label">Tests</text>
+<rect x="790" y="270" width="270" height="82" rx="16" class="source-box"/><text x="925" y="300" class="small-label">Repository</text><text x="925" y="332" class="small-label">Conventions</text>
+
+<rect x="315" y="395" width="570" height="82" rx="16" class="source-box"/><text x="600" y="437" class="label">Review Expectations</text>
+
+<path d="M600 510 L600 560" class="arrow-line"/>
+<rect x="260" y="565" width="680" height="92" rx="20" class="ai-box"/><text x="600" y="612" class="label">AI-Assisted Implementation</text>
+
+<path d="M600 657 L600 707" class="arrow-line"/>
+<rect x="260" y="712" width="680" height="92" rx="20" class="verify-box"/><text x="600" y="759" class="label">Engineer Verification</text>
+
+<path d="M600 804 L600 854" class="arrow-line"/>
+<rect x="260" y="845" width="680" height="92" rx="20" class="accepted-box"/><text x="600" y="891" class="label">Accepted Implementation</text>
+</svg>

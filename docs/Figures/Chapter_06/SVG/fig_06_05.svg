@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1020" viewBox="0 0 2100 1020">
+<defs>
+  <marker id="downarrow" markerWidth="12" markerHeight="12" refX="6" refY="10" orient="auto">
+    <path d="M0 0 L12 0 L6 12 z" fill="#25313b"/>
+  </marker>
+</defs>
+<rect width="2100" height="1100" fill="white"/>
+
+<rect x="140" y="120" width="1820" height="270" rx="16" fill="#f8fafb" stroke="#33424f" stroke-width="2.5"/>
+<text x="1050.0" y="175" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#1f2933">CONTROL PLANE</text>
+<rect x="212.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="304.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Permissions</text>
+<rect x="425.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="517.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Policy</text>
+<rect x="638.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="730.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Approval Gates</text>
+<rect x="851.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="943.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Audit Logs</text>
+<rect x="1064.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1156.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Monitoring</text>
+<rect x="1277.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1369.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Rollback</text>
+<rect x="1490.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1582.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Human Oversight</text>
+<rect x="1703.0" y="215" width="185" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1795.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Revocation</text>
+<text x="1050" y="450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">governs / constrains</text>
+<line x1="1050" y1="470" x2="1050" y2="525" stroke="#25313b" stroke-width="3"/>
+<rect x="140" y="560" width="1820" height="250" rx="16" fill="#fbf7e8" stroke="#33424f" stroke-width="2.5"/>
+<text x="1050.0" y="615" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#1f2933">EXECUTION PLANE</text>
+<rect x="190.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="300.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Intake</text>
+<rect x="440.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="550.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Classification</text>
+<rect x="690.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="800.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Recommendation</text>
+<rect x="940.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1050.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Routing</text>
+<rect x="1190.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1300.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Notifications</text>
+<rect x="1440.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1550.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Status Updates</text>
+<rect x="1690.0" y="655" width="220" height="95" rx="10" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1800.0" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Workflow Actions</text>
+<rect x="500.0" y="900" width="1100" height="115" rx="12" fill="white" stroke="#2d4052" stroke-width="2.5"/>
+<text x="538.0" y="940" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2d4052">GOVERNANCE PRINCIPLE</text>
+<line x1="538.0" y1="954" x2="1562.0" y2="954" stroke="#9aa6b1"/>
+<text x="1050.0" y="988" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#1f2933">AI may assist execution. Authority belongs in the control plane.</text>
+</svg>

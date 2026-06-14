@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1320" viewBox="0 0 1600 1320">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="800.0" y1="112.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="280.0" y1="237.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="1275.0" y1="237.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="265.0" y1="467.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="1335.0" y1="467.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="320.0" y1="647.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="1225.0" y1="647.5" x2="800.0" y2="400.0" stroke="#b4bec9" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="440" y1="238" x2="1060" y2="238" stroke="#d3d9df" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="440" y1="468" x2="1160" y2="468" stroke="#d3d9df" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="480" y1="648" x2="1010" y2="648" stroke="#d3d9df" stroke-width="2" stroke-dasharray="8 8"/>
+<rect x="610" y="340" width="380" height="120" rx="18" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="800.0" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933">LMU Evening Event</text>
+<text x="800.0" y="428" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#526070">shared operational situation</text>
+<rect x="650" y="60" width="300" height="105" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="800.0" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Students</text>
+<text x="800.0" y="138" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Delays and confusion</text>
+<rect x="120" y="180" width="320" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="280.0" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Facilities</text>
+<text x="280.0" y="258" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Water leak ticket</text>
+<rect x="1060" y="180" width="430" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="1275.0" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Information Technology</text>
+<text x="1275.0" y="258" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Check-in kiosks</text>
+<rect x="90" y="410" width="350" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="265.0" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Student Services</text>
+<text x="265.0" y="488" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Event promotion</text>
+<rect x="1160" y="410" width="350" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="1335.0" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Campus Safety</text>
+<text x="1335.0" y="488" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Crowd questions</text>
+<rect x="160" y="590" width="320" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="320.0" y="632" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Event Staff</text>
+<text x="320.0" y="668" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Entrance plan</text>
+<rect x="1010" y="590" width="430" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="1225.0" y="632" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">University Leadership</text>
+<text x="1225.0" y="668" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#4b5563">Status request</text>
+<line x1="800.0" y1="460" x2="800.0" y2="790" stroke="#7a8795" stroke-width="2.2"/>
+<rect x="350" y="790" width="900" height="180" rx="18" fill="#fbf8ef" stroke="#8a6f36" stroke-width="2.2"/>
+<text x="800.0" y="834" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#3f3a2b">Fragmented Coordination</text>
+<text x="600" y="892" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#3f3a2b">Partial Information</text>
+<text x="1000" y="892" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#3f3a2b">Delayed Escalation</text>
+<text x="600" y="938" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#3f3a2b">Separate Records</text>
+<text x="1000" y="938" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#3f3a2b">Local Decisions</text>
+<line x1="800.0" y1="970" x2="800.0" y2="1045" stroke="#7a8795" stroke-width="2.2"/>
+<rect x="300" y="1045" width="1000" height="205" rx="18" fill="#f4f6f8" stroke="#56677d" stroke-width="2.2"/>
+<text x="800.0" y="1092" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933">System-Level Consequences</text>
+<text x="580" y="1157" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#1f2933">Entrance Congestion</text>
+<text x="1020" y="1157" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#1f2933">Delayed Access</text>
+<text x="580" y="1207" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#1f2933">Conflicting Status Reports</text>
+<text x="1020" y="1207" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#1f2933">Institutional Trust Risk</text>
+<text x="800.0" y="1290" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="500" fill="#586575">Local views can be reasonable while system-level coordination fails.</text>
+</svg>

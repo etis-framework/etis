@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style>
+.pageTitle {font-family:Arial;font-size:42px;font-weight:bold;}
+.pageSub {font-family:Arial;font-size:27px;}
+.frameTitle {font-family:Arial;font-size:25px;font-weight:bold;}
+.boxTitle {font-family:Arial;font-size:28px;font-weight:bold;}
+.boxText {font-family:Arial;font-size:24px;}
+.outer {fill:white;stroke:#9aa8b4;stroke-width:2.2;}
+.claim {fill:#e8f1fb;stroke:#2f5678;stroke-width:3.2;}
+.layer {fill:#f8fafc;stroke:#b7c2cc;stroke-width:2.2;}
+.domain {fill:#eef4fb;stroke:#3f637d;stroke-width:2.4;}
+.memory {fill:#f5f0e6;stroke:#8a6d3b;stroke-width:2.2;}
+.principle {fill:#eef1f8;stroke:#52637c;stroke-width:2.2;}
+</style>
+
+<text x="800" y="55" text-anchor="middle" class="pageTitle">Presentation as Engineering Defense</text>
+<text x="800" y="95" text-anchor="middle" class="pageSub">A professional presentation asks whether claims can survive review.</text>
+
+<rect x="70" y="112" width="1460" height="700" rx="18" class="outer"/>
+
+<rect x="360" y="145" width="880" height="110" rx="14" class="claim"/>
+<text x="800" y="188" text-anchor="middle" class="boxTitle">Release Claim</text>
+<text x="800" y="225" text-anchor="middle" class="boxText">What are we claiming? Under what scope? Under what constraints?</text>
+
+<rect x="115" y="290" width="1370" height="250" rx="14" class="layer"/>
+<text x="145" y="325" class="frameTitle">Evidence that supports the claim</text>
+
+<rect x="145" y="355" width="400" height="150" rx="12" class="domain"/>
+<text x="345" y="392" text-anchor="middle" class="boxTitle">Readiness Evidence</text>
+<text x="345" y="430" text-anchor="middle" class="boxText">Tests</text>
+<text x="345" y="462" text-anchor="middle" class="boxText">Evaluation</text>
+<text x="345" y="494" text-anchor="middle" class="boxText">Reviews</text>
+
+<rect x="600" y="355" width="400" height="150" rx="12" class="domain"/>
+<text x="800" y="392" text-anchor="middle" class="boxTitle">Operational Evidence</text>
+<text x="800" y="430" text-anchor="middle" class="boxText">Limitations</text>
+<text x="800" y="462" text-anchor="middle" class="boxText">Risks</text>
+<text x="800" y="494" text-anchor="middle" class="boxText">Rollback</text>
+
+<rect x="1055" y="355" width="400" height="150" rx="12" class="domain"/>
+<text x="1255" y="392" text-anchor="middle" class="boxTitle">Governance Evidence</text>
+<text x="1255" y="430" text-anchor="middle" class="boxText">ADRs</text>
+<text x="1255" y="462" text-anchor="middle" class="boxText">Approval Conditions</text>
+<text x="1255" y="494" text-anchor="middle" class="boxText">AI Boundaries</text>
+
+<rect x="115" y="575" width="1370" height="90" rx="14" class="memory"/>
+<text x="145" y="610" class="frameTitle">Repository Memory Layer</text>
+<text x="800" y="645" text-anchor="middle" class="boxText">Release Evidence • Tests • AI Evaluation • Reviews</text>
+
+<rect x="360" y="705" width="880" height="46" rx="8" class="principle"/>
+<text x="800" y="736" text-anchor="middle" class="boxText">The audience should trust evidence, not confidence.</text>
+
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1050" viewBox="0 0 1700 1050">
+<defs><marker id="arrow" markerWidth="8" markerHeight="7" refX="7" refY="3.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L7,3.5 L0,7 Z" fill="#111"/></marker></defs>
+<rect width="1700" height="1050" fill="#fff"/>
+<text x="850.0" y="88" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" text-anchor="middle" fill="#111" font-style="italic">Repository memory is maintained through lifecycle control, freshness judgment, and ownership.</text>
+<rect x="145" y="120" width="1410" height="135" rx="8" fill="#f3f7fb" stroke="#26364a" stroke-width="2"/>
+<text x="850.0" y="154" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#111" >Ownership and Freshness Controls</text>
+<text x="850.0" y="188" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#111" >Every consequential artifact identifies owner, authority, review trigger, freshness status, and related evidence.</text>
+<text x="850.0" y="219" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#111" >Freshness means judged current for operational use, not merely recently edited.</text>
+<text x="850.0" y="308" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#111" >Evidence Lifecycle Path</text>
+<rect x="75" y="345" width="205" height="185" rx="6" fill="#eef6ee" stroke="#222" stroke-width="2"/>
+<text x="177.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Create</text>
+<line x1="89" y1="405" x2="266" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="177.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Artifact enters</text>
+<text x="177.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >repository memory</text>
+<text x="177.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >with owner</text>
+<line x1="284" y1="420" x2="301" y2="420" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="305" y="345" width="205" height="185" rx="6" fill="#eef6ee" stroke="#222" stroke-width="2"/>
+<text x="407.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Review</text>
+<line x1="319" y1="405" x2="496" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="407.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Evidence is</text>
+<text x="407.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >challenged for</text>
+<text x="407.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >authority</text>
+<line x1="514" y1="420" x2="531" y2="420" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="535" y="345" width="205" height="185" rx="6" fill="#eef6ee" stroke="#222" stroke-width="2"/>
+<text x="637.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Active Use</text>
+<line x1="549" y1="405" x2="726" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="637.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Artifact guides</text>
+<text x="637.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >operation and</text>
+<text x="637.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >governance</text>
+<line x1="744" y1="420" x2="761" y2="420" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="765" y="345" width="205" height="185" rx="6" fill="#fff7e6" stroke="#222" stroke-width="2"/>
+<text x="867.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Refresh</text>
+<line x1="779" y1="405" x2="956" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="867.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Update when</text>
+<text x="867.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >triggered by</text>
+<text x="867.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >new evidence</text>
+<line x1="974" y1="420" x2="991" y2="420" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="995" y="345" width="205" height="185" rx="6" fill="#fff7e6" stroke="#222" stroke-width="2"/>
+<text x="1097.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Supersede</text>
+<line x1="1009" y1="405" x2="1186" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="1097.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >New artifact</text>
+<text x="1097.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >replaces old</text>
+<text x="1097.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >with links</text>
+<line x1="1204" y1="420" x2="1221" y2="420" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1225" y="345" width="205" height="185" rx="6" fill="#f5f5f5" stroke="#222" stroke-width="2"/>
+<text x="1327.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Retire</text>
+<line x1="1239" y1="405" x2="1416" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="1327.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Remove active</text>
+<text x="1327.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >operational</text>
+<text x="1327.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >authority</text>
+<line x1="1434" y1="420" x2="1451" y2="420" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1455" y="345" width="205" height="185" rx="6" fill="#f5f5f5" stroke="#222" stroke-width="2"/>
+<text x="1557.5" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Archive</text>
+<line x1="1469" y1="405" x2="1646" y2="405" stroke="#222" stroke-width="1.5"/>
+<text x="1557.5" y="439" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Preserve as</text>
+<text x="1557.5" y="468" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >historical</text>
+<text x="1557.5" y="497" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >evidence</text>
+<rect x="175" y="585" width="1350" height="120" rx="8" fill="#f8fbff" stroke="#26364a" stroke-width="2"/>
+<text x="850.0" y="620" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Freshness Status Must Be Visible</text>
+<rect x="217.5" y="648" width="190" height="38" rx="4" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<text x="312.5" y="672" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111" >Current</text>
+<rect x="432.5" y="648" width="190" height="38" rx="4" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<text x="527.5" y="672" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111" >Current with Conditions</text>
+<rect x="647.5" y="648" width="190" height="38" rx="4" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<text x="742.5" y="672" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111" >Needs Review</text>
+<rect x="862.5" y="648" width="190" height="38" rx="4" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<text x="957.5" y="672" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111" >Superseded</text>
+<rect x="1077.5" y="648" width="190" height="38" rx="4" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<text x="1172.5" y="672" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111" >Retired</text>
+<rect x="1292.5" y="648" width="190" height="38" rx="4" fill="#fff" stroke="#555" stroke-width="1.5"/>
+<text x="1387.5" y="672" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#111" >Archived Evidence</text>
+<rect x="230" y="750" width="480" height="130" rx="8" fill="#f3f7fb" stroke="#222" stroke-width="2"/>
+<text x="470" y="785" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#111" >Ownership Matrix</text>
+<text x="470" y="822" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Role-based owners make refresh, correction,</text>
+<text x="470" y="851" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >and follow-up responsibility inspectable.</text>
+<rect x="990" y="750" width="480" height="130" rx="8" fill="#fff7e6" stroke="#222" stroke-width="2"/>
+<text x="1230" y="785" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#111" >Stewardship Review</text>
+<text x="1230" y="822" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >Review checks whether repository memory</text>
+<text x="1230" y="851" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#111" >remains useful, current, owned, and linked.</text>
+<line x1="470" y1="705" x2="470" y2="750" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1230" y1="705" x2="1230" y2="750" stroke="#111" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="240" y="920" width="1220" height="85" rx="6" fill="#fffdf6" stroke="#222" stroke-width="2"/>
+<text x="850.0" y="953" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#111" >Repository Stewardship Principle</text>
+<text x="850.0" y="985" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#111" >Repository memory is maintained over time; it is not simply accumulated.</text>
+</svg>

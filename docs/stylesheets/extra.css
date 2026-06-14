@@ -1,0 +1,1108 @@
+/* ETIS MkDocs Material Site Styles
+   File location: docs/stylesheets/extra.css
+*/
+
+:root {
+  --etis-navy: #06142d;
+  --etis-deep: #020714;
+  --etis-blue: #0f5ed7;
+  --etis-gold: #f2bf58;
+  --etis-ink: #07152c;
+  --etis-muted: #526179;
+  --etis-line: #d8e0ee;
+  --etis-soft: #f6f8fc;
+}
+
+.md-header, .md-tabs { background: linear-gradient(90deg, var(--etis-deep), var(--etis-navy)); }
+.md-header__title { font-weight: 700; }
+.md-main__inner { padding-top: 1rem; }
+.md-grid { max-width: 72rem; }
+.md-content { max-width: none; }
+.md-typeset { font-size: .87rem; line-height: 1.68; }
+.md-typeset p { margin-top: .72em; margin-bottom: .72em; }
+.md-typeset h1 {
+  color: var(--etis-navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: -.015em;
+  line-height: 1.08;
+  margin-top: .25rem;
+  margin-bottom: 1.35rem;
+  padding-bottom: .65rem;
+  border-bottom: 2px solid rgba(242,191,88,.55);
+}
+.md-typeset h2 { color: var(--etis-navy); font-weight: 700; margin-top: 1.75rem; }
+.chapter-title-main { display: block; margin-top: .55rem; font-size: 1.12em; }
+.md-typeset img { display: block; max-width: 100%; margin: 1.25rem auto .75rem; }
+
+.md-nav--primary > .md-nav__title { font-size: 0; }
+.md-nav--primary > .md-nav__title::after { content: "Book Navigation"; font-size: .8rem; font-weight: 800; color: var(--etis-navy); }
+.md-nav--secondary > .md-nav__title { font-size: 0; }
+.md-nav--secondary > .md-nav__title::after { content: "Chapter Contents"; font-size: .8rem; font-weight: 800; color: var(--etis-navy); }
+.md-nav__link { line-height: 1.35; }
+.md-nav__item .md-nav__link--active { color: var(--etis-blue); font-weight: 700; }
+
+.md-footer { background: linear-gradient(90deg, var(--etis-deep), var(--etis-navy)); }
+.md-footer-meta__inner .md-copyright__highlight,
+.md-footer-meta__inner .md-copyright { font-size: 0; }
+.md-footer-meta__inner .md-copyright::before {
+  content: "Engineering Trustworthy Intelligent Systems";
+  display: block; font-size: .72rem; font-weight: 700; color: rgba(255,255,255,.92); margin-bottom: .2rem;
+}
+.md-footer-meta__inner .md-copyright::after {
+  content: "© William T. O'Connell, Ph.D.";
+  display: block;
+  font-size: .68rem;
+  color: rgba(255,255,255,.76);
+}
+
+/* Landing reset */
+.md-main__inner:has(.etis-page) { padding-top: 0 !important; max-width: none !important; }
+.md-content__inner:has(.etis-page) { margin: 0 !important; padding: 0 !important; }
+.md-content__inner:has(.etis-page)::before { display: none !important; }
+.md-content:has(.etis-page), .md-content__inner:has(.etis-page), .md-typeset:has(.etis-page) { max-width: none !important; }
+
+.etis-page { color: var(--etis-ink); background: #fff; width: 100%; }
+
+/* Hero: polished publication-cover experience */
+body:has(.etis-page) .md-header,
+body:has(.etis-page) .md-tabs {
+  background: linear-gradient(90deg, #01040c 0%, #06142d 48%, #09224a 100%);
+  border-bottom: 1px solid rgba(143,198,255,.18);
+  box-shadow: 0 10px 28px rgba(0,0,0,.24);
+}
+
+.etis-hero-final {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  background:
+    radial-gradient(circle at 76% 18%, rgba(31,122,255,.34), transparent 25%),
+    radial-gradient(circle at 47% 42%, rgba(242,191,88,.16), transparent 24%),
+    radial-gradient(circle at 88% 73%, rgba(15,94,215,.22), transparent 31%),
+    linear-gradient(90deg, #020714 0%, #06142d 42%, #0b2b57 76%, #09224a 100%);
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+  isolation: isolate;
+  border-bottom: 1px solid rgba(216,224,238,.18);
+}
+.etis-hero-final::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(115deg, rgba(255,255,255,.035) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(255,255,255,.022) 1px, transparent 1px),
+    radial-gradient(circle at 82% 28%, rgba(74,163,255,.18) 0 1px, transparent 2px),
+    radial-gradient(circle at 72% 64%, rgba(74,163,255,.15) 0 1px, transparent 2px),
+    radial-gradient(circle at 92% 50%, rgba(242,191,88,.13) 0 1px, transparent 2px);
+  background-size: 86px 86px, 86px 86px, 118px 118px, 142px 142px, 170px 170px;
+  opacity: .62;
+}
+.etis-hero-final::after {
+  content: "";
+  position: absolute;
+  inset: auto -8vw 0 -8vw;
+  height: 43%;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(to top, rgba(1,4,12,.72), transparent 72%),
+    radial-gradient(ellipse at 24% 100%, rgba(15,94,215,.28), transparent 46%),
+    radial-gradient(ellipse at 78% 100%, rgba(0,0,0,.42), transparent 55%);
+  opacity: .92;
+}
+.etis-hero-final-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 1.45rem 2.4rem 1.2rem;
+  display: grid;
+  grid-template-columns: minmax(420px, 560px) minmax(0, 1fr);
+  gap: 3rem;
+  align-items: center;
+  min-height: 690px;
+}
+.etis-book-column {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 100%;
+  position: relative;
+}
+.etis-book-column::before {
+  content: "";
+  position: absolute;
+  width: min(82%, 520px);
+  height: 42%;
+  left: 10%;
+  bottom: 2.5rem;
+  background: radial-gradient(ellipse at center, rgba(15,94,215,.26), transparent 68%);
+  filter: blur(2px);
+  opacity: .9;
+}
+.etis-book-cover {
+  position: relative;
+  z-index: 1;
+  width: min(100%, 560px);
+  margin: 0;
+  filter:
+    drop-shadow(0 46px 44px rgba(0,0,0,.68))
+    drop-shadow(0 0 22px rgba(31,122,255,.22));
+  transform: perspective(1200px) rotateY(-5deg) rotateX(1deg);
+  transform-origin: center bottom;
+}
+.etis-framework-kicker {
+  color: var(--etis-gold);
+  text-transform: uppercase;
+  letter-spacing: .30em;
+  font-weight: 900;
+  margin-bottom: .55rem;
+  text-shadow: 0 0 18px rgba(242,191,88,.16);
+}
+.etis-wordmark {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(6.25rem, 10.9vw, 10.35rem);
+  line-height: .78;
+  color: var(--etis-gold);
+  font-weight: 800;
+  letter-spacing: .115em;
+  text-shadow: 0 5px 0 rgba(0,0,0,.14), 0 0 34px rgba(242,191,88,.18);
+}
+.etis-wordmark-rule {
+  height: 2px;
+  width: min(610px, 86%);
+  background: linear-gradient(90deg, transparent, rgba(242,191,88,.95), transparent);
+  margin: .8rem 0 .55rem;
+  box-shadow: 0 0 18px rgba(242,191,88,.22);
+}
+.etis-wordmark-subtitle {
+  color: #f4f8ff;
+  text-transform: uppercase;
+  letter-spacing: .31em;
+  font-weight: 900;
+  font-size: .96rem;
+  margin-bottom: 1.05rem;
+}
+.etis-hero-copy-final {
+  max-width: 760px;
+}
+.etis-hero-copy-final h1 {
+  color: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3rem, 5vw, 4.85rem);
+  line-height: 1.01;
+  margin: .35rem 0 .85rem;
+  border: none;
+  padding: 0;
+  text-shadow: 0 5px 28px rgba(0,0,0,.30);
+}
+.etis-hero-gold {
+  color: var(--etis-gold);
+  font-size: clamp(1.22rem, 2.05vw, 1.62rem);
+  line-height: 1.35;
+  margin: 0 0 1.08rem;
+  text-shadow: 0 0 18px rgba(242,191,88,.10);
+}
+.etis-hero-copy-text {
+  color: #eaf2ff;
+  font-size: 1.06rem;
+  line-height: 1.6;
+  max-width: 710px;
+  margin-bottom: 1.35rem;
+}
+.etis-hero-buttons-final {
+  display: grid;
+  grid-template-columns: 1.24fr repeat(4, 1fr);
+  gap: .82rem;
+  max-width: 870px;
+}
+.etis-hero-button {
+  color: #fff !important;
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .58rem;
+  min-height: 4.15rem;
+  padding: .78rem .78rem;
+  border-radius: .48rem;
+  border: 1px solid rgba(255,255,255,.40);
+  background: linear-gradient(180deg, rgba(255,255,255,.115), rgba(255,255,255,.055));
+  text-align: center;
+  font-weight: 850;
+  line-height: 1.12;
+  text-transform: uppercase;
+  white-space: normal;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.12), 0 14px 26px rgba(0,0,0,.18);
+  transition: transform .16s ease, border-color .16s ease, background .16s ease, box-shadow .16s ease;
+}
+.etis-hero-button:hover {
+  transform: translateY(-2px);
+  border-color: rgba(242,191,88,.70);
+  background: linear-gradient(180deg, rgba(255,255,255,.16), rgba(255,255,255,.075));
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.16), 0 18px 32px rgba(0,0,0,.24);
+}
+.etis-hero-button strong { display: block; font-size: .80rem; letter-spacing: .035em; }
+.etis-hero-button small { display: block; font-size: .66rem; opacity: .92; margin-top: .18rem; text-transform: none; }
+.etis-primary-button {
+  background: linear-gradient(135deg,#0f5ed7,#1f7aff) !important;
+  border-color: #74afff;
+}
+.etis-primary-button:hover { border-color: #f2bf58; }
+.etis-button-icon, .etis-download-icon { font-size: 1.45rem; }
+
+/* Main three columns */
+.etis-main-grid {
+  max-width: 1380px; margin: 0 auto; padding: 2rem 2.1rem 2.45rem;
+  display: grid; grid-template-columns: .95fr 1.08fr 1fr; gap: 2.2rem;
+}
+.etis-main-column { border-right: 1px solid var(--etis-line); padding-right: 1.45rem; }
+.etis-main-column:last-child { border-right: 0; }
+.etis-main-column h2, .etis-repo-section h2 {
+  color: var(--etis-navy); font-family: Georgia, "Times New Roman", serif; font-size: 1.72rem; margin: 0 0 .55rem;
+}
+.etis-short-rule { width: 68px; height: 3px; background: var(--etis-blue); margin: .25rem 0 1.1rem; }
+.etis-checks { list-style: none !important; padding: 0 !important; margin: 1.35rem 0 1.2rem !important; }
+.etis-checks li { display: grid; grid-template-columns: 1.45rem 1fr; gap: .65rem; margin: 1.05rem 0; }
+.etis-checks li::before {
+  content: "✓"; width: 1.34rem; height: 1.34rem; background: var(--etis-blue); color: #fff; border-radius: 50%;
+  text-align: center; line-height: 1.34rem; font-weight: 900; font-size: .82rem;
+}
+.etis-inline-link { color: var(--etis-blue) !important; font-weight: 800; text-decoration: none !important; }
+
+.etis-core-row { display: grid; grid-template-columns: 3.4rem 1fr; gap: .85rem; margin: 1rem 0; align-items: start; }
+.etis-core-icon {
+  width: 2.75rem; height: 2.75rem; display: flex; align-items: center; justify-content: center;
+  background: var(--etis-navy); color: var(--etis-gold); border-radius: 50%; font-weight: 900; font-size: 1.05rem;
+}
+.etis-core-row strong { color: var(--etis-navy); display: block; margin-bottom: .18rem; }
+.etis-core-row p { color: var(--etis-muted); margin: 0 !important; line-height: 1.42; }
+
+.etis-framework-tile {
+  display: grid; grid-template-columns: 3.4rem 1.05fr 1fr; min-height: 102px; margin: .72rem 0;
+  overflow: hidden; border-radius: .45rem; text-decoration: none !important; color: #fff !important; box-shadow: 0 10px 18px rgba(7,21,44,.16);
+}
+.etis-framework-tile img { width: 100%; height: 100%; object-fit: cover; margin: 0; }
+.etis-framework-icon { display: flex; align-items: center; justify-content: center; font-size: 1.9rem; border-right: 1px solid rgba(255,255,255,.22); }
+.etis-framework-copy { padding: .82rem .85rem; }
+.etis-framework-copy strong { font-family: Georgia, "Times New Roman", serif; font-size: 1.02rem; line-height: 1.12; display: block; margin-bottom: .2rem; }
+.etis-framework-copy small { display: block; font-size: .72rem; line-height: 1.26; opacity: .94; }
+.etis-framework-tile.blue { background: linear-gradient(135deg,#0b2b57,#174273); }
+.etis-framework-tile.teal { background: linear-gradient(135deg,#315d5f,#609b97); }
+.etis-framework-tile.purple { background: linear-gradient(135deg,#2c2d70,#5f56c8); }
+.etis-framework-tile.gold { background: linear-gradient(135deg,#8a6722,#d49b35); }
+
+/* Repository section */
+.etis-repo-section {
+  width: 100vw; margin-left: calc(50% - 50vw); margin-right: calc(50% - 50vw);
+  background: var(--etis-soft); border-top: 1px solid var(--etis-line); border-bottom: 1px solid var(--etis-line);
+}
+.etis-repo-inner { max-width: 1380px; margin: 0 auto; padding: 2.15rem 2.1rem 2.55rem; text-align: center; }
+.etis-flow-line {
+  display: grid; grid-template-columns: 1fr 18px 1fr 18px 1fr 18px 1fr 18px 1fr 18px 1fr 18px 1fr;
+  gap: .55rem; margin: 1.65rem 0 1.1rem; align-items: center;
+}
+.etis-flow-card, .etis-capability-row div {
+  background: #fff; border: 1px solid var(--etis-line); border-radius: .55rem; padding: .95rem .7rem; min-height: 128px;
+}
+.etis-flow-card span, .etis-capability-row span { display: block; color: var(--etis-blue); font-size: 1.75rem; margin-bottom: .42rem; }
+.etis-flow-card strong, .etis-capability-row strong { display: block; color: var(--etis-navy); margin-bottom: .25rem; }
+.etis-flow-card small, .etis-capability-row small { display: block; color: var(--etis-muted); line-height: 1.35; }
+.etis-flow-arrow { color: #65728a; font-size: 1.4rem; font-weight: 800; }
+.etis-evidence-sentence { color: var(--etis-blue); }
+.etis-capability-row { display: grid; grid-template-columns: repeat(6, 1fr); gap: .85rem; margin-top: 1.4rem; }
+
+/* Footer resource strip and clickable legal links */
+.etis-resource-strip {
+  width: 100vw; margin-left: calc(50% - 50vw); margin-right: calc(50% - 50vw);
+  background: linear-gradient(90deg,var(--etis-deep),var(--etis-navy)); color: #fff;
+  display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 0;
+  padding: 1.35rem max(2rem, calc((100vw - 1380px) / 2));
+}
+.etis-resource-strip a {
+  color: #fff !important; text-decoration: none !important; display: grid; grid-template-columns: 2.8rem 1fr;
+  gap: .85rem; align-items: center; padding: .9rem 1.2rem; border-right: 1px solid rgba(255,255,255,.13);
+}
+.etis-resource-strip span { font-size: 1.85rem; color: #eaf2ff; }
+.etis-resource-strip strong { display: block; font-size: 1rem; margin-bottom: .16rem; }
+.etis-resource-strip small { display: block; color: rgba(255,255,255,.78); line-height: 1.32; max-width: 15rem; }
+
+.etis-footer-identity {
+  font-size: .68rem;
+  line-height: 1.65;
+  color: rgba(255,255,255,.76);
+}
+
+.etis-footer-title {
+  font-size: .72rem;
+  font-weight: 700;
+  color: rgba(255,255,255,.92);
+  margin-bottom: .15rem;
+}
+
+.etis-footer-copyright {
+  margin-bottom: .2rem;
+}
+
+.etis-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .9rem;
+}
+
+.etis-footer-links a {
+  color: rgba(255,255,255,.78) !important;
+  text-decoration: none !important;
+}
+
+.etis-footer-links a:hover {
+  color: #ffffff !important;
+  text-decoration: underline !important;
+}
+
+.md-footer {
+  margin-top: 0 !important;
+}
+
+.md-footer-nav {
+  margin-bottom: 0 !important;
+  padding-bottom: .25rem !important;
+}
+
+.md-footer-meta {
+  padding-top: .25rem !important;
+}
+
+.md-footer-meta__inner {
+  padding-top: .25rem !important;
+  padding-bottom: .7rem !important;
+}
+
+.etis-resource-strip {
+  padding-bottom: .9rem !important;
+}
+
+.etis-footer-identity {
+  margin-top: 0 !important;
+}
+
+.etis-footer-links {
+  margin-top: .1rem;
+}
+
+/* ------------------------------------------- */
+
+
+/* ------------------------------------------- */
+/* Strong Material footer compression */
+/* ------------------------------------------- */
+
+/* Compress the Material previous/next navigation band. */
+.md-footer__inner {
+  padding-top: .35rem !important;
+  padding-bottom: .35rem !important;
+  min-height: auto !important;
+}
+
+.md-footer__link {
+  padding-top: .25rem !important;
+  padding-bottom: .25rem !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.md-footer__title {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  line-height: 1.2 !important;
+}
+
+.md-footer__direction {
+  margin-bottom: .05rem !important;
+  font-size: .62rem !important;
+}
+
+.md-footer__button {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Pull the copyright/legal block closer to the nav band. */
+.md-footer-meta {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.md-footer-meta__inner {
+  padding-top: .35rem !important;
+  padding-bottom: .65rem !important;
+}
+
+/* Tighten the landing-page resource strip above the Material footer. */
+.etis-resource-strip {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+/* Keep custom copyright block compact. */
+.etis-footer-identity {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.etis-footer-links {
+  margin-top: .05rem !important;
+}
+
+/* ------------------------------------------- */
+
+
+/* ------------------------------------------- */
+/* Landing page footer final polish */
+/* ------------------------------------------- */
+
+/* On the landing page, the Material Next/Previous block creates a large empty band.
+   The landing page already has clear Read Online / Title Page entry points, so hide
+   that block only when the page contains the custom ETIS landing markup. */
+body:has(.etis-page) .md-footer__inner {
+  display: none !important;
+}
+
+/* Pull the copyright/legal block directly under the ETIS resource strip on landing. */
+body:has(.etis-page) .md-footer-meta {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+body:has(.etis-page) .md-footer-meta__inner {
+  padding-top: .65rem !important;
+  padding-bottom: .8rem !important;
+}
+
+/* Slightly tighten the resource strip so the footer feels like one unified unit. */
+body:has(.etis-page) .etis-resource-strip {
+  padding-top: 1.05rem !important;
+  padding-bottom: 1.05rem !important;
+}
+
+/* ------------------------------------------- */
+
+@media screen and (max-width: 1100px) {
+  .etis-hero-final-inner, .etis-main-grid { grid-template-columns: 1fr; }
+  .etis-book-cover { max-width: 330px; }
+  .etis-hero-buttons-final, .etis-capability-row, .etis-resource-strip { grid-template-columns: repeat(2,1fr); }
+  .etis-main-column { border-right: 0; border-bottom: 1px solid var(--etis-line); padding-bottom: 1.4rem; }
+  .etis-flow-line { grid-template-columns: repeat(2,1fr); }
+  .etis-flow-arrow { display: none; }
+}
+@media screen and (max-width: 640px) {
+  .etis-hero-buttons-final, .etis-capability-row, .etis-resource-strip, .etis-flow-line { grid-template-columns: 1fr; }
+  .etis-framework-tile { grid-template-columns: 3.4rem 1fr; }
+  .etis-framework-tile img { display: none; }
+  .etis-hero-final-inner { padding: 1.2rem 1rem .9rem; min-height: auto; }
+  .etis-final-links { justify-content: center; flex-wrap: wrap; gap: 1rem; }
+}
+
+/* ------------------------------------------- */
+/* ETIS Landing Stabilization Patch */
+/* Final override block: keep this at the very end of extra.css */
+/* ------------------------------------------- */
+
+/* Remove the white band between the Material header/tabs and the ETIS hero. */
+body:has(.etis-page) .md-main,
+body:has(.etis-page) .md-main__inner,
+body:has(.etis-page) .md-content,
+body:has(.etis-page) .md-content__inner,
+body:has(.etis-page) .md-typeset,
+body:has(.etis-page) .etis-page {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Keep the top navigation slightly larger and publication-grade. */
+body:has(.etis-page) .md-tabs__link {
+  font-size: .88rem !important;
+  font-weight: 650 !important;
+}
+
+/* Search alignment: lower it from the too-high position but not as low as before. */
+@media screen and (min-width: 1220px) {
+  body:has(.etis-page) .md-search {
+    transform: translateY(-2px) !important;
+  }
+}
+
+/* Hero button layout: restore icons, prevent label wrapping, and give Read/Download enough room. */
+body:has(.etis-page) .etis-hero-buttons-final {
+  display: grid !important;
+  grid-template-columns: 1.48fr 1.02fr 1.02fr 1.24fr 1.24fr !important;
+  gap: .88rem !important;
+  max-width: 960px !important;
+}
+
+body:has(.etis-page) .etis-hero-button {
+  min-width: 0 !important;
+  white-space: nowrap !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+  gap: .62rem !important;
+  padding-left: .92rem !important;
+  padding-right: .92rem !important;
+}
+
+body:has(.etis-page) .etis-hero-button strong {
+  white-space: nowrap !important;
+  font-size: .80rem !important;
+  letter-spacing: .015em !important;
+}
+
+body:has(.etis-page) .etis-hero-button small {
+  white-space: nowrap !important;
+  font-size: .65rem !important;
+}
+
+body:has(.etis-page) .etis-button-text {
+  display: block !important;
+  min-width: 0 !important;
+}
+
+body:has(.etis-page) .etis-book-icon,
+body:has(.etis-page) .etis-download-icon {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  flex: 0 0 auto !important;
+  width: 2.05rem !important;
+  height: 2.05rem !important;
+  color: #ffffff !important;
+}
+
+body:has(.etis-page) .etis-book-icon svg,
+body:has(.etis-page) .etis-download-icon svg {
+  display: block !important;
+  width: 2.05rem !important;
+  height: 2.05rem !important;
+  fill: none !important;
+  stroke: currentColor !important;
+}
+
+/* Middle section: restore balanced column width while keeping stronger framework cards. */
+body:has(.etis-page) .etis-main-grid {
+  max-width: 1480px !important;
+  grid-template-columns: 1.10fr 1.22fr 1.26fr !important;
+  gap: 2.05rem !important;
+  padding-left: 2.25rem !important;
+  padding-right: 2.25rem !important;
+}
+
+body:has(.etis-page) .etis-core-icon {
+  width: 3.15rem !important;
+  height: 3.15rem !important;
+  color: #ffffff !important;
+  background: var(--etis-navy) !important;
+}
+
+body:has(.etis-page) .etis-core-icon svg {
+  width: 2.05rem !important;
+  height: 2.05rem !important;
+  fill: none !important;
+  stroke: currentColor !important;
+  stroke-width: 3 !important;
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
+
+body:has(.etis-page) .etis-core-row {
+  grid-template-columns: 3.65rem 1fr !important;
+  gap: .9rem !important;
+}
+
+body:has(.etis-page) .etis-core-row strong {
+  font-weight: 800 !important;
+}
+
+/* Framework cards: restore visible icons and slightly wider image/card proportions. */
+body:has(.etis-page) .etis-framework-tile {
+  grid-template-columns: 3.65rem 1.08fr 1.18fr !important;
+  min-height: 94px !important;
+}
+
+body:has(.etis-page) .etis-framework-icon {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: #ffffff !important;
+}
+
+body:has(.etis-page) .etis-framework-icon svg {
+  width: 2.1rem !important;
+  height: 2.1rem !important;
+  fill: none !important;
+  stroke: currentColor !important;
+  stroke-width: 3 !important;
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
+
+body:has(.etis-page) .etis-framework-copy {
+  padding: .74rem .84rem !important;
+}
+
+body:has(.etis-page) .etis-framework-copy strong {
+  font-size: .98rem !important;
+  line-height: 1.10 !important;
+}
+
+/* Responsive safety: do not force desktop button columns on smaller screens. */
+@media screen and (max-width: 1100px) {
+  body:has(.etis-page) .etis-hero-buttons-final,
+  body:has(.etis-page) .etis-capability-row,
+  body:has(.etis-page) .etis-resource-strip {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  body:has(.etis-page) .etis-main-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  body:has(.etis-page) .etis-hero-buttons-final,
+  body:has(.etis-page) .etis-capability-row,
+  body:has(.etis-page) .etis-resource-strip,
+  body:has(.etis-page) .etis-flow-line {
+    grid-template-columns: 1fr !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button strong,
+  body:has(.etis-page) .etis-hero-button small {
+    white-space: normal !important;
+  }
+}
+
+/* ------------------------------------------- */
+/* ETIS Landing Button and Framework Width Correction Patch */
+/* ------------------------------------------- */
+
+@media screen and (min-width: 1220px) {
+  body:has(.etis-page) .md-main__inner,
+  body:has(.etis-page) .md-content,
+  body:has(.etis-page) .md-content__inner,
+  body:has(.etis-page) .md-typeset,
+  body:has(.etis-page) .etis-page {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  body:has(.etis-page) .md-search {
+    transform: translateY(-1px) !important;
+  }
+
+  body:has(.etis-page) .md-tabs__link {
+    font-size: .84rem !important;
+    font-weight: 650 !important;
+  }
+
+  body:has(.etis-page) .etis-hero-copy-final {
+    max-width: 875px !important;
+  }
+
+  body:has(.etis-page) .etis-hero-buttons-final {
+    grid-template-columns: 1.58fr .92fr .92fr 1.18fr 1.42fr !important;
+    max-width: 875px !important;
+    gap: .68rem !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button {
+    min-width: 0 !important;
+    min-height: 4.12rem !important;
+    padding: .72rem .82rem !important;
+    gap: .52rem !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button strong,
+  body:has(.etis-page) .etis-hero-button small,
+  body:has(.etis-page) .etis-button-text strong,
+  body:has(.etis-page) .etis-button-text small {
+    white-space: nowrap !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button strong {
+    font-size: .755rem !important;
+    letter-spacing: .016em !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button small {
+    font-size: .61rem !important;
+  }
+
+  body:has(.etis-page) .etis-book-icon svg,
+  body:has(.etis-page) .etis-download-icon svg {
+    width: 2.05rem !important;
+    height: 2.05rem !important;
+    display: block !important;
+    fill: none !important;
+    stroke: currentColor !important;
+  }
+
+  body:has(.etis-page) .etis-download-icon svg {
+    width: 2rem !important;
+    height: 2rem !important;
+  }
+
+  body:has(.etis-page) .etis-main-grid {
+    max-width: 1500px !important;
+    grid-template-columns: 1.05fr 1.24fr 1.48fr !important;
+    gap: 2.15rem !important;
+  }
+
+  body:has(.etis-page) .etis-framework-tile {
+    grid-template-columns: 4.25rem minmax(190px, 1.08fr) minmax(195px, .95fr) !important;
+    min-height: 96px !important;
+    margin: .66rem 0 !important;
+    border-radius: .52rem !important;
+  }
+
+  body:has(.etis-page) .etis-framework-copy {
+    padding: .74rem .86rem !important;
+    min-width: 0 !important;
+  }
+
+  body:has(.etis-page) .etis-framework-copy strong,
+  body:has(.etis-page) .etis-framework-copy small {
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+  }
+
+  body:has(.etis-page) .etis-framework-copy strong {
+    font-size: .96rem !important;
+    line-height: 1.06 !important;
+  }
+
+  body:has(.etis-page) .etis-framework-copy small {
+    font-size: .66rem !important;
+    line-height: 1.22 !important;
+  }
+}
+
+/* ETIS Landing Button Width Final Adjustment */
+@media screen and (min-width: 1220px) {
+  .etis-hero-buttons-final {
+    grid-template-columns: 1.62fr .88fr .88fr 1.08fr 1.34fr !important;
+    max-width: 1010px !important;
+    gap: .86rem !important;
+  }
+
+  .etis-hero-button {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  .etis-hero-button strong {
+    white-space: nowrap !important;
+  }
+}
+
+/* ETIS Middle Section Column Balance Final Polish */
+@media screen and (min-width: 1220px) {
+  .etis-main-grid {
+    max-width: 1480px !important;
+    grid-template-columns: 1.08fr 1.18fr 1.26fr !important;
+    gap: 2.35rem !important;
+  }
+
+  .etis-framework-tile {
+    grid-template-columns: 3.55rem 1.18fr 1.08fr !important;
+  }
+
+  .etis-framework-copy strong {
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    hyphens: none !important;
+  }
+}
+
+/* ETIS Header Logo Size Control */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 1.9rem !important;
+  width: auto !important;
+  max-width: 3.2rem !important;
+  object-fit: contain !important;
+  object-position: left center !important;
+}
+
+/* ETIS Hero Button Interior Spacing Recovery */
+@media screen and (min-width: 1220px) {
+  .etis-primary-button,
+  .etis-hero-buttons-final a:last-child {
+    justify-content: center !important;
+    gap: .82rem !important;
+    padding-left: 1.15rem !important;
+    padding-right: 1.15rem !important;
+  }
+
+  .etis-primary-button .etis-button-text,
+  .etis-hero-buttons-final a:last-child .etis-button-text {
+    text-align: center !important;
+    min-width: auto !important;
+  }
+
+  .etis-primary-button svg,
+  .etis-hero-buttons-final a:last-child svg {
+    width: 2.05rem !important;
+    height: 2.05rem !important;
+    flex: 0 0 auto !important;
+  }
+}
+
+/* ETIS Hero Button Optical Alignment */
+@media screen and (min-width: 1220px) {
+
+  .etis-hero-buttons-final a:last-child .etis-button-text {
+    margin-left: -0.15rem !important;
+  }
+
+}
+
+/* ETIS Landing Bottom Polish Patch */
+@media screen and (min-width: 1220px) {
+
+  /* Give the repository section a little more breathing room */
+  .etis-repo-inner {
+    padding-top: 2.55rem !important;
+    padding-bottom: 2.85rem !important;
+  }
+
+  /* Make the repository flow feel more intentional */
+  .etis-flow-card {
+    min-height: 136px !important;
+    padding: 1.05rem .82rem !important;
+  }
+
+  .etis-flow-card span {
+    font-size: 2rem !important;
+    margin-bottom: .48rem !important;
+  }
+
+  .etis-flow-arrow {
+    font-size: 1.7rem !important;
+    color: #40516d !important;
+  }
+
+  /* Strengthen the second capability row */
+  .etis-capability-row div {
+    min-height: 142px !important;
+    padding: 1.05rem .9rem !important;
+  }
+
+  .etis-capability-row span {
+    font-size: 2.05rem !important;
+    margin-bottom: .5rem !important;
+  }
+
+  /* Make the bottom resource strip more like a professional destination bar */
+  .etis-resource-strip {
+    padding-top: 1.45rem !important;
+    padding-bottom: 1.45rem !important;
+  }
+
+  .etis-resource-strip a {
+    grid-template-columns: 3.35rem 1fr !important;
+    gap: 1rem !important;
+    padding: 1.15rem 1.35rem !important;
+    transition: background .18s ease, transform .18s ease, box-shadow .18s ease;
+  }
+
+  .etis-resource-strip a:hover {
+    background: rgba(255,255,255,.055) !important;
+    transform: translateY(-2px);
+  }
+
+  .etis-resource-strip span {
+    font-size: 2.25rem !important;
+    line-height: 1 !important;
+    color: #f4f8ff !important;
+  }
+
+  .etis-resource-strip strong {
+    font-size: 1.12rem !important;
+    font-weight: 800 !important;
+    margin-bottom: .2rem !important;
+  }
+
+  .etis-resource-strip small {
+    font-size: .78rem !important;
+    line-height: 1.38 !important;
+  }
+}
+
+/* ETIS Landing Bottom Final Polish Patch */
+@media screen and (min-width: 1220px) {
+
+  /* Repository flow cards */
+  .etis-flow-card {
+    min-height: 142px !important;
+    padding: 1.15rem .9rem !important;
+  }
+
+  .etis-flow-card span {
+    font-size: 2.35rem !important;
+    margin-bottom: .55rem !important;
+    color: var(--etis-blue) !important;
+  }
+
+  .etis-flow-card strong {
+    font-size: 1.02rem !important;
+    font-weight: 850 !important;
+    letter-spacing: -.01em !important;
+  }
+
+  .etis-flow-card small {
+    font-size: .78rem !important;
+    line-height: 1.38 !important;
+  }
+
+  .etis-flow-arrow {
+    font-size: 2rem !important;
+    color: #40516d !important;
+    font-weight: 900 !important;
+  }
+
+  /* Capability row */
+  .etis-capability-row div {
+    min-height: 148px !important;
+    padding: 1.15rem .95rem !important;
+  }
+
+  .etis-capability-row span {
+    font-size: 2.25rem !important;
+    margin-bottom: .55rem !important;
+  }
+
+  .etis-capability-row strong {
+    font-size: 1.02rem !important;
+    font-weight: 850 !important;
+  }
+
+  .etis-capability-row small {
+    font-size: .78rem !important;
+    line-height: 1.38 !important;
+  }
+
+  /* Footer resource strip */
+  .etis-resource-strip {
+    padding-top: 1.6rem !important;
+    padding-bottom: 1.6rem !important;
+  }
+
+  .etis-resource-strip a {
+    grid-template-columns: 3.6rem 1fr !important;
+    gap: 1.1rem !important;
+    align-items: center !important;
+    padding: 1.25rem 1.45rem !important;
+    transition: background .18s ease, transform .18s ease, box-shadow .18s ease;
+  }
+
+  .etis-resource-strip a:hover {
+    background: rgba(255,255,255,.06) !important;
+    transform: translateY(-2px);
+  }
+
+  .etis-resource-strip span {
+    font-size: 2.45rem !important;
+    line-height: 1 !important;
+    color: #f4f8ff !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .etis-resource-strip strong {
+    font-size: 1.18rem !important;
+    font-weight: 850 !important;
+    margin-bottom: .24rem !important;
+  }
+
+  .etis-resource-strip small {
+    font-size: .8rem !important;
+    line-height: 1.42 !important;
+  }
+}
+
+/* ------------------------------------------- */
+/* ETIS Framework Tile Hover Affordance */
+/* ------------------------------------------- */
+
+body:has(.etis-page) .etis-framework-tile {
+  transition:
+    transform .18s ease,
+    box-shadow .18s ease,
+    filter .18s ease,
+    outline-color .18s ease !important;
+}
+
+body:has(.etis-page) .etis-framework-tile:hover {
+  transform: translateY(-3px) !important;
+  box-shadow:
+    0 14px 24px rgba(7,21,44,.22),
+    0 0 0 1px rgba(242,191,88,.38) !important;
+  filter: brightness(1.06) saturate(1.04) !important;
+}
+
+/* ETIS Landing Hero Button Final Correction */
+@media screen and (min-width: 1220px) {
+  body:has(.etis-page) .etis-hero-copy-final {
+    max-width: 925px !important;
+  }
+
+  body:has(.etis-page) .etis-hero-buttons-final {
+    display: grid !important;
+    grid-template-columns: 1.82fr .88fr .88fr 1.16fr 1.50fr !important;
+    max-width: 1040px !important;
+    gap: .78rem !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: .62rem !important;
+    padding-left: .82rem !important;
+    padding-right: .82rem !important;
+    text-align: center !important;
+  }
+
+  body:has(.etis-page) .etis-button-text {
+    display: block !important;
+    flex: 0 0 auto !important;
+    text-align: center !important;
+    margin: 0 !important;
+    min-width: 0 !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button strong,
+  body:has(.etis-page) .etis-hero-button small {
+    display: block !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+  }
+
+  body:has(.etis-page) .etis-book-icon,
+  body:has(.etis-page) .etis-download-icon {
+    flex: 0 0 auto !important;
+    margin: 0 !important;
+  }
+}

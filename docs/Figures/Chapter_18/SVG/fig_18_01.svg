@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.outer{fill:#F7FAFC;stroke:#47657E;stroke-width:3}
+.center{fill:#DDEAF5;stroke:#2F536F;stroke-width:3}
+.lens{fill:#FFFFFF;stroke:#47657E;stroke-width:2.2}
+.label{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.centerlabel{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">The AI-Generated System Review Lens</text>
+
+<rect x="80" y="95" width="1040" height="745" rx="28" class="outer"/>
+
+<!-- top -->
+<rect x="470" y="135" width="260" height="72" rx="16" class="lens"/>
+<text x="600" y="171" class="label">Behavior</text>
+
+<!-- upper left -->
+<rect x="170" y="250" width="280" height="72" rx="16" class="lens"/>
+<text x="310" y="286" class="label">Assumptions</text>
+
+<!-- upper right -->
+<rect x="750" y="250" width="280" height="72" rx="16" class="lens"/>
+<text x="890" y="286" class="label">Context</text>
+
+<!-- center left -->
+<rect x="140" y="420" width="260" height="72" rx="16" class="lens"/>
+<text x="270" y="456" class="label">Authority</text>
+
+<!-- center -->
+<rect x="430" y="385" width="340" height="140" rx="22" class="center"/>
+<text x="600" y="455" class="centerlabel">AI-Generated</text>
+<text x="600" y="490" class="centerlabel">System</text>
+
+<!-- center right -->
+<rect x="800" y="420" width="260" height="72" rx="16" class="lens"/>
+<text x="930" y="456" class="label">Evidence</text>
+
+<!-- bottom left -->
+<rect x="330" y="625" width="260" height="72" rx="16" class="lens"/>
+<text x="460" y="661" class="label">Risk</text>
+
+<!-- bottom right -->
+<rect x="610" y="625" width="360" height="72" rx="16" class="lens"/>
+<text x="790" y="650" class="label">Operational</text>
+<text x="790" y="676" class="label">Consequences</text>
+
+</svg>

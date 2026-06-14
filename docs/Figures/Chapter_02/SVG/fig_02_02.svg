@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1600" viewBox="0 0 2600 1600">
+<rect width="100%" height="100%" fill="white"/>
+
+<style>
+.label{font-family:Arial,Helvetica,sans-serif;font-size:36px;font-weight:700;fill:#0B1F3A}
+.center{font-family:Arial,Helvetica,sans-serif;font-size:46px;font-weight:700;fill:#0B1F3A}
+.small{font-family:Arial,Helvetica,sans-serif;font-size:30px;fill:#374151}
+.assertion{font-family:Arial,Helvetica,sans-serif;font-size:36px;font-weight:700;fill:#0B1F3A}
+.note{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#7F1D1D}
+</style>
+
+<circle cx="1300" cy="680" r="245" fill="#F8FAFC" stroke="#0B1F3A" stroke-width="6"/>
+<text x="1300" y="650" text-anchor="middle" class="center">Operational</text>
+<text x="1300" y="715" text-anchor="middle" class="center">Reality</text>
+
+<circle cx="1300" cy="435" r="17" fill="white" stroke="#64748B" stroke-width="4"/>
+<circle cx="1512" cy="558" r="17" fill="white" stroke="#64748B" stroke-width="4"/>
+<circle cx="1512" cy="802" r="17" fill="white" stroke="#64748B" stroke-width="4"/>
+<circle cx="1300" cy="925" r="17" fill="white" stroke="#64748B" stroke-width="4"/>
+<circle cx="1088" cy="802" r="17" fill="white" stroke="#64748B" stroke-width="4"/>
+<circle cx="1088" cy="558" r="17" fill="white" stroke="#64748B" stroke-width="4"/>
+
+<rect x="965" y="90" width="670" height="130" rx="20" fill="white" stroke="#1E3A8A" stroke-width="4"/>
+<text x="1300" y="168" text-anchor="middle" class="label">Campus Operations</text>
+
+<rect x="130" y="380" width="560" height="130" rx="20" fill="white" stroke="#166534" stroke-width="4"/>
+<text x="410" y="458" text-anchor="middle" class="label">Facilities</text>
+
+<rect x="1910" y="380" width="560" height="130" rx="20" fill="white" stroke="#166534" stroke-width="4"/>
+<text x="2190" y="458" text-anchor="middle" class="label">Student Services</text>
+
+<rect x="130" y="850" width="560" height="130" rx="20" fill="white" stroke="#92400E" stroke-width="4"/>
+<text x="410" y="928" text-anchor="middle" class="label">Engineering</text>
+
+<rect x="1910" y="850" width="560" height="130" rx="20" fill="white" stroke="#92400E" stroke-width="4"/>
+<text x="2190" y="928" text-anchor="middle" class="label">Campus Safety</text>
+
+<rect x="965" y="1145" width="670" height="130" rx="20" fill="white" stroke="#6B21A8" stroke-width="4"/>
+<text x="1300" y="1223" text-anchor="middle" class="label">Governance</text>
+
+<line x1="1300" y1="220" x2="1300" y2="418" stroke="#64748B" stroke-width="5" stroke-dasharray="18 14"/>
+<line x1="690" y1="445" x2="1072" y2="551" stroke="#64748B" stroke-width="5" stroke-dasharray="18 14"/>
+<line x1="1910" y1="445" x2="1528" y2="551" stroke="#64748B" stroke-width="5" stroke-dasharray="18 14"/>
+<line x1="690" y1="915" x2="1072" y2="809" stroke="#64748B" stroke-width="5" stroke-dasharray="18 14"/>
+<line x1="1910" y1="915" x2="1528" y2="809" stroke="#64748B" stroke-width="5" stroke-dasharray="18 14"/>
+<line x1="1300" y1="1145" x2="1300" y2="942" stroke="#64748B" stroke-width="5" stroke-dasharray="18 14"/>
+
+<!-- Only change from v3: stronger assertion -->
+<rect x="730" y="1315" width="1140" height="95" rx="16" fill="white" stroke="#0B1F3A" stroke-width="3"/>
+<text x="1300" y="1374" text-anchor="middle" class="assertion">Each stakeholder sees part of the operational picture.</text>
+
+<rect x="560" y="1450" width="1480" height="95" rx="18" fill="#FEF2F2" stroke="#B91C1C" stroke-width="4"/>
+<text x="1300" y="1508" text-anchor="middle" class="note">Each perspective is valid. None is complete.</text>
+
+</svg>

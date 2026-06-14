@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1650" viewBox="0 0 2600 1650">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+
+<style>
+  .section { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill: #0B1F3A; }
+  .label { font-family: Arial, Helvetica, sans-serif; font-size: 32px; font-weight: 700; fill: #0B1F3A; }
+  .small { font-family: Arial, Helvetica, sans-serif; font-size: 34px; fill: #374151; }
+  .tiny { font-family: Arial, Helvetica, sans-serif; font-size: 32px; fill: #4B5563; }
+  .risk { font-family: Arial, Helvetica, sans-serif; font-size: 36px; font-weight: 700; fill: #7F1D1D; }
+  .riskSmall { font-family: Arial, Helvetica, sans-serif; font-size: 34px; fill: #374151; }
+</style>
+
+<!-- Visible surface region -->
+<rect x="120" y="85" width="2360" height="360" rx="28" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="3"/>
+<text x="1300" y="150" text-anchor="middle" class="section">WHAT PEOPLE SEE</text>
+
+<rect x="760" y="205" width="1080" height="155" rx="24" fill="#FFFFFF" stroke="#1E3A8A" stroke-width="5"/>
+<text x="1300" y="270" text-anchor="middle" class="label">Working Application</text>
+<text x="1300" y="322" text-anchor="middle" class="small">screens, features, responses, dashboards</text>
+
+<!-- Visibility boundary -->
+<line x1="120" y1="520" x2="2480" y2="520" stroke="#0B1F3A" stroke-width="5" stroke-dasharray="24 18"/>
+<text x="1300" y="575" text-anchor="middle" class="section">SURFACE OF VISIBILITY</text>
+
+<!-- Hidden complexity region -->
+<rect x="120" y="635" width="2360" height="650" rx="28" fill="#FFFFFF" stroke="#94A3B8" stroke-width="3"/>
+<text x="1300" y="700" text-anchor="middle" class="section">HIDDEN COMPLEXITY BELOW THE SURFACE</text>
+
+<!-- First row of hidden factors -->
+<rect x="210" y="780" width="320" height="130" rx="20" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="4"/>
+<text x="370" y="835" text-anchor="middle" class="label">Dependencies</text>
+<text x="370" y="878" text-anchor="middle" class="tiny">services and queues</text>
+
+<rect x="610" y="780" width="320" height="130" rx="20" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="4"/>
+<text x="770" y="835" text-anchor="middle" class="label">Data Flows</text>
+<text x="770" y="878" text-anchor="middle" class="tiny">sync and state</text>
+
+<rect x="1010" y="780" width="320" height="130" rx="20" fill="#F8FAFC" stroke="#92400E" stroke-width="4"/>
+<text x="1170" y="835" text-anchor="middle" class="label">Review Gaps</text>
+<text x="1170" y="878" text-anchor="middle" class="tiny">weak challenge</text>
+
+<rect x="1410" y="780" width="320" height="130" rx="20" fill="#F8FAFC" stroke="#92400E" stroke-width="4"/>
+<text x="1570" y="835" text-anchor="middle" class="label">Governance</text>
+<text x="1570" y="878" text-anchor="middle" class="tiny">authority limits</text>
+
+<rect x="1810" y="780" width="320" height="130" rx="20" fill="#F8FAFC" stroke="#6B21A8" stroke-width="4"/>
+<text x="1970" y="835" text-anchor="middle" class="label">AI Changes</text>
+<text x="1970" y="878" text-anchor="middle" class="tiny">generated work</text>
+
+<!-- Second row of hidden factors -->
+<rect x="410" y="995" width="350" height="130" rx="20" fill="#F8FAFC" stroke="#166534" stroke-width="4"/>
+<text x="585" y="1050" text-anchor="middle" class="label">Ownership</text>
+<text x="585" y="1093" text-anchor="middle" class="tiny">who is accountable?</text>
+
+<rect x="850" y="995" width="350" height="130" rx="20" fill="#F8FAFC" stroke="#166534" stroke-width="4"/>
+<text x="1025" y="1050" text-anchor="middle" class="label">Operations</text>
+<text x="1025" y="1093" text-anchor="middle" class="tiny">runtime behavior</text>
+
+<rect x="1290" y="995" width="350" height="130" rx="20" fill="#F8FAFC" stroke="#991B1B" stroke-width="4"/>
+<text x="1465" y="1050" text-anchor="middle" class="label">Observability</text>
+<text x="1465" y="1093" text-anchor="middle" class="tiny">logs and signals</text>
+
+<rect x="1730" y="995" width="350" height="130" rx="20" fill="#F8FAFC" stroke="#991B1B" stroke-width="4"/>
+<text x="1905" y="1050" text-anchor="middle" class="label">Recovery</text>
+<text x="1905" y="1093" text-anchor="middle" class="tiny">rollback and repair</text>
+
+<!-- Downward arrows from hidden region to risk -->
+<line x1="1300" y1="1285" x2="1300" y2="1370" stroke="#7F1D1D" stroke-width="6"/>
+<polygon points="1300,1405 1278,1368 1322,1368" fill="#7F1D1D"/>
+
+<!-- Risk band -->
+<rect x="300" y="1415" width="2000" height="145" rx="24" fill="#FEF2F2" stroke="#B91C1C" stroke-width="4"/>
+<text x="1300" y="1475" text-anchor="middle" class="risk">Operational Risk</text>
+<text x="1300" y="1525" text-anchor="middle" class="riskSmall">When hidden complexity is not visible, the organization eventually loses trust.</text>
+
+<!-- subtle upward connectors -->
+<line x1="1300" y1="360" x2="1300" y2="520" stroke="#CBD5E1" stroke-width="4"/>
+<line x1="1300" y1="575" x2="1300" y2="635" stroke="#CBD5E1" stroke-width="4"/>
+</svg>

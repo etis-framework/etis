@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1500" viewBox="0 0 2000 1500">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M2,2 L10,6 L2,10 Z" fill="#475569"/>
+</marker>
+<filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+<feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.12"/>
+</filter>
+</defs>
+<rect x="0" y="0" width="2000" height="1500" fill="#ffffff"/>
+
+<g filter="url(#softShadow)">
+<rect x="660" y="395" width="680" height="420" rx="28" fill="#f8fafc" stroke="#1f3b57" stroke-width="4"/>
+<rect x="698" y="429" width="604" height="82" rx="18" fill="#17324d" stroke="#17324d" stroke-width="2"/>
+<text x="1000.0" y="482" text-anchor="middle" style="font-size:35px;font-weight:700;fill:#fff;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1000.0" dy="0">Responsible Launch Baseline</tspan>
+</text>
+<text x="1000.0" y="567" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1000.0" dy="0">Minimum operating baseline</tspan>
+<tspan x="1000.0" dy="40.300000000000004px">before implementation accelerates</tspan>
+</text>
+<line x1="755" y1="639" x2="1245" y2="639" stroke="#94a3b8" stroke-width="3"/>
+<text x="1000.0" y="700" text-anchor="middle" style="font-size:32px;font-weight:700;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1000.0" dy="0">Defines how work is owned,</tspan>
+<tspan x="1000.0" dy="42.24px">reviewed, evidenced, governed,</tspan>
+<tspan x="1000.0" dy="42.24px">and completed.</tspan>
+</text>
+</g>
+<rect x="70" y="110" width="470" height="260" rx="22" fill="#f4f8fd" stroke="#1e3a5f" stroke-width="3"/>
+<rect x="90" y="130" width="430" height="66" rx="14" fill="#1e3a5f" stroke="#1e3a5f" stroke-width="2"/>
+<text x="305.0" y="173" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#fff;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="305.0" dy="0">Purpose and Scope</tspan>
+</text>
+<circle cx="128" cy="232" r="7.5" fill="#1e3a5f"/>
+<text x="162" y="242" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Project purpose</tspan>
+</text>
+<circle cx="128" cy="286" r="7.5" fill="#1e3a5f"/>
+<text x="162" y="296" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Stakeholder context</tspan>
+</text>
+<circle cx="128" cy="340" r="7.5" fill="#1e3a5f"/>
+<text x="162" y="350" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Scope boundary</tspan>
+</text>
+<rect x="70" y="525" width="470" height="315" rx="22" fill="#f7f8fa" stroke="#3f4a5a" stroke-width="3"/>
+<rect x="90" y="545" width="430" height="66" rx="14" fill="#3f4a5a" stroke="#3f4a5a" stroke-width="2"/>
+<text x="305.0" y="588" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#fff;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="305.0" dy="0">Team Operating Model</tspan>
+</text>
+<circle cx="128" cy="647" r="7.5" fill="#3f4a5a"/>
+<text x="162" y="657" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Roles</tspan>
+</text>
+<circle cx="128" cy="701" r="7.5" fill="#3f4a5a"/>
+<text x="162" y="711" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Working agreements</tspan>
+</text>
+<circle cx="128" cy="755" r="7.5" fill="#3f4a5a"/>
+<text x="162" y="765" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Communication norms</tspan>
+</text>
+<circle cx="128" cy="809" r="7.5" fill="#3f4a5a"/>
+<text x="162" y="819" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="162" dy="0">Escalation path</tspan>
+</text>
+<rect x="1460" y="90" width="470" height="370" rx="22" fill="#f5faf7" stroke="#2e5b46" stroke-width="3"/>
+<rect x="1480" y="110" width="430" height="66" rx="14" fill="#2e5b46" stroke="#2e5b46" stroke-width="2"/>
+<text x="1695.0" y="153" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#fff;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1695.0" dy="0">Engineering Discipline</tspan>
+</text>
+<circle cx="1518" cy="212" r="7.5" fill="#2e5b46"/>
+<text x="1552" y="222" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Engineering standards</tspan>
+</text>
+<circle cx="1518" cy="266" r="7.5" fill="#2e5b46"/>
+<text x="1552" y="276" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Definition of Done</tspan>
+</text>
+<circle cx="1518" cy="320" r="7.5" fill="#2e5b46"/>
+<text x="1552" y="330" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Issue discipline</tspan>
+</text>
+<circle cx="1518" cy="374" r="7.5" fill="#2e5b46"/>
+<text x="1552" y="384" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Branch discipline</tspan>
+</text>
+<circle cx="1518" cy="428" r="7.5" fill="#2e5b46"/>
+<text x="1552" y="438" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">PR expectations</tspan>
+</text>
+<rect x="1460" y="600" width="470" height="315" rx="22" fill="#fbfaf2" stroke="#66521f" stroke-width="3"/>
+<rect x="1480" y="620" width="430" height="66" rx="14" fill="#66521f" stroke="#66521f" stroke-width="2"/>
+<text x="1695.0" y="663" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#fff;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1695.0" dy="0">Governance and Risk</tspan>
+</text>
+<circle cx="1518" cy="722" r="7.5" fill="#66521f"/>
+<text x="1552" y="732" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Assumptions</tspan>
+</text>
+<circle cx="1518" cy="776" r="7.5" fill="#66521f"/>
+<text x="1552" y="786" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Known risks</tspan>
+</text>
+<circle cx="1518" cy="830" r="7.5" fill="#66521f"/>
+<text x="1552" y="840" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">Governance boundaries</tspan>
+</text>
+<circle cx="1518" cy="884" r="7.5" fill="#66521f"/>
+<text x="1552" y="894" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1552" dy="0">AI-use expectations</tspan>
+</text>
+<rect x="610" y="945" width="780" height="285" rx="22" fill="#f7f6fb" stroke="#473b71" stroke-width="3"/>
+<rect x="630" y="965" width="740" height="66" rx="14" fill="#473b71" stroke="#473b71" stroke-width="2"/>
+<text x="1000.0" y="1008" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#fff;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1000.0" dy="0">Evidence Infrastructure</tspan>
+</text>
+<circle cx="668" cy="1067" r="7.5" fill="#473b71"/>
+<text x="702" y="1077" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="702" dy="0">Repository structure</tspan>
+</text>
+<circle cx="668" cy="1121" r="7.5" fill="#473b71"/>
+<text x="702" y="1131" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="702" dy="0">Review expectations</tspan>
+</text>
+<circle cx="668" cy="1175" r="7.5" fill="#473b71"/>
+<text x="702" y="1185" text-anchor="start" style="font-size:29px;font-weight:600;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="702" dy="0">Release-readiness posture</tspan>
+</text>
+<line x1="540" y1="255" x2="660" y2="500" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="540" y1="680" x2="660" y2="620" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1460" y1="290" x2="1340" y2="500" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1460" y1="755" x2="1340" y2="620" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1000" y1="945" x2="1000" y2="815" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1000" y="345" text-anchor="middle" style="font-size:31px;font-weight:700;fill:#334155;font-family:Arial, Helvetica, sans-serif;font-style:italic;">
+<tspan x="1000" dy="0">Launch artifacts are controls, not paperwork.</tspan>
+</text>
+<rect x="250" y="1330" width="1500" height="112" rx="18" fill="#f8fafc" stroke="#1f3b57" stroke-width="3"/>
+<text x="555" y="1398" text-anchor="middle" style="font-size:30px;font-weight:700;fill:#17324d;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="555" dy="0">GOVERNING PRINCIPLE:</tspan>
+</text>
+<line x1="785" y1="1355" x2="785" y2="1417" stroke="#64748b" stroke-width="3"/>
+<text x="1280" y="1385" text-anchor="middle" style="font-size:32px;font-weight:700;fill:#172033;font-family:Arial, Helvetica, sans-serif;">
+<tspan x="1280" dy="0">A launch artifact is valuable only if it</tspan>
+<tspan x="1280" dy="38.4px">changes engineering behavior.</tspan>
+</text>
+</svg>

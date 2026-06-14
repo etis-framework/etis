@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="815" viewBox="0 0 1600 815">
+<rect x="0" y="0" width="1600" height="815" fill="#f7f9fb"/>
+
+
+<rect x="170" y="35" width="1260" height="62" rx="16" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="74" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Runtime Evidence</text>
+<text x="1090" y="74" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">Logs • Metrics • Traces • Audit Events • Request IDs</text>
+
+<rect x="170" y="117" width="1260" height="62" rx="16" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="156" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Diagnosis</text>
+<text x="1090" y="156" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">What happened, where, and why?</text>
+
+<rect x="170" y="199" width="1260" height="62" rx="16" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Runbook Selection</text>
+<text x="1090" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">Which response procedure applies?</text>
+
+<rect x="170" y="281" width="1260" height="62" rx="16" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="320" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Named Owner</text>
+<text x="1090" y="320" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">Who acts next?</text>
+
+<rect x="170" y="363" width="1260" height="62" rx="16" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="402" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Escalation Path</text>
+<text x="1090" y="402" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">Who must be notified or approve?</text>
+
+<rect x="170" y="445" width="1260" height="62" rx="16" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="484" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Mitigation</text>
+<text x="1090" y="484" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">What action reduces harm now?</text>
+
+<rect x="170" y="527" width="1260" height="62" rx="16" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="566" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Communication</text>
+<text x="1090" y="566" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">Who needs an honest update?</text>
+
+<rect x="170" y="609" width="1260" height="62" rx="16" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="490" y="648" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Recovery Evidence</text>
+<text x="1090" y="648" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">How do we prove recovery worked?</text>
+
+
+<line x1="800" y1="100" x2="800" y2="104" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,117 790,102 810,102" fill="#475569"/>
+
+<line x1="800" y1="182" x2="800" y2="186" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,199 790,184 810,184" fill="#475569"/>
+
+<line x1="800" y1="264" x2="800" y2="268" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,281 790,266 810,266" fill="#475569"/>
+
+<line x1="800" y1="346" x2="800" y2="350" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,363 790,348 810,348" fill="#475569"/>
+
+<line x1="800" y1="428" x2="800" y2="432" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,445 790,430 810,430" fill="#475569"/>
+
+<line x1="800" y1="510" x2="800" y2="514" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,527 790,512 810,512" fill="#475569"/>
+
+<line x1="800" y1="592" x2="800" y2="596" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,609 790,594 810,594" fill="#475569"/>
+
+<rect x="170" y="694" width="1260" height="88" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="732" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Visibility becomes readiness</text>
+<text x="800" y="764" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#111827">when evidence can drive action.</text>
+</svg>

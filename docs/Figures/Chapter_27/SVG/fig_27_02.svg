@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1008" viewBox="0 0 1600 1008">
+<rect width="1600" height="1008" fill="#f7f9fb"/>
+
+<rect x="170" y="34" width="1260" height="64" rx="16" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="74" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Operational Task</text>
+<text x="1030" y="74" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Diagnose Delay • Review Notification • Evaluate AI Summary</text>
+<rect x="170" y="132" width="1260" height="64" rx="16" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="172" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Assigned Role</text>
+<text x="1030" y="172" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Who has a legitimate purpose?</text>
+<rect x="170" y="230" width="1260" height="64" rx="16" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="270" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Minimum Data Needed</text>
+<text x="1030" y="270" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Only the information required for the task</text>
+<rect x="170" y="328" width="1260" height="64" rx="16" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="368" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Permitted Action</text>
+<text x="1030" y="368" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">View • Update • Approve • Escalate</text>
+<rect x="170" y="426" width="1260" height="64" rx="16" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="466" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Approval Required?</text>
+<text x="1030" y="466" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Escalate when authority exceeds the role</text>
+<rect x="170" y="524" width="1260" height="64" rx="16" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="564" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Audit Event</text>
+<text x="1030" y="564" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Record what happened and who acted</text>
+<rect x="170" y="622" width="1260" height="64" rx="16" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="500" y="662" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Review Record</text>
+<text x="1030" y="662" text-anchor="middle" font-family="Arial" font-size="24" fill="#111827">Preserve evidence for future review</text>
+
+<line x1="800" y1="103" x2="800" y2="111" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,125 790,111 810,111" fill="#475569"/>
+<line x1="800" y1="201" x2="800" y2="209" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,223 790,209 810,209" fill="#475569"/>
+<line x1="800" y1="299" x2="800" y2="307" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,321 790,307 810,307" fill="#475569"/>
+<line x1="800" y1="397" x2="800" y2="405" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,419 790,405 810,405" fill="#475569"/>
+<line x1="800" y1="495" x2="800" y2="503" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,517 790,503 810,503" fill="#475569"/>
+<line x1="800" y1="593" x2="800" y2="601" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,615 790,601 810,601" fill="#475569"/>
+
+<line x1="800" y1="694" x2="800" y2="709" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,723 790,709 810,709" fill="#475569"/>
+
+<rect x="170" y="730" width="1260" height="96" rx="18" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="770" text-anchor="middle" font-family="Arial" font-size="29" font-weight="700" fill="#111827">Least Privilege Operational Access</text>
+<text x="800" y="803" text-anchor="middle" font-family="Arial" font-size="25" fill="#111827">Purpose-aligned access, authority, evidence, and review</text>
+
+<line x1="800" y1="834" x2="800" y2="849" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,863 790,849 810,849" fill="#475569"/>
+
+<rect x="240" y="870" width="1120" height="108" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="912" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Give the responder what the task requires.</text>
+<text x="800" y="952" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Create an escalation path for what it does not justify.</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 790">
+<defs>
+  <marker id="arrow" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L6,3 L0,6 Z" fill="#596a73"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1600" height="850" fill="#f4f6f7"/>
+<text x="800" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#27343b">Release Authority Evidence Package</text>
+<text x="800" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#53636c">Repository evidence is integrated into a reviewable decision surface.</text>
+<rect x="35" y="125" width="455" height="490" rx="22" fill="#edf6fb" stroke="#5f8ba6" stroke-width="2"/>
+<text x="262.5" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#27343b">Evidence Sources</text>
+<rect x="70" y="205" width="385" height="112" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="262.5" y="239" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#27343b">Incident &amp; Recovery Evidence</text>
+<text x="262.5" y="272" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Incident record • Timeline • Recovery evidence</text>
+<text x="262.5" y="299" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Rollback plan</text>
+<rect x="70" y="335" width="385" height="112" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="262.5" y="369" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#27343b">Engineering &amp; Operational Evidence</text>
+<text x="262.5" y="402" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Reliability analysis • Test evidence • PRs</text>
+<text x="262.5" y="429" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Runbook updates</text>
+<rect x="70" y="465" width="385" height="112" rx="14" fill="#ffffff" stroke="#b8cad5" stroke-width="1.6"/>
+<text x="262.5" y="499" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#27343b">Governance &amp; Stakeholder Evidence</text>
+<text x="262.5" y="528" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Security review • AI governance</text>
+<text x="262.5" y="554" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Known limitations • Risk acceptance</text>
+<text x="262.5" y="572" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.2" font-weight="400" fill="#53636c">Stakeholder communication</text>
+<rect x="575" y="205" width="450" height="330" rx="24" fill="#fffaf0" stroke="#b88f2c" stroke-width="2.4"/>
+<text x="800" y="244" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#27343b">Release Authority</text>
+<text x="800" y="275" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#27343b">Evidence Package</text>
+<text x="800" y="307" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#53636c">Integrates evidence into a</text>
+<text x="800" y="331" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#53636c">reviewable decision surface.</text>
+<rect x="600" y="350" width="400" height="160" rx="14" fill="#ffffff" stroke="#c7d0d5" stroke-width="1.5"/>
+<text x="800" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#27343b">Package Contents</text>
+<text x="800" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">Decision request</text>
+<text x="800" y="431" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">Readiness evidence</text>
+<text x="800" y="454" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">Residual risks</text>
+<text x="800" y="477" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">Monitoring conditions</text>
+<text x="800" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.0" font-weight="400" fill="#53636c">Rollback / fallback authority</text>
+<rect x="1110" y="205" width="455" height="330" rx="22" fill="#f8fbf9" stroke="#5f8a72" stroke-width="2"/>
+<text x="1337.5" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#27343b">Release Governance Decision</text>
+<rect x="1160" y="315" width="355" height="160" rx="14" fill="#ffffff" stroke="#b4c8bb" stroke-width="1.5"/>
+<text x="1337.5" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#27343b">Possible Outcomes</text>
+<text x="1337.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">Approve • Approve with conditions</text>
+<text x="1337.5" y="416" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">Defer • Constrain scope • Roll back</text>
+<text x="1337.5" y="444" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18.7" font-weight="400" fill="#53636c">AI capability decision</text>
+<line x1="494" y1="370" x2="566" y2="370" stroke="#596a73" stroke-width="2.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<line x1="1034" y1="370" x2="1101" y2="370" stroke="#596a73" stroke-width="2.8" stroke-linecap="round" marker-end="url(#arrow)"/>
+<rect x="70" y="650" width="1460" height="86" rx="18" fill="#ffffff" stroke="#c7d0d5" stroke-width="1.8"/>
+<text x="800" y="684" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#27343b">Assertions do not become release evidence until verified against repository facts.</text>
+<text x="800" y="714" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#53636c">AI proposes; engineers verify.</text>
+</svg>

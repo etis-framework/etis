@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="860" viewBox="0 0 1200 860" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.outer{fill:#F7FAFC;stroke:#47657E;stroke-width:3}
+.section{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:22px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.visible{fill:#EEF4FA;stroke:#47657E;stroke-width:2.2}
+.hidden{fill:#F8F1E8;stroke:#8A6442;stroke-width:2.2}
+.divider{stroke:#6B7280;stroke-width:2}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">Generated Assumptions Hidden Inside Polished Work</text>
+
+<!-- Outer container -->
+<rect x="90" y="95" width="1020" height="710" rx="28" class="outer"/>
+
+<text x="600" y="145" class="section">Polished Generated Work</text>
+
+<!-- Visible layer -->
+<rect x="180" y="190" width="320" height="72" rx="16" class="visible"/>
+<text x="340" y="226" class="label">Code</text>
+
+<rect x="700" y="190" width="320" height="72" rx="16" class="visible"/>
+<text x="860" y="226" class="label">Tests</text>
+
+<rect x="180" y="300" width="320" height="72" rx="16" class="visible"/>
+<text x="340" y="336" class="label">Documentation</text>
+
+<rect x="700" y="300" width="320" height="72" rx="16" class="visible"/>
+<text x="860" y="336" class="label">UI</text>
+
+<!-- divider -->
+<line x1="170" y1="445" x2="1030" y2="445" class="divider"/>
+
+<text x="600" y="500" class="section">Hidden Assumptions</text>
+
+<!-- Hidden assumption layer -->
+<rect x="130" y="560" width="180" height="70" rx="14" class="hidden"/>
+<text x="220" y="595" class="label">User</text>
+
+<rect x="340" y="560" width="180" height="70" rx="14" class="hidden"/>
+<text x="430" y="595" class="label">Data</text>
+
+<rect x="550" y="560" width="220" height="70" rx="14" class="hidden"/>
+<text x="660" y="595" class="label">Workflow</text>
+
+<rect x="800" y="560" width="240" height="70" rx="14" class="hidden"/>
+<text x="920" y="595" class="label">Authority</text>
+
+<rect x="470" y="680" width="260" height="70" rx="14" class="hidden"/>
+<text x="600" y="715" class="label">Risk</text>
+
+</svg>

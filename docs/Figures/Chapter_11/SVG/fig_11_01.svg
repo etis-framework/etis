@@ -1,0 +1,63 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="4200" height="2200" viewBox="0 0 4200 2200">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:4.5; }
+.box { fill:white; stroke:#444; stroke-width:4.5; }
+.ai { fill:#f5f1fb; stroke:#444; stroke-width:4.5; }
+.status { fill:#f8fbfd; stroke:#333; stroke-width:5; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:4.5; }
+.hdr { font-size:82px; font-weight:bold; }
+.title { font-size:64px; font-weight:bold; }
+.body { font-size:54px; }
+.smallbody { font-size:50px; }
+</style>
+
+<!-- Observation band -->
+<rect x="240" y="55" width="3720" height="155" class="band"/>
+<text x="2100" y="155" text-anchor="middle" class="hdr">AI-Assisted Requirements Begin as Proposed Material</text>
+
+<!-- Left evidence source -->
+<rect x="180" y="420" width="1050" height="860" class="box"/>
+<text x="705" y="535" text-anchor="middle" class="title">Stakeholder Evidence</text>
+<text x="705" y="665" text-anchor="middle" class="smallbody">Facilities</text>
+<text x="705" y="760" text-anchor="middle" class="smallbody">Campus Safety</text>
+<text x="705" y="855" text-anchor="middle" class="smallbody">Student Services</text>
+<text x="705" y="950" text-anchor="middle" class="smallbody">Housing</text>
+<text x="705" y="1045" text-anchor="middle" class="smallbody">Campus Operations</text>
+<text x="705" y="1140" text-anchor="middle" class="smallbody">Governance</text>
+
+<!-- Center bounded AI component -->
+<rect x="1575" y="520" width="1050" height="660" class="ai"/>
+<text x="2100" y="650" text-anchor="middle" class="title">AI-Assisted Draft</text>
+<text x="2100" y="805" text-anchor="middle" class="smallbody">Candidate Requirements</text>
+<text x="2100" y="925" text-anchor="middle" class="smallbody">Proposed User Stories</text>
+<text x="2100" y="1045" text-anchor="middle" class="smallbody">Suggested Acceptance Criteria</text>
+
+<!-- Right governance status destination -->
+<rect x="2970" y="420" width="1050" height="860" class="status"/>
+<text x="3495" y="535" text-anchor="middle" class="title">Proposed Material</text>
+<text x="3495" y="685" text-anchor="middle" class="smallbody">Requires Validation</text>
+<text x="3495" y="800" text-anchor="middle" class="smallbody">Requires Review</text>
+<text x="3495" y="915" text-anchor="middle" class="smallbody">Requires Governance</text>
+<text x="3495" y="1030" text-anchor="middle" class="smallbody">Evaluation</text>
+<text x="3495" y="1145" text-anchor="middle" class="smallbody">Requires Human Ownership</text>
+
+<!-- Connectors -->
+<line x1="1230" y1="850" x2="1575" y2="850" stroke="#555" stroke-width="5"/>
+<polygon points="1575,850 1548,835 1548,865" fill="#555"/>
+<line x1="2625" y1="850" x2="2970" y2="850" stroke="#555" stroke-width="5"/>
+<polygon points="2970,850 2943,835 2943,865" fill="#555"/>
+
+<!-- Middle governance boundary label -->
+<rect x="1320" y="1305" width="1560" height="190" class="band"/>
+<text x="2100" y="1425" text-anchor="middle" class="title">Polished Output Is Not Verified Understanding</text>
+
+<!-- Bottom observation -->
+<rect x="360" y="1625" width="3480" height="150" class="band"/>
+<text x="2100" y="1725" text-anchor="middle" class="title">AI Output Is Engineering Material, Not Accepted Truth</text>
+
+<!-- Governing principle -->
+<rect x="790" y="1900" width="2620" height="190" class="principle"/>
+<text x="2100" y="2020" text-anchor="middle" class="hdr">AI Proposes; Engineers Verify</text>
+</svg>

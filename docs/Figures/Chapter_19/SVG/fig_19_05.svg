@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="940" viewBox="0 0 1200 940">
+<rect width="1200" height="940" fill="white"/>
+<text x="600" y="45" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#475569">Connected Evidence</text>
+<text x="600" y="83" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#475569">Supports Trustworthy Release Decisions</text>
+<rect x="80" y="125" width="1040" height="755" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.2"/>
+<rect x="180" y="165" width="840" height="135" rx="18" fill="#fbf8ff" stroke="#7b6897" stroke-width="3.0"/>
+<text x="600" y="215" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#1f2933">Test Evidence Package</text>
+<text x="600" y="256" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#1f2933">Organized evidence of what was tested,</text>
+<text x="600" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#1f2933">what was found, and what remains unresolved</text>
+<rect x="140" y="340" width="420" height="125" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.6"/>
+<text x="350.0" y="385" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Test Plan</text>
+<text x="350.0" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">What are we</text>
+<text x="350.0" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">verifying?</text>
+<rect x="640" y="340" width="420" height="125" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.6"/>
+<text x="850.0" y="385" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Traceability</text>
+<text x="850.0" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">What claims</text>
+<text x="850.0" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">connect to tests?</text>
+<rect x="140" y="505" width="420" height="125" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.6"/>
+<text x="350.0" y="550" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Test Results</text>
+<text x="350.0" y="587" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">What evidence</text>
+<text x="350.0" y="617" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">was produced?</text>
+<rect x="640" y="505" width="420" height="125" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.6"/>
+<text x="850.0" y="550" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Defects &amp; Regression</text>
+<text x="850.0" y="587" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">What failed and how</text>
+<text x="850.0" y="617" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">is it protected?</text>
+<rect x="140" y="670" width="420" height="125" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.6"/>
+<text x="350.0" y="715" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Review Records</text>
+<text x="350.0" y="752" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">What did reviewers</text>
+<text x="350.0" y="782" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">conclude?</text>
+<rect x="640" y="670" width="420" height="125" rx="16" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.6"/>
+<text x="850.0" y="715" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Known Limitations</text>
+<text x="850.0" y="752" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">What remains</text>
+<text x="850.0" y="782" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#1f2933">uncertain?</text>
+<!-- QA: outer frame x=80, y=125, w=1040, h=755; all child boxes inside with >=60px horizontal margins. -->
+<!-- QA: no connectors; no child overlaps; no figure number/title; text wrapped before shrinking; longest label governs box width. -->
+</svg>

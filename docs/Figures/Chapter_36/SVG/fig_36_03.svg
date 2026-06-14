@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#27384a"/></marker></defs>
+<rect x="0" y="0" width="1600" height="950" fill="white"/>
+<rect x="36" y="34" width="1528" height="900" rx="18" fill="white" stroke="#24384f" stroke-width="3"/>
+<text x="92" y="126" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#52616b">Human</text>
+<text x="92" y="152" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#52616b">judgment</text>
+<text x="92" y="392" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#52616b">Navigation</text>
+<text x="92" y="418" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#52616b">layer</text>
+<text x="92" y="720" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#52616b">Source</text>
+<text x="92" y="746" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="start" fill="#52616b">evidence</text>
+<rect x="390" y="80" width="520" height="130" rx="12" fill="#fff7e6" stroke="#a86f16" stroke-width="2.5"/>
+<text x="650" y="118" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#1f2933">Accountable Human Reviewer</text>
+<text x="432" y="154" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#1f2933">Uses the packet to judge risk, challenge</text>
+<text x="432" y="182" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#1f2933">evidence, escalate, override, approve, or defer.</text>
+<rect x="1034" y="80" width="455" height="130" rx="12" fill="#f5f7f9" stroke="#506070" stroke-width="2.5"/>
+<text x="1261.5" y="118" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#1f2933">Decision Record</text>
+<text x="1074" y="154" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#1f2933">Preserves action taken, rationale, evidence</text>
+<text x="1074" y="182" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#1f2933">links, owner, and follow-up.</text>
+<line x1="910" y1="145" x2="1012" y2="145" stroke="#27384a" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="960" y="116" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#52616b">records</text>
+<rect x="250" y="285" width="1100" height="300" rx="16" fill="#eef5fb" stroke="#2f5f8f" stroke-width="3"/>
+<text x="800" y="327" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#1f2933">Reviewer Context Packet</text>
+<text x="800" y="362" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" text-anchor="middle" fill="#52616b">Navigation over evidence — not a replacement for source evidence</text>
+<rect x="300" y="397" width="300" height="82" rx="8" fill="white" stroke="#2f5f8f" stroke-width="1.8"/>
+<text x="450.0" y="424" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f2933">Decision Request</text>
+<text x="318" y="452" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">What action is being asked of</text>
+<text x="318" y="472" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">this role</text>
+<rect x="650" y="397" width="300" height="82" rx="8" fill="white" stroke="#2f5f8f" stroke-width="1.8"/>
+<text x="800.0" y="424" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f2933">Proposed AI Material</text>
+<text x="668" y="452" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">Recommendation clearly labeled</text>
+<text x="668" y="472" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">as proposed</text>
+<rect x="1000" y="397" width="300" height="82" rx="8" fill="white" stroke="#2f5f8f" stroke-width="1.8"/>
+<text x="1150.0" y="424" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f2933">Source Links</text>
+<text x="1018" y="452" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">Claim-to-evidence paths remain</text>
+<text x="1018" y="472" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">visible</text>
+<rect x="300" y="492" width="300" height="82" rx="8" fill="white" stroke="#2f5f8f" stroke-width="1.8"/>
+<text x="450.0" y="519" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f2933">Authority + Freshness</text>
+<text x="318" y="547" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">Who owns the source and whether</text>
+<text x="318" y="567" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">it is current</text>
+<rect x="650" y="492" width="300" height="82" rx="8" fill="white" stroke="#2f5f8f" stroke-width="1.8"/>
+<text x="800.0" y="519" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f2933">Uncertainty + Exceptions</text>
+<text x="668" y="547" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">Limits, conflicts, missing</text>
+<text x="668" y="567" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">confidence</text>
+<rect x="1000" y="492" width="300" height="82" rx="8" fill="white" stroke="#2f5f8f" stroke-width="1.8"/>
+<text x="1150.0" y="519" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f2933">Escalate / Override</text>
+<text x="1018" y="547" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">Paths for responsible</text>
+<text x="1018" y="567" font-family="Arial, Helvetica, sans-serif" font-size="17.5" font-weight="400" text-anchor="start" fill="#1f2933">intervention</text>
+<line x1="800" y1="285" x2="800" y2="220" stroke="#27384a" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="830" y="255" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#52616b">supports judgment</text>
+<rect x="190" y="660" width="1220" height="175" rx="14" fill="white" stroke="#506070" stroke-width="2.5"/>
+<text x="800" y="695" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle" fill="#1f2933">Source Evidence Remains Authoritative</text>
+<text x="800" y="728" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" text-anchor="middle" fill="#52616b">The packet points back to evidence; it does not flatten, hide, or replace it.</text>
+<line x1="520" y1="660" x2="520" y2="595" stroke="#27384a" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="800" y1="660" x2="800" y2="595" stroke="#27384a" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="1148" y1="660" x2="1148" y2="595" stroke="#27384a" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="822" y="633" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#52616b">curated evidence links</text>
+<rect x="205" y="755" width="188" height="62" rx="8" fill="#f2f7ef" stroke="#4f7f4f" stroke-width="1.8"/>
+<text x="299.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" text-anchor="middle" fill="#1f2933">Incident Record</text>
+<text x="299.0" y="805" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="400" text-anchor="middle" fill="#52616b">state + timeline</text>
+<rect x="411" y="755" width="188" height="62" rx="8" fill="#f2f7ef" stroke="#4f7f4f" stroke-width="1.8"/>
+<text x="505.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" text-anchor="middle" fill="#1f2933">Context Registry</text>
+<text x="505.0" y="805" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="400" text-anchor="middle" fill="#52616b">authority + freshness</text>
+<rect x="617" y="755" width="188" height="62" rx="8" fill="#f2f7ef" stroke="#4f7f4f" stroke-width="1.8"/>
+<text x="711.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" text-anchor="middle" fill="#1f2933">Runbook</text>
+<text x="711.0" y="805" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="400" text-anchor="middle" fill="#52616b">applicable steps</text>
+<rect x="823" y="755" width="188" height="62" rx="8" fill="#f2f7ef" stroke="#4f7f4f" stroke-width="1.8"/>
+<text x="917.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" text-anchor="middle" fill="#1f2933">Release Evidence</text>
+<text x="917.0" y="805" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="400" text-anchor="middle" fill="#52616b">limitations + status</text>
+<rect x="1029" y="755" width="188" height="62" rx="8" fill="#f2f7ef" stroke="#4f7f4f" stroke-width="1.8"/>
+<text x="1123.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" text-anchor="middle" fill="#1f2933">Oversight Records</text>
+<text x="1123.0" y="805" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="400" text-anchor="middle" fill="#52616b">owners + thresholds</text>
+<rect x="1230" y="755" width="170" height="62" rx="8" fill="#f2f7ef" stroke="#4f7f4f" stroke-width="1.8"/>
+<text x="1315.0" y="780" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="700" text-anchor="middle" fill="#1f2933">AI Trace</text>
+<text x="1315.0" y="805" font-family="Arial, Helvetica, sans-serif" font-size="16.5" font-weight="400" text-anchor="middle" fill="#52616b">summary sources</text>
+<rect x="150" y="842" width="1300" height="68" rx="8" fill="#f7f9fb" stroke="#7b8794" stroke-width="1.8"/>
+<text x="800" y="866" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#1f2933">Evidence volume is not enough.</text>
+<text x="800" y="890" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#1f2933">Understandability requires navigable evidence for accountable judgment.</text>
+</svg>

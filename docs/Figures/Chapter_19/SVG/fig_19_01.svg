@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="white"/>
+<rect x="70" y="45" width="1060" height="700" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.2"/>
+<rect x="120" y="85" width="960" height="108" rx="18" fill="#f8fbff" stroke="#5e7fa3" stroke-width="2.7"/>
+<text x="600" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#1f2933">Behavioral Claims</text>
+<text x="600" y="166" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1f2933">Requirements • ADRs • Risks • Review Findings</text>
+
+<line x1="600" y1="198" x2="600" y2="228" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+<polygon points="600,245 587,226 613,226" fill="#334155"/>
+
+<rect x="165" y="250" width="870" height="112" rx="18" fill="#fbf8ff" stroke="#7b6897" stroke-width="2.7"/>
+<text x="600" y="295" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#1f2933">Testing as Verification Evidence</text>
+<text x="600" y="334" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1f2933">Defined conditions • expected behavior • observable result</text>
+
+<line x1="600" y1="367" x2="600" y2="397" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+<polygon points="600,414 587,395 613,395" fill="#334155"/>
+
+<rect x="120" y="419" width="960" height="108" rx="18" fill="#f7fcf9" stroke="#5d846b" stroke-width="2.7"/>
+<text x="600" y="462" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#1f2933">Evidence Outcomes</text>
+<text x="600" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#1f2933">Test Results • Defects • Verified Behavior • Residual Risk</text>
+
+<line x1="600" y1="532" x2="600" y2="562" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+<polygon points="600,579 587,560 613,560" fill="#334155"/>
+
+<rect x="170" y="584" width="860" height="135" rx="18" fill="#fffaf0" stroke="#92733c" stroke-width="2.7"/>
+<text x="600" y="626" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933">Repository Evidence Preservation</text>
+<text x="360" y="666" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">/tests/</text>
+<text x="360" y="699" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">/docs/reviews/</text>
+<text x="785" y="666" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">CI/CD Records</text>
+<text x="785" y="699" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">Release Evidence</text>
+<text x="600" y="790" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#475569">Confidence is not evidence. Testing makes claims reviewable.</text>
+</svg>

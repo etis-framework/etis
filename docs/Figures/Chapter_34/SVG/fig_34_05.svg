@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1020" viewBox="0 0 1500 1020">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#222"/></marker>
+<marker id="arrow_red" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#a32222"/></marker>
+</defs>
+<rect width="1500" height="1020" fill="#fff"/>
+<rect x="80" y="28" width="1340" height="58" rx="10" fill="#fafcfd" stroke="#2f4a5c" stroke-width="2"/>
+<text id="synthesis_body" x="750.0" y="62.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="750.0" dy="0.0">Context Engineering Review converts context architecture into challengeable evidence.</tspan>
+</text>
+<rect x="45" y="118" width="360" height="550" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<rect x="45" y="118" width="360" height="44" rx="10" fill="#edf4ff" stroke="none"/>
+<line x1="45" y1="162" x2="405" y2="162" stroke="#1f4e8c" stroke-width="1.2"/>
+<text id="inputs_container_title" x="225.0" y="144.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700" fill="#1f4e8c" text-anchor="middle">
+<tspan x="225.0" dy="0.0">CONTEXT ARCHITECTURE INPUTS</tspan>
+</text>
+<rect x="70" y="184" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="source_inv_body" x="225.0" y="203.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Context Source Inventory</tspan>
+<tspan x="225.0" dy="15.7">Owners, source class, review status</tspan>
+</text>
+<rect x="70" y="246" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="auth_matrix_body" x="225.0" y="265.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Context Authority Matrix</tspan>
+<tspan x="225.0" dy="15.7">Claim types and authority levels</tspan>
+</text>
+<rect x="70" y="308" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="retrieval_body" x="225.0" y="327.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Retrieval Boundary Policy</tspan>
+<tspan x="225.0" dy="15.7">Role, purpose, and permitted use</tspan>
+</text>
+<rect x="70" y="370" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="freshness_body" x="225.0" y="389.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Freshness &amp; Versioning Register</tspan>
+<tspan x="225.0" dy="15.7">Current, superseded, retired</tspan>
+</text>
+<rect x="70" y="432" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="evidence_body" x="225.0" y="451.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Context Evidence Map</tspan>
+<tspan x="225.0" dy="15.7">Trace source to workflow claim</tspan>
+</text>
+<rect x="70" y="494" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="log_design_body" x="225.0" y="513.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Context-Use Log Design</tspan>
+<tspan x="225.0" dy="15.7">What was retrieved and why</tspan>
+</text>
+<rect x="70" y="556" width="310" height="48" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="privacy_body" x="225.0" y="575.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="225.0" dy="0.0">Privacy &amp; Minimization Rules</tspan>
+<tspan x="225.0" dy="15.7">Exposure limits and sensitive data</tspan>
+</text>
+<rect x="455" y="118" width="570" height="550" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<rect x="455" y="118" width="570" height="52" rx="10" fill="#f3ecfb" stroke="none"/>
+<line x1="455" y1="170" x2="1025" y2="170" stroke="#5a3d8a" stroke-width="1.2"/>
+<text id="review_gate_title" x="740.0" y="150.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#5a3d8a" text-anchor="middle">
+<tspan x="740.0" dy="0.0">CONTEXT ENGINEERING REVIEW</tspan>
+</text>
+<rect x="505" y="190" width="470" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="challenge_note_body" x="740.0" y="212.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="740.0" dy="0.0">Challenge source authority, boundaries, evidence,</tspan>
+<tspan x="740.0" dy="17.9">and operational readiness.</tspan>
+</text>
+<rect x="485" y="280" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q1_body" x="546.0" y="302.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="546.0" dy="0.0">Approved</tspan>
+<tspan x="546.0" dy="16.8">sources?</tspan>
+</text>
+<rect x="619" y="280" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q2_body" x="680.0" y="302.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="680.0" dy="0.0">Authority</tspan>
+<tspan x="680.0" dy="16.8">by claim?</tspan>
+</text>
+<rect x="753" y="280" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q3_body" x="814.0" y="302.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="814.0" dy="0.0">Source</tspan>
+<tspan x="814.0" dy="16.8">owners?</tspan>
+</text>
+<rect x="887" y="280" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q4_body" x="948.0" y="302.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="948.0" dy="0.0">Prohibited</tspan>
+<tspan x="948.0" dy="16.8">sources?</tspan>
+</text>
+<rect x="485" y="348" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q5_body" x="546.0" y="370.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="546.0" dy="0.0">Privacy</tspan>
+<tspan x="546.0" dy="16.8">limits?</tspan>
+</text>
+<rect x="619" y="348" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q6_body" x="680.0" y="370.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="680.0" dy="0.0">Freshness</tspan>
+<tspan x="680.0" dy="16.8">current?</tspan>
+</text>
+<rect x="753" y="348" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q7_body" x="814.0" y="370.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="814.0" dy="0.0">Conflicts</tspan>
+<tspan x="814.0" dy="16.8">handled?</tspan>
+</text>
+<rect x="887" y="348" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q8_body" x="948.0" y="370.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="948.0" dy="0.0">Use</tspan>
+<tspan x="948.0" dy="16.8">logged?</tspan>
+</text>
+<rect x="485" y="416" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q9_body" x="546.0" y="446.9" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="546.0" dy="0.0">Reconstruct</tspan>
+</text>
+<rect x="619" y="416" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q10_body" x="680.0" y="438.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="680.0" dy="0.0">Human</tspan>
+<tspan x="680.0" dy="16.8">review?</tspan>
+</text>
+<rect x="753" y="416" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q11_body" x="814.0" y="438.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="814.0" dy="0.0">Missing</tspan>
+<tspan x="814.0" dy="16.8">context?</tspan>
+</text>
+<rect x="887" y="416" width="122" height="54" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="q12_body" x="948.0" y="438.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="948.0" dy="0.0">Review</tspan>
+<tspan x="948.0" dy="16.8">record?</tspan>
+</text>
+<rect x="505" y="505" width="470" height="102" rx="10" fill="#fffdf7" stroke="#9a5b00" stroke-width="2"/>
+<rect x="505" y="505" width="470" height="30" rx="10" fill="#fbf0d8" stroke="none"/>
+<line x1="505" y1="535" x2="975" y2="535" stroke="#9a5b00" stroke-width="1.2"/>
+<text id="evidence_expectations_title" x="740.0" y="524.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#9a5b00" text-anchor="middle">
+<tspan x="740.0" dy="0.0">EVIDENCE EXPECTATIONS</tspan>
+</text>
+<text id="evidence_expectations_body" x="740.0" y="566.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#111" text-anchor="middle">
+<tspan x="740.0" dy="0.0">Inventory + authority matrix + boundary policy + freshness</tspan>
+<tspan x="740.0" dy="15.7">register + evidence map + context-use log + privacy rules</tspan>
+</text>
+<rect x="1075" y="118" width="380" height="390" rx="10" fill="#fbfefb" stroke="#2f6b3f" stroke-width="2"/>
+<rect x="1075" y="118" width="380" height="44" rx="10" fill="#eef8ee" stroke="none"/>
+<line x1="1075" y1="162" x2="1455" y2="162" stroke="#2f6b3f" stroke-width="1.2"/>
+<text id="outcomes_container_title" x="1265.0" y="145.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#2f6b3f" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">REVIEW DECISIONS</tspan>
+</text>
+<rect x="1105" y="190" width="320" height="80" rx="10" fill="#fbfefb" stroke="#2f6b3f" stroke-width="2"/>
+<rect x="1105" y="190" width="320" height="28" rx="10" fill="#eef8ee" stroke="none"/>
+<line x1="1105" y1="218" x2="1425" y2="218" stroke="#2f6b3f" stroke-width="1.2"/>
+<text id="cond_title" x="1265.0" y="208.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#2f6b3f" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">APPROVED WITH CONDITIONS</tspan>
+</text>
+<text id="cond_body" x="1265.0" y="239.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#111" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">Allowed within stated boundaries and</tspan>
+<tspan x="1265.0" dy="15.7">evidence obligations.</tspan>
+</text>
+<rect x="1105" y="288" width="320" height="80" rx="10" fill="#fffdf7" stroke="#9a5b00" stroke-width="2"/>
+<rect x="1105" y="288" width="320" height="28" rx="10" fill="#fbf0d8" stroke="none"/>
+<line x1="1105" y1="316" x2="1425" y2="316" stroke="#9a5b00" stroke-width="1.2"/>
+<text id="restricted_title" x="1265.0" y="306.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#9a5b00" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">RESTRICTED USE</tspan>
+</text>
+<text id="restricted_body" x="1265.0" y="337.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#111" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">Limit workflow, claims, sources, or</tspan>
+<tspan x="1265.0" dy="15.7">human approval.</tspan>
+</text>
+<rect x="1105" y="386" width="320" height="80" rx="10" fill="#fffafa" stroke="#a32222" stroke-width="2"/>
+<rect x="1105" y="386" width="320" height="28" rx="10" fill="#fae9e9" stroke="none"/>
+<line x1="1105" y1="414" x2="1425" y2="414" stroke="#a32222" stroke-width="1.2"/>
+<text id="defer_title" x="1265.0" y="404.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#a32222" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">DEFER / REMEDIATE</tspan>
+</text>
+<text id="defer_body" x="1265.0" y="435.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#111" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">Clean sources, assign owners, improve</tspan>
+<tspan x="1265.0" dy="15.7">rules or logging.</tspan>
+</text>
+<rect x="1075" y="545" width="380" height="124" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<rect x="1075" y="545" width="380" height="36" rx="10" fill="#edf4ff" stroke="none"/>
+<line x1="1075" y1="581" x2="1455" y2="581" stroke="#1f4e8c" stroke-width="1.2"/>
+<text id="review_record_title" x="1265.0" y="567.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f4e8c" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">REVIEW RECORD</tspan>
+</text>
+<text id="review_record_body" x="1265.0" y="606.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="400" fill="#111" text-anchor="middle">
+<tspan x="1265.0" dy="0.0">/docs/governance/reviews/</tspan>
+<tspan x="1265.0" dy="14.6">context_engineering_review_record.md</tspan>
+<tspan x="1265.0" dy="14.6">Decision, conditions, owners, follow-up actions,</tspan>
+<tspan x="1265.0" dy="14.6">evidence links.</tspan>
+</text>
+<rect x="80" y="725" width="1340" height="125" rx="10" fill="#fafcfd" stroke="#2f4a5c" stroke-width="2"/>
+<rect x="80" y="725" width="1340" height="36" rx="10" fill="#edf4f7" stroke="none"/>
+<line x1="80" y1="761" x2="1420" y2="761" stroke="#2f4a5c" stroke-width="1.2"/>
+<text id="inheritance_title" x="750.0" y="748.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" fill="#2f4a5c" text-anchor="middle">
+<tspan x="750.0" dy="0.0">DOWNSTREAM INHERITANCE</tspan>
+</text>
+<rect x="140" y="780" width="325" height="50" rx="10" fill="#fbfdff" stroke="#1f4e8c" stroke-width="2"/>
+<text id="operational_use_body" x="302.5" y="809.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="302.5" dy="0.0">Operational Use</tspan>
+</text>
+<rect x="590" y="780" width="325" height="50" rx="10" fill="#fbfefb" stroke="#2f6b3f" stroke-width="2"/>
+<text id="agentic_governance_body" x="752.5" y="809.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="752.5" dy="0.0">Agentic Workflow Governance</tspan>
+</text>
+<rect x="1040" y="775" width="325" height="60" rx="10" fill="#fdfbff" stroke="#5a3d8a" stroke-width="2"/>
+<text id="human_oversight_body" x="1202.5" y="809.4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="1202.5" dy="0.0">Human Oversight Review (Ch. 35)</tspan>
+</text>
+<rect x="80" y="895" width="1340" height="78" rx="10" fill="#fbfbfb" stroke="#555555" stroke-width="2"/>
+<text id="footer_body" x="750.0" y="939.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" fill="#111" text-anchor="middle">
+<tspan x="750.0" dy="0.0">A context review is not approval theater: it challenges what the system may know, trust, expose, and use.</tspan>
+</text>
+<path id="inputs_to_review" d="M 405.0,392.0 L 455.0,392.0" fill="none" stroke="#222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="review_to_outcomes" d="M 1025.0,342.0 L 1075.0,342.0" fill="none" stroke="#222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="outcomes_to_record" d="M 1265.0,508.0 L 1265.0,545.0" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="review_to_record" d="M 1025.0,615.0 L 1075.0,615.0" fill="none" stroke="#1f4e8c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="record_to_inheritance" d="M 1265.0,669.0 L 1265.0,725.0" fill="none" stroke="#1f4e8c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="review_to_inheritance" d="M 740.0,668.0 L 740.0,725.0" fill="none" stroke="#222" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="op_to_agentic" d="M 465.0,805.0 L 590.0,805.0" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path id="agentic_to_oversight" d="M 915.0,805.0 L 1040.0,805.0" fill="none" stroke="#222" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+</svg>

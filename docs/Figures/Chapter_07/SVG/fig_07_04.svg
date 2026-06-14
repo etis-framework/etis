@@ -1,0 +1,43 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="1170" viewBox="0 0 2200 1170">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#25313b"/>
+</marker>
+</defs>
+
+<rect width="2200" height="1250" fill="white"/>
+
+<!-- Review flow -->
+<rect x="70" y="120" width="260" height="110" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/><text x="200.0" y="185" text-anchor="middle" font-family="Arial" font-size="29" font-weight="600">Claim</text><rect x="430" y="120" width="260" height="110" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/><text x="560.0" y="185" text-anchor="middle" font-family="Arial" font-size="29" font-weight="600">Evidence</text><rect x="790" y="120" width="260" height="110" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/><text x="920.0" y="185" text-anchor="middle" font-family="Arial" font-size="29" font-weight="600">Peer Challenge</text><rect x="1150" y="120" width="260" height="110" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/><text x="1280.0" y="185" text-anchor="middle" font-family="Arial" font-size="29" font-weight="600">Risk Question</text><rect x="1510" y="120" width="260" height="110" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/><text x="1640.0" y="185" text-anchor="middle" font-family="Arial" font-size="29" font-weight="600">Revision</text><rect x="1870" y="120" width="290" height="110" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/><text x="2015.0" y="170" text-anchor="middle" font-family="Arial" font-size="27" font-weight="600">Acceptance /</text><text x="2015.0" y="202" text-anchor="middle" font-family="Arial" font-size="27" font-weight="600">Follow-Up</text><line x1="340" y1="175" x2="420" y2="175" stroke="#25313b" stroke-width="2.5" marker-end="url(#arrow)"/><line x1="700" y1="175" x2="780" y2="175" stroke="#25313b" stroke-width="2.5" marker-end="url(#arrow)"/><line x1="1060" y1="175" x2="1140" y2="175" stroke="#25313b" stroke-width="2.5" marker-end="url(#arrow)"/><line x1="1420" y1="175" x2="1500" y2="175" stroke="#25313b" stroke-width="2.5" marker-end="url(#arrow)"/><line x1="1780" y1="175" x2="1860" y2="175" stroke="#25313b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<!-- Questions box -->
+<rect x="420" y="360" width="1360" height="240" rx="12" fill="white" stroke="#4a5864" stroke-width="2"/>
+<text x="1100" y="415" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700">Review Questions</text>
+
+<text x="1100" y="475" text-anchor="middle" font-family="Arial" font-size="27" font-weight="600">
+What claim is being made? • What evidence exists? • What assumption is hidden?
+</text>
+
+<text x="1100" y="525" text-anchor="middle" font-family="Arial" font-size="27" font-weight="600">
+What could fail? • What risk is introduced? • What limitation remains?
+</text>
+
+<!-- Observation -->
+<rect x="650" y="680" width="900" height="130" rx="10" fill="white" stroke="#9aa6b1" stroke-width="2"/>
+<text x="1100" y="735" text-anchor="middle" font-family="Arial" font-size="30" font-weight="600">
+Review transforms
+</text>
+<text x="1100" y="775" text-anchor="middle" font-family="Arial" font-size="30" font-weight="600">
+individual work into team-owned evidence.
+</text>
+
+<!-- Governance principle -->
+<rect x="500" y="910" width="1200" height="210" rx="12" fill="white" stroke="#2d4052" stroke-width="2.5"/>
+<text x="585" y="965" font-family="Arial" font-size="24" font-weight="700">GOVERNANCE PRINCIPLE</text>
+<line x1="585" y1="985" x2="1615" y2="985" stroke="#9aa6b1"/>
+
+<text x="1100" y="1055" text-anchor="middle" font-family="Arial" font-size="32" font-weight="600">Review is not approval.</text>
+
+<text x="1100" y="1100" text-anchor="middle" font-family="Arial" font-size="32" font-weight="600">Review is collective judgment.</text>
+
+</svg>

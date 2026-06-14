@@ -1,0 +1,75 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="1500" viewBox="0 0 2200 1500">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.box { fill:white; stroke:#444; stroke-width:3; }
+.center { fill:#f8fbfd; stroke:#333; stroke-width:3.5; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:3; }
+.repo { fill:#f2f4f6; stroke:#444; stroke-width:3; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:3; }
+.hdr { font-size:50px; font-weight:bold; }
+.title { font-size:40px; font-weight:bold; }
+.body { font-size:34px; }
+.centerTitle { font-size:42px; font-weight:bold; }
+.centerBody { font-size:36px; }
+</style>
+
+<rect x="120" y="40" width="1960" height="100" class="band"/>
+<text x="1100" y="105" text-anchor="middle" class="hdr">Requirements Become Trustworthy When Evidence Surrounds Them</text>
+
+<rect x="760" y="430" width="680" height="290" class="center"/>
+<text x="1100" y="500" text-anchor="middle" class="centerTitle">Requirements Evidence System</text>
+<text x="1100" y="585" text-anchor="middle" class="centerBody">Reviewable Requirement</text>
+<text x="1100" y="645" text-anchor="middle" class="body">Stakeholder Need</text>
+<text x="1100" y="695" text-anchor="middle" class="body">Engineering Understanding</text>
+
+<rect x="80" y="220" width="500" height="320" class="box"/>
+<text x="330" y="290" text-anchor="middle" class="title">Stakeholder Evidence</text>
+<text x="330" y="375" text-anchor="middle" class="body">Stakeholder Map</text>
+<text x="330" y="435" text-anchor="middle" class="body">Interview Notes</text>
+<text x="330" y="495" text-anchor="middle" class="body">Conflicts and Needs</text>
+
+<rect x="850" y="180" width="500" height="210" class="box"/>
+<text x="1100" y="255" text-anchor="middle" class="title">Assumptions</text>
+<text x="1100" y="330" text-anchor="middle" class="body">Assumptions Log</text>
+<text x="1100" y="375" text-anchor="middle" class="body">Open Questions and Unknowns</text>
+
+<rect x="1620" y="220" width="500" height="320" class="box"/>
+<text x="1870" y="290" text-anchor="middle" class="title">Constraints</text>
+<text x="1870" y="375" text-anchor="middle" class="body">Operational Constraints</text>
+<text x="1870" y="435" text-anchor="middle" class="body">Governance Constraints</text>
+<text x="1870" y="495" text-anchor="middle" class="body">Visibility Constraints</text>
+
+<rect x="80" y="800" width="500" height="290" class="box"/>
+<text x="330" y="870" text-anchor="middle" class="title">Engineering Work</text>
+<text x="330" y="950" text-anchor="middle" class="body">Issues</text>
+<text x="330" y="1010" text-anchor="middle" class="body">Work Items</text>
+<text x="330" y="1070" text-anchor="middle" class="body">User Stories</text>
+
+<rect x="850" y="820" width="500" height="250" class="box"/>
+<text x="1100" y="890" text-anchor="middle" class="title">Verification</text>
+<text x="1100" y="970" text-anchor="middle" class="body">Acceptance Criteria</text>
+<text x="1100" y="1030" text-anchor="middle" class="body">Reviews</text>
+<text x="1100" y="1080" text-anchor="middle" class="body">Tests</text>
+
+<rect x="1620" y="800" width="500" height="290" class="box"/>
+<text x="1870" y="870" text-anchor="middle" class="title">Decisions and Risk</text>
+<text x="1870" y="950" text-anchor="middle" class="body">Decision Records</text>
+<text x="1870" y="1010" text-anchor="middle" class="body">Risk Records</text>
+<text x="1870" y="1070" text-anchor="middle" class="body">Change History</text>
+
+<line x1="580" y1="380" x2="760" y2="500" stroke="#555" stroke-width="3"/>
+<line x1="1100" y1="390" x2="1100" y2="430" stroke="#555" stroke-width="3"/>
+<line x1="1620" y1="380" x2="1440" y2="500" stroke="#555" stroke-width="3"/>
+<line x1="580" y1="930" x2="760" y2="640" stroke="#555" stroke-width="3"/>
+<line x1="1100" y1="820" x2="1100" y2="720" stroke="#555" stroke-width="3"/>
+<line x1="1620" y1="930" x2="1440" y2="640" stroke="#555" stroke-width="3"/>
+
+<rect x="250" y="1180" width="1700" height="130" class="repo"/>
+<text x="1100" y="1240" text-anchor="middle" class="title">Repository Preserves Evidence, Not Memory</text>
+<text x="1100" y="1290" text-anchor="middle" class="body">Problem • Stakeholders • Requirements • Assumptions • Constraints • Reviews • Decisions • Risk</text>
+
+<rect x="180" y="1360" width="1840" height="120" class="principle"/>
+<text x="1100" y="1415" text-anchor="middle" class="title">GOVERNING PRINCIPLE</text>
+<text x="1100" y="1460" text-anchor="middle" class="body">A Requirement That Cannot Be Traced Is Fragile. A Decision That Cannot Be Reconstructed Is Risky.</text>
+</svg>

@@ -1,0 +1,70 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1150" viewBox="0 0 1600 1150">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.box { fill:white; stroke:#444; stroke-width:2; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:2; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:2; }
+.small { font-size:24px; }
+.med { font-size:28px; font-weight:bold; }
+.big { font-size:34px; font-weight:bold; }
+</style>
+
+<rect x="100" y="30" width="1400" height="70" class="band"/>
+<text x="800" y="75" text-anchor="middle" class="big">One Feature Request Can Represent Many Different Systems</text>
+
+<rect x="600" y="380" width="400" height="140" class="box"/>
+<text x="800" y="425" text-anchor="middle" class="med">Proposed COICP Capability</text>
+<text x="800" y="478" text-anchor="middle" class="big">"Incident Intake Form"</text>
+
+<rect x="120" y="180" width="280" height="150" class="box"/>
+<text x="260" y="218" text-anchor="middle" class="med">Facilities</text>
+<text x="260" y="258" text-anchor="middle" class="small">Building • Room</text>
+<text x="260" y="295" text-anchor="middle" class="small">Asset</text>
+<text x="260" y="325" text-anchor="middle" class="small">Maintenance Priority</text>
+
+<rect x="620" y="150" width="360" height="160" class="box"/>
+<text x="800" y="190" text-anchor="middle" class="med">Campus Safety</text>
+<text x="800" y="232" text-anchor="middle" class="small">Threat Indicators</text>
+<text x="800" y="270" text-anchor="middle" class="small">Dispatch Status</text>
+<text x="800" y="305" text-anchor="middle" class="small">Emergency Escalation</text>
+
+<rect x="1180" y="180" width="300" height="150" class="box"/>
+<text x="1330" y="218" text-anchor="middle" class="med">Student Services</text>
+<text x="1330" y="258" text-anchor="middle" class="small">Student Impact</text>
+<text x="1330" y="295" text-anchor="middle" class="small">Privacy Rules</text>
+<text x="1330" y="325" text-anchor="middle" class="small">Intervention Visibility</text>
+
+<rect x="80" y="560" width="300" height="140" class="box"/>
+<text x="230" y="600" text-anchor="middle" class="med">Housing</text>
+<text x="230" y="642" text-anchor="middle" class="small">Residence Hall Routing</text>
+<text x="230" y="680" text-anchor="middle" class="small">After-Hours Escalation</text>
+
+<rect x="620" y="610" width="360" height="140" class="box"/>
+<text x="800" y="650" text-anchor="middle" class="med">Campus Operations</text>
+<text x="800" y="692" text-anchor="middle" class="small">Cross-Department Coordination</text>
+<text x="800" y="728" text-anchor="middle" class="small">Status History</text>
+
+<rect x="1160" y="560" width="340" height="165" class="box"/>
+<text x="1330" y="600" text-anchor="middle" class="med">Leadership / Governance</text>
+<text x="1330" y="642" text-anchor="middle" class="small">Reporting</text>
+<text x="1330" y="680" text-anchor="middle" class="small">Authority Boundaries</text>
+<text x="1330" y="715" text-anchor="middle" class="small">Sensitive Data Visibility</text>
+
+<line x1="400" y1="255" x2="600" y2="430" stroke="#555" stroke-width="2"/>
+<line x1="800" y1="310" x2="800" y2="380" stroke="#555" stroke-width="2"/>
+<line x1="1180" y1="255" x2="1000" y2="430" stroke="#555" stroke-width="2"/>
+<line x1="380" y1="630" x2="600" y2="470" stroke="#555" stroke-width="2"/>
+<line x1="800" y1="610" x2="800" y2="520" stroke="#555" stroke-width="2"/>
+<line x1="1160" y1="640" x2="1000" y2="470" stroke="#555" stroke-width="2"/>
+
+<rect x="250" y="800" width="1100" height="135" class="band"/>
+<text x="800" y="842" text-anchor="middle" class="med">The Same Incident May Simultaneously Be</text>
+<text x="800" y="885" text-anchor="middle" class="small">A Student Support Concern • A Safety Concern • A Legal Concern</text>
+<text x="800" y="918" text-anchor="middle" class="small">An Operational Concern • A Governance Concern</text>
+
+<rect x="120" y="970" width="1360" height="130" class="principle"/>
+<text x="800" y="1015" text-anchor="middle" class="med">GOVERNING PRINCIPLE</text>
+<text x="800" y="1055" text-anchor="middle" class="small">Requirements Engineering Begins When Teams Discover</text>
+<text x="800" y="1085" text-anchor="middle" class="small">That Stakeholders Are Describing Different Operational Realities</text>
+</svg>

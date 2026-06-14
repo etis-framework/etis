@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1344" viewBox="0 0 1600 1344">
+<rect width="1600" height="1344" fill="#f7f9fb"/>
+
+<rect x="260" y="34" width="1080" height="92" rx="18" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="72" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827">Generated Recommendation</text>
+<text x="800" y="106" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111827">AI-assisted summary, routing suggestion, or operational recommendation</text>
+
+<line x1="800" y1="126" x2="800" y2="162" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<line x1="450.0" y1="162" x2="1150.0" y2="162" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<line x1="450.0" y1="162" x2="450.0" y2="181" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="450.0,194 440.0,179 460.0,179" fill="#475569"/>
+<line x1="1150.0" y1="162" x2="1150.0" y2="181" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1150.0,194 1140.0,179 1160.0,179" fill="#475569"/>
+
+<rect x="170" y="198" width="560" height="118" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="450.0" y="236" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827">Wrong Answer</text>
+<text x="450.0" y="274" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111827">Incorrect classification</text>
+<text x="450.0" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111827">Misleading summary</text>
+
+<rect x="870" y="198" width="560" height="118" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="1150.0" y="236" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827">Wrong Action</text>
+<text x="1150.0" y="274" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111827">Unauthorized reroute</text>
+<text x="1150.0" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111827">Improper notification</text>
+
+
+<line x1="450.0" y1="324" x2="450.0" y2="357" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="450.0,372 440.0,357 460.0,357" fill="#475569"/>
+
+<line x1="1150.0" y1="324" x2="1150.0" y2="357" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1150.0,372 1140.0,357 1160.0,357" fill="#475569"/>
+
+<rect x="170" y="380" width="560" height="170" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="450.0" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Correction Path</text>
+<text x="450.0" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Correct</text>
+<text x="450.0" y="496" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Review</text>
+<text x="450.0" y="526" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Learn</text>
+
+<rect x="870" y="380" width="560" height="170" rx="18" fill="#f7e8df" stroke="#334155" stroke-width="2.4"/>
+<text x="1150.0" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Consequence Path</text>
+<text x="1150.0" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">State change</text>
+<text x="1150.0" y="496" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Data exposure</text>
+<text x="1150.0" y="526" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Stakeholder impact</text>
+
+
+<line x1="1150.0" y1="558" x2="1150.0" y2="589" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1150.0,604 1140.0,589 1160.0,589" fill="#475569"/>
+<rect x="870" y="612" width="560" height="124" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="1150.0" y="652" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Authority Controls</text>
+<text x="1150.0" y="694" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Approval rules</text>
+<text x="1150.0" y="724" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Audit evidence</text>
+
+
+<line x1="1150.0" y1="744" x2="1150.0" y2="781" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1150.0,796 1140.0,781 1160.0,781" fill="#475569"/>
+<rect x="870" y="804" width="560" height="170" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="1150.0" y="844" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Recovery Controls</text>
+<text x="1150.0" y="888" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Rollback</text>
+<text x="1150.0" y="920" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Fallback</text>
+<text x="1150.0" y="950" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#111827">Investigation</text>
+
+
+<line x1="1150.0" y1="982" x2="1150.0" y2="1019" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1150.0,1034 1140.0,1019 1160.0,1019" fill="#475569"/>
+<rect x="870" y="1042" width="560" height="100" rx="18" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="1150.0" y="1083" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">Governed Operational Action</text>
+<text x="1150.0" y="1118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#111827">Authorized, auditable, and recoverable</text>
+
+
+<line x1="1150.0" y1="1150" x2="1150.0" y2="1173" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1150.0,1188 1140.0,1173 1160.0,1173" fill="#475569"/>
+<rect x="240" y="1196" width="1120" height="118" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="1240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">A wrong answer can mislead.</text>
+<text x="800" y="1280" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">A wrong action can change the world outside the system.</text>
+</svg>

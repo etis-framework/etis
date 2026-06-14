@@ -1,0 +1,89 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100">
+<rect width="100%" height="100%" fill="white"/>
+
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#5f6b7a"/>
+</marker>
+</defs>
+
+<g transform="translate(0,-70)">
+<!-- Left clusters -->
+<rect x="70" y="180" width="360" height="235" rx="18" fill="#f4f7f9" stroke="#5f6b7a" stroke-width="2"/>
+<text x="250" y="215" text-anchor="middle" font-size="28" font-weight="700">Reliability</text><text x="250" y="248" text-anchor="middle" font-size="28" font-weight="700">Understanding</text>
+<rect x="110" y="255" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="282" text-anchor="middle" font-size="22">Failure Modes</text>
+<rect x="110" y="310" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="337" text-anchor="middle" font-size="22">Signal Map</text>
+<rect x="110" y="365" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="392" text-anchor="middle" font-size="22">Dependency Risks</text>
+
+<rect x="70" y="445" width="360" height="235" rx="18" fill="#f7f1e8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="250" y="480" text-anchor="middle" font-size="28" font-weight="700">Operational</text><text x="250" y="513" text-anchor="middle" font-size="28" font-weight="700">Preparedness</text>
+<rect x="110" y="520" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="547" text-anchor="middle" font-size="22">Degraded Mode Plan</text>
+<rect x="110" y="575" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="602" text-anchor="middle" font-size="22">Fallback Test Evidence</text>
+<rect x="110" y="630" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="657" text-anchor="middle" font-size="22">Runbooks</text>
+
+<rect x="70" y="710" width="360" height="235" rx="18" fill="#eef3f1" stroke="#5f6b7a" stroke-width="2"/>
+<text x="250" y="755" text-anchor="middle" font-size="30" font-weight="700">Runtime Evidence</text>
+<rect x="110" y="785" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="812" text-anchor="middle" font-size="22">AI Delegation Monitoring</text>
+<rect x="110" y="840" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="867" text-anchor="middle" font-size="22">Observability Evidence</text>
+<rect x="110" y="895" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="250" y="922" text-anchor="middle" font-size="22">Known Limitations</text>
+
+<!-- center review -->
+<rect x="620" y="360" width="560" height="300" rx="24" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="3"/>
+<text x="900" y="455" text-anchor="middle" font-size="38" font-weight="700">Reliability &amp; Failure</text>
+<text x="900" y="505" text-anchor="middle" font-size="38" font-weight="700">Analysis Review</text>
+<text x="900" y="575" text-anchor="middle" font-size="28">Evidence-based challenge</text>
+<text x="900" y="620" text-anchor="middle" font-size="24">Defend reliability claims</text>
+
+<!-- right outputs -->
+<rect x="1370" y="180" width="360" height="235" rx="18" fill="#f4f7f9" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1550" y="225" text-anchor="middle" font-size="30" font-weight="700">Findings</text>
+<rect x="1410" y="275" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="302" text-anchor="middle" font-size="22">Reliability Findings</text>
+<rect x="1410" y="335" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="362" text-anchor="middle" font-size="22">Rejected Assumptions</text>
+
+<rect x="1370" y="445" width="360" height="255" rx="18" fill="#f7f1e8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1550" y="490" text-anchor="middle" font-size="30" font-weight="700">Required Actions</text>
+<rect x="1410" y="530" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="557" text-anchor="middle" font-size="22">Signal Improvements</text>
+<rect x="1410" y="585" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="612" text-anchor="middle" font-size="22">Fallback-Test Actions</text>
+<rect x="1410" y="640" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="667" text-anchor="middle" font-size="22">AI Monitoring Changes</text>
+
+<rect x="1370" y="730" width="360" height="265" rx="18" fill="#eef3f1" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1550" y="775" text-anchor="middle" font-size="30" font-weight="700">Governance Decisions</text>
+<rect x="1410" y="815" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="842" text-anchor="middle" font-size="22">Owner Assignments</text>
+<rect x="1410" y="870" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="897" text-anchor="middle" font-size="22">Residual Risks</text>
+<rect x="1410" y="925" width="280" height="42" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1550" y="952" text-anchor="middle" font-size="22">Incident Response Inputs</text>
+
+<!-- arrows -->
+<line x1="430" y1="285" x2="620" y2="430" stroke="#5f6b7a" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="430" y1="550" x2="620" y2="510" stroke="#5f6b7a" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="430" y1="815" x2="620" y2="590" stroke="#5f6b7a" stroke-width="3" marker-end="url(#arrow)"/>
+
+<line x1="1180" y1="430" x2="1370" y2="285" stroke="#5f6b7a" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1180" y1="510" x2="1370" y2="560" stroke="#5f6b7a" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1180" y1="590" x2="1370" y2="850" stroke="#5f6b7a" stroke-width="3" marker-end="url(#arrow)"/>
+
+<!-- takeaway -->
+<rect x="320" y="1010" width="1160" height="58" rx="14" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="2"/>
+<text x="900" y="1048" text-anchor="middle" font-size="28" font-weight="700">
+Review is how teams challenge reliability claims before pressure arrives.
+</text>
+
+</g>
+</svg>

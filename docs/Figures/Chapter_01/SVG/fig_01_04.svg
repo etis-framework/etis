@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1010" viewBox="0 70 2600 1010">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+
+<style>
+.title { font-family: Arial, Helvetica, sans-serif; font-size:48px; font-weight: 700; fill: #0B1F3A; }
+.label { font-family: Arial, Helvetica, sans-serif; font-size:50px; font-weight: 700; fill: #0B1F3A; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size:40px; fill: #374151; }
+.note { font-family: Arial, Helvetica, sans-serif; font-size:50px; font-weight: 700; fill: #7F1D1D; }
+</style>
+
+<!-- Main flow -->
+<rect x="180" y="170" width="520" height="300" rx="24" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="5"/>
+<text x="440" y="285" text-anchor="middle" class="label">AI Assistance</text>
+<text x="440" y="350" text-anchor="middle" class="small">drafts</text>
+<text x="440" y="390" text-anchor="middle" class="small">analysis</text>
+<text x="440" y="430" text-anchor="middle" class="small">code</text>
+
+<line x1="700" y1="320" x2="1030" y2="320" stroke="#0B1F3A" stroke-width="7"/>
+<polygon points="1030,320 995,300 995,340" fill="#0B1F3A"/>
+
+<rect x="1040" y="130" width="520" height="380" rx="24" fill="#FFFFFF" stroke="#166534" stroke-width="6"/>
+<text x="1300" y="260" text-anchor="middle" class="label">Verification</text>
+<text x="1300" y="335" text-anchor="middle" class="small">review</text>
+<text x="1300" y="375" text-anchor="middle" class="small">test</text>
+<text x="1300" y="415" text-anchor="middle" class="small">validate</text>
+<text x="1300" y="455" text-anchor="middle" class="small">approve</text>
+
+<line x1="1560" y1="320" x2="1890" y2="320" stroke="#0B1F3A" stroke-width="7"/>
+<polygon points="1890,320 1855,300 1855,340" fill="#0B1F3A"/>
+
+<rect x="1900" y="170" width="520" height="300" rx="24" fill="#F8FAFC" stroke="#92400E" stroke-width="5"/>
+<text x="2160" y="285" text-anchor="middle" class="label">Operational Action</text>
+<text x="2160" y="350" text-anchor="middle" class="small">deploy</text>
+<text x="2160" y="390" text-anchor="middle" class="small">release</text>
+<text x="2160" y="430" text-anchor="middle" class="small">execute</text>
+
+<!-- Accountability band -->
+<rect x="250" y="700" width="2100" height="280" rx="24" fill="#FEF2F2" stroke="#B91C1C" stroke-width="5"/>
+<text x="1300" y="810" text-anchor="middle" class="note">Authority May Be Delegated</text>
+<text x="1300" y="900" text-anchor="middle" class="note">Accountability Remains Human</text>
+</svg>

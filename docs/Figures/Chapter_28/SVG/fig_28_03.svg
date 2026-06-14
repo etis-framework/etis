@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1050" viewBox="0 0 1700 1050">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="80" y="95" width="205" height="88" rx="14" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="182.5" y="129" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="182.5" dy="0">Task</tspan>
+<tspan x="182.5" dy="28">request</tspan>
+</text>
+<rect x="350" y="95" width="230" height="88" rx="14" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="465.0" y="129" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="465.0" dy="0">Context</tspan>
+<tspan x="465.0" dy="28">boundary</tspan>
+</text>
+<rect x="645" y="95" width="250" height="88" rx="14" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="770.0" y="129" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="770.0" dy="0">AI proposal</tspan>
+<tspan x="770.0" dy="28">or recommendation</tspan>
+</text>
+<rect x="960" y="81" width="260" height="116" rx="14" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1090.0" y="115" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="1090.0" dy="0">Human approval</tspan>
+<tspan x="1090.0" dy="28">approve • modify • reject</tspan>
+</text>
+<rect x="1285" y="95" width="275" height="88" rx="14" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1422.5" y="129" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="1422.5" dy="0">Tool / action</tspan>
+<tspan x="1422.5" dy="28">boundary</tspan>
+</text>
+<line x1="285" y1="139" x2="340" y2="139" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="340,139 325,131 325,147" fill="#5f6b7a"/>
+<line x1="580" y1="139" x2="635" y2="139" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="635,139 620,131 620,147" fill="#5f6b7a"/>
+<line x1="895" y1="139" x2="950" y2="139" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="950,139 935,131 935,147" fill="#5f6b7a"/>
+<line x1="1220" y1="139" x2="1275" y2="139" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="1275,139 1260,131 1260,147" fill="#5f6b7a"/>
+<line x1="1422" y1="188" x2="1422" y2="260" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="1422,260 1414,245 1430,245" fill="#5f6b7a"/>
+<rect x="1225" y="270" width="395" height="80" rx="14" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1422" y="318" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="1422" dy="0">Audit event</tspan>
+</text>
+<line x1="1422" y1="355" x2="1422" y2="420" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="1422,420 1414,405 1430,405" fill="#5f6b7a"/>
+<rect x="1225" y="430" width="395" height="80" rx="14" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="1422" y="478" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="1422" dy="0">Monitoring</tspan>
+</text>
+<line x1="1422" y1="515" x2="1422" y2="585" stroke="#5f6b7a" stroke-width="3" stroke-linecap="round"/><polygon points="1422,585 1414,570 1430,570" fill="#5f6b7a"/>
+<rect x="180" y="600" width="1340" height="250" rx="20" fill="#f3f6f9" stroke="#5f6b7a" stroke-width="2"/>
+<text x="850.0" y="648" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="850.0" dy="0">Rollback and revocation controls</tspan>
+</text>
+<rect x="245" y="688" width="250" height="82" rx="12" fill="#ffffff" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="370.0" y="720" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="370.0" dy="0">Disable</tspan>
+<tspan x="370.0" dy="27">capability</tspan>
+</text>
+<rect x="520" y="688" width="250" height="82" rx="12" fill="#ffffff" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="645.0" y="720" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="645.0" dy="0">Reduce</tspan>
+<tspan x="645.0" dy="27">authority</tspan>
+</text>
+<rect x="795" y="688" width="250" height="82" rx="12" fill="#ffffff" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="920.0" y="720" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="920.0" dy="0">Revoke</tspan>
+<tspan x="920.0" dy="27">access</tspan>
+</text>
+<rect x="1070" y="688" width="250" height="82" rx="12" fill="#ffffff" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="1195.0" y="720" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="1195.0" dy="0">Fallback</tspan>
+<tspan x="1195.0" dy="27">runbook</tspan>
+</text>
+<rect x="1345" y="688" width="250" height="82" rx="12" fill="#ffffff" stroke="#5f6b7a" stroke-width="1.6"/>
+<text x="1470.0" y="720" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="1470.0" dy="0">Human</tspan>
+<tspan x="1470.0" dy="27">operation</tspan>
+</text>
+<text x="850.0" y="817" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#23303d" text-anchor="middle">
+<tspan x="850.0" dy="0">Delegated authority remains under control only when it can be stopped, limited, corrected, or replaced.</tspan>
+</text>
+<rect x="180" y="895" width="1340" height="88" rx="18" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="1.8"/>
+<text x="850.0" y="949" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#23303d" text-anchor="middle">
+<tspan x="850.0" dy="0">Never delegate authority you cannot revoke.</tspan>
+</text>
+</svg>

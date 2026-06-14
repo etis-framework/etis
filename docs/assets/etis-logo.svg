@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="140" viewBox="0 0 640 140" role="img" aria-labelledby="title desc">
+<title id="title">ETIS logo</title>
+<desc id="desc">ETIS shield and wordmark.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#ffe5aa"/>
+    <stop offset="50%" stop-color="#f2bf58"/>
+    <stop offset="100%" stop-color="#a87225"/>
+  </linearGradient>
+</defs>
+<g transform="translate(10 10)">
+  <path d="M54 0 L104 18 V55 C104 88 84 107 54 121 C24 107 4 88 4 55 V18 Z" fill="#06142d" stroke="#f2bf58" stroke-width="4"/>
+  <path d="M54 20 L85 31 V58 C85 80 73 93 54 103 C35 93 23 80 23 58 V31 Z" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M54 34 V92" stroke="#f2bf58" stroke-width="5" stroke-linecap="round"/>
+  <path d="M37 51 H71" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+</g>
+<text x="138" y="67" font-family="Georgia, Times New Roman, serif" font-size="56" font-weight="800" fill="url(#gold)" letter-spacing="5">ETIS</text>
+<text x="330" y="38" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" fill="#ffffff" letter-spacing="3">ENGINEERING</text>
+<text x="330" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" fill="#ffffff" letter-spacing="3">TRUSTWORTHY</text>
+<text x="330" y="86" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800" fill="#ffffff" letter-spacing="3">INTELLIGENT SYSTEMS</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+  <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+ </marker>
+ <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.10"/>
+ </filter>
+</defs>
+
+<style>
+.domainLeft{fill:#fbf7f2;stroke:#6b5b48;stroke-width:2.2;}
+.domainRight{fill:#f5f7fb;stroke:#475569;stroke-width:2.2;}
+.cardLeft{fill:#fffaf4;stroke:#8a6f54;stroke-width:1.8;filter:url(#softShadow);}
+.cardRight{fill:#eef4fb;stroke:#50657d;stroke-width:1.8;filter:url(#softShadow);}
+.cardGreen{fill:#eef7f0;stroke:#4f7159;stroke-width:1.8;filter:url(#softShadow);}
+.heading{font-family:Arial;font-size:24px;font-weight:700;fill:#1e293b;}
+.label{font-family:Arial;font-size:24px;font-weight:700;fill:#1e293b;}
+.body{font-family:Arial;font-size:21px;fill:#334155;}
+.note{font-family:Arial;font-size:23px;font-style:italic;font-weight:600;fill:#334155;}
+.arrow{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}
+.divider{stroke:#94a3b8;stroke-width:2;stroke-dasharray:8 8;}
+</style>
+
+<rect x="60" y="48" width="500" height="570" class="domainLeft"/>
+<rect x="625" y="48" width="515" height="570" class="domainRight"/>
+<line x1="592" y1="70" x2="592" y2="610" class="divider"/>
+
+<text x="310" y="90" text-anchor="middle" class="heading">Blame theater narrows attention</text>
+<text x="882" y="90" text-anchor="middle" class="heading">Learning accountability expands evidence</text>
+
+<rect x="145" y="128" width="330" height="66" class="cardLeft"/>
+<text x="310" y="169" text-anchor="middle" class="label">Person</text>
+<path d="M310 194 L310 236" class="arrow"/>
+
+<rect x="145" y="242" width="330" height="66" class="cardLeft"/>
+<text x="310" y="283" text-anchor="middle" class="label">Fault</text>
+<path d="M310 308 L310 350" class="arrow"/>
+
+<rect x="145" y="356" width="330" height="66" class="cardLeft"/>
+<text x="310" y="397" text-anchor="middle" class="label">Punishment</text>
+<path d="M310 422 L310 464" class="arrow"/>
+
+<rect x="145" y="470" width="330" height="66" class="cardLeft"/>
+<text x="310" y="511" text-anchor="middle" class="label">Silence</text>
+
+<text x="310" y="572" text-anchor="middle" class="body">People protect themselves.</text>
+<text x="310" y="600" text-anchor="middle" class="body">The system stops learning.</text>
+
+<rect x="690" y="116" width="390" height="72" class="cardRight"/>
+<text x="885" y="147" text-anchor="middle" class="label">System Conditions</text>
+<text x="885" y="174" text-anchor="middle" class="body">context • workflow • assumptions</text>
+<path d="M885 188 L885 218" class="arrow"/>
+
+<rect x="690" y="226" width="390" height="72" class="cardRight"/>
+<text x="885" y="257" text-anchor="middle" class="label">Evidence</text>
+<text x="885" y="284" text-anchor="middle" class="body">what is known and missing</text>
+<path d="M885 298 L885 328" class="arrow"/>
+
+<rect x="690" y="336" width="390" height="72" class="cardRight"/>
+<text x="885" y="367" text-anchor="middle" class="label">Ownership</text>
+<text x="885" y="394" text-anchor="middle" class="body">named responsibility</text>
+<path d="M885 408 L885 438" class="arrow"/>
+
+<rect x="690" y="446" width="390" height="72" class="cardRight"/>
+<text x="885" y="477" text-anchor="middle" class="label">Corrective Action</text>
+<text x="885" y="504" text-anchor="middle" class="body">specific change to the system</text>
+<path d="M885 518 L885 530" class="arrow"/>
+
+<rect x="690" y="538" width="390" height="68" class="cardGreen"/>
+<text x="885" y="568" text-anchor="middle" class="label">Verification</text>
+<text x="885" y="594" text-anchor="middle" class="body">evidence the change worked</text>
+
+<text x="600" y="676" text-anchor="middle" class="note">Blamelessness is not softness; it redirects accountability toward evidence and change.</text>
+</svg>

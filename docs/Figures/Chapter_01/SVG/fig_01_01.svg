@@ -1,0 +1,83 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1310" viewBox="0 0 2400 1310">
+<rect width="100%" height="100%" fill="white"/>
+
+<style>
+.label{font-family:Arial,sans-serif;font-weight:bold;font-size:34px}
+.contrib{font-family:Arial,sans-serif;font-weight:bold;font-size:30px;fill:#0B1F3A}
+.lesson{font-family:Arial,sans-serif;font-weight:bold;font-size:36px;fill:#0B1F3A}
+.body{font-family:Arial,sans-serif;font-size:30px;fill:#111}
+.lessonBodyLarge{font-family:Arial,sans-serif;font-size:32px;fill:#111}
+</style>
+
+<!-- Top flow -->
+<g>
+<rect x="70" y="120" width="300" height="500" rx="18" fill="white" stroke="#c62828" stroke-width="3"/>
+<text x="220" y="190" text-anchor="middle" class="label" fill="#c62828">1</text>
+<text x="220" y="250" text-anchor="middle" class="label" fill="#c62828">Local</text>
+<text x="220" y="290" text-anchor="middle" class="label" fill="#c62828">Defect</text>
+
+<rect x="470" y="120" width="300" height="500" rx="18" fill="white" stroke="#ef6c00" stroke-width="3"/>
+<text x="620" y="190" text-anchor="middle" class="label" fill="#ef6c00">2</text>
+<text x="620" y="250" text-anchor="middle" class="label" fill="#ef6c00">Decision</text>
+<text x="620" y="290" text-anchor="middle" class="label" fill="#ef6c00">Error</text>
+
+<rect x="870" y="120" width="300" height="500" rx="18" fill="white" stroke="#d4a017" stroke-width="3"/>
+<text x="1020" y="190" text-anchor="middle" class="label" fill="#d4a017">3</text>
+<text x="1020" y="250" text-anchor="middle" class="label" fill="#d4a017">Operational</text>
+<text x="1020" y="290" text-anchor="middle" class="label" fill="#d4a017">Impact</text>
+
+<rect x="1270" y="120" width="300" height="500" rx="18" fill="white" stroke="#2e7d32" stroke-width="3"/>
+<text x="1420" y="190" text-anchor="middle" class="label" fill="#2e7d32">4</text>
+<text x="1420" y="250" text-anchor="middle" class="label" fill="#2e7d32">Governance</text>
+<text x="1420" y="290" text-anchor="middle" class="label" fill="#2e7d32">Gap</text>
+
+<rect x="1670" y="120" width="300" height="500" rx="18" fill="white" stroke="#1e4f9a" stroke-width="3"/>
+<text x="1820" y="190" text-anchor="middle" class="label" fill="#1e4f9a">5</text>
+<text x="1820" y="250" text-anchor="middle" class="label" fill="#1e4f9a">Trust</text>
+<text x="1820" y="290" text-anchor="middle" class="label" fill="#1e4f9a">Erosion</text>
+
+<rect x="2070" y="120" width="260" height="500" rx="18" fill="white" stroke="#6a1b9a" stroke-width="3"/>
+<text x="2200" y="190" text-anchor="middle" class="label" fill="#6a1b9a">6</text>
+<text x="2200" y="250" text-anchor="middle" class="label" fill="#6a1b9a">Institutional</text>
+<text x="2200" y="290" text-anchor="middle" class="label" fill="#6a1b9a">Consequence</text>
+
+<line x1="370" y1="370" x2="470" y2="370" stroke="black" stroke-width="5"/>
+<polygon points="470,370 445,355 445,385" fill="black"/>
+<line x1="770" y1="370" x2="870" y2="370" stroke="black" stroke-width="5"/>
+<polygon points="870,370 845,355 845,385" fill="black"/>
+<line x1="1170" y1="370" x2="1270" y2="370" stroke="black" stroke-width="5"/>
+<polygon points="1270,370 1245,355 1245,385" fill="black"/>
+<line x1="1570" y1="370" x2="1670" y2="370" stroke="black" stroke-width="5"/>
+<polygon points="1670,370 1645,355 1645,385" fill="black"/>
+<line x1="1970" y1="370" x2="2070" y2="370" stroke="black" stroke-width="5"/>
+<polygon points="2070,370 2045,355 2045,385" fill="black"/>
+</g>
+
+<text x="1200" y="760" text-anchor="middle" class="lesson">COMMON CONTRIBUTORS THAT ENABLE THE CASCADE</text>
+
+<line x1="80" y1="740" x2="700" y2="740" stroke="#0B1F3A" stroke-width="3"/>
+<line x1="1700" y1="740" x2="2320" y2="740" stroke="#0B1F3A" stroke-width="3"/>
+
+<text x="220" y="890" text-anchor="middle" class="contrib">Hidden</text>
+<text x="220" y="930" text-anchor="middle" class="contrib">Dependencies</text>
+
+<text x="620" y="890" text-anchor="middle" class="contrib">Incomplete</text>
+<text x="620" y="930" text-anchor="middle" class="contrib">Evidence</text>
+
+<text x="1020" y="890" text-anchor="middle" class="contrib">Weak</text>
+<text x="1020" y="930" text-anchor="middle" class="contrib">Challenge</text>
+
+<text x="1420" y="890" text-anchor="middle" class="contrib">Poor</text>
+<text x="1420" y="930" text-anchor="middle" class="contrib">Observability</text>
+
+<text x="1820" y="890" text-anchor="middle" class="contrib">Unclear</text>
+<text x="1820" y="930" text-anchor="middle" class="contrib">Ownership</text>
+
+<text x="2200" y="890" text-anchor="middle" class="contrib">Process</text>
+<text x="2200" y="930" text-anchor="middle" class="contrib">Gaps</text>
+
+<rect x="70" y="1030" width="2260" height="180" rx="18" fill="#f8fafc" stroke="#0B1F3A" stroke-width="3"/>
+<text x="180" y="1125" class="lesson">LESSON</text>
+<text x="420" y="1125" class="lessonBodyLarge">Trust collapses when engineering, governance, and oversight are treated as optional.</text>
+</svg>

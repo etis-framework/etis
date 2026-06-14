@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1180" viewBox="0 0 1800 1180">
+<defs>
+<marker id="arrow_111" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M 0 0 L 12 6 L 0 12 z" fill="#111"/>
+</marker>
+<marker id="arrow_0f2f5f" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M 0 0 L 12 6 L 0 12 z" fill="#0f2f5f"/>
+</marker>
+<marker id="arrow_b31b1b" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M 0 0 L 12 6 L 0 12 z" fill="#b31b1b"/>
+</marker>
+<marker id="arrow_5d2f84" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M 0 0 L 12 6 L 0 12 z" fill="#5d2f84"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="1800" height="1180" fill="white"/>
+<text x="900.0" y="46" text-anchor="middle" style="font-size:26px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;font-style:italic;">
+<tspan x="900.0" dy="0">Accountability is meaningful only when paired with practical authority and evidence access.</tspan>
+</text>
+<rect x="40" y="75" width="1720" height="893" rx="14" fill="#fbfdff" stroke="#0f2f5f" stroke-width="3"/>
+<text x="900" y="115" text-anchor="middle" style="font-size:28px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="900" dy="0">ACTION CLASSES ACROSS COLUMNS — AUTHORITY TYPES DOWN ROWS</tspan>
+</text>
+<rect x="70" y="145" width="270" height="96" rx="8" fill="#eaf3ff" stroke="#0f2f5f" stroke-width="2"/>
+<text x="205.0" y="179" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Authority Type</tspan>
+</text>
+<text x="205.0" y="223" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:650;fill:#0f2f5f;font-style:italic;">
+<tspan x="205.0" dy="0">Who can control the outcome?</tspan>
+</text>
+<rect x="340" y="145" width="345" height="96" rx="8" fill="#eaf3ff" stroke="#0f2f5f" stroke-width="2"/>
+<text x="512.5" y="173" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="512.5" dy="0">Routine Routing</tspan>
+<tspan x="512.5" dy="29.5">Message</tspan>
+</text>
+<text x="512.5" y="227" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">low-consequence routine workflow</tspan>
+</text>
+<rect x="685" y="145" width="345" height="96" rx="8" fill="#eaf3ff" stroke="#0f2f5f" stroke-width="2"/>
+<text x="857.5" y="173" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="857.5" dy="0">Stakeholder</tspan>
+<tspan x="857.5" dy="29.5">Update</tspan>
+</text>
+<text x="857.5" y="227" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">operational notice with audience risk</tspan>
+</text>
+<rect x="1030" y="145" width="345" height="96" rx="8" fill="#eaf3ff" stroke="#0f2f5f" stroke-width="2"/>
+<text x="1202.5" y="173" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="1202.5" dy="0">Sensitive</tspan>
+<tspan x="1202.5" dy="29.5">Communication</tspan>
+</text>
+<text x="1202.5" y="227" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">privacy / safety / public-facing risk</tspan>
+</text>
+<rect x="1375" y="145" width="345" height="96" rx="8" fill="#eaf3ff" stroke="#0f2f5f" stroke-width="2"/>
+<text x="1547.5" y="173" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="1547.5" dy="0">Authority</tspan>
+<tspan x="1547.5" dy="29.5">Expansion</tspan>
+</text>
+<text x="1547.5" y="227" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">new AI workflow or capability growth</tspan>
+</text>
+<rect x="70" y="241" width="270" height="82" rx="4" fill="#ffffff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="273" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Accountable</tspan>
+<tspan x="205.0" dy="28.32">Owner</tspan>
+</text>
+<rect x="340" y="241" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="512.5" y="273" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Operations Coordinator</tspan>
+</text>
+<rect x="685" y="241" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="857.5" y="273" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Department Owner</tspan>
+</text>
+<rect x="1030" y="241" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1202.5" y="273" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Public Safety / Privacy</tspan>
+<tspan x="1202.5" dy="24.779999999999998">Owner</tspan>
+</text>
+<rect x="1375" y="241" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1547.5" y="273" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Release Authority</tspan>
+</text>
+<rect x="70" y="323" width="270" height="82" rx="4" fill="#f8fbff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="355" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Reviewer</tspan>
+</text>
+<rect x="340" y="323" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="512.5" y="355" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Incident Coordinator</tspan>
+</text>
+<rect x="685" y="323" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="857.5" y="355" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Operations Reviewer</tspan>
+</text>
+<rect x="1030" y="323" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1202.5" y="355" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Privacy or Safety</tspan>
+<tspan x="1202.5" dy="24.779999999999998">Reviewer</tspan>
+</text>
+<rect x="1375" y="323" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1547.5" y="355" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Review Board</tspan>
+</text>
+<rect x="70" y="405" width="270" height="82" rx="4" fill="#ffffff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="437" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Approver</tspan>
+</text>
+<rect x="340" y="405" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="512.5" y="437" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Campus Operations</tspan>
+</text>
+<rect x="685" y="405" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="857.5" y="437" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Department Lead</tspan>
+</text>
+<rect x="1030" y="405" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1202.5" y="437" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Authorized Liaison</tspan>
+</text>
+<rect x="1375" y="405" width="345" height="82" rx="4" fill="#ffffff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1547.5" y="437" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Release Governance</tspan>
+</text>
+<rect x="70" y="487" width="270" height="82" rx="4" fill="#f8fbff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="519" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Override</tspan>
+<tspan x="205.0" dy="28.32">Authority</tspan>
+</text>
+<rect x="340" y="487" width="345" height="82" rx="4" fill="#fffaf0" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="512.5" y="519" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Coordinator may stop</tspan>
+</text>
+<rect x="685" y="487" width="345" height="82" rx="4" fill="#fffaf0" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="857.5" y="519" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Lead may modify</tspan>
+</text>
+<rect x="1030" y="487" width="345" height="82" rx="4" fill="#fff6e5" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1202.5" y="519" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Privacy / safety may</tspan>
+<tspan x="1202.5" dy="24.779999999999998">block</tspan>
+</text>
+<rect x="1375" y="487" width="345" height="82" rx="4" fill="#fff6e5" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1547.5" y="519" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Review board may</tspan>
+<tspan x="1547.5" dy="24.779999999999998">restrict</tspan>
+</text>
+<rect x="70" y="569" width="270" height="82" rx="4" fill="#ffffff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="601" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Escalation</tspan>
+<tspan x="205.0" dy="28.32">Authority</tspan>
+</text>
+<rect x="340" y="569" width="345" height="82" rx="4" fill="#fffaf0" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="512.5" y="601" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Ops supervisor</tspan>
+</text>
+<rect x="685" y="569" width="345" height="82" rx="4" fill="#fffaf0" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="857.5" y="601" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Service leadership</tspan>
+</text>
+<rect x="1030" y="569" width="345" height="82" rx="4" fill="#fff6e5" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1202.5" y="601" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Privacy / public safety</tspan>
+<tspan x="1202.5" dy="24.779999999999998">path</tspan>
+</text>
+<rect x="1375" y="569" width="345" height="82" rx="4" fill="#fff6e5" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1547.5" y="601" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Institutional governance</tspan>
+</text>
+<rect x="70" y="651" width="270" height="82" rx="4" fill="#f8fbff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="683" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Audit</tspan>
+<tspan x="205.0" dy="28.32">Owner</tspan>
+</text>
+<rect x="340" y="651" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="512.5" y="683" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Operations audit</tspan>
+</text>
+<rect x="685" y="651" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="857.5" y="683" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Workflow owner</tspan>
+</text>
+<rect x="1030" y="651" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1202.5" y="683" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Security / privacy audit</tspan>
+</text>
+<rect x="1375" y="651" width="345" height="82" rx="4" fill="#f8fbff" stroke="#6d86ad" stroke-width="1.4"/>
+<text x="1547.5" y="683" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Governance audit</tspan>
+</text>
+<rect x="70" y="733" width="270" height="82" rx="4" fill="#ffffff" stroke="#0f2f5f" stroke-width="1.5"/>
+<text x="205.0" y="765" text-anchor="middle" style="font-size:24px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="205.0" dy="0">Evidence</tspan>
+<tspan x="205.0" dy="28.32">Location</tspan>
+</text>
+<rect x="340" y="733" width="345" height="82" rx="4" fill="#fbf7ff" stroke="#5d2f84" stroke-width="1.4"/>
+<text x="512.5" y="765" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="512.5" dy="0">Decision log</tspan>
+</text>
+<rect x="685" y="733" width="345" height="82" rx="4" fill="#fbf7ff" stroke="#5d2f84" stroke-width="1.4"/>
+<text x="857.5" y="765" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="857.5" dy="0">Approval record</tspan>
+</text>
+<rect x="1030" y="733" width="345" height="82" rx="4" fill="#fbf7ff" stroke="#5d2f84" stroke-width="1.4"/>
+<text x="1202.5" y="765" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1202.5" dy="0">Escalation record</tspan>
+</text>
+<rect x="1375" y="733" width="345" height="82" rx="4" fill="#fbf7ff" stroke="#5d2f84" stroke-width="1.4"/>
+<text x="1547.5" y="765" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="1547.5" dy="0">Readiness review record</tspan>
+</text>
+<rect x="70" y="843" width="1040" height="110" rx="10" fill="#fff7f7" stroke="#b31b1b" stroke-width="2.5"/>
+<text x="590.0" y="874" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#b31b1b;">
+<tspan x="590.0" dy="0">Oversight Failure Pattern</tspan>
+</text>
+<text x="590.0" y="911" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:600;fill:#102040;">
+<tspan x="590.0" dy="0">A role may be accountable on paper but unable to intervene, escalate, audit, or inspect evidence.</tspan>
+</text>
+<text x="590.0" y="939" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#b31b1b;">
+<tspan x="590.0" dy="0">That is accountability fog, not meaningful oversight.</tspan>
+</text>
+<rect x="1240" y="843" width="490" height="110" rx="10" fill="#fbf7ff" stroke="#5d2f84" stroke-width="2.5"/>
+<text x="1485.0" y="874" text-anchor="middle" style="font-size:25px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#5d2f84;">
+<tspan x="1485.0" dy="0">Repository Evidence</tspan>
+</text>
+<text x="1485.0" y="907" text-anchor="middle" style="font-size:20px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#102040;">
+<tspan x="1485.0" dy="0">/docs/governance/human_oversight/</tspan>
+</text>
+<text x="1485.0" y="936" text-anchor="middle" style="font-size:21px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#102040;">
+<tspan x="1485.0" dy="0">escalation_authority_matrix.md</tspan>
+</text>
+<line x1="1128" y1="898.0" x2="1224" y2="898.0" stroke="#5d2f84" stroke-width="4.5" marker-end="url(#arrow_5d2f84)"/>
+<rect x="70" y="988" width="1660" height="120" rx="10" fill="#f7f9fc" stroke="#7a879a" stroke-width="2"/>
+<text x="900.0" y="1022" text-anchor="middle" style="font-size:28px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#102040;">
+<tspan x="900.0" dy="0">AUTHORITY MUST MATCH ACCOUNTABILITY</tspan>
+</text>
+<rect x="105.0" y="1043" width="513.3333333333334" height="45" rx="6" fill="#ffffff" stroke="#a5afbd" stroke-width="1.3"/>
+<text x="361.6666666666667" y="1071" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="361.6666666666667" dy="0">Before Action: approve / reject / require evidence</tspan>
+</text>
+<rect x="643.3333333333334" y="1043" width="513.3333333333334" height="45" rx="6" fill="#ffffff" stroke="#a5afbd" stroke-width="1.3"/>
+<text x="900.0" y="1071" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="900.0" dy="0">During Exception: pause / override / escalate</tspan>
+</text>
+<rect x="1181.6666666666667" y="1043" width="513.3333333333334" height="45" rx="6" fill="#ffffff" stroke="#a5afbd" stroke-width="1.3"/>
+<text x="1438.3333333333335" y="1071" text-anchor="middle" style="font-size:19px;font-family:Arial, Helvetica, sans-serif;font-weight:700;fill:#0f2f5f;">
+<tspan x="1438.3333333333335" dy="0">After Action: audit / revoke / learn</tspan>
+</text>
+</svg>

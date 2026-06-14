@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+  <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+ </marker>
+ <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.10"/>
+ </filter>
+</defs>
+
+<style>
+.domain{fill:#f8fafc;stroke:#475569;stroke-width:2.2;}
+.domain2{fill:#f5f7fb;stroke:#475569;stroke-width:2.2;}
+.center{fill:#eef4fb;stroke:#50657d;stroke-width:2.2;filter:url(#softShadow);}
+.card{fill:#ffffff;stroke:#64748b;stroke-width:1.8;filter:url(#softShadow);}
+.cardgreen{fill:#eef7f0;stroke:#4f7159;stroke-width:1.8;filter:url(#softShadow);}
+.heading{font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:700;fill:#1e293b;}
+.label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#1e293b;}
+.body{font-family:Arial,Helvetica,sans-serif;font-size:21px;fill:#334155;}
+.small{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#334155;}
+.note{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-style:italic;font-weight:600;fill:#334155;}
+.arrow{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}
+</style>
+
+<!-- Left domain: backward evidence -->
+<rect x="60" y="50" width="310" height="545" class="domain"/>
+<text x="215" y="92" text-anchor="middle" class="heading">Backward Links</text>
+<text x="215" y="122" text-anchor="middle" class="body">what the release claimed</text>
+
+<rect x="95" y="155" width="240" height="58" class="card"/>
+<text x="215" y="191" text-anchor="middle" class="label">Release Evidence</text>
+
+<rect x="95" y="235" width="240" height="58" class="card"/>
+<text x="215" y="271" text-anchor="middle" class="label">Known Limits</text>
+
+<rect x="95" y="315" width="240" height="58" class="card"/>
+<text x="215" y="351" text-anchor="middle" class="label">Risk Disposition</text>
+
+<rect x="95" y="395" width="240" height="58" class="card"/>
+<text x="215" y="431" text-anchor="middle" class="label">ADRs and Tests</text>
+
+<rect x="95" y="475" width="240" height="58" class="card"/>
+<text x="215" y="511" text-anchor="middle" class="label">AI-Use Record</text>
+
+<!-- Center: connector artifact -->
+<rect x="430" y="176" width="340" height="290" class="center"/>
+<text x="600" y="222" text-anchor="middle" class="heading">Postmortem Report</text>
+<text x="600" y="260" text-anchor="middle" class="body">operational event record</text>
+<text x="600" y="292" text-anchor="middle" class="body">timeline and impact</text>
+<text x="600" y="324" text-anchor="middle" class="body">evidence reviewed</text>
+<text x="600" y="356" text-anchor="middle" class="body">evidence missing</text>
+<text x="600" y="388" text-anchor="middle" class="body">contributing conditions</text>
+<text x="600" y="420" text-anchor="middle" class="body">learning and decisions</text>
+
+<!-- Right domain: forward work -->
+<rect x="830" y="50" width="310" height="545" class="domain2"/>
+<text x="985" y="92" text-anchor="middle" class="heading">Forward Links</text>
+<text x="985" y="122" text-anchor="middle" class="body">what must change next</text>
+
+<rect x="865" y="155" width="240" height="58" class="cardgreen"/>
+<text x="985" y="191" text-anchor="middle" class="label">Corrective Actions</text>
+
+<rect x="865" y="235" width="240" height="58" class="cardgreen"/>
+<text x="985" y="271" text-anchor="middle" class="label">Learning Backlog</text>
+
+<rect x="865" y="315" width="240" height="58" class="cardgreen"/>
+<text x="985" y="351" text-anchor="middle" class="label">Defect Register</text>
+
+<rect x="865" y="395" width="240" height="58" class="cardgreen"/>
+<text x="985" y="431" text-anchor="middle" class="label">Evidence Index</text>
+
+<rect x="865" y="475" width="240" height="58" class="cardgreen"/>
+<text x="985" y="511" text-anchor="middle" class="label">Stabilization Work</text>
+
+<!-- Arrows: evidence connector relationship -->
+<path d="M370 323 L420 323" class="arrow"/>
+<path d="M780 323 L820 323" class="arrow"/>
+
+<text x="600" y="625" text-anchor="middle" class="body">Repository memory makes operational learning reconstructable, challengeable, and actionable.</text>
+<text x="600" y="676" text-anchor="middle" class="note">A postmortem is not a detached document; it is an evidence connector.</text>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+  <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+ </marker>
+ <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.10"/>
+ </filter>
+</defs>
+
+<style>
+.domain{fill:#f8fafc;stroke:#475569;stroke-width:2.2;}
+.domain2{fill:#f5f7fb;stroke:#475569;stroke-width:2.2;}
+.gate{fill:#eef4fb;stroke:#50657d;stroke-width:2.4;filter:url(#softShadow);}
+.card{fill:#ffffff;stroke:#64748b;stroke-width:1.8;filter:url(#softShadow);}
+.cardgreen{fill:#eef7f0;stroke:#4f7159;stroke-width:1.8;filter:url(#softShadow);}
+.heading{font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:700;fill:#1e293b;}
+.label{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-weight:700;fill:#1e293b;}
+.body{font-family:Arial,Helvetica,sans-serif;font-size:21px;fill:#334155;}
+.gateText{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#334155;}
+.note{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-style:italic;font-weight:600;fill:#334155;}
+.arrow{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}
+</style>
+
+<!-- Inputs -->
+<rect x="55" y="48" width="325" height="540" class="domain"/>
+<text x="218" y="90" text-anchor="middle" class="heading">Review Inputs</text>
+<text x="218" y="120" text-anchor="middle" class="body">evidence brought to challenge</text>
+
+<rect x="88" y="150" width="260" height="56" class="card"/>
+<text x="218" y="185" text-anchor="middle" class="label">Operational Event</text>
+
+<rect x="88" y="222" width="260" height="56" class="card"/>
+<text x="218" y="257" text-anchor="middle" class="label">Release Defense</text>
+
+<rect x="88" y="294" width="260" height="56" class="card"/>
+<text x="218" y="329" text-anchor="middle" class="label">Stakeholder Impact</text>
+
+<rect x="88" y="366" width="260" height="56" class="card"/>
+<text x="218" y="401" text-anchor="middle" class="label">AI Learning Notes</text>
+
+<rect x="88" y="438" width="260" height="56" class="card"/>
+<text x="218" y="473" text-anchor="middle" class="label">Corrective Proposals</text>
+
+<!-- Gate -->
+<path d="M430 110 L760 110 L810 318 L760 526 L430 526 Z" class="gate"/>
+<text x="612" y="174" text-anchor="middle" class="heading">Postmortem Learning</text>
+<text x="612" y="207" text-anchor="middle" class="heading">Review Gate</text>
+
+<text x="612" y="268" text-anchor="middle" class="gateText">Evidence-backed timeline?</text>
+<text x="612" y="308" text-anchor="middle" class="gateText">Facts separated from interpretation?</text>
+<text x="612" y="348" text-anchor="middle" class="gateText">Conditions examined beyond fault?</text>
+<text x="612" y="388" text-anchor="middle" class="gateText">Actions owned and verifiable?</text>
+<text x="612" y="428" text-anchor="middle" class="gateText">Enough learning for stabilization?</text>
+
+<!-- Outputs -->
+<rect x="855" y="48" width="320" height="540" class="domain2"/>
+<text x="1015" y="90" text-anchor="middle" class="heading">Review Outputs</text>
+<text x="1015" y="120" text-anchor="middle" class="body">learning converted to action</text>
+
+<rect x="885" y="150" width="260" height="56" class="cardgreen"/>
+<text x="1015" y="185" text-anchor="middle" class="label">Learning Record</text>
+
+<rect x="885" y="222" width="260" height="56" class="cardgreen"/>
+<text x="1015" y="257" text-anchor="middle" class="label">Action Owners</text>
+
+<rect x="885" y="294" width="260" height="56" class="cardgreen"/>
+<text x="1015" y="329" text-anchor="middle" class="label">Stabilization Inputs</text>
+
+<rect x="885" y="366" width="260" height="56" class="cardgreen"/>
+<text x="1015" y="401" text-anchor="middle" class="label">Observability Gaps</text>
+
+<rect x="885" y="438" width="260" height="56" class="cardgreen"/>
+<text x="1015" y="473" text-anchor="middle" class="label">Governance Follow-Up</text>
+
+<!-- Flow arrows -->
+<path d="M380 318 L420 318" class="arrow"/>
+<path d="M810 318 L845 318" class="arrow"/>
+
+<text x="600" y="624" text-anchor="middle" class="body">The review challenges whether learning is sufficient for responsible action.</text>
+<text x="600" y="676" text-anchor="middle" class="note">The team now defends learning, not just prior readiness.</text>
+</svg>

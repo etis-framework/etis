@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="60 0 1480 900">
+<defs>
+<marker id="arrow" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto">
+<path d="M0,0 L6,3 L0,6 Z" fill="#596a73"/>
+</marker>
+</defs>
+<rect width="100%" height="100%" fill="#f4f6f7"/>
+
+<text x="800" y="48" text-anchor="middle" font-family="Arial" font-size="31" font-weight="700" fill="#27343b">Incident Response Review Gate</text>
+<text x="800" y="84" text-anchor="middle" font-family="Arial" font-size="21" fill="#55666f">Response quality is reviewed before learning, governance decisions, and future action are accepted.</text>
+
+<!-- top inputs -->
+<rect x="90" y="145" width="420" height="150" rx="18" fill="#dcebf4" stroke="#5f8ba6" stroke-width="2"/>
+<text x="300" y="180" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700" fill="#27343b">Incident Record</text>
+<text x="300" y="215" text-anchor="middle" font-family="Arial" font-size="19">Incident record • Severity record</text>
+<text x="300" y="242" text-anchor="middle" font-family="Arial" font-size="19">Role assignments • Timeline</text>
+
+<rect x="590" y="145" width="420" height="150" rx="18" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="800" y="180" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Response Evidence</text>
+<text x="800" y="215" text-anchor="middle" font-family="Arial" font-size="19">Evidence index • Communications log</text>
+<text x="800" y="242" text-anchor="middle" font-family="Arial" font-size="19">Containment decisions • Mitigation actions</text>
+
+<rect x="1090" y="145" width="420" height="150" rx="18" fill="#eee8f6" stroke="#7d66a2" stroke-width="2"/>
+<text x="1300" y="180" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Governance Evidence</text>
+<text x="1300" y="215" text-anchor="middle" font-family="Arial" font-size="19">AI-use log • Security / audit notes</text>
+<text x="1300" y="242" text-anchor="middle" font-family="Arial" font-size="19">Recovery verification • Postmortem handoff</text>
+
+<!-- arrows down -->
+<line x1="300" y1="299" x2="300" y2="350" stroke="#596a73" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="800" y1="299" x2="800" y2="350" stroke="#596a73" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="1300" y1="299" x2="1300" y2="350" stroke="#596a73" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+<!-- review gate -->
+<rect x="330" y="360" width="940" height="285" rx="22" fill="#fffaf0" stroke="#b88f2c" stroke-width="2"/>
+<text x="800" y="400" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700">Incident Response Review</text>
+<text x="800" y="425" text-anchor="middle" font-family="Arial" font-size="20" fill="#55666f">Evaluates response quality, evidence preservation, governance adherence,</text>
+<text x="800" y="452" text-anchor="middle" font-family="Arial" font-size="20" fill="#55666f">recovery validation, and learning readiness.</text>
+
+<!-- question band -->
+<rect x="390" y="470" width="820" height="115" rx="14" fill="#ffffff" stroke="#c7d0d5" stroke-width="1.5"/>
+<text x="800" y="500" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Review Questions</text>
+<text x="800" y="535" text-anchor="middle" font-family="Arial" font-size="19">Detection • Severity • Ownership • Communication</text>
+<text x="800" y="565" text-anchor="middle" font-family="Arial" font-size="19">Governance • Containment • Recovery • Learning Handoff</text>
+
+<!-- outputs -->
+<line x1="800" y1="649" x2="800" y2="705" stroke="#596a73" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+<rect x="70" y="725" width="330" height="105" rx="16" fill="#dfeee5" stroke="#5f8a72" stroke-width="2"/>
+<text x="235" y="765" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700">Approved Response Record</text>
+<text x="235" y="795" text-anchor="middle" font-family="Arial" font-size="18">Response accepted with evidence</text>
+
+<rect x="450" y="725" width="330" height="105" rx="16" fill="#f6edcf" stroke="#b88f2c" stroke-width="2"/>
+<text x="615" y="765" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700">Corrective Actions</text>
+<text x="615" y="795" text-anchor="middle" font-family="Arial" font-size="18">Improvements and follow-up work</text>
+
+<rect x="830" y="725" width="330" height="105" rx="16" fill="#f2dddd" stroke="#a96b68" stroke-width="2"/>
+<text x="995" y="765" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700">Unresolved Risks</text>
+<text x="995" y="795" text-anchor="middle" font-family="Arial" font-size="18">Ownership and monitoring assigned</text>
+
+<rect x="1210" y="725" width="330" height="105" rx="16" fill="#dcebf4" stroke="#5f8ba6" stroke-width="2"/>
+<text x="1375" y="765" text-anchor="middle" font-family="Arial" font-size="21" font-weight="700">Chapter 31 Handoff</text>
+<text x="1375" y="795" text-anchor="middle" font-family="Arial" font-size="18">Release-governance constraints</text>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1020" viewBox="0 0 1600 1020">
+  <defs>
+    <style>
+      .pageTitle { font-family: Arial, Helvetica, sans-serif; font-size: 38px; font-weight: 700; fill: #1f2f3d; }
+      .pageSub { font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: 400; fill: #3c4b57; }
+      .frameTitle { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 700; fill: #263845; }
+      .boxTitle { font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: 700; fill: #1f2f3d; }
+      .boxTitleSmall { font-family: Arial, Helvetica, sans-serif; font-size: 21px; font-weight: 700; fill: #1f2f3d; }
+      .boxText { font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 400; fill: #2f3f4a; }
+      .boxTextSmall { font-family: Arial, Helvetica, sans-serif; font-size: 19px; font-weight: 400; fill: #2f3f4a; }
+      .outer { fill: #ffffff; stroke: #9aa8b4; stroke-width: 2.2; }
+      .layer { fill: #f8fafc; stroke: #b7c2cc; stroke-width: 2; }
+      .gov { fill: #eef1f8; stroke: #52637c; stroke-width: 2.4; }
+      .decision { fill: #e8f1fb; stroke: #2f5678; stroke-width: 3.2; }
+      .evidence { fill: #f7f9fc; stroke: #3f637d; stroke-width: 2.3; }
+      .outcome { fill: #f6f6f3; stroke: #6b6b60; stroke-width: 2.3; }
+    </style>
+  </defs>
+
+  <!-- Top thesis -->
+  <text x="800" y="54" text-anchor="middle" class="pageTitle">Release Readiness Is an Engineering Judgment</text>
+  <text x="800" y="91" text-anchor="middle" class="pageSub">Evidence informs the decision. Evidence does not grant permission.</text>
+
+  <!-- Outer figure frame: bottom is content-driven, not generic -->
+  <rect x="70" y="122" width="1460" height="842" rx="18" class="outer"/>
+
+  <!-- Governance constraints layer -->
+  <rect x="115" y="153" width="1370" height="122" rx="14" class="layer"/>
+  <text x="145" y="188" text-anchor="start" class="frameTitle">Governance constraints</text>
+
+  <rect x="300" y="202" width="360" height="52" rx="10" class="gov"/>
+  <text x="480" y="237" text-anchor="middle" class="boxTitleSmall">Governance Approval</text>
+
+  <rect x="940" y="202" width="360" height="52" rx="10" class="gov"/>
+  <text x="1120" y="237" text-anchor="middle" class="boxTitleSmall">Risk Acceptance</text>
+
+  <!-- Dominant decision container -->
+  <rect x="340" y="312" width="920" height="166" rx="16" class="decision"/>
+  <text x="800" y="352" text-anchor="middle" class="boxTitle">Release Readiness Decision</text>
+  <text x="800" y="390" text-anchor="middle" class="boxText">Defined release scope</text>
+  <text x="800" y="421" text-anchor="middle" class="boxText">Risk and limitation judgment</text>
+  <text x="800" y="452" text-anchor="middle" class="boxText">Accountable ownership</text>
+
+  <!-- Evidence inputs register -->
+  <rect x="115" y="520" width="1370" height="300" rx="14" class="layer"/>
+  <text x="145" y="555" text-anchor="start" class="frameTitle">Evidence inputs interpreted before release</text>
+
+  <rect x="155" y="580" width="390" height="86" rx="10" class="evidence"/>
+  <text x="350" y="616" text-anchor="middle" class="boxTitleSmall">Requirements &amp; ADR Evidence</text>
+  <text x="350" y="646" text-anchor="middle" class="boxTextSmall">Scope, constraints, decisions</text>
+
+  <rect x="605" y="580" width="390" height="86" rx="10" class="evidence"/>
+  <text x="800" y="616" text-anchor="middle" class="boxTitleSmall">Test Evidence</text>
+  <text x="800" y="646" text-anchor="middle" class="boxTextSmall">Verified deterministic behavior</text>
+
+  <rect x="1055" y="580" width="390" height="86" rx="10" class="evidence"/>
+  <text x="1250" y="616" text-anchor="middle" class="boxTitleSmall">AI Evaluation Evidence</text>
+  <text x="1250" y="646" text-anchor="middle" class="boxTextSmall">Limits, oversight, context checks</text>
+
+  <rect x="155" y="702" width="390" height="86" rx="10" class="evidence"/>
+  <text x="350" y="738" text-anchor="middle" class="boxTitleSmall">Defects &amp; Limitations</text>
+  <text x="350" y="768" text-anchor="middle" class="boxTextSmall">Known gaps and residual concerns</text>
+
+  <rect x="605" y="702" width="390" height="86" rx="10" class="evidence"/>
+  <text x="800" y="738" text-anchor="middle" class="boxTitleSmall">Operational Readiness Evidence</text>
+  <text x="800" y="768" text-anchor="middle" class="boxTextSmall">Rollback, support, fallback notes</text>
+
+  <rect x="1055" y="702" width="390" height="86" rx="10" class="evidence"/>
+  <text x="1250" y="738" text-anchor="middle" class="boxTitleSmall">Release Scope Definition</text>
+  <text x="1250" y="768" text-anchor="middle" class="boxTextSmall">What is included, restricted, deferred</text>
+
+  <!-- Judgment outputs layer -->
+  <rect x="115" y="850" width="1370" height="84" rx="14" class="layer"/>
+  <text x="145" y="884" text-anchor="start" class="frameTitle">Judgment outputs</text>
+
+  <rect x="360" y="884" width="300" height="34" rx="8" class="outcome"/>
+  <text x="510" y="908" text-anchor="middle" class="boxTextSmall">Release decision record</text>
+
+  <rect x="690" y="884" width="330" height="34" rx="8" class="outcome"/>
+  <text x="855" y="908" text-anchor="middle" class="boxTextSmall">Conditions and limitations</text>
+
+  <rect x="1050" y="884" width="300" height="34" rx="8" class="outcome"/>
+  <text x="1200" y="908" text-anchor="middle" class="boxTextSmall">Release accountability</text>
+</svg>

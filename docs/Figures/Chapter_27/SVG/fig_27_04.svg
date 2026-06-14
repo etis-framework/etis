@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="894" viewBox="0 0 1600 894" role="img" aria-label="Security Governance Review receives security and operational evidence, challenges boundaries, and produces governance records, corrections, evidence gaps, residual risks, and Chapter 28 delegation constraints.">
+<rect x="0" y="0" width="1600" height="894" fill="#f7f9fb"/>
+
+
+<rect x="60" y="36" width="350" height="108" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="73" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Operational Artifacts</text>
+<text x="235.0" y="112" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Runbooks • Owner Matrix</text>
+<rect x="60" y="172" width="350" height="108" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="209" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Access &amp; Authority</text>
+<text x="235.0" y="248" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Access Matrix • Action Authority</text>
+<rect x="60" y="308" width="350" height="108" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Data &amp; Dependency</text>
+<text x="235.0" y="384" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Classification • Dependency Review</text>
+<rect x="60" y="444" width="350" height="108" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="481" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Audit &amp; AI Evidence</text>
+<text x="235.0" y="520" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Audit Catalog • AI Context Guidance</text>
+<rect x="60" y="580" width="350" height="108" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="235.0" y="617" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Security Evidence</text>
+<text x="235.0" y="656" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Test Evidence • Risk Register</text>
+
+<line x1="428" y1="355.0" x2="482" y2="355.0" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="496,355.0 482,345.0 482,365.0" fill="#475569"/>
+
+<rect x="500" y="220" width="600" height="270" rx="22" fill="#e7f0f7" stroke="#334155" stroke-width="3"/>
+<text x="800" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827">Security Governance</text>
+<text x="800" y="323" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111827">Review</text>
+<text x="800" y="386" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500" fill="#111827">Are boundaries defined,</text>
+<text x="800" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500" fill="#111827">evidenced, tested,</text>
+<text x="800" y="458" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500" fill="#111827">owned, and governed?</text>
+
+<line x1="1118" y1="355.0" x2="1172" y2="355.0" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1186,355.0 1172,345.0 1172,365.0" fill="#475569"/>
+
+
+<rect x="1190" y="74" width="350" height="108" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="111" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Approved Governance</text>
+<text x="1365.0" y="150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Security Governance Record</text>
+<rect x="1190" y="210" width="350" height="108" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="247" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Required Corrections</text>
+<text x="1365.0" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Access Changes</text>
+<text x="1365.0" y="304" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Runbook Corrections</text>
+<rect x="1190" y="346" width="350" height="108" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="383" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Evidence Gaps</text>
+<text x="1365.0" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">Test Gaps • Residual Risks</text>
+<rect x="1190" y="482" width="350" height="108" rx="18" fill="#e8eef5" stroke="#334155" stroke-width="2.3"/>
+<text x="1365.0" y="519" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#111827">Chapter 28 Handoff</text>
+<text x="1365.0" y="558" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" fill="#111827">AI Delegation Constraints</text>
+
+<line x1="800" y1="498" x2="800" y2="723" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,738 790,723 810,723" fill="#475569"/>
+
+<rect x="220" y="746" width="1160" height="118" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="789" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Security governance is not proof of perfect security.</text>
+<text x="800" y="828" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#111827">It is a reviewed claim about controlled operating boundaries.</text>
+</svg>

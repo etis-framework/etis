@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+  <!-- 
+Figure 22.4 v2 Geometry Validation
+Canvas: 1600 x 920.
+Correction: artifact boxes enlarged from 96 px to 132 px high to fix vertical containment.
+Top row artifact boxes: y=344 h=132; bottom y=476.
+Top row baselines: title y=380; body y=416,446,476? Adjusted body baselines y=412,441,470. Last baseline 6 px above bottom, plus descender risk; additional improvement: use y=409,438,467. Last baseline 9 px above bottom.
+Bottom row artifact boxes: y=502 h=112; bottom y=614. Last baseline y=584, leaving 30 px.
+Artifact register parent: x=115 y=286 w=1370 h=356; bottom y=642. All children contained.
+Repository evidence layer: y=670 h=90; bottom y=760.
+Principle band: y=800 h=46; bottom y=846.
+Outer frame: x=70 y=112 w=1460 h=766; bottom y=878.
+Outer frame bottom clearance from lowest child: 32 px.
+Canvas bottom clearance: 42 px.
+Smallest font: 24 px. No shrink-to-fit.
+Zero arrows/connectors.
+ -->
+  <defs>
+    <style>
+      .pageTitle { font-family: Arial, Helvetica, sans-serif; font-size: 42px; font-weight: 700; fill: #1f2f3d; }
+      .pageSub { font-family: Arial, Helvetica, sans-serif; font-size: 27px; font-weight: 400; fill: #3c4b57; }
+      .frameTitle { font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: 700; fill: #263845; }
+      .boxTitle { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; fill: #1f2f3d; }
+      .boxTitleSmall { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; fill: #1f2f3d; }
+      .boxText { font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: 400; fill: #2f3f4a; }
+      .outer { fill: #ffffff; stroke: #9aa8b4; stroke-width: 2.2; }
+      .package { fill: #e8f1fb; stroke: #2f5678; stroke-width: 3.2; }
+      .layer { fill: #f8fafc; stroke: #b7c2cc; stroke-width: 2.2; }
+      .artifact { fill: #eef4fb; stroke: #3f637d; stroke-width: 2.4; }
+      .repo { fill: #f5f0e6; stroke: #8a6d3b; stroke-width: 2.3; }
+      .principle { fill: #eef1f8; stroke: #52637c; stroke-width: 2.3; }
+    </style>
+  </defs>
+
+  <text x="800" y="54" text-anchor="middle" class="pageTitle">Release Defense Evidence Package</text>
+  <text x="800" y="94" text-anchor="middle" class="pageSub">The presentation is another interface to the engineering evidence system.</text>
+
+  <rect x="70" y="112" width="1460" height="766" rx="18" class="outer"/>
+
+  <rect x="360" y="145" width="880" height="102" rx="16" class="package"/>
+  <text x="800" y="184" text-anchor="middle" class="boxTitle">Release Defense Package</text>
+  <text x="800" y="220" text-anchor="middle" class="boxText">claims • evidence • demo support • review response</text>
+
+  <rect x="115" y="286" width="1370" height="356" rx="14" class="layer"/>
+  <text x="145" y="322" text-anchor="start" class="frameTitle">Defense artifacts prepared before the presentation</text>
+
+  <rect x="145" y="344" width="400" height="132" rx="11" class="artifact"/>
+  <text x="345" y="380" text-anchor="middle" class="boxTitleSmall">Presentation Outline</text>
+  <text x="345" y="409" text-anchor="middle" class="boxText">release claim</text>
+<text x="345" y="438" text-anchor="middle" class="boxText">audience</text>
+<text x="345" y="467" text-anchor="middle" class="boxText">decision request</text>
+
+  <rect x="600" y="344" width="400" height="132" rx="11" class="artifact"/>
+  <text x="800" y="380" text-anchor="middle" class="boxTitleSmall">Evidence Map</text>
+  <text x="800" y="409" text-anchor="middle" class="boxText">claims</text>
+<text x="800" y="438" text-anchor="middle" class="boxText">evidence</text>
+<text x="800" y="467" text-anchor="middle" class="boxText">ownership</text>
+
+  <rect x="1055" y="344" width="400" height="132" rx="11" class="artifact"/>
+  <text x="1255" y="380" text-anchor="middle" class="boxTitleSmall">Demo Script</text>
+  <text x="1255" y="409" text-anchor="middle" class="boxText">demo steps</text>
+<text x="1255" y="438" text-anchor="middle" class="boxText">boundaries</text>
+<text x="1255" y="467" text-anchor="middle" class="boxText">fallbacks</text>
+
+  <rect x="370" y="502" width="400" height="112" rx="11" class="artifact"/>
+  <text x="570" y="538" text-anchor="middle" class="boxTitleSmall">Review Questions</text>
+  <text x="570" y="568" text-anchor="middle" class="boxText">expected challenges</text>
+<text x="570" y="597" text-anchor="middle" class="boxText">review concerns</text>
+
+  <rect x="830" y="502" width="400" height="112" rx="11" class="artifact"/>
+  <text x="1030" y="538" text-anchor="middle" class="boxTitleSmall">Response Record</text>
+  <text x="1030" y="568" text-anchor="middle" class="boxText">defense history</text>
+<text x="1030" y="597" text-anchor="middle" class="boxText">actual responses</text>
+
+  <rect x="115" y="670" width="1370" height="90" rx="14" class="repo"/>
+  <text x="145" y="706" text-anchor="start" class="frameTitle">Links to release evidence</text>
+  <text x="800" y="741" text-anchor="middle" class="boxText">readiness summary • test summary • AI evaluation • risk disposition • decision record</text>
+
+  <rect x="250" y="800" width="1100" height="46" rx="9" class="principle"/>
+  <text x="800" y="831" text-anchor="middle" class="boxText">Everything important leaves evidence. That includes the defense of the evidence.</text>
+</svg>

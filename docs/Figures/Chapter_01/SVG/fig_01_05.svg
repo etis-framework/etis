@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1600" viewBox="0 0 2600 1600">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+
+<style>
+.label { font-family: Arial, Helvetica, sans-serif; font-size:54px; font-weight: 700; fill: #0B1F3A; }
+.small { font-family: Arial, Helvetica, sans-serif; font-size:38px; fill: #374151; }
+.stage { font-family: Arial, Helvetica, sans-serif; font-size:54px; font-weight: 700; fill: #0B1F3A; }
+</style>
+
+<!-- Engineering Work -->
+<rect x="250" y="120" width="2100" height="220" rx="24" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="5"/>
+<text x="1300" y="195" text-anchor="middle" class="stage">Engineering Activity</text>
+<text x="520" y="275" text-anchor="middle" class="small">Requirements</text>
+<text x="900" y="275" text-anchor="middle" class="small">Architecture</text>
+<text x="1300" y="275" text-anchor="middle" class="small">Implementation</text>
+<text x="1700" y="275" text-anchor="middle" class="small">Testing</text>
+<text x="2080" y="275" text-anchor="middle" class="small">Operations</text>
+
+<!-- Arrow -->
+<line x1="1300" y1="340" x2="1300" y2="450" stroke="#0B1F3A" stroke-width="7"/>
+<polygon points="1300,490 1275,445 1325,445" fill="#0B1F3A"/>
+
+<!-- Visibility -->
+<rect x="700" y="520" width="1200" height="220" rx="24" fill="#FFFFFF" stroke="#166534" stroke-width="5"/>
+<text x="1300" y="600" text-anchor="middle" class="stage">Visibility</text>
+<text x="900" y="680" text-anchor="middle" class="small">Evidence</text>
+<text x="1150" y="680" text-anchor="middle" class="small">Reviews</text>
+<text x="1450" y="680" text-anchor="middle" class="small">Observability</text>
+<text x="1760" y="680" text-anchor="middle" class="small">Accountability</text>
+
+<!-- Arrow -->
+<line x1="1300" y1="740" x2="1300" y2="850" stroke="#0B1F3A" stroke-width="7"/>
+<polygon points="1300,890 1275,845 1325,845" fill="#0B1F3A"/>
+
+<!-- Governance -->
+<rect x="700" y="920" width="1200" height="220" rx="24" fill="#FFFFFF" stroke="#92400E" stroke-width="5"/>
+<text x="1300" y="1000" text-anchor="middle" class="stage">Governance</text>
+<text x="900" y="1080" text-anchor="middle" class="small">Challenge</text>
+<text x="1150" y="1080" text-anchor="middle" class="small">Approval</text>
+<text x="1450" y="1080" text-anchor="middle" class="small">Oversight</text>
+<text x="1730" y="1080" text-anchor="middle" class="small">Control</text>
+
+<!-- Arrow -->
+<line x1="1300" y1="1140" x2="1300" y2="1250" stroke="#0B1F3A" stroke-width="7"/>
+<polygon points="1300,1290 1275,1245 1325,1245" fill="#0B1F3A"/>
+
+<!-- Trustworthy Operation -->
+<rect x="500" y="1320" width="1600" height="190" rx="24" fill="#FEF2F2" stroke="#B91C1C" stroke-width="5"/>
+<text x="1300" y="1395" text-anchor="middle" class="stage">Trustworthy Operation</text>
+<text x="850" y="1470" text-anchor="middle" class="small">Reliability</text>
+<text x="1200" y="1470" text-anchor="middle" class="small">Recoverability</text>
+<text x="1550" y="1470" text-anchor="middle" class="small">Responsible AI</text>
+<text x="1850" y="1470" text-anchor="middle" class="small">Institutional Trust</text>
+
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="710" viewBox="0 0 1200 710" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.header{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.text{font-family:Arial,sans-serif;font-size:20px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.low{fill:#F4F6F8;stroke:#5C6873;stroke-width:2.4}
+.mod{fill:#EEF4FA;stroke:#47657E;stroke-width:2.4}
+.high{fill:#F8F1E8;stroke:#8A6442;stroke-width:2.4}
+.gov{fill:#F4EDED;stroke:#8B5A5A;stroke-width:2.8}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">Risk-Based Review Depth Matrix</text>
+
+<rect x="40" y="120" width="250" height="540" rx="20" class="low"/>
+<text x="165" y="165" class="header">Low Risk</text>
+<text x="165" y="280" class="text">Text or</text>
+<text x="165" y="315" class="text">Formatting Change</text>
+<text x="165" y="470" class="text">Light Review</text>
+
+<rect x="330" y="120" width="250" height="540" rx="20" class="mod"/>
+<text x="455" y="165" class="header">Moderate Risk</text>
+<text x="455" y="280" class="text">Feature or Refactor</text>
+<text x="455" y="315" class="text">Within Boundaries</text>
+<text x="455" y="470" class="text">Normal Review</text>
+<text x="455" y="505" class="text">+ Tests</text>
+
+<rect x="620" y="120" width="250" height="540" rx="20" class="high"/>
+<text x="745" y="165" class="header">High Risk</text>
+<text x="745" y="260" class="text">Data Ownership</text>
+<text x="745" y="295" class="text">Audit Logging</text>
+<text x="745" y="330" class="text">Fallback Behavior</text>
+<text x="745" y="365" class="text">AI Context</text>
+<text x="745" y="470" class="text">Deep Review</text>
+<text x="745" y="505" class="text">+ Evidence</text>
+
+<rect x="910" y="120" width="250" height="540" rx="20" class="gov"/>
+<text x="1035" y="165" class="header">Governance-Sensitive</text>
+<text x="1035" y="260" class="text">Authority</text>
+<text x="1035" y="295" class="text">Privacy</text>
+<text x="1035" y="330" class="text">Student Impact</text>
+<text x="1035" y="365" class="text">AI Delegation</text>
+<text x="1035" y="470" class="text">Escalated Review</text>
+<text x="1035" y="505" class="text">+ Explicit Approval</text>
+
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="110" y="80" width="1380" height="825" rx="28" fill="#f7f9fb" stroke="#3f5368" stroke-width="3"/>
+<text x="800.0" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#26384a">Trustworthy Intelligent System Boundary</text>
+<line x1="337.5" y1="227.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="715.0" y1="207.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="1217.5" y1="227.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="345.0" y1="467.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="1255.0" y1="467.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="425.0" y1="717.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="1175.0" y1="717.5" x2="800.0" y2="437.5" stroke="#c2cad3" stroke-width="2" stroke-dasharray="8 8"/>
+<rect x="185" y="170" width="305" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="337.5" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">People</text>
+<text x="337.5" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">users, maintainers, leaders</text>
+<rect x="560" y="150" width="310" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="715.0" y="188" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Workflows</text>
+<text x="715.0" y="226" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">approvals, escalations</text>
+<rect x="1060" y="170" width="315" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="1217.5" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Governance</text>
+<text x="1217.5" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">authority, oversight</text>
+<rect x="180" y="410" width="330" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="345.0" y="448" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Data &amp; Context</text>
+<text x="345.0" y="486" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">records, requirements</text>
+<rect x="1090" y="410" width="330" height="115" rx="16" fill="#f9fbfd" stroke="#56677d" stroke-width="2"/>
+<text x="1255.0" y="448" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">AI Assistance</text>
+<text x="1255.0" y="486" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">models, prompts, verification</text>
+<rect x="245" y="660" width="360" height="115" rx="16" fill="#fbfbf7" stroke="#56677d" stroke-width="2"/>
+<text x="425.0" y="698" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Repository Evidence</text>
+<text x="425.0" y="736" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">decisions, reviews, logs</text>
+<rect x="995" y="660" width="360" height="115" rx="16" fill="#ffffff" stroke="#56677d" stroke-width="2"/>
+<text x="1175.0" y="698" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#1f2933">Operations</text>
+<text x="1175.0" y="736" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#4b5563">monitoring, recovery, support</text>
+<rect x="620" y="370" width="360" height="135" rx="18" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="800.0" y="423" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933">Software Application</text>
+<text x="800.0" y="462" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#526070">part of the system</text>
+<rect x="390" y="810" width="820" height="78" rx="14" fill="#ffffff" stroke="#a8b2bd" stroke-width="1.8"/>
+<text x="800" y="841" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#3f4b59">The codebase is inside the system,</text>
+<text x="800" y="868" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#3f4b59">not equal to the system.</text>
+<line x1="800" y1="905" x2="800" y2="965" stroke="#7a8795" stroke-width="2.4"/>
+<rect x="270" y="965" width="1060" height="105" rx="18" fill="#f4f6f8" stroke="#56677d" stroke-width="2.4"/>
+<text x="800.0" y="1008" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#1f2933">Institutional Trust</text>
+<text x="800.0" y="1043" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#526070">earned through coordinated people, evidence, governance, operation, and recovery</text>
+</svg>

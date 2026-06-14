@@ -1,0 +1,47 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950">
+<rect width="100%" height="100%" fill="white"/>
+
+<!-- AI zone -->
+<rect x="120" y="80" width="1360" height="180" rx="18" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="800" y="125" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">AI-Assisted Activities</text>
+
+<rect x="180" y="155" width="320" height="65" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="340" y="195" text-anchor="middle" font-family="Arial" font-size="24">Draft Output</text>
+
+<rect x="640" y="155" width="320" height="65" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="800" y="195" text-anchor="middle" font-family="Arial" font-size="24">Recommendation</text>
+
+<rect x="1100" y="155" width="320" height="65" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1260" y="195" text-anchor="middle" font-family="Arial" font-size="24">Prepared Action</text>
+
+<!-- Boundary -->
+<rect x="120" y="305" width="1360" height="70" rx="12" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="2"/>
+<text x="800" y="350" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">Authority Boundary — Human Approval Required</text>
+
+<!-- Human roles -->
+<rect x="120" y="420" width="1360" height="160" rx="18" fill="#f3f6f9" stroke="#5f6b7a" stroke-width="2"/>
+<text x="800" y="465" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">Human Ownership and Approval Roles</text>
+
+<rect x="180" y="500" width="280" height="50" rx="8" fill="white" stroke="#5f6b7a"/>
+<text x="320" y="532" text-anchor="middle" font-family="Arial" font-size="22">Reviewer</text>
+
+<rect x="660" y="500" width="280" height="50" rx="8" fill="white" stroke="#5f6b7a"/>
+<text x="800" y="532" text-anchor="middle" font-family="Arial" font-size="22">Workflow Owner</text>
+
+<rect x="1140" y="500" width="280" height="50" rx="8" fill="white" stroke="#5f6b7a"/>
+<text x="1280" y="532" text-anchor="middle" font-family="Arial" font-size="22">Notification Approver</text>
+
+<!-- Execution boundary -->
+<rect x="120" y="625" width="1360" height="70" rx="12" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="2"/>
+<text x="800" y="670" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">Execution Boundary</text>
+
+<!-- Operational actions -->
+<rect x="120" y="740" width="1360" height="120" rx="18" fill="#eef3f8" stroke="#5f6b7a" stroke-width="2"/>
+<text x="800" y="785" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">Operational Actions</text>
+<text x="800" y="830" text-anchor="middle" font-family="Arial" font-size="24">Tool Action • Status Update • Stakeholder Notification</text>
+
+<!-- Takeaway -->
+<rect x="120" y="885" width="1360" height="45" rx="10" fill="#dbe5ef" stroke="#5f6b7a"/>
+<text x="800" y="915" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Governance is architecture: approval paths are part of system design.</text>
+</svg>

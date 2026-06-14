@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="900" fill="white"/><rect x="30" y="22" width="1540" height="840" rx="8" fill="white" stroke="#163A63" stroke-width="2.2"/><rect x="90" y="55" width="1420" height="125" rx="7" fill="#F7FAFE" stroke="#1F4E79" stroke-width="2"/><text x="800" y="88" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="800" fill="#163A63">
+<tspan x="800" dy="0">Governed Context Sources</tspan>
+</text><rect x="145" y="112" width="310" height="48" rx="5" fill="white" stroke="#1F4E79" stroke-width="1.5"/><text x="300.0" y="133" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="300.0" dy="0">Case History</tspan>
+</text><text x="300.0" y="154" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="300.0" dy="0">status and prior contacts</tspan>
+</text><rect x="490" y="112" width="310" height="48" rx="5" fill="white" stroke="#1F4E79" stroke-width="1.5"/><text x="645.0" y="133" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="645.0" dy="0">Policies</tspan>
+</text><text x="645.0" y="154" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="645.0" dy="0">routing and privacy rules</tspan>
+</text><rect x="835" y="112" width="310" height="48" rx="5" fill="white" stroke="#1F4E79" stroke-width="1.5"/><text x="990.0" y="133" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="990.0" dy="0">Workflow State</tspan>
+</text><text x="990.0" y="154" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="990.0" dy="0">queues and stalled cases</tspan>
+</text><rect x="1180" y="112" width="310" height="48" rx="5" fill="white" stroke="#1F4E79" stroke-width="1.5"/><text x="1335.0" y="133" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="1335.0" dy="0">Role Permissions</tspan>
+</text><text x="1335.0" y="154" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="1335.0" dy="0">who may see or act</tspan>
+</text><rect x="130" y="270" width="420" height="220" rx="8" fill="#F7FBF7" stroke="#2F5F3A" stroke-width="2"/><text x="340.0" y="308" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="800" fill="#2F5F3A">
+<tspan x="340.0" dy="0">Bounded Agentic Workflow</tspan>
+</text><text x="340.0" y="342" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="340.0" dy="0">Context Retrieval</tspan>
+</text><text x="340.0" y="374" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="340.0" dy="0">Planning</tspan>
+</text><text x="340.0" y="406" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="340.0" dy="0">Tool Selection</tspan>
+</text><text x="340.0" y="438" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="340.0" dy="0">Draft Preparation</tspan>
+</text><rect x="620" y="270" width="360" height="220" rx="8" fill="#FFFDF7" stroke="#9A6500" stroke-width="2"/><text x="800.0" y="312" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="800" fill="#7A4B00">
+<tspan x="800.0" dy="0">Human Approval</tspan>
+</text><text x="800.0" y="362" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">
+<tspan x="800.0" dy="0">Evidence Display</tspan>
+</text><text x="800.0" y="396" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">
+<tspan x="800.0" dy="0">Approve / Reject</tspan>
+</text><text x="800.0" y="430" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">
+<tspan x="800.0" dy="0">Assign Owner</tspan>
+</text><text x="800.0" y="464" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">
+<tspan x="800.0" dy="0">Record Decision</tspan>
+</text><rect x="1050" y="270" width="420" height="220" rx="8" fill="#FAFAFE" stroke="#4B3B73" stroke-width="2"/><text x="1260.0" y="308" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="800" fill="#4B3B73">
+<tspan x="1260.0" dy="0">Approved Workflow Action</tspan>
+</text><text x="1260.0" y="342" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="1260.0" dy="0">Prepare Update</tspan>
+</text><text x="1260.0" y="374" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="1260.0" dy="0">Recommend Routing</tspan>
+</text><text x="1260.0" y="406" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="1260.0" dy="0">Create Follow-up Task</tspan>
+</text><text x="1260.0" y="438" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="1260.0" dy="0">No Autonomous Escalation</tspan>
+</text>
+
+
+<line x1="340" y1="180" x2="340" y2="254" stroke="#1F4E79" stroke-width="4" stroke-linecap="round"/>
+<polygon points="330,238 350,238 340,270" fill="#1F4E79"/>
+
+<line x1="550" y1="380" x2="604.0" y2="380.0" stroke="#1F4E79" stroke-width="5" stroke-linecap="round"/>
+<polygon points="604.0,390.0 604.0,370.0 620,380" fill="#1F4E79"/>
+
+<line x1="980" y1="380" x2="1034.0" y2="380.0" stroke="#1F4E79" stroke-width="5" stroke-linecap="round"/>
+<polygon points="1034.0,390.0 1034.0,370.0 1050,380" fill="#1F4E79"/>
+<rect x="90" y="565" width="1420" height="150" rx="7" fill="#F7FAFE" stroke="#163A63" stroke-width="2"/><text x="800" y="598" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="800" fill="#163A63">
+<tspan x="800" dy="0">Workflow Control Layer</tspan>
+</text><rect x="140" y="628" width="250" height="58" rx="5" fill="white" stroke="#163A63" stroke-width="1.5"/>
+<text x="265" y="652" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="265" dy="0">Audit Evidence</tspan>
+</text>
+<text x="265" y="676" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#111827">
+<tspan x="265" dy="0">Action Log / Decision Log</tspan>
+</text><rect x="415" y="628" width="250" height="58" rx="5" fill="white" stroke="#163A63" stroke-width="1.5"/><text x="540.0" y="652" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="540.0" dy="0">Monitoring</tspan>
+</text><text x="540.0" y="676" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="540.0" dy="0">signals and exceptions</tspan>
+</text><rect x="690" y="628" width="250" height="58" rx="5" fill="white" stroke="#163A63" stroke-width="1.5"/><text x="815.0" y="652" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="815.0" dy="0">Fallback</tspan>
+</text><text x="815.0" y="676" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="815.0" dy="0">manual handling path</tspan>
+</text><rect x="965" y="628" width="250" height="58" rx="5" fill="white" stroke="#163A63" stroke-width="1.5"/><text x="1090.0" y="652" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="1090.0" dy="0">Revocation</tspan>
+</text><text x="1090.0" y="676" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="1090.0" dy="0">narrow or disable authority</tspan>
+</text><rect x="1240" y="628" width="250" height="58" rx="5" fill="white" stroke="#163A63" stroke-width="1.5"/><text x="1365.0" y="652" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63">
+<tspan x="1365.0" dy="0">Review</tspan>
+</text><text x="1365.0" y="676" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#111827">
+<tspan x="1365.0" dy="0">agentic workflow record</tspan>
+</text>
+<line x1="340.0" y1="490" x2="340.0" y2="549.0" stroke="#1F4E79" stroke-width="4" stroke-linecap="round"/>
+<polygon points="330.0,549.0 350.0,549.0 340.0,565" fill="#1F4E79"/>
+
+<line x1="800.0" y1="490" x2="800.0" y2="549.0" stroke="#1F4E79" stroke-width="4" stroke-linecap="round"/>
+<polygon points="790.0,549.0 810.0,549.0 800.0,565" fill="#1F4E79"/>
+
+<line x1="1260.0" y1="490" x2="1260.0" y2="549.0" stroke="#1F4E79" stroke-width="4" stroke-linecap="round"/>
+<polygon points="1250.0,549.0 1270.0,549.0 1260.0,565" fill="#1F4E79"/>
+<rect x="70" y="755" width="1460" height="70" rx="5" fill="#F7FAFE" stroke="#163A63" stroke-width="2"/><text x="800" y="786" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="800" fill="#163A63">
+<tspan x="800" dy="0">Authority must be designed before workflow actions are delegated.</tspan>
+</text><text x="800" y="813" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#111827">
+<tspan x="800" dy="0">The agent participates in the workflow; humans own the consequence.</tspan>
+</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="740" viewBox="0 0 1600 740">
+<rect x="0" y="0" width="1600" height="740" fill="#ffffff"/>
+<rect x="55" y="45" width="1490" height="640" rx="18" ry="18" fill="#ffffff" stroke="#c8d2db" stroke-width="2.0"/>
+<rect x="420" y="78" width="760" height="118" rx="16" ry="16" fill="#f8f7f2" stroke="#2f3b45" stroke-width="2.8"/>
+<text x="800" y="126" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="42" font-weight="800" fill="#17212b">
+<tspan x="800" dy="0">Future Trustworthy Engineer</tspan>
+</text>
+<line x1="455" y1="160" x2="1145" y2="160" stroke="#d7d0ac" stroke-width="2.2"/>
+<text x="800" y="181" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2f2a16">
+<tspan x="800" dy="0">integrates responsibility into defensible trust</tspan>
+</text>
+<rect x="100" y="245" width="445" height="120" rx="14" ry="14" fill="#f4f8fb" stroke="#2f3b45" stroke-width="2.4"/>
+<text x="322.5" y="317" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#17212b">
+<tspan x="322.5" dy="0">Define Intent</tspan>
+</text>
+<rect x="578" y="245" width="445" height="120" rx="14" ry="14" fill="#f6f8f5" stroke="#2f3b45" stroke-width="2.4"/>
+<text x="800.5" y="317" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#17212b">
+<tspan x="800.5" dy="0">Engineer Context</tspan>
+</text>
+<rect x="1055" y="245" width="445" height="120" rx="14" ry="14" fill="#f4f8fb" stroke="#2f3b45" stroke-width="2.4"/>
+<text x="1277.5" y="317" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#17212b">
+<tspan x="1277.5" dy="0">Bound Authority</tspan>
+</text>
+<rect x="100" y="405" width="445" height="120" rx="14" ry="14" fill="#f7f6f2" stroke="#2f3b45" stroke-width="2.4"/>
+<text x="322.5" y="477" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#17212b">
+<tspan x="322.5" dy="0">Verify Behavior</tspan>
+</text>
+<rect x="578" y="405" width="445" height="120" rx="14" ry="14" fill="#f4f8fb" stroke="#2f3b45" stroke-width="2.4"/>
+<text x="800.5" y="477" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#17212b">
+<tspan x="800.5" dy="0">Operate Reality</tspan>
+</text>
+<rect x="1055" y="405" width="445" height="120" rx="14" ry="14" fill="#f7f6f2" stroke="#2f3b45" stroke-width="2.4"/>
+<text x="1277.5" y="477" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="35" font-weight="800" fill="#17212b">
+<tspan x="1277.5" dy="0">Explain Decisions</tspan>
+</text>
+<rect x="300" y="570" width="1000" height="92" rx="15" ry="15" fill="#fff7df" stroke="#6b5a2e" stroke-width="2.8"/>
+<text x="800" y="627" text-anchor="middle" font-family="Aptos, Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#17212b">
+<tspan x="800" dy="0">Own Outcomes</tspan>
+</text>
+<line x1="800" y1="196" x2="800" y2="220" stroke="#2f3b45" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="322.5" y1="365" x2="322.5" y2="390" stroke="#c8d2db" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="800" y1="365" x2="800" y2="390" stroke="#c8d2db" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="1277.5" y1="365" x2="1277.5" y2="390" stroke="#c8d2db" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="800" y1="525" x2="800" y2="554" stroke="#2f3b45" stroke-width="2.8" stroke-linecap="round"/>
+</svg>

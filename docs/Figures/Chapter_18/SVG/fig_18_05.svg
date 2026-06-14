@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="980" viewBox="0 0 1200 980" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.outer{fill:#F7FAFC;stroke:#47657E;stroke-width:3}
+.center{fill:#DDEAF5;stroke:#2F536F;stroke-width:3}
+.domain{fill:#FFFFFF;stroke:#47657E;stroke-width:2.2}
+.decision{fill:#E8F2EC;stroke:#4E6F5D;stroke-width:2.6}
+.header{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:22px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.centerlabel{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.small{font-family:Arial,sans-serif;font-size:20px;font-weight:700;fill:#1F2933;text-anchor:middle}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">AI-Generated System Review Board</text>
+
+<rect x="80" y="95" width="1040" height="830" rx="28" class="outer"/>
+
+<!-- Top -->
+<rect x="470" y="135" width="260" height="70" rx="16" class="domain"/>
+<text x="600" y="170" class="label">Behavior</text>
+
+<!-- Upper Left -->
+<rect x="170" y="250" width="260" height="70" rx="16" class="domain"/>
+<text x="300" y="285" class="label">Assumptions</text>
+
+<!-- Upper Right -->
+<rect x="770" y="250" width="260" height="70" rx="16" class="domain"/>
+<text x="900" y="285" class="label">Context</text>
+
+<!-- Center -->
+<rect x="430" y="380" width="340" height="120" rx="20" class="center"/>
+<text x="600" y="435" class="centerlabel">AI-Generated</text>
+<text x="600" y="470" class="centerlabel">System</text>
+
+<!-- Lower Left -->
+<rect x="170" y="560" width="260" height="70" rx="16" class="domain"/>
+<text x="300" y="595" class="label">Authority</text>
+
+<!-- Lower Right -->
+<rect x="770" y="560" width="260" height="70" rx="16" class="domain"/>
+<text x="900" y="595" class="label">Evidence</text>
+
+<!-- Bottom Domain -->
+<rect x="450" y="690" width="300" height="70" rx="16" class="domain"/>
+<text x="600" y="725" class="label">Residual Risk</text>
+
+<!-- Decision -->
+<rect x="290" y="815" width="620" height="75" rx="18" class="decision"/>
+<text x="600" y="845" class="header">Acceptance Decision</text>
+<text x="600" y="875" class="small">Accept  |  Revise  |  Escalate  |  Reject</text>
+
+</svg>

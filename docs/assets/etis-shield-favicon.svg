@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">ETIS shield favicon</title>
+<desc id="desc">ETIS shield mark for browser and device icons.</desc>
+<rect width="128" height="128" rx="24" fill="#020714"/>
+<defs>
+  <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#ffe5aa"/>
+    <stop offset="50%" stop-color="#f2bf58"/>
+    <stop offset="100%" stop-color="#a87225"/>
+  </linearGradient>
+</defs>
+<g transform="translate(10 3) scale(1.06)">
+  <path d="M54 0 L104 18 V55 C104 88 84 107 54 121 C24 107 4 88 4 55 V18 Z" fill="#06142d" stroke="#f2bf58" stroke-width="4"/>
+  <path d="M54 20 L85 31 V58 C85 80 73 93 54 103 C35 93 23 80 23 58 V31 Z" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M54 34 V92" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M37 51 H71" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+</g>
+</svg>

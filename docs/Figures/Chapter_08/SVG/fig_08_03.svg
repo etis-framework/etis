@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1800" viewBox="0 0 2400 1800">
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M2,2 L10,6 L2,10 Z" fill="#667085"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="2400" height="1800" fill="#ffffff"/>
+
+<rect x="720" y="610" width="960" height="390" rx="26" fill="#f8fafc" stroke="#17324d" stroke-width="4"/>
+<text x="1200.0" y="702" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:40px;font-weight:700;fill:#17324d;">
+<tspan x="1200.0" dy="0">Repository as Launch Infrastructure</tspan>
+</text>
+<line x1="810" y1="740" x2="1590" y2="740" stroke="#94a3b8" stroke-width="3"/>
+<text x="1200.0" y="815" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:36px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">Operational front door</tspan>
+<tspan x="1200.0" dy="41.48px">for project evidence</tspan>
+</text>
+<text x="1200.0" y="930" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:34px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">Makes launch discipline visible</tspan>
+<tspan x="1200.0" dy="39.04px">before implementation accelerates</tspan>
+</text>
+<rect x="610" y="80" width="1180" height="410" rx="22" fill="#f4f8fd" stroke="#1e3a5f" stroke-width="3"/>
+<rect x="634" y="104" width="1132" height="82" rx="14" fill="#f8fafc" stroke="#1e3a5f" stroke-width="2"/>
+<text x="1200.0" y="156" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:34px;font-weight:700;fill:#1e3a5f;">
+<tspan x="1200.0" dy="0">README as Front Door</tspan>
+</text>
+<circle cx="670" cy="235.0" r="6.5" fill="#1e3a5f"/>
+<text x="700" y="245.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="700" dy="0">Purpose</tspan>
+</text>
+<circle cx="670" cy="286.25" r="6.5" fill="#1e3a5f"/>
+<text x="700" y="296.25" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="700" dy="0">Scope</tspan>
+</text>
+<circle cx="670" cy="337.5" r="6.5" fill="#1e3a5f"/>
+<text x="700" y="347.5" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="700" dy="0">Status</tspan>
+</text>
+<circle cx="670" cy="388.75" r="6.5" fill="#1e3a5f"/>
+<text x="700" y="398.75" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="700" dy="0">Evidence locations</tspan>
+</text>
+<circle cx="670" cy="440.0" r="6.5" fill="#1e3a5f"/>
+<text x="700" y="450.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="700" dy="0">Navigation</tspan>
+</text>
+<rect x="80" y="540" width="560" height="545" rx="22" fill="#f5faf7" stroke="#2e5b46" stroke-width="3"/>
+<rect x="104" y="564" width="512" height="82" rx="14" fill="#f8fafc" stroke="#2e5b46" stroke-width="2"/>
+<text x="360.0" y="616" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:34px;font-weight:700;fill:#2e5b46;">
+<tspan x="360.0" dy="0">Team Discipline</tspan>
+</text>
+<circle cx="140" cy="695.0" r="6.5" fill="#2e5b46"/>
+<text x="170" y="705.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="170" dy="0">Team charter</tspan>
+</text>
+<circle cx="140" cy="780.0" r="6.5" fill="#2e5b46"/>
+<text x="170" y="790.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="170" dy="0">Working agreements</tspan>
+</text>
+<circle cx="140" cy="865.0" r="6.5" fill="#2e5b46"/>
+<text x="170" y="875.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="170" dy="0">Roles document</tspan>
+</text>
+<circle cx="140" cy="950.0" r="6.5" fill="#2e5b46"/>
+<text x="170" y="960.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="170" dy="0">Engineering standards</tspan>
+</text>
+<circle cx="140" cy="1035.0" r="6.5" fill="#2e5b46"/>
+<text x="170" y="1045.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="170" dy="0">Definition of Done</tspan>
+</text>
+<rect x="1760" y="540" width="560" height="545" rx="22" fill="#fbfaf2" stroke="#66521f" stroke-width="3"/>
+<rect x="1784" y="564" width="512" height="82" rx="14" fill="#f8fafc" stroke="#66521f" stroke-width="2"/>
+<text x="2040.0" y="616" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:34px;font-weight:700;fill:#66521f;">
+<tspan x="2040.0" dy="0">Governance and Uncertainty</tspan>
+</text>
+<circle cx="1820" cy="695.0" r="6.5" fill="#66521f"/>
+<text x="1850" y="705.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1850" dy="0">Risk register</tspan>
+</text>
+<circle cx="1820" cy="780.0" r="6.5" fill="#66521f"/>
+<text x="1850" y="790.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1850" dy="0">Assumptions log</tspan>
+</text>
+<circle cx="1820" cy="865.0" r="6.5" fill="#66521f"/>
+<text x="1850" y="875.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1850" dy="0">AI policy</tspan>
+</text>
+<circle cx="1820" cy="950.0" r="6.5" fill="#66521f"/>
+<text x="1850" y="960.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1850" dy="0">AI-use log</tspan>
+</text>
+<circle cx="1820" cy="1035.0" r="6.5" fill="#66521f"/>
+<text x="1850" y="1045.0" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1850" dy="0">Governance expectations</tspan>
+</text>
+<rect x="330" y="1145" width="1740" height="315" rx="22" fill="#f7f6fb" stroke="#473b71" stroke-width="3"/>
+<rect x="354" y="1169" width="1692" height="78" rx="14" fill="#f8fafc" stroke="#473b71" stroke-width="2"/>
+<text x="1200.0" y="1219" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:34px;font-weight:700;fill:#473b71;">
+<tspan x="1200.0" dy="0">Reviewable Work</tspan>
+</text>
+<circle cx="420" cy="1295" r="6.5" fill="#473b71"/>
+<text x="452" y="1305" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="452" dy="0">Issue templates</tspan>
+</text>
+<circle cx="420" cy="1341" r="6.5" fill="#473b71"/>
+<text x="452" y="1351" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="452" dy="0">PR template</tspan>
+</text>
+<circle cx="420" cy="1387" r="6.5" fill="#473b71"/>
+<text x="452" y="1397" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="452" dy="0">Review folder</tspan>
+</text>
+<circle cx="420" cy="1433" r="6.5" fill="#473b71"/>
+<text x="452" y="1443" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="452" dy="0">Decision folder</tspan>
+</text>
+<circle cx="1260" cy="1295" r="6.5" fill="#473b71"/>
+<text x="1292" y="1305" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1292" dy="0">Source folder</tspan>
+</text>
+<circle cx="1260" cy="1353" r="6.5" fill="#473b71"/>
+<text x="1292" y="1363" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1292" dy="0">Test folder</tspan>
+</text>
+<circle cx="1260" cy="1411" r="6.5" fill="#473b71"/>
+<text x="1292" y="1421" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:600;fill:#172033;">
+<tspan x="1292" dy="0">Release folder</tspan>
+</text>
+<line x1="1200" y1="490" x2="1200" y2="610" stroke="#667085" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="640" y1="815" x2="720" y2="815" stroke="#667085" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1760" y1="815" x2="1680" y2="815" stroke="#667085" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1200" y1="1145" x2="1200" y2="1000" stroke="#667085" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="210" y="1505" width="1980" height="105" rx="18" fill="#f8fafc" stroke="#17324d" stroke-width="3"/>
+<text x="1200.0" y="1548" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">The repository should answer: What are we building? How are we working?</tspan>
+</text>
+<text x="1200.0" y="1587" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">What evidence supports our claims?</tspan>
+</text>
+<rect x="210" y="1640" width="1980" height="120" rx="18" fill="#fffdf7" stroke="#17324d" stroke-width="3"/>
+<text x="540" y="1713" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:700;fill:#17324d;">
+<tspan x="540" dy="0">GOVERNING PRINCIPLE:</tspan>
+</text>
+<line x1="795" y1="1668" x2="795" y2="1732" stroke="#667085" stroke-width="3"/>
+<text x="1495" y="1695" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:700;fill:#172033;">
+<tspan x="1495" dy="0">The repository should make the team’s engineering discipline</tspan>
+</text>
+<text x="1495" y="1733" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:700;fill:#172033;">
+<tspan x="1495" dy="0">visible from the beginning.</tspan>
+</text>
+</svg>

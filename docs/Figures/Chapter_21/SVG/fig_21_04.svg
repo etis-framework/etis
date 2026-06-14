@@ -1,0 +1,53 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style>
+.pageTitle {font-family:Arial;font-size:42px;font-weight:bold;}
+.pageSub {font-family:Arial;font-size:27px;}
+.frameTitle {font-family:Arial;font-size:25px;font-weight:bold;}
+.boxTitle {font-family:Arial;font-size:27px;font-weight:bold;}
+.boxText {font-family:Arial;font-size:24px;}
+.outer {fill:white;stroke:#9aa8b4;stroke-width:2.2;}
+.layer {fill:#f8fafc;stroke:#b7c2cc;stroke-width:2.2;}
+.center {fill:#e8f1fb;stroke:#2f5678;stroke-width:3.2;}
+.reg {fill:#eef4fb;stroke:#3f637d;stroke-width:2.4;}
+.band {fill:#f5f0e6;stroke:#8a6d3b;stroke-width:2.2;}
+</style>
+
+<text x="800" y="55" text-anchor="middle" class="pageTitle">Release Authority and Governance Approval</text>
+<text x="800" y="95" text-anchor="middle" class="pageSub">Release approval is evidence-backed authority, not ceremony.</text>
+
+<rect x="70" y="112" width="1460" height="700" rx="18" class="outer"/>
+
+<rect x="390" y="150" width="820" height="110" rx="14" class="center"/>
+<text x="800" y="190" text-anchor="middle" class="boxTitle">Release Authority</text>
+<text x="800" y="225" text-anchor="middle" class="boxText">Defined Scope • Accountable Approver • Approval Conditions</text>
+
+<rect x="115" y="300" width="1370" height="260" rx="14" class="layer"/>
+<text x="145" y="335" class="frameTitle">Authority is constrained by scope, evidence, and governance</text>
+
+<rect x="145" y="375" width="400" height="150" rx="12" class="reg"/>
+<text x="345" y="410" text-anchor="middle" class="boxTitle">Release Scope</text>
+<text x="345" y="445" text-anchor="middle" class="boxText">Internal Pilot</text>
+<text x="345" y="475" text-anchor="middle" class="boxText">Department Use</text>
+<text x="345" y="505" text-anchor="middle" class="boxText">Institution-Wide Impact</text>
+
+<rect x="600" y="375" width="400" height="150" rx="12" class="reg"/>
+<text x="800" y="410" text-anchor="middle" class="boxTitle">Required Evidence</text>
+<text x="800" y="445" text-anchor="middle" class="boxText">Readiness Evidence</text>
+<text x="800" y="475" text-anchor="middle" class="boxText">Risk Disposition</text>
+<text x="800" y="505" text-anchor="middle" class="boxText">Governance Review</text>
+
+<rect x="1055" y="375" width="400" height="150" rx="12" class="reg"/>
+<text x="1255" y="410" text-anchor="middle" class="boxTitle">Authority Constraints</text>
+<text x="1255" y="445" text-anchor="middle" class="boxText">ADR Boundaries</text>
+<text x="1255" y="475" text-anchor="middle" class="boxText">Human Oversight</text>
+<text x="1255" y="505" text-anchor="middle" class="boxText">Approval Requirements</text>
+
+<rect x="115" y="600" width="1370" height="90" rx="14" class="layer"/>
+<text x="145" y="635" class="frameTitle">AI Governance Remains Visible</text>
+<text x="800" y="670" text-anchor="middle" class="boxText">AI recommendations are advisory • Humans approve actions • Limitations are disclosed • Fallbacks are defined</text>
+
+<rect x="420" y="730" width="760" height="46" rx="8" class="band"/>
+<text x="800" y="760" text-anchor="middle" class="boxText">A release without accountable approval is unmanaged authority.</text>
+
+</svg>

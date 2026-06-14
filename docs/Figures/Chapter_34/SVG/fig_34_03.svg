@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+<defs>
+<marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M1.5,1.5 L7,4 L1.5,6.5 z" fill="#111827"/></marker>
+<marker id="arrow-blue" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M1.5,1.5 L7,4 L1.5,6.5 z" fill="#164a9b"/></marker>
+<marker id="arrow-green" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M1.5,1.5 L7,4 L1.5,6.5 z" fill="#2b7a32"/></marker>
+<marker id="arrow-purple" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M1.5,1.5 L7,4 L1.5,6.5 z" fill="#62439a"/></marker>
+<marker id="arrow-red" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M1.5,1.5 L7,4 L1.5,6.5 z" fill="#b51d1d"/></marker>
+<marker id="arrow-gray" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M1.5,1.5 L7,4 L1.5,6.5 z" fill="#333333"/></marker>
+<filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.12"/></filter>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="36" y="28" width="1528" height="62" rx="10" fill="#dce7ee" stroke="#2f3b52" stroke-width="2" filter="url(#softShadow)"/>
+<rect x="44" y="140" width="250" height="150" rx="10" fill="#f6f9ff" stroke="#164a9b" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 44 150 Q 44 140 54 140 H 284 Q 294 140 294 150 V 182 H 44 Z" fill="#dce9ff"/>
+<line x1="44" y1="182" x2="294" y2="182" stroke="#164a9b" stroke-width="1.2"/>
+<rect x="44" y="330" width="250" height="250" rx="10" fill="#f7fbf6" stroke="#2b7a32" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 44 340 Q 44 330 54 330 H 284 Q 294 330 294 340 V 388 H 44 Z" fill="#e2f1e0"/>
+<line x1="44" y1="388" x2="294" y2="388" stroke="#2b7a32" stroke-width="1.2"/>
+<rect x="44" y="640" width="250" height="180" rx="10" fill="#fff7f7" stroke="#b51d1d" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 44 650 Q 44 640 54 640 H 284 Q 294 640 294 650 V 702 H 44 Z" fill="#f4d6d6"/>
+<line x1="44" y1="702" x2="294" y2="702" stroke="#b51d1d" stroke-width="1.2"/>
+<rect x="340" y="122" width="850" height="566" rx="10" fill="#f5f8fa" stroke="#6d7480" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 340 132 Q 340 122 350 122 H 1180 Q 1190 122 1190 132 V 170 H 340 Z" fill="#dce7ee"/>
+<line x1="340" y1="170" x2="1190" y2="170" stroke="#6d7480" stroke-width="1.2"/>
+<rect x="370" y="205" width="175" height="145" rx="10" fill="#faf7ff" stroke="#62439a" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 370 215 Q 370 205 380 205 H 535 Q 545 205 545 215 V 269 H 370 Z" fill="#eadff8"/>
+<line x1="370" y1="269" x2="545" y2="269" stroke="#62439a" stroke-width="1.2"/>
+<rect x="567" y="205" width="175" height="145" rx="10" fill="#f6f9ff" stroke="#164a9b" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 567 215 Q 567 205 577 205 H 732 Q 742 205 742 215 V 269 H 567 Z" fill="#dce9ff"/>
+<line x1="567" y1="269" x2="742" y2="269" stroke="#164a9b" stroke-width="1.2"/>
+<rect x="764" y="205" width="175" height="145" rx="10" fill="#fff7f7" stroke="#b51d1d" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 764 215 Q 764 205 774 205 H 929 Q 939 205 939 215 V 269 H 764 Z" fill="#f4d6d6"/>
+<line x1="764" y1="269" x2="939" y2="269" stroke="#b51d1d" stroke-width="1.2"/>
+<rect x="961" y="205" width="175" height="145" rx="10" fill="#fff9ed" stroke="#b97900" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 961 215 Q 961 205 971 205 H 1126 Q 1136 205 1136 215 V 269 H 961 Z" fill="#f6e4bd"/>
+<line x1="961" y1="269" x2="1136" y2="269" stroke="#b97900" stroke-width="1.2"/>
+<rect x="420" y="430" width="280" height="140" rx="10" fill="#f6f9ff" stroke="#164a9b" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 420 440 Q 420 430 430 430 H 690 Q 700 430 700 440 V 474 H 420 Z" fill="#dce9ff"/>
+<line x1="420" y1="474" x2="700" y2="474" stroke="#164a9b" stroke-width="1.2"/>
+<rect x="810" y="430" width="280" height="140" rx="10" fill="#faf7ff" stroke="#62439a" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 810 440 Q 810 430 820 430 H 1080 Q 1090 430 1090 440 V 474 H 810 Z" fill="#eadff8"/>
+<line x1="810" y1="474" x2="1090" y2="474" stroke="#62439a" stroke-width="1.2"/>
+<rect x="610" y="610" width="300" height="60" rx="10" fill="#a32020" stroke="#b51d1d" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 610 620 Q 610 610 620 610 H 900 Q 910 610 910 620 V 670 H 610 Z" fill="#f4d6d6"/>
+<line x1="610" y1="670" x2="910" y2="670" stroke="#b51d1d" stroke-width="1.2"/>
+<rect x="1220" y="170" width="330" height="190" rx="10" fill="#faf7ff" stroke="#62439a" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 1220 180 Q 1220 170 1230 170 H 1540 Q 1550 170 1550 180 V 222 H 1220 Z" fill="#eadff8"/>
+<line x1="1220" y1="222" x2="1550" y2="222" stroke="#62439a" stroke-width="1.2"/>
+<rect x="1220" y="460" width="330" height="170" rx="10" fill="#f7fbf6" stroke="#2b7a32" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 1220 470 Q 1220 460 1230 460 H 1540 Q 1550 460 1550 470 V 512 H 1220 Z" fill="#e2f1e0"/>
+<line x1="1220" y1="512" x2="1550" y2="512" stroke="#2b7a32" stroke-width="1.2"/>
+<rect x="340" y="735" width="850" height="136" rx="10" fill="#f6f9ff" stroke="#164a9b" stroke-width="2" filter="url(#softShadow)"/>
+<path d="M 340 745 Q 340 735 350 735 H 1180 Q 1190 735 1190 745 V 779 H 340 Z" fill="#dce9ff"/>
+<line x1="340" y1="779" x2="1190" y2="779" stroke="#164a9b" stroke-width="1.2"/>
+<rect x="36" y="910" width="1528" height="46" rx="10" fill="#f5f8fa" stroke="#6d7480" stroke-width="2"/>
+<polyline points="294,277.5 360,277.5" fill="none" stroke="#164a9b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)"/>
+<polyline points="294,500 410,500" fill="none" stroke="#2b7a32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-green)"/>
+<polyline points="545,277.5 567,277.5" fill="none" stroke="#333333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-gray)"/>
+<polyline points="742,277.5 764,277.5" fill="none" stroke="#333333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-gray)"/>
+<polyline points="939,277.5 961,277.5" fill="none" stroke="#333333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-gray)"/>
+<polyline points="654.5,350 560,420" fill="none" stroke="#164a9b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)"/>
+<!-- removed ambiguous duplicate arrow into context-use log in v3 -->
+<polyline points="700,500 810,500" fill="none" stroke="#62439a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-purple)"/>
+<polyline points="1090,500 1190,500 1190,265 1220,265" fill="none" stroke="#62439a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-purple)"/>
+<polyline points="1385,360 1385,460" fill="none" stroke="#2b7a32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-green)"/>
+<polyline points="294,730 600,670" fill="none" stroke="#b51d1d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" marker-end="url(#arrow-red)"/>
+<polyline points="851.5,350 760,390 760,600 760,607" fill="none" stroke="#b51d1d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" marker-end="url(#arrow-red)"/>
+<polyline points="1136,310 1160,310 1160,600 910,600" fill="none" stroke="#b51d1d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" marker-end="url(#arrow-red)"/>
+<polyline points="1220,610 1198,724" fill="none" stroke="#164a9b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)"/>
+<polyline points="950,570 950,724" fill="none" stroke="#164a9b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-blue)"/>
+<polyline points="760,670 760,724" fill="none" stroke="#b51d1d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-red)"/>
+<text x="800.0" y="54" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#2f4a5c">RETRIEVAL IS GOVERNED ACTION</text>
+<text x="800.0" y="79" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#2f4a5c">Context is scoped by role, workflow purpose, source authority, privacy, freshness, evidence, and review.</text>
+<text x="800.0" y="940" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2937">Context is not hoarded. It is scoped, checked, logged, reviewed, and bounded by operational consequence.</text>
+<text x="169.0" y="166.6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#1f4e8c">CONTEXT REQUEST</text>
+<text x="169.0" y="208.76" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">Workflow purpose</text>
+<text x="169.0" y="230.72" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">User role</text>
+<text x="169.0" y="252.68" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">Operational</text>
+<text x="169.0" y="274.64" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">consequence</text>
+<text x="169.0" y="353.0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#2f6b3f">APPROVED SOURCE</text>
+<text x="169.0" y="376.2" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#2f6b3f">CLASSES</text>
+<text x="169.0" y="436.71999999999997" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Systems of record</text>
+<text x="169.0" y="457.46" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Current runbooks</text>
+<text x="169.0" y="478.2" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Approved policies</text>
+<text x="169.0" y="498.93999999999994" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Release evidence</text>
+<text x="169.0" y="519.68" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Authorized incident</text>
+<text x="169.0" y="540.42" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">records</text>
+<text x="169.0" y="665.0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#a32222">PROHIBITED OR</text>
+<text x="169.0" y="688.2" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#a32222">HIGH-RISK CONTEXT</text>
+<text x="169.0" y="736.08" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Private notes</text>
+<text x="169.0" y="755.6" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Raw student records</text>
+<text x="169.0" y="775.12" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Security details</text>
+<text x="169.0" y="794.6400000000001" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Superseded artifacts</text>
+<text x="765.0" y="152.16" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#2f4a5c">RETRIEVAL BOUNDARY AND CONTEXT GOVERNANCE FLOW</text>
+<text x="457.5" y="232.2" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#5a3d8a">PERMISSION &amp; ROLE</text>
+<text x="457.5" y="250.76" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#5a3d8a">CHECK</text>
+<text x="457.5" y="295.35" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Role, purpose,</text>
+<text x="457.5" y="313.65000000000003" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">and workflow</text>
+<text x="457.5" y="331.95000000000005" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">allowed?</text>
+<text x="654.5" y="232.2" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#1f4e8c">SOURCE AUTHORITY</text>
+<text x="654.5" y="250.76" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#1f4e8c">CHECK</text>
+<text x="654.5" y="295.35" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Authoritative for</text>
+<text x="654.5" y="313.65000000000003" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">this claim and</text>
+<text x="654.5" y="331.95000000000005" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">workflow?</text>
+<text x="851.5" y="222.92" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#a32222">PRIVACY &amp;</text>
+<text x="851.5" y="241.48" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#a32222">MINIMIZATION</text>
+<text x="851.5" y="260.03999999999996" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#a32222">FILTER</text>
+<text x="851.5" y="295.35" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Mask data outside</text>
+<text x="851.5" y="313.65000000000003" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">the approved</text>
+<text x="851.5" y="331.95000000000005" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">purpose.</text>
+<text x="1048.5" y="222.92" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#9a5b00">FRESHNESS &amp;</text>
+<text x="1048.5" y="241.48" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#9a5b00">SUPERSESSION</text>
+<text x="1048.5" y="260.03999999999996" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#9a5b00">CHECK</text>
+<text x="1048.5" y="295.35" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Current,</text>
+<text x="1048.5" y="313.65000000000003" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">versioned, and</text>
+<text x="1048.5" y="331.95000000000005" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">not retired?</text>
+<text x="560.0" y="457.32" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f4e8c">EVIDENCE LINK</text>
+<text x="560.0" y="506.84000000000003" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Connect retrieved context to</text>
+<text x="560.0" y="526.36" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">source record, version, and</text>
+<text x="560.0" y="545.88" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">permitted-use basis.</text>
+<text x="950.0" y="457.32" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#5a3d8a">CONTEXT-USE LOG</text>
+<text x="950.0" y="506.84000000000003" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">Record what was retrieved,</text>
+<text x="950.0" y="526.36" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">why, for whom, and what</text>
+<text x="950.0" y="545.88" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#111827">output it supported.</text>
+<text x="760.0" y="646.16" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#a32222">BLOCK OR ESCALATE</text>
+<text x="1385.0" y="201.6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#5a3d8a">HUMAN REVIEW / APPROVAL</text>
+<text x="1385.0" y="262.84" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">Reviewer sees context basis,</text>
+<text x="1385.0" y="284.79999999999995" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">limitations, privacy</text>
+<text x="1385.0" y="306.76" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">constraints, and rejected</text>
+<text x="1385.0" y="328.71999999999997" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">material.</text>
+<text x="1385.0" y="491.59999999999997" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#2f6b3f">BOUNDED WORKFLOW OUTPUT</text>
+<text x="1385.0" y="553.8199999999999" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">Prepared summary, routing</text>
+<text x="1385.0" y="575.78" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">recommendation, stakeholder</text>
+<text x="1385.0" y="597.7399999999999" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">message, or tool-call request.</text>
+<text x="765.0" y="763.16" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#1f4e8c">REPOSITORY EVIDENCE</text>
+<text x="765.0" y="808.83" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">/docs/governance/context_engineering/retrieval_boundary_policy.md</text>
+<text x="765.0" y="829.57" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">/docs/security/data_minimization_rules.md</text>
+<text x="765.0" y="850.3100000000001" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#111827">/docs/governance/context_engineering/context_use_log.md</text>
+</svg>

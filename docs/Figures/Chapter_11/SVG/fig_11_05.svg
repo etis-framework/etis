@@ -1,0 +1,87 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="6600" height="4600" viewBox="0 0 6600 4600">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:6; }
+.box { fill:white; stroke:#444; stroke-width:6; }
+.review { fill:#f8fbfd; stroke:#333; stroke-width:7; }
+.outcome { fill:#f4f7f9; stroke:#444; stroke-width:6; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:6; }
+.hdr { font-size:132px; font-weight:bold; }
+.title { font-size:106px; font-weight:bold; }
+.body { font-size:98px; }
+</style>
+
+<rect x="300" y="70" width="6000" height="270" class="band"/>
+<text x="3300" y="245" text-anchor="middle" class="hdr">AI Assistance Must Be Reviewable Before It Becomes Commitments</text>
+
+<!-- Left evidence inputs -->
+<rect x="180" y="560" width="1700" height="600" class="box"/>
+<text x="1030" y="750" text-anchor="middle" class="title">AI Assistance</text>
+<text x="1030" y="880" text-anchor="middle" class="title">Disclosure</text>
+<text x="1030" y="1060" text-anchor="middle" class="body">Artifacts and Logs</text>
+
+<rect x="180" y="1350" width="1700" height="640" class="box"/>
+<text x="1030" y="1555" text-anchor="middle" class="title">Source Evidence</text>
+<text x="1030" y="1760" text-anchor="middle" class="body">Stakeholders</text>
+<text x="1030" y="1910" text-anchor="middle" class="body">Constraints</text>
+
+<rect x="180" y="2180" width="1700" height="820" class="box"/>
+<text x="1030" y="2390" text-anchor="middle" class="title">Requirement</text>
+<text x="1030" y="2520" text-anchor="middle" class="title">Quality</text>
+<text x="1030" y="2730" text-anchor="middle" class="body">Acceptance Criteria</text>
+<text x="1030" y="2860" text-anchor="middle" class="body">Traceability</text>
+
+<!-- Central review surface -->
+<rect x="2250" y="850" width="2100" height="1550" class="review"/>
+<text x="3300" y="1080" text-anchor="middle" class="title">AI-Assisted</text>
+<text x="3300" y="1215" text-anchor="middle" class="title">Requirements Review</text>
+<text x="3300" y="1480" text-anchor="middle" class="body">Evidence Examined</text>
+<text x="3300" y="1690" text-anchor="middle" class="body">AI Assistance Evaluated</text>
+<text x="3300" y="1900" text-anchor="middle" class="body">Governance Reviewed</text>
+<text x="3300" y="2110" text-anchor="middle" class="body">Ownership Confirmed</text>
+
+<!-- Right outcomes, separated from lower boxes -->
+<rect x="4850" y="500" width="1600" height="470" class="outcome"/>
+<text x="5650" y="690" text-anchor="middle" class="title">Approved</text>
+<text x="5650" y="820" text-anchor="middle" class="title">Baseline</text>
+
+<rect x="4850" y="1120" width="1600" height="560" class="outcome"/>
+<text x="5650" y="1315" text-anchor="middle" class="title">Stakeholder</text>
+<text x="5650" y="1445" text-anchor="middle" class="title">Validation</text>
+<text x="5650" y="1605" text-anchor="middle" class="body">Required</text>
+
+<rect x="4850" y="1830" width="1600" height="520" class="outcome"/>
+<text x="5650" y="2035" text-anchor="middle" class="title">Governance</text>
+<text x="5650" y="2165" text-anchor="middle" class="title">Escalation</text>
+
+<rect x="4850" y="2500" width="1600" height="520" class="outcome"/>
+<text x="5650" y="2705" text-anchor="middle" class="title">Assumption</text>
+<text x="5650" y="2835" text-anchor="middle" class="title">Updates</text>
+
+<rect x="4850" y="3170" width="1600" height="470" class="outcome"/>
+<text x="5650" y="3360" text-anchor="middle" class="title">Planning</text>
+<text x="5650" y="3490" text-anchor="middle" class="title">Delayed</text>
+
+<!-- Connectors -->
+<line x1="1880" y1="860" x2="2250" y2="1170" stroke="#555" stroke-width="8"/>
+<line x1="1880" y1="1670" x2="2250" y2="1640" stroke="#555" stroke-width="8"/>
+<line x1="1880" y1="2590" x2="2250" y2="2070" stroke="#555" stroke-width="8"/>
+
+<line x1="4350" y1="1170" x2="4850" y2="735" stroke="#555" stroke-width="8"/>
+<line x1="4350" y1="1430" x2="4850" y2="1400" stroke="#555" stroke-width="8"/>
+<line x1="4350" y1="1690" x2="4850" y2="2090" stroke="#555" stroke-width="8"/>
+<line x1="4350" y1="1960" x2="4850" y2="2760" stroke="#555" stroke-width="8"/>
+<line x1="4350" y1="2220" x2="4850" y2="3405" stroke="#555" stroke-width="8"/>
+
+<!-- Repository record, placed below outcome column with clear separation -->
+<rect x="600" y="3820" width="3800" height="400" class="band"/>
+<text x="2500" y="3990" text-anchor="middle" class="title">Repository Review Record</text>
+<text x="2500" y="4140" text-anchor="middle" class="body">Findings • Required Changes • Owners • Decision</text>
+
+<!-- Governing principle -->
+<rect x="4480" y="3820" width="1920" height="520" class="principle"/>
+<text x="5440" y="3995" text-anchor="middle" class="title">GOVERNING PRINCIPLE</text>
+<text x="5440" y="4175" text-anchor="middle" class="title">AI Help Must</text>
+<text x="5440" y="4305" text-anchor="middle" class="title">Be Controlled</text>
+</svg>

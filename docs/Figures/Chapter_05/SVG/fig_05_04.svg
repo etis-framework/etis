@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="700" viewBox="0 0 1900 700">
+<rect width="100%" height="100%" fill="white"/>
+
+<!-- Failure chain: moved up, fonts increased -->
+<rect x="30" y="85" width="280" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2.5"/>
+<text x="170" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">AI-Generated Output</text>
+
+<rect x="350" y="85" width="280" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2.5"/>
+<text x="490" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Weak Understanding</text>
+
+<rect x="670" y="85" width="250" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2.5"/>
+<text x="795" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Shallow Review</text>
+
+<rect x="960" y="85" width="260" height="90" rx="12" fill="white" stroke="#56677d" stroke-width="2.5"/>
+<text x="1090" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Fake Traceability</text>
+
+<rect x="1260" y="85" width="300" height="90" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="1410" y="123" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Unsupported</text>
+<text x="1410" y="156" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Release Claim</text>
+
+<rect x="1610" y="65" width="250" height="130" rx="12" fill="#f4f6f8" stroke="#56677d" stroke-width="3"/>
+<text x="1735" y="119" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Operational Defect</text>
+<text x="1735" y="153" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">or</text>
+<text x="1735" y="184" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Governance Risk</text>
+
+<line x1="310" y1="130" x2="350" y2="130" stroke="#7a8795" stroke-width="4"/>
+<line x1="630" y1="130" x2="670" y2="130" stroke="#7a8795" stroke-width="4"/>
+<line x1="920" y1="130" x2="960" y2="130" stroke="#7a8795" stroke-width="4"/>
+<line x1="1220" y1="130" x2="1260" y2="130" stroke="#7a8795" stroke-width="4"/>
+<line x1="1560" y1="130" x2="1610" y2="130" stroke="#7a8795" stroke-width="4"/>
+
+<!-- Controls row: moved up, fonts increased -->
+<rect x="140" y="300" width="220" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="250" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Evidence</text>
+
+<rect x="450" y="300" width="220" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="560" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Review</text>
+
+<rect x="760" y="300" width="220" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="870" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Governance</text>
+
+<rect x="1070" y="300" width="220" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="1180" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Test Depth</text>
+
+<rect x="1380" y="300" width="260" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="1510" y="351" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Human Ownership</text>
+
+<!-- Principle row: moved up, fonts increased, isolated -->
+<rect x="430" y="520" width="1040" height="120" rx="14" fill="white" stroke="#56677d" stroke-width="3"/>
+<text x="950" y="574" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">AI-Assisted Output Is Not Engineering Progress</text>
+<text x="950" y="616" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Until It Becomes Reviewable Evidence</text>
+
+</svg>

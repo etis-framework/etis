@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="788" viewBox="0 0 1600 788" role="img" aria-label="Operational runbooks produce actions that must pass security and governance boundaries before becoming trustworthy operational action.">
+<rect x="0" y="0" width="1600" height="788" fill="#f7f9fb"/>
+
+<rect x="170" y="34" width="1260" height="92" rx="18" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#111827">Operational Runbook</text>
+<text x="800" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#111827">Routing Delay • Notification Failure • AI Summary Review</text>
+
+
+<line x1="800" y1="134" x2="800" y2="159" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,174 790,159 810,159" fill="#475569"/>
+
+<rect x="170" y="180" width="1260" height="102" rx="20" fill="#e8eef5" stroke="#334155" stroke-width="2.5"/>
+<text x="800" y="220" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827">Operational Action</text>
+<text x="800" y="256" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#111827">Inspect • Retry • Review • Escalate • Communicate</text>
+
+
+<line x1="800" y1="290" x2="800" y2="331" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,346 790,331 810,331" fill="#475569"/>
+
+
+<rect x="82.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="176.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">User</text>
+<text x="176.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Role</text>
+<rect x="290.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="384.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Data</text>
+<text x="384.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Visibility</text>
+<rect x="498.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="592.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Action</text>
+<text x="592.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Authority</text>
+<rect x="706.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="800.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Audit</text>
+<text x="800.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Evidence</text>
+<rect x="914.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="1008.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">AI</text>
+<text x="1008.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Context</text>
+<rect x="1122.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="1216.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Approval</text>
+<text x="1216.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Requirement</text>
+<rect x="1330.0" y="352" width="188" height="98" rx="17" fill="#fff4df" stroke="#334155" stroke-width="2.3"/>
+<text x="1424.0" y="394" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Recovery</text>
+<text x="1424.0" y="425" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111827">Path</text>
+
+
+<line x1="800" y1="458" x2="800" y2="489" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,504 790,489 810,489" fill="#475569"/>
+
+<rect x="170" y="510" width="1260" height="94" rx="20" fill="#e7f0f7" stroke="#334155" stroke-width="2.5"/>
+<text x="800" y="550" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#111827">Trustworthy Operational Action</text>
+<text x="800" y="583" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#111827">Authorized, minimized, approved, audited, and recoverable</text>
+
+
+<line x1="800" y1="612" x2="800" y2="633" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,648 790,633 810,633" fill="#475569"/>
+
+<rect x="260" y="654" width="1080" height="104" rx="18" fill="#eef2f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="696" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">The runbook can work</text>
+<text x="800" y="732" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">and the boundary can still fail.</text>
+</svg>

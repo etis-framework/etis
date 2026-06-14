@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="860" viewBox="0 0 1200 860">
+<style>
+.label{font-family:Arial,sans-serif;fill:#1f2933}
+.top{fill:#eef3f7;stroke:#334e68;stroke-width:3}
+.mem{fill:#ffffff;stroke:#52616b;stroke-width:2.2}
+.core{fill:#f4f7f9;stroke:#3f4a54;stroke-width:2.6}
+.bottom{fill:#e8f1ec;stroke:#355e4b;stroke-width:2.8}
+</style>
+
+<rect x="250" y="35" width="700" height="84" rx="14" ry="14" class="top"/>
+<text x="600" y="89" text-anchor="middle" font-size="34" font-weight="700" class="label">Architecture Decision Record</text>
+
+<rect x="10" y="185" width="220" height="82" rx="12" ry="12" class="mem"/>
+<text x="120" y="238" text-anchor="middle" font-size="28" font-weight="700" class="label">Context</text>
+
+<rect x="250" y="185" width="220" height="82" rx="12" ry="12" class="mem"/>
+<text x="360" y="238" text-anchor="middle" font-size="28" font-weight="700" class="label">Decision</text>
+
+<rect x="490" y="185" width="220" height="82" rx="12" ry="12" class="mem"/>
+<text x="600" y="238" text-anchor="middle" font-size="28" font-weight="700" class="label">Rationale</text>
+
+<rect x="730" y="185" width="220" height="82" rx="12" ry="12" class="mem"/>
+<text x="840" y="238" text-anchor="middle" font-size="24" font-weight="700" class="label">Consequences</text>
+
+<rect x="970" y="185" width="220" height="82" rx="12" ry="12" class="mem"/>
+<text x="1080" y="238" text-anchor="middle" font-size="26" font-weight="700" class="label">Ownership</text>
+
+<rect x="220" y="350" width="760" height="100" rx="14" ry="14" class="core"/>
+<text x="600" y="412" text-anchor="middle" font-size="38" font-weight="700" class="label">Architectural Memory</text>
+
+<rect x="70" y="540" width="300" height="84" rx="12" ry="12" class="mem"/>
+<text x="220" y="593" text-anchor="middle" font-size="28" font-weight="700" class="label">Constraints</text>
+
+<rect x="450" y="540" width="300" height="84" rx="12" ry="12" class="mem"/>
+<text x="600" y="593" text-anchor="middle" font-size="27" font-weight="700" class="label">Evidence Links</text>
+
+<rect x="830" y="540" width="300" height="84" rx="12" ry="12" class="mem"/>
+<text x="980" y="593" text-anchor="middle" font-size="25" font-weight="700" class="label">Revisit Triggers</text>
+
+<rect x="250" y="710" width="700" height="90" rx="14" ry="14" class="bottom"/>
+<text x="600" y="768" text-anchor="middle" font-size="34" font-weight="700" class="label">Durable Engineering Judgment</text>
+
+</svg>

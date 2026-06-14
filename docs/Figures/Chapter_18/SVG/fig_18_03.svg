@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="920" viewBox="0 0 1200 920" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.panelL{fill:#EEF4FA;stroke:#47657E;stroke-width:3}
+.panelR{fill:#F8F1E8;stroke:#8A6442;stroke-width:3}
+.childL{fill:#FFFFFF;stroke:#47657E;stroke-width:2}
+.childR{fill:#FFFFFF;stroke:#8A6442;stroke-width:2}
+.result{fill:#E8F2EC;stroke:#4E6F5D;stroke-width:2.6}
+.header{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:22px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">Context Boundary and Authority Boundary Review</text>
+
+<!-- Left panel -->
+<rect x="70" y="95" width="500" height="650" rx="24" class="panelL"/>
+<text x="320" y="140" class="header">Context Boundary Review</text>
+
+<rect x="130" y="190" width="380" height="58" rx="12" class="childL"/>
+<text x="320" y="219" class="label">Allowed Context</text>
+
+<rect x="130" y="275" width="380" height="58" rx="12" class="childL"/>
+<text x="320" y="304" class="label">Excluded Context</text>
+
+<rect x="130" y="360" width="380" height="58" rx="12" class="childL"/>
+<text x="320" y="389" class="label">Redacted Information</text>
+
+<rect x="130" y="445" width="380" height="58" rx="12" class="childL"/>
+<text x="320" y="474" class="label">Logged Context</text>
+
+<rect x="130" y="530" width="380" height="58" rx="12" class="childL"/>
+<text x="320" y="559" class="label">Test Verification</text>
+
+<!-- Right panel -->
+<rect x="630" y="95" width="500" height="650" rx="24" class="panelR"/>
+<text x="880" y="140" class="header">Authority Boundary Review</text>
+
+<rect x="690" y="190" width="380" height="58" rx="12" class="childR"/>
+<text x="880" y="219" class="label">Advisory Output</text>
+
+<rect x="690" y="275" width="380" height="58" rx="12" class="childR"/>
+<text x="880" y="304" class="label">Human Approval</text>
+
+<rect x="690" y="360" width="380" height="58" rx="12" class="childR"/>
+<text x="880" y="389" class="label">Override Capability</text>
+
+<rect x="690" y="445" width="380" height="58" rx="12" class="childR"/>
+<text x="880" y="474" class="label">Audit Evidence</text>
+
+<rect x="690" y="530" width="380" height="58" rx="12" class="childR"/>
+<text x="880" y="559" class="label">Final Decision Authority</text>
+
+<!-- Shared conclusion -->
+<rect x="390" y="790" width="420" height="72" rx="16" class="result"/>
+<text x="600" y="826" class="label">Trustworthy Review</text>
+
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+    </marker>
+    <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <style>
+    .domain { fill:#f8fafc; stroke:#475569; stroke-width:2.2; rx:22; }
+    .domain2 { fill:#f5f7fb; stroke:#475569; stroke-width:2.2; rx:22; }
+    .challenge { fill:#fff7ed; stroke:#9a6b2f; stroke-width:2.2; rx:20; }
+    .card { fill:#ffffff; stroke:#64748b; stroke-width:1.8; rx:16; filter:url(#softShadow); }
+    .card-blue { fill:#eef4fb; stroke:#50657d; stroke-width:1.8; rx:16; filter:url(#softShadow); }
+    .card-green { fill:#eef7f0; stroke:#4f7159; stroke-width:1.8; rx:16; filter:url(#softShadow); }
+    .domainLabel { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; fill:#1e293b; }
+    .label { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 700; fill:#1e293b; }
+    .body { font-family: Arial, Helvetica, sans-serif; font-size: 20px; fill:#334155; }
+    .small { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill:#334155; }
+    .note { font-family: Arial, Helvetica, sans-serif; font-size: 19px; font-style: italic; fill:#475569; }
+    .arrow { stroke:#334155; stroke-width:2.4; fill:none; marker-end:url(#arrow); }
+  </style>
+
+  <!-- Release-defense evidence domain -->
+  <rect x="70" y="44" width="1060" height="178" class="domain"/>
+  <text x="600" y="84" text-anchor="middle" class="domainLabel">Release-defense evidence remains accountable after release</text>
+
+  <rect x="115" y="112" width="150" height="68" class="card-blue"/>
+  <text x="190" y="141" text-anchor="middle" class="label">Claims</text>
+  <text x="190" y="167" text-anchor="middle" class="small">what was defended</text>
+
+  <rect x="292" y="112" width="150" height="68" class="card-blue"/>
+  <text x="367" y="141" text-anchor="middle" class="label">Evidence</text>
+  <text x="367" y="167" text-anchor="middle" class="small">tests, ADRs, evals</text>
+
+  <rect x="469" y="112" width="150" height="68" class="card-blue"/>
+  <text x="544" y="141" text-anchor="middle" class="label">Limits</text>
+  <text x="544" y="167" text-anchor="middle" class="small">known immaturity</text>
+
+  <rect x="646" y="112" width="150" height="68" class="card-blue"/>
+  <text x="721" y="141" text-anchor="middle" class="label">AI bounds</text>
+  <text x="721" y="167" text-anchor="middle" class="small">human approval</text>
+
+  <rect x="823" y="112" width="190" height="68" class="card-blue"/>
+  <text x="918" y="141" text-anchor="middle" class="label">Risk posture</text>
+  <text x="918" y="167" text-anchor="middle" class="small">rollback and owners</text>
+
+  <path d="M600 222 C600 252, 600 262, 600 290" class="arrow"/>
+
+  <!-- Operational reality challenge -->
+  <rect x="160" y="296" width="880" height="112" class="challenge"/>
+  <text x="600" y="335" text-anchor="middle" class="domainLabel">Operational reality tests the defended posture</text>
+  <text x="600" y="369" text-anchor="middle" class="body">real usage • routing delay • wrong queue • confusing notification • missing decision context</text>
+
+  <path d="M600 408 C600 438, 600 448, 600 476" class="arrow"/>
+
+  <!-- Learning and response domain -->
+  <rect x="70" y="482" width="1060" height="190" class="domain2"/>
+  <text x="600" y="522" text-anchor="middle" class="domainLabel">Learning converts reality into durable engineering action</text>
+
+  <rect x="118" y="552" width="260" height="82" class="card"/>
+  <text x="248" y="584" text-anchor="middle" class="label">Postmortem learning</text>
+  <text x="248" y="613" text-anchor="middle" class="small">facts • impact • conditions</text>
+
+  <path d="M386 593 L460 593" class="arrow"/>
+
+  <rect x="474" y="552" width="252" height="82" class="card"/>
+  <text x="600" y="584" text-anchor="middle" class="label">Corrective action</text>
+  <text x="600" y="613" text-anchor="middle" class="small">owners • changes • verification</text>
+
+  <path d="M735 593 L810 593" class="arrow"/>
+
+  <rect x="824" y="552" width="258" height="82" class="card-green"/>
+  <text x="953" y="584" text-anchor="middle" class="label">Stabilization backlog</text>
+  <text x="953" y="613" text-anchor="middle" class="small">defects • evidence gaps • hardening</text>
+
+  <text x="600" y="694" text-anchor="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 23px; font-style: italic; font-weight: 600; fill:#334155;">The release defense was not false; it became the baseline for learning from reality.</text>
+</svg>

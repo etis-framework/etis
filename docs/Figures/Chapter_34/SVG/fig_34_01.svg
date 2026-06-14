@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#334155"/></marker>
+<marker id="arrowRed" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth"><path d="M2,2 L10,6 L2,10 Z" fill="#8a2f2f"/></marker>
+</defs>
+<rect x="0" y="0" width="1600" height="1050" fill="#ffffff"/>
+<rect x="50" y="72" width="365" height="720" rx="18" fill="#e8f1fb" stroke="#334155" stroke-width="2.4"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="26" fill="#1f2937" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="109.9">Enterprise Context</tspan>
+<tspan x="232.5" y="139.8">Sources</tspan>
+</text>
+<rect x="455" y="72" width="365" height="720" rx="18" fill="#fff3d8" stroke="#334155" stroke-width="2.4"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="24" fill="#1f2937" text-anchor="middle" font-weight="700">
+<tspan x="637.5" y="110.6">Context Governance</tspan>
+<tspan x="637.5" y="138.2">Controls</tspan>
+</text>
+<rect x="860" y="72" width="325" height="720" rx="18" fill="#edf7ee" stroke="#334155" stroke-width="2.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="23" fill="#1f2937" text-anchor="middle" font-weight="700">
+<tspan x="1022.5" y="116.0">Governed</tspan>
+<tspan x="1022.5" y="142.4">Enterprise Context</tspan>
+</text>
+<rect x="1225" y="72" width="325" height="720" rx="18" fill="#f4f0fb" stroke="#334155" stroke-width="2.4"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="25" fill="#1f2937" text-anchor="middle" font-weight="700">
+<tspan x="1387.5" y="110.2">Accountable</tspan>
+<tspan x="1387.5" y="139.0">Workflow Use</tspan>
+</text>
+<rect x="70" y="170" width="325" height="84" rx="12" fill="#ffffff" stroke="#4f6f93" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#123454" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="197.5">Systems of Record</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="232.5" y="222.8">Official incident, facilities, student</tspan>
+<tspan x="232.5" y="240.0">services records</tspan>
+</text>
+<rect x="70" y="266" width="325" height="84" rx="12" fill="#ffffff" stroke="#4f6f93" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#123454" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="293.5">Policies &amp; Runbooks</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="232.5" y="318.8">Current operating rules and</tspan>
+<tspan x="232.5" y="336.0">approved response steps</tspan>
+</text>
+<rect x="70" y="362" width="325" height="84" rx="12" fill="#ffffff" stroke="#4f6f93" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#123454" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="389.5">Incident History</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="232.5" y="414.8">Prior cases, timelines,</tspan>
+<tspan x="232.5" y="432.0">postmortems, lessons learned</tspan>
+</text>
+<rect x="70" y="458" width="325" height="84" rx="12" fill="#ffffff" stroke="#4f6f93" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#123454" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="485.5">Release Evidence</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="232.5" y="510.8">Known limitations, approvals,</tspan>
+<tspan x="232.5" y="528.0">retired conditions</tspan>
+</text>
+<rect x="70" y="554" width="325" height="84" rx="12" fill="#ffffff" stroke="#4f6f93" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#123454" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="581.5">Repository Records</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="232.5" y="606.8">ADRs, reviews, AI governance,</tspan>
+<tspan x="232.5" y="624.0">transparency records</tspan>
+</text>
+<rect x="70" y="650" width="325" height="84" rx="12" fill="#ffffff" stroke="#4f6f93" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#123454" text-anchor="middle" font-weight="700">
+<tspan x="232.5" y="677.5">Operational Signals</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="232.5" y="702.8">Logs, metrics, audit events,</tspan>
+<tspan x="232.5" y="720.0">runtime evidence</tspan>
+</text>
+<rect x="475" y="172" width="325" height="88" rx="12" fill="#ffffff" stroke="#8b6f2a" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#5b4105" text-anchor="middle" font-weight="700">
+<tspan x="637.5" y="204.3">Source Authority</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="637.5" y="230.8">owner / authority / permitted</tspan>
+<tspan x="637.5" y="248.0">claims</tspan>
+</text>
+<rect x="475" y="276" width="325" height="88" rx="12" fill="#ffffff" stroke="#8b6f2a" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#5b4105" text-anchor="middle" font-weight="700">
+<tspan x="637.5" y="308.3">Freshness / Versioning</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="637.5" y="343.4">current / superseded / retired</tspan>
+</text>
+<rect x="475" y="380" width="325" height="88" rx="12" fill="#ffffff" stroke="#8b6f2a" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#5b4105" text-anchor="middle" font-weight="700">
+<tspan x="637.5" y="412.3">Privacy / Role Boundary</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="637.5" y="447.4">least context / role limits</tspan>
+</text>
+<rect x="475" y="484" width="325" height="88" rx="12" fill="#ffffff" stroke="#8b6f2a" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#5b4105" text-anchor="middle" font-weight="700">
+<tspan x="637.5" y="505.3">Provenance / Evidence</tspan>
+<tspan x="637.5" y="527.2">Links</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="637.5" y="551.4">source path / review / audit trail</tspan>
+</text>
+<rect x="475" y="588" width="325" height="88" rx="12" fill="#ffffff" stroke="#8b6f2a" stroke-width="1.6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#5b4105" text-anchor="middle" font-weight="700">
+<tspan x="637.5" y="620.3">Conflict Resolution</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="637.5" y="646.8">source precedence / decision</tspan>
+<tspan x="637.5" y="664.0">owner</tspan>
+</text>
+<rect x="888" y="180" width="269" height="118" rx="14" fill="#ffffff" stroke="#3a7a47" stroke-width="2"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#14532d" text-anchor="middle" font-weight="700">
+<tspan x="1022.5" y="207.0">Approved Context</tspan>
+<tspan x="1022.5" y="230.0">Set</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1022.5" y="254.4">necessary / permitted /</tspan>
+<tspan x="1022.5" y="272.8">current / source-aware</tspan>
+</text>
+<rect x="888" y="332" width="269" height="118" rx="14" fill="#ffffff" stroke="#3a7a47" stroke-width="2"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#14532d" text-anchor="middle" font-weight="700">
+<tspan x="1022.5" y="359.0">Context Use</tspan>
+<tspan x="1022.5" y="382.0">Record</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1022.5" y="406.4">what was used / why / by</tspan>
+<tspan x="1022.5" y="424.8">whom / workflow</tspan>
+</text>
+<rect x="888" y="484" width="269" height="118" rx="14" fill="#ffffff" stroke="#3a7a47" stroke-width="2"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#14532d" text-anchor="middle" font-weight="700">
+<tspan x="1022.5" y="510.0">Reviewable</tspan>
+<tspan x="1022.5" y="533.0">Context Path</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1022.5" y="557.4">claims reconstructed and</tspan>
+<tspan x="1022.5" y="575.8">challenged</tspan>
+</text>
+<rect x="888" y="642" width="269" height="86" rx="14" fill="#fbe9e9" stroke="#8a2f2f" stroke-width="1.8"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#7f1d1d" text-anchor="middle" font-weight="700">
+<tspan x="1022.5" y="670.5">Blocked Context</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1022.5" y="693.8">stale / unauthorized /</tspan>
+<tspan x="1022.5" y="711.0">conflicting / privacy-unsafe</tspan>
+</text>
+<rect x="1245" y="165" width="285" height="104" rx="12" fill="#ffffff" stroke="#66518a" stroke-width="1.7"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#3b2a63" text-anchor="middle" font-weight="700">
+<tspan x="1387.5" y="186.7">COICP Agentic</tspan>
+<tspan x="1387.5" y="207.4">Workflow</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1387.5" y="223.1">bounded participant;</tspan>
+<tspan x="1387.5" y="240.4">prepares summaries and</tspan>
+<tspan x="1387.5" y="257.6">routing recommendations</tspan>
+</text>
+<rect x="1245" y="293" width="285" height="104" rx="12" fill="#ffffff" stroke="#66518a" stroke-width="1.7"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#3b2a63" text-anchor="middle" font-weight="700">
+<tspan x="1387.5" y="314.7">Human Incident</tspan>
+<tspan x="1387.5" y="335.4">Coordinator</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1387.5" y="359.8">reviews evidence, approves,</tspan>
+<tspan x="1387.5" y="377.0">rejects, or escalates</tspan>
+</text>
+<rect x="1245" y="421" width="285" height="104" rx="12" fill="#ffffff" stroke="#66518a" stroke-width="1.7"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#3b2a63" text-anchor="middle" font-weight="700">
+<tspan x="1387.5" y="442.7">Approval-Ready</tspan>
+<tspan x="1387.5" y="463.4">Update</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1387.5" y="487.8">stakeholder communication</tspan>
+<tspan x="1387.5" y="505.0">only after accountable review</tspan>
+</text>
+<rect x="1245" y="549" width="285" height="104" rx="12" fill="#ffffff" stroke="#66518a" stroke-width="1.7"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#3b2a63" text-anchor="middle" font-weight="700">
+<tspan x="1387.5" y="570.7">Review Board /</tspan>
+<tspan x="1387.5" y="591.4">Owners</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="1387.5" y="615.8">challenge sources, conditions,</tspan>
+<tspan x="1387.5" y="633.0">limits, and follow-up</tspan>
+</text>
+<rect x="130" y="818" width="1115" height="112" rx="16" fill="#eef2f7" stroke="#475569" stroke-width="2"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#263445" text-anchor="middle" font-weight="700">
+<tspan x="277.5" y="849.0">Repository</tspan>
+<tspan x="277.5" y="872.0">Evidence Surface</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#263445" text-anchor="middle" font-weight="400">
+<tspan x="805.0" y="851.8">/docs/operations/ /docs/release_evidence/ /docs/governance/ai_governance/</tspan>
+<tspan x="805.0" y="869.0">/docs/governance/context_engineering/</tspan>
+</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#374151" text-anchor="middle" font-weight="400">
+<tspan x="682.5" y="905.6">Context inventories, authority matrices, freshness records, privacy rules, context-use logs, review records</tspan>
+</text>
+<rect x="155" y="955" width="1290" height="55" rx="12" fill="#f6f7f9" stroke="#334155" stroke-width="2"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#1f2937" text-anchor="middle" font-weight="700">
+<tspan x="800.0" y="987.0">Governed, current, permitted, and reviewable context controls workflow action.</tspan>
+</text>
+<line x1="415" y1="220" x2="455" y2="220" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="415" y1="410" x2="455" y2="410" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="415" y1="600" x2="455" y2="600" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="820" y1="220" x2="860" y2="220" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="820" y1="410" x2="860" y2="410" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="820" y1="600" x2="860" y2="600" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1185" y1="235" x2="1225" y2="235" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1185" y1="390" x2="1225" y2="390" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1185" y1="545" x2="1225" y2="545" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1145" y1="685" x2="1210" y2="685" stroke="#8a2f2f" stroke-width="3" stroke-dasharray="8 8" marker-end="url(#arrowRed)"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#7f1d1d" text-anchor="middle" font-weight="700">
+<tspan x="1195.0" y="664.0">Blocked</tspan>
+</text>
+<line x1="1040" y1="728" x2="1040" y2="818" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1387" y1="653" x2="1205" y2="818" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="710" y1="818" x2="710" y2="770" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+</svg>

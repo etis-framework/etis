@@ -1,0 +1,57 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1425" viewBox="0 0 2600 1425">
+<rect width="100%" height="100%" fill="white"/>
+
+<style>
+.axis{font-family:Arial;font-size:38px;font-weight:700;fill:#0B1F3A}
+.h{font-family:Arial;font-size:36px;font-weight:700;fill:#0B1F3A}
+.s{font-family:Arial;font-size:34px;fill:#374151}
+.r{font-family:Arial;font-size:38px;font-weight:700;fill:#7F1D1D}
+</style>
+
+<rect x="170" y="120" width="2220" height="1060" rx="24" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="3"/>
+
+<line x1="340" y1="1020" x2="2240" y2="1020" stroke="#0B1F3A" stroke-width="5"/>
+<line x1="340" y1="1020" x2="340" y2="240" stroke="#0B1F3A" stroke-width="5"/>
+
+<text x="1290" y="1125" text-anchor="middle" class="axis">Time</text>
+<text x="120" y="640" text-anchor="middle" transform="rotate(-90 120 640)" class="axis">Accumulated Fragility</text>
+
+<line x1="340" y1="430" x2="2240" y2="430" stroke="#B91C1C" stroke-width="4" stroke-dasharray="18 14"/>
+
+<rect x="430" y="285" width="470" height="90" rx="16" fill="white" stroke="#B91C1C" stroke-width="3"/>
+<text x="665" y="342" text-anchor="middle" class="r">Visible Failure Threshold</text>
+
+<path d="M390 970 C760 950,980 870,1180 740 C1420 590,1720 520,2200 395"
+ fill="none" stroke="#0B2E7A" stroke-width="10" stroke-linecap="round"/>
+
+<path d="M390 970 C760 950,980 870,1180 740 C1420 590,1720 520,2200 395 L2200 1020 L390 1020 Z"
+ fill="#0B2E7A" opacity="0.08"/>
+
+<line x1="820" y1="180" x2="820" y2="980" stroke="#CFCFCF" stroke-dasharray="10 10"/>
+<line x1="1320" y1="180" x2="1320" y2="980" stroke="#CFCFCF" stroke-dasharray="10 10"/>
+<line x1="1860" y1="180" x2="1860" y2="980" stroke="#CFCFCF" stroke-dasharray="10 10"/>
+
+<text x="580" y="210" text-anchor="middle" class="h">Latent Conditions</text>
+<text x="1070" y="210" text-anchor="middle" class="h">Accumulation</text>
+<text x="1590" y="210" text-anchor="middle" class="h">Degradation</text>
+<text x="2070" y="210" text-anchor="middle" class="h">Crisis Point</text>
+
+<text x="580" y="258" text-anchor="middle" class="s">Workarounds emerge</text>
+<text x="1070" y="258" text-anchor="middle" class="s">Understanding lags</text>
+<text x="1590" y="258" text-anchor="middle" class="s">Complexity rises</text>
+<text x="2070" y="258" text-anchor="middle" class="s">Compensation fails</text>
+
+<circle cx="2200" cy="395" r="24" fill="#D11A1A"/>
+
+<!-- moved lower and separated from threshold line -->
+<rect x="1840" y="560" width="540" height="95" rx="16" fill="white" stroke="#D11A1A" stroke-width="3"/>
+<text x="2110" y="618" text-anchor="middle" class="r">Incident Becomes Visible</text>
+
+<line x1="2080" y1="560" x2="2160" y2="455" stroke="#D11A1A" stroke-width="4"/>
+<polygon points="2150,465 2172,440 2140,447" fill="#D11A1A"/>
+
+<rect x="420" y="1240" width="1740" height="120" rx="20" fill="#FEF2F2" stroke="#B91C1C" stroke-width="3"/>
+<text x="1290" y="1290" text-anchor="middle" class="r">Failure begins before failure is visible.</text>
+<text x="1290" y="1332" text-anchor="middle" class="s">Hidden fragility accumulates while the system appears to improve.</text>
+</svg>

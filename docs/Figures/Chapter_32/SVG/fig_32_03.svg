@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840">
+<rect width="1600" height="840" fill="white"/>
+<rect x="30" y="22" width="1540" height="798" fill="white" stroke="#163A63" stroke-width="2"/>
+
+<!-- Source boxes -->
+<rect x="120" y="110" width="380" height="120" rx="6" fill="#F7FAFE" stroke="#1F4E79" stroke-width="2"/>
+<text x="310" y="165" text-anchor="middle" font-size="28" font-weight="700">Observable Runtime</text>
+<text x="310" y="200" text-anchor="middle" font-size="28" font-weight="700">Behavior</text>
+
+<rect x="1100" y="110" width="380" height="120" rx="6" fill="#F7FAFE" stroke="#1F4E79" stroke-width="2"/>
+<text x="1290" y="165" text-anchor="middle" font-size="28" font-weight="700">Executable Response</text>
+
+<rect x="90" y="330" width="360" height="120" rx="6" fill="#FFFDF7" stroke="#9A6500" stroke-width="2"/>
+<text x="270" y="400" text-anchor="middle" font-size="28" font-weight="700">Governed Authority</text>
+
+<rect x="1150" y="330" width="360" height="120" rx="6" fill="#FFFDF7" stroke="#9A6500" stroke-width="2"/>
+<text x="1330" y="400" text-anchor="middle" font-size="28" font-weight="700">Visible Limitations</text>
+
+<rect x="610" y="565" width="380" height="120" rx="6" fill="#FAFAFE" stroke="#4B3B73" stroke-width="2"/>
+<text x="800" y="635" text-anchor="middle" font-size="28" font-weight="700">Preserved Learning</text>
+
+<!-- Larger center box -->
+<rect x="500" y="280" width="600" height="260" rx="8" fill="#F7FBF7" stroke="#2F5F3A" stroke-width="2"/>
+<text x="800" y="335" text-anchor="middle" font-size="34" font-weight="700">Operational Confidence</text>
+<text x="800" y="390" text-anchor="middle" font-size="26">Visible Operation</text>
+<text x="800" y="430" text-anchor="middle" font-size="26">Governed Authority</text>
+<text x="800" y="470" text-anchor="middle" font-size="26">Recovery Readiness</text>
+<text x="800" y="510" text-anchor="middle" font-size="26">Visible Limitations</text>
+
+<!-- Clean connectors -->
+<line x1="500" y1="170" x2="650" y2="280" stroke="#1F4E79" stroke-width="4"/>
+<line x1="1100" y1="170" x2="950" y2="280" stroke="#1F4E79" stroke-width="4"/>
+<line x1="500" y1="390" x2="500" y2="390" stroke="#1F4E79" stroke-width="4"/>
+<line x1="500" y1="390" x2="500" y2="390" stroke="#1F4E79" stroke-width="4"/>
+<line x1="500" y1="390" x2="500" y2="390" stroke="#1F4E79" stroke-width="4"/>
+<line x1="500" y1="390" x2="500" y2="390" stroke="#1F4E79" stroke-width="4"/>
+
+<line x1="500" y1="390" x2="500" y2="390" stroke="#1F4E79" stroke-width="4"/>
+<line x1="500" y1="390" x2="500" y2="390" stroke-width="0"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+<line x1="500" y1="390" x2="500" y2="390"/>
+
+
+
+
+
+
+<line x1="450" y1="390" x2="500" y2="390" stroke="#1F4E79" stroke-width="4"/>
+<line x1="1150" y1="390" x2="1100" y2="390" stroke="#1F4E79" stroke-width="4"/>
+<line x1="800" y1="565" x2="800" y2="540" stroke="#1F4E79" stroke-width="4"/>
+
+<rect x="70" y="715" width="1460" height="70" rx="5" fill="#F7FAFE" stroke="#163A63" stroke-width="2"/>
+<text x="800" y="755" text-anchor="middle" font-size="24" font-weight="700">
+Confidence is sustained through continuing evidence, not assumed from past success.
+</text>
+</svg>

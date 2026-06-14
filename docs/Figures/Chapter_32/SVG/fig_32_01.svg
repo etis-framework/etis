@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="1000" fill="white"/>
+<rect x="30" y="25" width="1540" height="940" rx="8" fill="#FFFFFF" stroke="#163A63" stroke-width="2.4"/><text x="133.0" y="115.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="133.0" dy="0">Evidence</tspan>
+<tspan x="133.0" dy="35">Sources</tspan>
+</text><text x="133.0" y="395.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="133.0" dy="0">Trust</tspan>
+<tspan x="133.0" dy="35">Evidence</tspan>
+</text><text x="133.0" y="640.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="133.0" dy="0">Transparency</tspan>
+<tspan x="133.0" dy="34">Records</tspan>
+</text><text x="133.0" y="805.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="133.0" dy="0">Organizational</tspan>
+<tspan x="133.0" dy="33">Confidence</tspan>
+</text><rect x="250" y="45" width="1245" height="175" rx="7" fill="#F7FAFE" stroke="#1F4E79" stroke-width="2.2"/><rect x="270.0" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="333.4" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="333.4" dy="0">Postmortem</tspan>
+<tspan x="333.4" dy="23">Learning</tspan>
+</text><text x="333.4" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="333.4" dy="0">facts, impact,</tspan>
+<tspan x="333.4" dy="19">lessons</tspan>
+</text><rect x="404.77777777777777" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="468.2" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="468.2" dy="0">Stabilization</tspan>
+<tspan x="468.2" dy="23">Evidence</tspan>
+</text><text x="468.2" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="468.2" dy="0">defects, fixes,</tspan>
+<tspan x="468.2" dy="19">verification</tspan>
+</text><rect x="539.5555555555555" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="602.9" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="602.9" dy="0">Runtime</tspan>
+<tspan x="602.9" dy="23">Evidence</tspan>
+</text><text x="602.9" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="602.9" dy="0">logs, metrics,</tspan>
+<tspan x="602.9" dy="19">traces</tspan>
+</text><rect x="674.3333333333333" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="737.7" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="737.7" dy="0">Runbooks &amp;</tspan>
+<tspan x="737.7" dy="23">Readiness</tspan>
+</text><text x="737.7" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="737.7" dy="0">owners, paths,</tspan>
+<tspan x="737.7" dy="19">response steps</tspan>
+</text><rect x="809.1111111111111" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="872.5" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="872.5" dy="0">Security</tspan>
+<tspan x="872.5" dy="23">Governance</tspan>
+</text><text x="872.5" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="872.5" dy="0">access, audit,</tspan>
+<tspan x="872.5" dy="19">data limits</tspan>
+</text><rect x="943.8888888888889" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="1007.3" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="1007.3" dy="0">AI</tspan>
+<tspan x="1007.3" dy="23">Governance</tspan>
+</text><text x="1007.3" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="1007.3" dy="0">scope, review,</tspan>
+<tspan x="1007.3" dy="19">revocation</tspan>
+</text><rect x="1078.6666666666665" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="1142.1" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="1142.1" dy="0">Reliability</tspan>
+<tspan x="1142.1" dy="23">Analysis</tspan>
+</text><text x="1142.1" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="1142.1" dy="0">failure modes,</tspan>
+<tspan x="1142.1" dy="19">recovery</tspan>
+</text><rect x="1213.4444444444443" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="1276.8" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="1276.8" dy="0">Incident</tspan>
+<tspan x="1276.8" dy="23">Response</tspan>
+</text><text x="1276.8" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="1276.8" dy="0">timeline,</tspan>
+<tspan x="1276.8" dy="19">actions,</tspan>
+<tspan x="1276.8" dy="19">comm. log</tspan>
+</text><rect x="1348.2222222222222" y="70" width="126.77777777777777" height="120" rx="5" fill="#FFFFFF" stroke="#1F4E79" stroke-width="1.7"/><text x="1411.6" y="92.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="1411.6" dy="0">Release</tspan>
+<tspan x="1411.6" dy="23">Governance</tspan>
+</text><text x="1411.6" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="1411.6" dy="0">conditions,</tspan>
+<tspan x="1411.6" dy="19">authority</tspan>
+</text><text x="355.0" y="252.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#334155" text-anchor="start">
+<tspan x="355.0" dy="0">Repository evidence: /docs/release_evidence/  /docs/operations/  /docs/observability/  /docs/security/</tspan>
+<tspan x="355.0" dy="23">/docs/governance/</tspan>
+</text>
+<line x1="870" y1="275" x2="870" y2="307" stroke="#1F4E79" stroke-width="5" stroke-linecap="round"/>
+<polygon points="858,307 882,307 870,323" fill="#1F4E79"/>
+<rect x="210" y="330" width="1185" height="220" rx="7" fill="#F7FBF7" stroke="#2F5F3A" stroke-width="2.1"/><text x="802.5" y="358.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="802.5" dy="0">TRUST EVIDENCE</tspan>
+</text><rect x="245.0" y="412" width="172.5" height="116" rx="5" fill="#FFFFFF" stroke="#2F5F3A" stroke-width="1.6"/><text x="331.2" y="440.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="331.2" dy="0">Verified</tspan>
+<tspan x="331.2" dy="26">Evidence</tspan>
+</text><text x="331.2" y="490.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="331.2" dy="0">records confirm</tspan>
+<tspan x="331.2" dy="23">what happened</tspan>
+</text><rect x="433.5" y="412" width="172.5" height="116" rx="5" fill="#FFFFFF" stroke="#2F5F3A" stroke-width="1.6"/><text x="519.8" y="440.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="519.8" dy="0">Known</tspan>
+<tspan x="519.8" dy="26">Limitations</tspan>
+</text><text x="519.8" y="490.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="519.8" dy="0">what remains</tspan>
+<tspan x="519.8" dy="23">not fully solved</tspan>
+</text><rect x="622.0" y="412" width="172.5" height="116" rx="5" fill="#FFFFFF" stroke="#2F5F3A" stroke-width="1.6"/><text x="708.2" y="440.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="708.2" dy="0">Residual</tspan>
+<tspan x="708.2" dy="26">Risks</tspan>
+</text><text x="708.2" y="490.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="708.2" dy="0">accepted risks</tspan>
+<tspan x="708.2" dy="23">with owners</tspan>
+</text><rect x="810.5" y="412" width="172.5" height="116" rx="5" fill="#FFFFFF" stroke="#2F5F3A" stroke-width="1.6"/><text x="896.8" y="440.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="896.8" dy="0">Monitoring</tspan>
+<tspan x="896.8" dy="26">Conditions</tspan>
+</text><text x="896.8" y="490.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="896.8" dy="0">signals and</tspan>
+<tspan x="896.8" dy="23">thresholds</tspan>
+</text><rect x="999.0" y="412" width="172.5" height="116" rx="5" fill="#FFFFFF" stroke="#2F5F3A" stroke-width="1.6"/><text x="1085.2" y="440.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="1085.2" dy="0">AI Capability</tspan>
+<tspan x="1085.2" dy="26">State</tspan>
+</text><text x="1085.2" y="490.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="1085.2" dy="0">draft-only,</tspan>
+<tspan x="1085.2" dy="23">narrowed,</tspan>
+<tspan x="1085.2" dy="23">revoked</tspan>
+</text><rect x="1187.5" y="412" width="172.5" height="116" rx="5" fill="#FFFFFF" stroke="#2F5F3A" stroke-width="1.6"/><text x="1273.8" y="440.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="1273.8" dy="0">Accountable</tspan>
+<tspan x="1273.8" dy="26">Owners</tspan>
+</text><text x="1273.8" y="490.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#111827" text-anchor="middle">
+<tspan x="1273.8" dy="0">claims,</tspan>
+<tspan x="1273.8" dy="23">controls,</tspan>
+<tspan x="1273.8" dy="23">follow-up</tspan>
+</text>
+<line x1="870" y1="552" x2="870" y2="579" stroke="#1F4E79" stroke-width="5" stroke-linecap="round"/>
+<polygon points="858,579 882,579 870,595" fill="#1F4E79"/>
+<rect x="250" y="604" width="1105" height="130" rx="7" fill="#FFFDF7" stroke="#9A6500" stroke-width="2.0"/><text x="802.5" y="634.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="802.5" dy="0">TRANSPARENCY RECORDS</tspan>
+</text><rect x="285.0" y="682" width="240.75" height="43" rx="5" fill="#FFFFFF" stroke="#9A6500" stroke-width="1.5"/><text x="405.4" y="709.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="405.4" dy="0">Trust Evidence Map</tspan>
+</text><rect x="549.75" y="682" width="240.75" height="43" rx="5" fill="#FFFFFF" stroke="#9A6500" stroke-width="1.5"/><text x="670.1" y="709.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="670.1" dy="0">Limitation Disclosure</tspan>
+</text><rect x="814.5" y="682" width="240.75" height="43" rx="5" fill="#FFFFFF" stroke="#9A6500" stroke-width="1.5"/><text x="934.9" y="709.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="934.9" dy="0">Stakeholder Matrix</tspan>
+</text><rect x="1079.25" y="682" width="240.75" height="43" rx="5" fill="#FFFFFF" stroke="#9A6500" stroke-width="1.5"/><text x="1199.6" y="709.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="1199.6" dy="0">AI Transparency Note</tspan>
+</text>
+<line x1="870" y1="735" x2="870" y2="763" stroke="#1F4E79" stroke-width="5" stroke-linecap="round"/>
+<polygon points="858,763 882,763 870,779" fill="#1F4E79"/>
+<rect x="310" y="790" width="980" height="88" rx="7" fill="#FAFAFE" stroke="#4B3B73" stroke-width="2.0"/><text x="800.0" y="822.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="800" fill="#111827" text-anchor="middle">
+<tspan x="800.0" dy="0">ORGANIZATIONAL CONFIDENCE</tspan>
+</text><text x="800.0" y="858.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#163A63" text-anchor="middle">
+<tspan x="800.0" dy="0">Evidence-backed, limitation-aware, monitored, governed, and owned</tspan>
+</text><rect x="70" y="895" width="1460" height="58" rx="5" fill="#F7FAFE" stroke="#163A63" stroke-width="2.0"/><text x="800.0" y="920.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#163A63" text-anchor="middle">
+<tspan x="800.0" dy="0">Governing principle: trust is earned when evidence, limitations, authority,</tspan>
+<tspan x="800.0" dy="22">monitoring, and accountability remain visible.</tspan>
+</text>
+</svg>

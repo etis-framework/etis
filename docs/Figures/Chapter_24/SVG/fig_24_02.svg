@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+  <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+ </marker>
+ <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.10"/>
+ </filter>
+</defs>
+<style>
+.domain{fill:#f8fafc;stroke:#475569;stroke-width:2.2;}
+.domain2{fill:#f5f7fb;stroke:#475569;stroke-width:2.2;}
+.principle{fill:#f8fafc;stroke:#475569;stroke-width:1.8;}
+.cardBlue{fill:#eef4fb;stroke:#50657d;stroke-width:1.8;filter:url(#softShadow);}
+.cardAmber{fill:#fff7ed;stroke:#9a6b2f;stroke-width:1.8;filter:url(#softShadow);}
+.cardGreen{fill:#eef7f0;stroke:#4f7159;stroke-width:1.8;filter:url(#softShadow);}
+.heading{font-family:Arial;font-size:25px;font-weight:700;fill:#1e293b;}
+.label{font-family:Arial;font-size:24px;font-weight:700;fill:#1e293b;}
+.body{font-family:Arial;font-size:21px;fill:#334155;}
+.note{font-family:Arial;font-size:23px;font-style:italic;font-weight:600;fill:#334155;}
+.arrow{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}
+</style>
+
+<rect x="70" y="42" width="1060" height="560" class="domain"/>
+<text x="600" y="82" text-anchor="middle" class="heading">Defect reduction turns violated expectations into verified stability</text>
+
+<rect x="120" y="128" width="230" height="74" class="cardBlue"/>
+<text x="235" y="159" text-anchor="middle" class="label">Detect</text>
+<text x="235" y="187" text-anchor="middle" class="body">operational signal</text>
+
+<rect x="485" y="128" width="230" height="74" class="cardBlue"/>
+<text x="600" y="159" text-anchor="middle" class="label">Classify</text>
+<text x="600" y="187" text-anchor="middle" class="body">type and impact</text>
+
+<rect x="850" y="128" width="230" height="74" class="cardAmber"/>
+<text x="965" y="159" text-anchor="middle" class="label">Prioritize</text>
+<text x="965" y="187" text-anchor="middle" class="body">risk and recurrence</text>
+
+<path d="M350 165 L475 165" class="arrow"/>
+<path d="M715 165 L840 165" class="arrow"/>
+<path d="M965 202 L965 275" class="arrow"/>
+
+<rect x="850" y="282" width="230" height="74" class="cardAmber"/>
+<text x="965" y="313" text-anchor="middle" class="label">Fix</text>
+<text x="965" y="341" text-anchor="middle" class="body">owned correction</text>
+
+<path d="M850 319 L725 319" class="arrow"/>
+
+<rect x="485" y="282" width="230" height="74" class="cardGreen"/>
+<text x="600" y="313" text-anchor="middle" class="label">Verify</text>
+<text x="600" y="341" text-anchor="middle" class="body">evidence of change</text>
+
+<path d="M485 319 L370 319" class="arrow"/>
+
+<rect x="120" y="282" width="240" height="74" class="cardGreen"/>
+<text x="240" y="313" text-anchor="middle" class="label">Regression Evidence</text>
+<text x="240" y="341" text-anchor="middle" class="body">protect the fix</text>
+
+<path d="M240 356 L240 420" class="arrow"/>
+
+<rect x="100" y="430" width="280" height="86" class="domain2"/>
+<text x="240" y="466" text-anchor="middle" class="label">Monitor Recurrence</text>
+<text x="240" y="496" text-anchor="middle" class="body">watch for repeat instability</text>
+
+<!-- restrained feedback relationship -->
+<text x="240" y="548" text-anchor="middle" class="body">feeds future detection</text>
+
+<rect x="110" y="622" width="980" height="58" class="principle"/>
+<text x="600" y="658" text-anchor="middle" class="note">Closing a defect is not stabilization until recurrence risk is controlled.</text>
+</svg>

@@ -1,0 +1,51 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000">
+<rect width="100%" height="100%" fill="white"/>
+
+<rect x="90" y="120" width="620" height="560" rx="24" fill="#f7f8fa" stroke="#5f6b7a" stroke-width="2.5"/>
+<text x="400" y="180" text-anchor="middle" font-size="38" font-weight="700">Governed Authority</text>
+<text x="400" y="230" text-anchor="middle" font-size="26">Bounded • Approved • Audited • Revocable</text>
+
+<circle cx="240" cy="330" r="70" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="240" y="322" text-anchor="middle" font-size="24">Delegation</text>
+<text x="240" y="352" text-anchor="middle" font-size="24">Boundary</text>
+
+<circle cx="400" cy="330" r="70" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="400" y="338" text-anchor="middle" font-size="24">Approval</text>
+
+<circle cx="560" cy="330" r="70" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="560" y="338" text-anchor="middle" font-size="24">Audit</text>
+
+<circle cx="320" cy="510" r="70" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="320" y="518" text-anchor="middle" font-size="24">Revocation</text>
+
+<circle cx="480" cy="510" r="70" fill="white" stroke="#5f6b7a" stroke-width="2"/>
+<text x="480" y="502" text-anchor="middle" font-size="23">Monitoring</text>
+<text x="480" y="532" text-anchor="middle" font-size="23">Signals</text>
+
+<polygon points="760,370 990,370 990,290 1225,440 990,590 990,510 760,510"
+fill="#e8ecef" stroke="#5f6b7a" stroke-width="3"/>
+<text x="995" y="412" text-anchor="middle" font-size="27" font-weight="700">Governance Controls</text>
+<text x="995" y="455" text-anchor="middle" font-size="27" font-weight="700">Meet Reality</text>
+
+<rect x="1260" y="120" width="450" height="560" rx="24" fill="#faf7f4" stroke="#5f6b7a" stroke-width="2.5"/>
+<text x="1485" y="180" text-anchor="middle" font-size="38" font-weight="700">Operational Reliability</text>
+<text x="1485" y="230" text-anchor="middle" font-size="26">Failure Modes • Fallback • Recovery</text>
+
+<rect x="1340" y="280" width="290" height="60" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1485" y="318" text-anchor="middle" font-size="25">Failure Modes</text>
+
+<rect x="1340" y="370" width="290" height="60" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1485" y="408" text-anchor="middle" font-size="25">Degraded Behavior</text>
+
+<rect x="1340" y="460" width="290" height="60" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1485" y="498" text-anchor="middle" font-size="25">Fallback Paths</text>
+
+<rect x="1340" y="550" width="290" height="60" rx="10" fill="white" stroke="#5f6b7a"/>
+<text x="1485" y="588" text-anchor="middle" font-size="25">Recovery Evidence</text>
+
+<rect x="180" y="775" width="1440" height="90" rx="18" fill="#dbe5ef" stroke="#5f6b7a" stroke-width="2"/>
+<text x="900" y="830" text-anchor="middle" font-size="30" font-weight="700">
+Controlled authority is not the same as reliable behavior.
+</text>
+</svg>

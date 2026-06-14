@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1120" viewBox="0 0 1200 1120" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M2,2 L10,6 L2,10 Z" fill="#374151"/>
+</marker>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:28px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.small{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.ai{fill:#EEF1F4;stroke:#5C6873;stroke-width:2.4}
+.control{fill:#F4F8FC;stroke:#47657E;stroke-width:3}
+.inner{fill:#FFFFFF;stroke:#47657E;stroke-width:2}
+.good{fill:#E8F2EC;stroke:#4E6F5D;stroke-width:2.4}
+.drift{fill:#FCF4F4;stroke:#8B5A5A;stroke-width:2.4}
+.arrow{stroke:#374151;stroke-width:3.2;fill:none;marker-end:url(#arrow)}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">AI-Accelerated Drift</text>
+
+<rect x="320" y="95" width="560" height="82" rx="18" class="ai"/>
+<text x="600" y="136" class="label">AI-Assisted Implementation</text>
+
+<path d="M600 177 L600 222" class="arrow"/>
+
+<!-- Enlarged control container: all six inner boxes fully contained with bottom breathing room -->
+<rect x="180" y="240" width="840" height="555" rx="24" class="control"/>
+<text x="600" y="285" class="label">Engineering Control</text>
+
+<rect x="270" y="325" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="351" class="small">Requirements</text>
+
+<rect x="270" y="400" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="426" class="small">Architecture</text>
+
+<rect x="270" y="475" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="501" class="small">ADRs</text>
+
+<rect x="270" y="550" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="576" class="small">Tests</text>
+
+<rect x="270" y="625" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="651" class="small">Reviews</text>
+
+<rect x="270" y="700" width="660" height="52" rx="12" class="inner"/>
+<text x="600" y="726" class="small">AI-Use Evidence</text>
+
+<!-- split outcomes: arrows originate from bottom edge of control container and stop before outcome boxes -->
+<path d="M510 795 L410 870" class="arrow"/>
+<path d="M690 795 L790 870" class="arrow"/>
+
+<rect x="110" y="890" width="420" height="92" rx="20" class="good"/>
+<text x="320" y="936" class="label">Controlled Evolution</text>
+
+<rect x="670" y="890" width="420" height="92" rx="20" class="drift"/>
+<text x="880" y="936" class="label">AI-Accelerated Drift</text>
+
+</svg>

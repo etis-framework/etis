@@ -1,0 +1,72 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1280" viewBox="0 0 1800 1175">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.box { fill:white; stroke:#444; stroke-width:2.5; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:2.5; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:2.5; }
+.hdr { font-size:42px; font-weight:bold; }
+.title { font-size:34px; font-weight:bold; }
+.body { font-size:29px; }
+</style>
+
+<rect x="110" y="35" width="1580" height="90" class="band"/>
+<text x="900" y="94" text-anchor="middle" class="hdr">Requirements Are Not Collected — They Are Refined</text>
+
+<rect x="55" y="260" width="315" height="300" class="box"/>
+<text x="212.5" y="315" text-anchor="middle" class="title">Stakeholder Input</text>
+<text x="212.5" y="380" text-anchor="middle" class="body">Requests</text>
+<text x="212.5" y="427" text-anchor="middle" class="body">Concerns</text>
+<text x="212.5" y="474" text-anchor="middle" class="body">Expectations</text>
+<text x="212.5" y="521" text-anchor="middle" class="body">Operational Needs</text>
+
+<rect x="425" y="235" width="315" height="350" class="box"/>
+<text x="582.5" y="295" text-anchor="middle" class="title">Questions and</text>
+<text x="582.5" y="338" text-anchor="middle" class="title">Ambiguities</text>
+<text x="582.5" y="410" text-anchor="middle" class="body">Undefined Terms</text>
+<text x="582.5" y="458" text-anchor="middle" class="body">Missing Context</text>
+<text x="582.5" y="506" text-anchor="middle" class="body">Conflicting Meanings</text>
+<text x="582.5" y="554" text-anchor="middle" class="body">Open Questions</text>
+
+<rect x="795" y="205" width="350" height="410" class="box"/>
+<text x="970" y="268" text-anchor="middle" class="title">Analysis and</text>
+<text x="970" y="311" text-anchor="middle" class="title">Evidence</text>
+<text x="970" y="390" text-anchor="middle" class="body">Assumptions</text>
+<text x="970" y="445" text-anchor="middle" class="body">Constraints</text>
+<text x="970" y="500" text-anchor="middle" class="body">Stakeholder Conflicts</text>
+<text x="970" y="555" text-anchor="middle" class="body">Governance Concerns</text>
+<text x="970" y="600" text-anchor="middle" class="body">Risk Ownership</text>
+
+<rect x="1200" y="235" width="315" height="350" class="box"/>
+<text x="1357.5" y="295" text-anchor="middle" class="title">Requirement</text>
+<text x="1357.5" y="338" text-anchor="middle" class="title">Refinement</text>
+<text x="1357.5" y="410" text-anchor="middle" class="body">Clarified Language</text>
+<text x="1357.5" y="458" text-anchor="middle" class="body">Acceptance Criteria</text>
+<text x="1357.5" y="506" text-anchor="middle" class="body">Traceable Decisions</text>
+<text x="1357.5" y="554" text-anchor="middle" class="body">Reviewable Statements</text>
+
+<rect x="1570" y="260" width="215" height="300" class="box"/>
+<text x="1677.5" y="315" text-anchor="middle" class="title">Reviewable</text>
+<text x="1677.5" y="358" text-anchor="middle" class="title">Requirements</text>
+<text x="1677.5" y="425" text-anchor="middle" class="body">Testable</text>
+<text x="1677.5" y="472" text-anchor="middle" class="body">Traceable</text>
+<text x="1677.5" y="519" text-anchor="middle" class="body">Governable</text>
+<text x="1677.5" y="566" text-anchor="middle" class="body">Review Ready</text>
+
+<line x1="370" y1="410" x2="425" y2="410" stroke="#444" stroke-width="3.5"/>
+<polygon points="425,410 411,403 411,417" fill="#444"/>
+<line x1="740" y1="410" x2="795" y2="410" stroke="#444" stroke-width="3.5"/>
+<polygon points="795,410 781,403 781,417" fill="#444"/>
+<line x1="1145" y1="410" x2="1200" y2="410" stroke="#444" stroke-width="3.5"/>
+<polygon points="1200,410 1186,403 1186,417" fill="#444"/>
+<line x1="1515" y1="410" x2="1570" y2="410" stroke="#444" stroke-width="3.5"/>
+<polygon points="1570,410 1556,403 1556,417" fill="#444"/>
+
+<rect x="360" y="720" width="1080" height="135" class="band"/>
+<text x="900" y="803" text-anchor="middle" class="title">Hidden Ambiguity Becomes Future Architecture</text>
+
+<rect x="125" y="945" width="1550" height="210" class="principle"/>
+<text x="900" y="1015" text-anchor="middle" class="title">GOVERNING PRINCIPLE</text>
+<text x="900" y="1080" text-anchor="middle" class="body">The Goal Is Not To Eliminate Uncertainty.</text>
+<text x="900" y="1130" text-anchor="middle" class="body">The Goal Is To Prevent Hidden Uncertainty From Becoming Accidental Architecture.</text>
+</svg>

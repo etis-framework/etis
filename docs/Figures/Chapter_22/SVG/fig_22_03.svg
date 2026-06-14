@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+<style>
+.pageTitle{font-family:Arial;font-size:42px;font-weight:bold;}
+.pageSub{font-family:Arial;font-size:27px;}
+.frameTitle{font-family:Arial;font-size:26px;font-weight:bold;}
+.boxTitle{font-family:Arial;font-size:30px;font-weight:bold;}
+.boxText{font-family:Arial;font-size:25px;}
+.outer{fill:white;stroke:#9aa8b4;stroke-width:2.2;}
+.demo{fill:#f7f4ef;stroke:#8a6d3b;stroke-width:2.5;}
+.evidence{fill:#e8f1fb;stroke:#2f5678;stroke-width:2.7;}
+.connector{fill:#f8fafc;stroke:#b7c2cc;stroke-width:2.3;}
+.principle{fill:#eef1f8;stroke:#52637c;stroke-width:2.3;}
+</style>
+
+<text x="800" y="54" text-anchor="middle" class="pageTitle">Demo Path vs Evidence Path</text>
+<text x="800" y="94" text-anchor="middle" class="pageSub">A demo must illustrate evidence, not replace it.</text>
+
+<rect x="70" y="112" width="1460" height="640" rx="18" class="outer"/>
+
+<text x="145" y="158" text-anchor="start" class="frameTitle">A successful walkthrough shows possibility. It does not prove readiness.</text>
+
+<!-- moved upward ~38px to eliminate dead space -->
+<rect x="130" y="210" width="640" height="260" rx="16" class="demo"/>
+<text x="450" y="254" text-anchor="middle" class="boxTitle">Demo Path</text>
+<text x="450" y="306" text-anchor="middle" class="boxText">selected scenario</text>
+<text x="450" y="338" text-anchor="middle" class="boxText">controlled data</text>
+<text x="450" y="370" text-anchor="middle" class="boxText">visible workflow</text>
+<text x="450" y="402" text-anchor="middle" class="boxText">shows possibility</text>
+
+<rect x="830" y="210" width="640" height="260" rx="16" class="evidence"/>
+<text x="1150" y="254" text-anchor="middle" class="boxTitle">Evidence Path</text>
+<text x="1150" y="306" text-anchor="middle" class="boxText">claim being demonstrated</text>
+<text x="1150" y="338" text-anchor="middle" class="boxText">supporting evidence</text>
+<text x="1150" y="370" text-anchor="middle" class="boxText">boundary statement</text>
+<text x="1150" y="402" text-anchor="middle" class="boxText">what the demo does not prove</text>
+
+<rect x="240" y="510" width="1120" height="82" rx="14" class="connector"/>
+<text x="800" y="546" text-anchor="middle" class="frameTitle">Disciplined release defense connects the two</text>
+<text x="800" y="575" text-anchor="middle" class="boxText">The demo illustrates a claim; repository evidence supports the claim.</text>
+
+<rect x="240" y="660" width="1120" height="46" rx="9" class="principle"/>
+<text x="800" y="691" text-anchor="middle" class="boxText">A demo path is not an evidence path. The two must be connected.</text>
+</svg>

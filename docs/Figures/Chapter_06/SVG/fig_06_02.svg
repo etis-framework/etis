@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1120" viewBox="0 0 1900 1120">
+<rect width="1900" height="1120" fill="white"/>
+
+<line x1="220" y1="211.0" x2="950" y2="425.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="520" y1="211.0" x2="950" y2="425.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="820" y1="211.0" x2="950" y2="425.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="1120" y1="211.0" x2="950" y2="425.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="1420" y1="211.0" x2="950" y2="425.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="220" y1="759.0" x2="950" y2="575.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="520" y1="759.0" x2="950" y2="575.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="820" y1="751.0" x2="950" y2="575.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="1120" y1="751.0" x2="950" y2="575.0" stroke="#7a8792" stroke-width="2"/>
+<line x1="1420" y1="751.0" x2="950" y2="575.0" stroke="#7a8792" stroke-width="2"/>
+<rect x="800.0" y="425.0" width="300" height="150" rx="18" fill="#eef4f8" stroke="#33424f" stroke-width="2.5"/>
+<text x="950" y="487" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" fill="#1f2933">Engineering</text>
+<text x="950" y="534" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" fill="#1f2933">Judgment</text>
+<rect x="102.5" y="119.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="220" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Correctness</text>
+<rect x="402.5" y="119.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="520" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Risk</text>
+<rect x="702.5" y="119.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="820" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Evidence</text>
+<rect x="1002.5" y="119.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="1120" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Tradeoffs</text>
+<rect x="1302.5" y="119.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="1420" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Governance</text>
+<rect x="102.5" y="759.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="220" y="814" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Observability</text>
+<rect x="402.5" y="759.0" width="235" height="92" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="520" y="814" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Recoverability</text>
+<rect x="702.5" y="751.0" width="235" height="108" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="820" y="798" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Operational</text>
+<text x="820" y="830" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Impact</text>
+<rect x="1002.5" y="751.0" width="235" height="108" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="1120" y="798" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">AI</text>
+<text x="1120" y="830" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Reliability</text>
+<rect x="1302.5" y="751.0" width="235" height="108" rx="10" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<text x="1420" y="798" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Human</text>
+<text x="1420" y="830" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" fill="#1f2933">Oversight</text>
+<text x="950.0" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="600" fill="#586672">structured evaluation dimensions</text>
+<rect x="390.0" y="940" width="1120" height="120" rx="12" fill="white" stroke="#2d4052" stroke-width="2.5"/>
+<text x="428.0" y="981" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2d4052">GOVERNANCE PRINCIPLE</text>
+<line x1="428.0" y1="996" x2="1472.0" y2="996" stroke="#9aa6b1"/>
+<text x="950.0" y="1032" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#1f2933">Engineering judgment is disciplined reasoning, not intuition alone.</text>
+</svg>

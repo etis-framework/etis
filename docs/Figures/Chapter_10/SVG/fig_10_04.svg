@@ -1,0 +1,103 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="3200" height="1700" viewBox="0 0 3200 1560">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:3.5; }
+.box { fill:white; stroke:#444; stroke-width:3.5; }
+.riskbox { fill:#fff8ef; stroke:#555; stroke-width:3.5; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:3.5; }
+.hdr { font-size:60px; font-weight:bold; }
+.title { font-size:46px; font-weight:bold; }
+.body { font-size:40px; }
+.smallbody { font-size:37px; }
+</style>
+
+<rect x="180" y="45" width="2840" height="120" class="band"/>
+<text x="1600" y="125" text-anchor="middle" class="hdr">Hidden Assumptions Rarely Stay Hidden</text>
+
+<!-- Main propagation chain: larger boxes, same font scale, split long phrases -->
+<rect x="90" y="300" width="420" height="340" class="riskbox"/>
+<text x="300" y="378" text-anchor="middle" class="title">Hidden</text>
+<text x="300" y="430" text-anchor="middle" class="title">Assumption</text>
+<text x="300" y="515" text-anchor="middle" class="smallbody">Undefined Urgency</text>
+<text x="300" y="570" text-anchor="middle" class="smallbody">Unknown Authority</text>
+<text x="300" y="625" text-anchor="middle" class="smallbody">Unverified Need</text>
+
+<rect x="590" y="300" width="420" height="340" class="box"/>
+<text x="800" y="378" text-anchor="middle" class="title">Architecture</text>
+<text x="800" y="430" text-anchor="middle" class="title">Decision</text>
+<text x="800" y="515" text-anchor="middle" class="smallbody">Routing Logic</text>
+<text x="800" y="570" text-anchor="middle" class="smallbody">Escalation Rules</text>
+<text x="800" y="625" text-anchor="middle" class="smallbody">Visibility Model</text>
+
+<rect x="1090" y="300" width="420" height="340" class="box"/>
+<text x="1300" y="378" text-anchor="middle" class="title">Implementation</text>
+<text x="1300" y="430" text-anchor="middle" class="title">Behavior</text>
+<text x="1300" y="515" text-anchor="middle" class="smallbody">Workflow Behavior</text>
+<text x="1300" y="570" text-anchor="middle" class="smallbody">Data Handling</text>
+<text x="1300" y="625" text-anchor="middle" class="smallbody">Notifications</text>
+
+<rect x="1590" y="300" width="420" height="340" class="box"/>
+<text x="1800" y="378" text-anchor="middle" class="title">Verification</text>
+<text x="1800" y="430" text-anchor="middle" class="title">Gap</text>
+<text x="1800" y="515" text-anchor="middle" class="smallbody">Missing Scenarios</text>
+<text x="1800" y="570" text-anchor="middle" class="smallbody">Incomplete Reviews</text>
+<text x="1800" y="625" text-anchor="middle" class="smallbody">Weak Criteria</text>
+
+<rect x="2090" y="300" width="420" height="340" class="box"/>
+<text x="2300" y="378" text-anchor="middle" class="title">Release</text>
+<text x="2300" y="430" text-anchor="middle" class="title">Surprise</text>
+<text x="2300" y="500" text-anchor="middle" class="smallbody">Unexpected</text>
+<text x="2300" y="545" text-anchor="middle" class="smallbody">Escalation</text>
+<text x="2300" y="590" text-anchor="middle" class="smallbody">Privacy Exposure</text>
+<text x="2300" y="635" text-anchor="middle" class="smallbody">Workflow Confusion</text>
+
+<rect x="2590" y="300" width="500" height="340" class="riskbox"/>
+<text x="2840" y="378" text-anchor="middle" class="title">Operational</text>
+<text x="2840" y="430" text-anchor="middle" class="title">Defect</text>
+<text x="2840" y="515" text-anchor="middle" class="smallbody">Misrouting</text>
+<text x="2840" y="570" text-anchor="middle" class="smallbody">Delayed Response</text>
+<text x="2840" y="625" text-anchor="middle" class="smallbody">Loss of Trust</text>
+
+<!-- Arrows with clearance -->
+<line x1="510" y1="470" x2="590" y2="470" stroke="#444" stroke-width="4.5"/>
+<polygon points="590,470 572,460 572,480" fill="#444"/>
+<line x1="1010" y1="470" x2="1090" y2="470" stroke="#444" stroke-width="4.5"/>
+<polygon points="1090,470 1072,460 1072,480" fill="#444"/>
+<line x1="1510" y1="470" x2="1590" y2="470" stroke="#444" stroke-width="4.5"/>
+<polygon points="1590,470 1572,460 1572,480" fill="#444"/>
+<line x1="2010" y1="470" x2="2090" y2="470" stroke="#444" stroke-width="4.5"/>
+<polygon points="2090,470 2072,460 2072,480" fill="#444"/>
+<line x1="2510" y1="470" x2="2590" y2="470" stroke="#444" stroke-width="4.5"/>
+<polygon points="2590,470 2572,460 2572,480" fill="#444"/>
+
+<!-- Anti-pattern band: larger cards and wrapped text -->
+<rect x="220" y="760" width="2760" height="330" class="band"/>
+<text x="1600" y="845" text-anchor="middle" class="title">Solution-First Engineering Accelerates Assumption Propagation</text>
+
+<rect x="310" y="915" width="420" height="120" class="box"/>
+<text x="520" y="965" text-anchor="middle" class="smallbody">Feature List</text>
+<text x="520" y="1010" text-anchor="middle" class="smallbody">Thinking</text>
+
+<rect x="810" y="915" width="420" height="120" class="box"/>
+<text x="1020" y="965" text-anchor="middle" class="smallbody">Stakeholder</text>
+<text x="1020" y="1010" text-anchor="middle" class="smallbody">Theater</text>
+
+<rect x="1310" y="915" width="420" height="120" class="box"/>
+<text x="1520" y="965" text-anchor="middle" class="smallbody">AI-Generated</text>
+<text x="1520" y="1010" text-anchor="middle" class="smallbody">Certainty</text>
+
+<rect x="1810" y="915" width="420" height="120" class="box"/>
+<text x="2020" y="965" text-anchor="middle" class="smallbody">Assumption</text>
+<text x="2020" y="1010" text-anchor="middle" class="smallbody">Blindness</text>
+
+<rect x="2390" y="915" width="460" height="120" class="box"/>
+<text x="2620" y="965" text-anchor="middle" class="smallbody">Governance-Late</text>
+<text x="2620" y="1010" text-anchor="middle" class="smallbody">Requirements</text>
+
+<!-- Governing principle with larger margin and text block clearance -->
+<rect x="210" y="1240" width="2780" height="300" class="principle"/>
+<text x="1600" y="1325" text-anchor="middle" class="title">GOVERNING PRINCIPLE</text>
+<text x="1600" y="1410" text-anchor="middle" class="body">The Professional Move Is Not To Build Faster.</text>
+<text x="1600" y="1475" text-anchor="middle" class="body">It Is To Expose Assumptions Before They Become Architecture.</text>
+</svg>

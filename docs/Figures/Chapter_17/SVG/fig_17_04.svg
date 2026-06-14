@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1090" viewBox="0 0 1200 1090" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M2,2 L10,6 L2,10 Z" fill="#374151"/>
+</marker>
+<style>
+.title{font-family:Arial,sans-serif;font-size:34px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.header{font-family:Arial,sans-serif;font-size:30px;font-weight:700;fill:#1F2933;text-anchor:middle}
+.label{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:#1F2933;text-anchor:middle;dominant-baseline:middle}
+.autoPanel{fill:#EEF4FA;stroke:#47657E;stroke-width:3}
+.autoBox{fill:#FFFFFF;stroke:#47657E;stroke-width:2}
+.humanPanel{fill:#F4F0E8;stroke:#6F5B3E;stroke-width:3}
+.humanBox{fill:#FFFFFF;stroke:#6F5B3E;stroke-width:2}
+.arrow{stroke:#374151;stroke-width:3.2;fill:none;marker-end:url(#arrow)}
+</style>
+</defs>
+
+<text x="600" y="55" class="title">CI/CD as Automated Evidence, Not Proof</text>
+
+<rect x="180" y="95" width="840" height="470" rx="24" class="autoPanel"/>
+<text x="600" y="140" class="header">Automated Evidence</text>
+
+<rect x="270" y="190" width="660" height="52" rx="12" class="autoBox"/>
+<text x="600" y="216" class="label">Tests</text>
+
+<rect x="270" y="260" width="660" height="52" rx="12" class="autoBox"/>
+<text x="600" y="286" class="label">Build Validation</text>
+
+<rect x="270" y="330" width="660" height="52" rx="12" class="autoBox"/>
+<text x="600" y="356" class="label">Static Analysis</text>
+
+<rect x="270" y="400" width="660" height="52" rx="12" class="autoBox"/>
+<text x="600" y="426" class="label">Dependency Checks</text>
+
+<rect x="270" y="470" width="660" height="52" rx="12" class="autoBox"/>
+<text x="600" y="496" class="label">Documentation Checks</text>
+
+<path d="M600 565 L600 625" class="arrow"/>
+
+<rect x="180" y="640" width="840" height="395" rx="24" class="humanPanel"/>
+<text x="600" y="685" class="header">Human Judgment Still Required</text>
+
+<rect x="270" y="735" width="660" height="52" rx="12" class="humanBox"/>
+<text x="600" y="761" class="label">ADR Compliance</text>
+
+<rect x="270" y="800" width="660" height="52" rx="12" class="humanBox"/>
+<text x="600" y="826" class="label">Authority Boundaries</text>
+
+<rect x="270" y="865" width="660" height="52" rx="12" class="humanBox"/>
+<text x="600" y="891" class="label">Context Controls</text>
+
+<rect x="270" y="930" width="660" height="52" rx="12" class="humanBox"/>
+<text x="600" y="956" class="label">Risk Assessment &amp; Acceptance Decision</text>
+
+</svg>

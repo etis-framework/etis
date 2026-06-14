@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+  <!-- 
+Figure 21.5 v1 Geometry Validation
+Canvas: 1600 x 920.
+Outer frame: x=70 y=112 w=1460 h=740; bottom y=852.
+Canvas bottom clearance: 68 px. Border-to-canvas clearance slightly generous but not inflated relative to title zone.
+Lowest meaningful child: principle box bottom y=818.
+Outer frame bottom clearance: 34 px. FG-023 compliant.
+Architecture: challenge lens / containment-register; zero arrows.
+Smallest font: 23 px, increased from prior drift.
+Bottom termination intentionally tighter than Figures 21.3/21.4.
+No four-box dense row in review domains; outcomes are short labels only.
+ -->
+  <defs>
+    <style>
+      .pageTitle { font-family: Arial, Helvetica, sans-serif; font-size: 42px; font-weight: 700; fill: #1f2f3d; }
+      .pageSub { font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: 400; fill: #3c4b57; }
+      .frameTitle { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; fill: #263845; }
+      .boxTitle { font-family: Arial, Helvetica, sans-serif; font-size: 27px; font-weight: 700; fill: #1f2f3d; }
+      .boxTitleSmall { font-family: Arial, Helvetica, sans-serif; font-size: 25px; font-weight: 700; fill: #1f2f3d; }
+      .boxText { font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: 400; fill: #2f3f4a; }
+      .boxTextSmall { font-family: Arial, Helvetica, sans-serif; font-size: 23px; font-weight: 400; fill: #2f3f4a; }
+      .outer { fill: #ffffff; stroke: #9aa8b4; stroke-width: 2.2; }
+      .layer { fill: #f8fafc; stroke: #b7c2cc; stroke-width: 2.2; }
+      .center { fill: #e8f1fb; stroke: #2f5678; stroke-width: 3.2; }
+      .domain { fill: #eef4fb; stroke: #3f637d; stroke-width: 2.4; }
+      .challenge { fill: #f5f0e6; stroke: #8a6d3b; stroke-width: 2.3; }
+      .outcome { fill: #f6f6f3; stroke: #6b6b60; stroke-width: 2.3; }
+      .principle { fill: #eef1f8; stroke: #52637c; stroke-width: 2.3; }
+    </style>
+  </defs>
+
+  <text x="800" y="54" text-anchor="middle" class="pageTitle">Release Readiness Review Board</text>
+  <text x="800" y="94" text-anchor="middle" class="pageSub">Confidence must survive evidence-based challenge before release.</text>
+
+  <rect x="70" y="112" width="1460" height="740" rx="18" class="outer"/>
+
+  <rect x="360" y="145" width="880" height="96" rx="16" class="center"/>
+  <text x="800" y="182" text-anchor="middle" class="boxTitle">Structured Professional Challenge</text>
+  <text x="800" y="216" text-anchor="middle" class="boxText">challenge scope • challenge evidence • challenge assumptions</text>
+
+  <rect x="115" y="276" width="1370" height="250" rx="14" class="layer"/>
+  <text x="145" y="312" text-anchor="start" class="frameTitle">Review domains</text>
+
+  <rect x="145" y="342" width="400" height="152" rx="12" class="domain"/>
+  <text x="345" y="378" text-anchor="middle" class="boxTitleSmall">Release Scope</text>
+  <text x="345" y="414" text-anchor="middle" class="boxTextSmall">What is included?</text>
+<text x="345" y="441" text-anchor="middle" class="boxTextSmall">What is excluded?</text>
+<text x="345" y="468" text-anchor="middle" class="boxTextSmall">What restrictions apply?</text>
+
+  <rect x="600" y="342" width="400" height="152" rx="12" class="domain"/>
+  <text x="800" y="378" text-anchor="middle" class="boxTitleSmall">Evidence Review</text>
+  <text x="800" y="414" text-anchor="middle" class="boxTextSmall">Requirements coverage?</text>
+<text x="800" y="441" text-anchor="middle" class="boxTextSmall">Tests and evaluation?</text>
+<text x="800" y="468" text-anchor="middle" class="boxTextSmall">Defects and risks?</text>
+
+  <rect x="1055" y="342" width="400" height="152" rx="12" class="domain"/>
+  <text x="1255" y="378" text-anchor="middle" class="boxTitleSmall">AI &amp; Governance Review</text>
+  <text x="1255" y="414" text-anchor="middle" class="boxTextSmall">Human oversight?</text>
+<text x="1255" y="441" text-anchor="middle" class="boxTextSmall">ADR compliance?</text>
+<text x="1255" y="468" text-anchor="middle" class="boxTextSmall">Approval authority?</text>
+
+  <rect x="115" y="558" width="1370" height="92" rx="14" class="challenge"/>
+  <text x="145" y="594" text-anchor="start" class="frameTitle">The board slows confidence</text>
+  <text x="800" y="630" text-anchor="middle" class="boxText">Team optimism • sponsor pressure • AI polish • desire for closure</text>
+
+  <rect x="115" y="682" width="1370" height="72" rx="14" class="layer"/>
+  <text x="145" y="727" text-anchor="start" class="frameTitle">Outcomes</text>
+
+  <rect x="365" y="697" width="155" height="42" rx="9" class="outcome"/>
+  <text x="442.5" y="725" text-anchor="middle" class="boxTitleSmall">Go</text>
+
+  <rect x="575" y="697" width="255" height="42" rx="9" class="outcome"/>
+  <text x="702.5" y="725" text-anchor="middle" class="boxTitleSmall">Conditional Go</text>
+
+  <rect x="885" y="697" width="175" height="42" rx="9" class="outcome"/>
+  <text x="972.5" y="725" text-anchor="middle" class="boxTitleSmall">No-Go</text>
+
+  <rect x="1115" y="697" width="270" height="42" rx="9" class="outcome"/>
+  <text x="1250" y="725" text-anchor="middle" class="boxTitleSmall">Required Actions</text>
+
+  <rect x="325" y="774" width="950" height="44" rx="9" class="principle"/>
+  <text x="800" y="803" text-anchor="middle" class="boxTextSmall">The purpose is not to make release hard. It is to make release defensible.</text>
+</svg>

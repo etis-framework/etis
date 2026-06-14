@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222" />
+    </marker>
+    <style>
+      .label{font-family:Arial, Helvetica, sans-serif; fill:#111;}
+      .small{font-size:20px;}
+      .body{font-size:22px;}
+      .title{font-size:26px; font-weight:700;}
+      .section{font-size:24px; font-weight:700;}
+      .box{fill:#ffffff; stroke:#222; stroke-width:2;}
+      .soft{fill:#eef4fb; stroke:#222; stroke-width:2;}
+      .warm{fill:#fbf5e8; stroke:#222; stroke-width:2;}
+      .green{fill:#eef7ee; stroke:#222; stroke-width:2;}
+      .line{stroke:#222; stroke-width:2.4; fill:none; marker-end:url(#arrow);}
+      .plainline{stroke:#222; stroke-width:2; fill:none;}
+    </style>
+  </defs>
+
+  <rect x="60" y="45" width="1280" height="150" class="soft"/>
+  <text x="700" y="82" text-anchor="middle" class="label section">Engineering and Operational Evidence Sources</text>
+
+  <rect x="95" y="110" width="210" height="62" class="box"/>
+  <text x="200" y="137" text-anchor="middle" class="label body" font-weight="700">Requirements</text>
+  <text x="200" y="162" text-anchor="middle" class="label small">intent and rules</text>
+
+  <rect x="330" y="110" width="210" height="62" class="box"/>
+  <text x="435" y="137" text-anchor="middle" class="label body" font-weight="700">Architecture</text>
+  <text x="435" y="162" text-anchor="middle" class="label small">ADRs and design</text>
+
+  <rect x="565" y="110" width="210" height="62" class="box"/>
+  <text x="670" y="137" text-anchor="middle" class="label body" font-weight="700">Construction</text>
+  <text x="670" y="162" text-anchor="middle" class="label small">issues, PRs, tests</text>
+
+  <rect x="800" y="110" width="210" height="62" class="box"/>
+  <text x="905" y="137" text-anchor="middle" class="label body" font-weight="700">Operations</text>
+  <text x="905" y="162" text-anchor="middle" class="label small">runtime and incidents</text>
+
+  <rect x="1035" y="110" width="270" height="62" class="box"/>
+  <text x="1170" y="137" text-anchor="middle" class="label body" font-weight="700">Governance and AI</text>
+  <text x="1170" y="162" text-anchor="middle" class="label small">context, oversight, review</text>
+
+  <path d="M200 172 L200 240" class="line"/>
+  <path d="M435 172 L435 240" class="line"/>
+  <path d="M670 172 L670 240" class="line"/>
+  <path d="M905 172 L905 240" class="line"/>
+  <path d="M1170 172 L1170 240" class="line"/>
+
+  <rect x="95" y="240" width="1210" height="300" class="green"/>
+  <text x="700" y="286" text-anchor="middle" class="label title">Repository-Centered Operational Memory Layer</text>
+  <text x="700" y="320" text-anchor="middle" class="label body">Evidence becomes operational memory only when it is connected, current, reviewable, and owned.</text>
+
+  <rect x="135" y="360" width="210" height="112" class="box"/>
+  <text x="240" y="392" text-anchor="middle" class="label body" font-weight="700">Release</text>
+  <text x="240" y="420" text-anchor="middle" class="label small">records, limits,</text>
+  <text x="240" y="446" text-anchor="middle" class="label small">approvals, rollback</text>
+
+  <rect x="372" y="360" width="210" height="112" class="box"/>
+  <text x="477" y="392" text-anchor="middle" class="label body" font-weight="700">Observability</text>
+  <text x="477" y="420" text-anchor="middle" class="label small">logs, metrics,</text>
+  <text x="477" y="446" text-anchor="middle" class="label small">traces, dashboards</text>
+
+  <rect x="609" y="360" width="210" height="112" class="box"/>
+  <text x="714" y="392" text-anchor="middle" class="label body" font-weight="700">Incidents</text>
+  <text x="714" y="420" text-anchor="middle" class="label small">timelines, impact,</text>
+  <text x="714" y="446" text-anchor="middle" class="label small">postmortems</text>
+
+  <rect x="846" y="360" width="210" height="112" class="box"/>
+  <text x="951" y="392" text-anchor="middle" class="label body" font-weight="700">Runbooks</text>
+  <text x="951" y="420" text-anchor="middle" class="label small">procedures, paths,</text>
+  <text x="951" y="446" text-anchor="middle" class="label small">escalations</text>
+
+  <rect x="1083" y="360" width="185" height="112" class="box"/>
+  <text x="1175" y="392" text-anchor="middle" class="label body" font-weight="700">Context</text>
+  <text x="1175" y="420" text-anchor="middle" class="label small">sources, freshness,</text>
+  <text x="1175" y="446" text-anchor="middle" class="label small">authority</text>
+
+  <text x="700" y="526" text-anchor="middle" class="label small">versioned • linked • traceable • searchable • governed • stewarded</text>
+
+  <path d="M360 540 L360 600" class="line"/>
+  <path d="M590 540 L590 600" class="line"/>
+  <path d="M820 540 L820 600" class="line"/>
+  <path d="M1050 540 L1050 600" class="line"/>
+
+  <rect x="120" y="600" width="1160" height="120" class="soft"/>
+  <text x="700" y="638" text-anchor="middle" class="label section">Accountable Users of Repository Memory</text>
+
+  <rect x="165" y="665" width="210" height="42" class="box"/>
+  <text x="270" y="693" text-anchor="middle" class="label body" font-weight="700">Engineers</text>
+
+  <rect x="430" y="665" width="210" height="42" class="box"/>
+  <text x="535" y="693" text-anchor="middle" class="label body" font-weight="700">Operators</text>
+
+  <rect x="695" y="665" width="210" height="42" class="box"/>
+  <text x="800" y="693" text-anchor="middle" class="label body" font-weight="700">Review Boards</text>
+
+  <rect x="960" y="665" width="275" height="42" class="box"/>
+  <text x="1098" y="693" text-anchor="middle" class="label body" font-weight="700">Governed AI Workflows</text>
+
+  <rect x="155" y="750" width="1090" height="52" class="warm"/>
+  <text x="700" y="782" text-anchor="middle" class="label body" font-weight="700">The repository is trust infrastructure when evidence can be found, trusted, used, and maintained.</text>
+</svg>

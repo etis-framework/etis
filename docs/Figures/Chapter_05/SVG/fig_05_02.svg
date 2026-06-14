@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" viewBox="0 0 1800 1000">
+<rect width="100%" height="100%" fill="white"/>
+
+<rect x="120" y="90" width="450" height="420" rx="16" fill="white" stroke="#56677d" stroke-width="3"/>
+<text x="345" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700">Artifact Production</text>
+<text x="345" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Requirements</text>
+<text x="345" y="255" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Code</text>
+<text x="345" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Tests</text>
+<text x="345" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Documentation</text>
+<text x="345" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Issues</text>
+<text x="345" y="435" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Release Notes</text>
+
+<rect x="170" y="560" width="350" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="345" y="610" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">AI Assistance</text>
+
+<rect x="130" y="690" width="430" height="90" rx="12" fill="#f4f6f8" stroke="#56677d" stroke-width="2.5"/>
+<text x="345" y="745" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Lower Production Cost</text>
+
+<line x1="620" y1="420" x2="1160" y2="420" stroke="#7a8795" stroke-width="5"/>
+<polygon points="1160,420 1115,400 1115,440" fill="#7a8795"/>
+<text x="890" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700">AI Changes the Bottleneck</text>
+
+<rect x="1230" y="60" width="450" height="500" rx="16" fill="#eef3f8" stroke="#3f5368" stroke-width="3"/>
+<text x="1455" y="115" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700">Verification Burden</text>
+<text x="1455" y="190" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Review</text>
+<text x="1455" y="240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Verification</text>
+<text x="1455" y="290" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Traceability</text>
+<text x="1455" y="340" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Governance</text>
+<text x="1455" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Operational Evidence</text>
+<text x="1455" y="440" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28">Human Approval</text>
+
+<rect x="1280" y="610" width="350" height="80" rx="12" fill="#eef3f8" stroke="#3f5368" stroke-width="2.5"/>
+<text x="1455" y="660" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Trustworthiness Controls</text>
+
+<rect x="1235" y="740" width="440" height="90" rx="12" fill="#f4f6f8" stroke="#56677d" stroke-width="2.5"/>
+<text x="1455" y="795" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Professional Judgment</text>
+
+<rect x="470" y="895" width="860" height="80" rx="14" fill="white" stroke="#56677d" stroke-width="3"/>
+<text x="900" y="945" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">The Bottleneck Moves from Production to Judgment</text>
+
+</svg>

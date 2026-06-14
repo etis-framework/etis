@@ -1,0 +1,64 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="5200" height="3200" viewBox="0 0 5200 3200">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill:#222; }
+.band { fill:#eef3f8; stroke:#444; stroke-width:6; }
+.context { fill:#f8fbfd; stroke:#333; stroke-width:6; }
+.ai { fill:#f5f1fb; stroke:#444; stroke-width:6; }
+.output { fill:#f4f7f9; stroke:#444; stroke-width:6; }
+.weak { fill:#fff8ef; stroke:#555; stroke-width:6; }
+.strong { fill:#f2f7f3; stroke:#555; stroke-width:6; }
+.principle { fill:#f7f7f7; stroke:#444; stroke-width:6; }
+.hdr { font-size:130px; font-weight:bold; }
+.title { font-size:105px; font-weight:bold; }
+.small { font-size:84px; }
+</style>
+
+<rect x="220" y="60" width="4760" height="260" class="band"/>
+<text x="2600" y="225" text-anchor="middle" class="hdr">Context Shapes Output Before Review Begins</text>
+
+<rect x="120" y="450" width="1700" height="1380" class="context"/>
+<text x="970" y="630" text-anchor="middle" class="title">Context Package</text>
+<text x="970" y="860" text-anchor="middle" class="small">Stakeholder Evidence</text>
+<text x="970" y="1010" text-anchor="middle" class="small">Requirements Index</text>
+<text x="970" y="1160" text-anchor="middle" class="small">Constraints Register</text>
+<text x="970" y="1310" text-anchor="middle" class="small">Assumptions Log</text>
+<text x="970" y="1460" text-anchor="middle" class="small">Governance Rules</text>
+<text x="970" y="1610" text-anchor="middle" class="small">Open Questions</text>
+<text x="970" y="1760" text-anchor="middle" class="small">Terminology Definitions</text>
+
+<rect x="1900" y="650" width="1400" height="980" class="ai"/>
+<text x="2600" y="870" text-anchor="middle" class="title">AI-Assisted</text>
+<text x="2600" y="995" text-anchor="middle" class="title">Analysis</text>
+<text x="2600" y="1260" text-anchor="middle" class="small">Summarization</text>
+<text x="2600" y="1420" text-anchor="middle" class="small">Organization</text>
+<text x="2600" y="1580" text-anchor="middle" class="small">Drafting</text>
+
+<rect x="3380" y="450" width="1700" height="1380" class="output"/>
+<text x="4230" y="630" text-anchor="middle" class="title">Candidate Requirements</text>
+<text x="4230" y="755" text-anchor="middle" class="title">Output</text>
+<text x="4230" y="1030" text-anchor="middle" class="small">Draft Requirements</text>
+<text x="4230" y="1190" text-anchor="middle" class="small">Proposed User Stories</text>
+<text x="4230" y="1350" text-anchor="middle" class="small">Suggested Acceptance Criteria</text>
+<text x="4230" y="1620" text-anchor="middle" class="small">Still Requires Review</text>
+
+<line x1="1820" y1="1140" x2="1900" y2="1140" stroke="#555" stroke-width="8"/>
+<line x1="3300" y1="1140" x2="3380" y2="1140" stroke="#555" stroke-width="8"/>
+
+<rect x="220" y="2020" width="2200" height="900" class="weak"/>
+<text x="1320" y="2210" text-anchor="middle" class="title">Weak Context</text>
+<text x="1320" y="2440" text-anchor="middle" class="small">Missing Definitions</text>
+<text x="1320" y="2600" text-anchor="middle" class="small">Missing Constraints</text>
+<text x="1320" y="2760" text-anchor="middle" class="small">Missing Authority</text>
+<text x="1320" y="2870" text-anchor="middle" class="small">Boundaries</text>
+
+<rect x="2780" y="2020" width="2200" height="900" class="strong"/>
+<text x="3880" y="2210" text-anchor="middle" class="title">Strong Context</text>
+<text x="3880" y="2440" text-anchor="middle" class="small">Preserved Evidence</text>
+<text x="3880" y="2600" text-anchor="middle" class="small">Defined Terms</text>
+<text x="3880" y="2760" text-anchor="middle" class="small">Governance</text>
+<text x="3880" y="2870" text-anchor="middle" class="small">Awareness</text>
+
+<rect x="260" y="3000" width="4680" height="160" class="principle"/>
+<text x="2600" y="3110" text-anchor="middle" class="hdr">Context Controls What AI Can Responsibly Produce</text>
+</svg>

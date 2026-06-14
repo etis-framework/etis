@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1050" viewBox="0 0 2100 1050">
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+    <path d="M 0 0 L 12 6 L 0 12 z" fill="#25313b"/>
+  </marker>
+</defs>
+<rect width="2100" height="1050" fill="white"/>
+
+<rect x="100" y="115" width="340" height="455" rx="14" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<rect x="100" y="115" width="340" height="118" rx="14" fill="none" stroke="#4a5864" stroke-width="0"/>
+<text x="270.0" y="170.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Low-Risk</text>
+<text x="270.0" y="204.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Assistance</text>
+<line x1="124" y1="240" x2="416" y2="240" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="270.0" y="283" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Typical examples</text>
+<text x="270.0" y="328.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Documentation</text>
+<text x="270.0" y="362.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Ideas</text>
+<text x="270.0" y="396.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Draft Content</text>
+<line x1="124" y1="445" x2="416" y2="445" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="270.0" y="487" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Required oversight</text>
+<text x="270.0" y="546.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1f2933">Light Review</text>
+<rect x="485" y="115" width="340" height="455" rx="14" fill="#f8fafb" stroke="#4a5864" stroke-width="2"/>
+<rect x="485" y="115" width="340" height="118" rx="14" fill="none" stroke="#4a5864" stroke-width="0"/>
+<text x="655.0" y="170.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Integrated</text>
+<text x="655.0" y="204.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Work</text>
+<line x1="509" y1="240" x2="801" y2="240" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="655.0" y="283" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Typical examples</text>
+<text x="655.0" y="328.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Code</text>
+<text x="655.0" y="362.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Tests</text>
+<text x="655.0" y="396.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Workflow Logic</text>
+<line x1="509" y1="445" x2="801" y2="445" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="655.0" y="487" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Required oversight</text>
+<text x="655.0" y="546.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1f2933">Structured Review</text>
+<rect x="870" y="115" width="340" height="455" rx="14" fill="#fbf7e8" stroke="#4a5864" stroke-width="2"/>
+<rect x="870" y="115" width="340" height="118" rx="14" fill="none" stroke="#4a5864" stroke-width="0"/>
+<text x="1040.0" y="170.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Operational</text>
+<text x="1040.0" y="204.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Behavior</text>
+<line x1="894" y1="240" x2="1186" y2="240" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="1040.0" y="283" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Typical examples</text>
+<text x="1040.0" y="328.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Routing</text>
+<text x="1040.0" y="362.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Notifications</text>
+<text x="1040.0" y="396.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Recommendations</text>
+<line x1="894" y1="445" x2="1186" y2="445" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="1040.0" y="487" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Required oversight</text>
+<text x="1040.0" y="546.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1f2933">Authority Review</text>
+<rect x="1255" y="115" width="340" height="455" rx="14" fill="#fbf7e8" stroke="#4a5864" stroke-width="2"/>
+<rect x="1255" y="115" width="340" height="118" rx="14" fill="none" stroke="#4a5864" stroke-width="0"/>
+<text x="1425.0" y="170.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">State-Changing</text>
+<text x="1425.0" y="204.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Behavior</text>
+<line x1="1279" y1="240" x2="1571" y2="240" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="1425.0" y="283" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Typical examples</text>
+<text x="1425.0" y="328.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Approvals</text>
+<text x="1425.0" y="362.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Execution</text>
+<text x="1425.0" y="396.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Automation</text>
+<line x1="1279" y1="445" x2="1571" y2="445" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="1425.0" y="487" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Required oversight</text>
+<text x="1425.0" y="546.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1f2933">Formal Approval</text>
+<rect x="1640" y="115" width="340" height="455" rx="14" fill="#f7f2f2" stroke="#4a5864" stroke-width="2"/>
+<rect x="1640" y="115" width="340" height="118" rx="14" fill="none" stroke="#4a5864" stroke-width="0"/>
+<text x="1810.0" y="153.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Agentic /</text>
+<text x="1810.0" y="187.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Autonomous</text>
+<text x="1810.0" y="221.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#1f2933">Action</text>
+<line x1="1664" y1="240" x2="1956" y2="240" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="1810.0" y="283" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Typical examples</text>
+<text x="1810.0" y="345.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Cross-System Action</text>
+<text x="1810.0" y="379.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#1f2933">Delegated Decisions</text>
+<line x1="1664" y1="445" x2="1956" y2="445" stroke="#9aa6b1" stroke-width="1.2"/>
+<text x="1810.0" y="487" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#586672">Required oversight</text>
+<text x="1810.0" y="546.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#1f2933">Highest Governance</text>
+<line x1="160" y1="660" x2="1940" y2="660" stroke="#25313b" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="1050.0" y="636" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#1f2933">Increasing Oversight Depth</text>
+<rect x="244.0" y="735" width="300" height="80" rx="10" fill="#ffffff" stroke="#4a5864" stroke-width="2"/>
+<text x="394.0" y="785" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">Risk</text>
+<rect x="572.0" y="735" width="300" height="80" rx="10" fill="#ffffff" stroke="#4a5864" stroke-width="2"/>
+<text x="722.0" y="785" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">Authority</text>
+<rect x="900.0" y="735" width="300" height="80" rx="10" fill="#ffffff" stroke="#4a5864" stroke-width="2"/>
+<text x="1050.0" y="785" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">Coupling</text>
+<rect x="1228.0" y="735" width="300" height="80" rx="10" fill="#ffffff" stroke="#4a5864" stroke-width="2"/>
+<text x="1378.0" y="785" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">Irreversibility</text>
+<rect x="1556.0" y="735" width="300" height="80" rx="10" fill="#ffffff" stroke="#4a5864" stroke-width="2"/>
+<text x="1706.0" y="785" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#1f2933">Consequence</text>
+<rect x="470.0" y="880" width="1160" height="115" rx="12" fill="white" stroke="#2d4052" stroke-width="2.5"/>
+<text x="508.0" y="919" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#2d4052">GOVERNANCE PRINCIPLE</text>
+<line x1="508.0" y1="933" x2="1592.0" y2="933" stroke="#9aa6b1"/>
+<text x="1050.0" y="968" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#1f2933">Oversight depth should increase with operational consequence.</text>
+</svg>

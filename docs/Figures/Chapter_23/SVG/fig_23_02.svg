@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+ <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+  <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+ </marker>
+ <filter id="softShadow" x="-5%" y="-5%" width="110%" height="110%">
+  <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.10"/>
+ </filter>
+</defs>
+
+<style>
+.domain{fill:#f8fafc;stroke:#475569;stroke-width:2.2;}
+.domain2{fill:#f5f7fb;stroke:#475569;stroke-width:2.2;}
+.card{fill:#ffffff;stroke:#64748b;stroke-width:1.8;filter:url(#softShadow);}
+.cardblue{fill:#eef4fb;stroke:#50657d;stroke-width:1.8;filter:url(#softShadow);}
+.cardgreen{fill:#eef7f0;stroke:#4f7159;stroke-width:1.8;filter:url(#softShadow);}
+.heading{font-family:Arial;font-size:25px;font-weight:700;fill:#1e293b;}
+.label{font-family:Arial;font-size:24px;font-weight:700;fill:#1e293b;}
+.body{font-family:Arial;font-size:21px;fill:#334155;}
+.note{font-family:Arial;font-size:23px;font-style:italic;font-weight:600;fill:#334155;}
+.arrow{stroke:#334155;stroke-width:2.4;fill:none;marker-end:url(#arrow);}
+</style>
+
+<rect x="70" y="40" width="1060" height="180" class="domain"/>
+<text x="600" y="82" text-anchor="middle" class="heading">Operational facts establish what must be understood</text>
+
+<rect x="120" y="118" width="250" height="76" class="cardblue"/>
+<text x="245" y="150" text-anchor="middle" class="label">Facts</text>
+<text x="245" y="178" text-anchor="middle" class="body">what happened</text>
+
+<rect x="475" y="118" width="250" height="76" class="cardblue"/>
+<text x="600" y="150" text-anchor="middle" class="label">Impact</text>
+<text x="600" y="178" text-anchor="middle" class="body">who and what changed</text>
+
+<rect x="830" y="118" width="250" height="76" class="cardblue"/>
+<text x="955" y="150" text-anchor="middle" class="label">Missing Evidence</text>
+<text x="955" y="178" text-anchor="middle" class="body">what cannot yet be proven</text>
+
+<path d="M370 156 L465 156" class="arrow"/>
+<path d="M725 156 L820 156" class="arrow"/>
+
+<path d="M600 220 L600 280" class="arrow"/>
+
+<rect x="70" y="280" width="1060" height="150" class="domain2"/>
+<text x="600" y="322" text-anchor="middle" class="heading">Learning examines conditions rather than searching for a single cause</text>
+
+<rect x="220" y="350" width="320" height="70" class="card"/>
+<text x="380" y="380" text-anchor="middle" class="label">Contributing Conditions</text>
+<text x="380" y="406" text-anchor="middle" class="body">assumptions • context • workflow</text>
+
+<rect x="660" y="350" width="220" height="70" class="card"/>
+<text x="770" y="380" text-anchor="middle" class="label">Learning</text>
+<text x="770" y="406" text-anchor="middle" class="body">what must change</text>
+
+<path d="M540 385 L650 385" class="arrow"/>
+
+<path d="M600 430 L600 490" class="arrow"/>
+
+<rect x="70" y="490" width="1060" height="150" class="domain"/>
+<text x="600" y="530" text-anchor="middle" class="heading">Learning becomes accountable engineering improvement</text>
+
+<rect x="120" y="555" width="250" height="70" class="card"/>
+<text x="245" y="585" text-anchor="middle" class="label">Corrective Action</text>
+<text x="245" y="611" text-anchor="middle" class="body">specific improvements</text>
+
+<rect x="475" y="555" width="250" height="70" class="card"/>
+<text x="600" y="585" text-anchor="middle" class="label">Owner</text>
+<text x="600" y="611" text-anchor="middle" class="body">accountability</text>
+
+<rect x="830" y="555" width="250" height="70" class="cardgreen"/>
+<text x="955" y="585" text-anchor="middle" class="label">Follow-Up Evidence</text>
+<text x="955" y="611" text-anchor="middle" class="body">proof improvement worked</text>
+
+<path d="M370 590 L465 590" class="arrow"/>
+<path d="M725 590 L820 590" class="arrow"/>
+
+<text x="600" y="690" text-anchor="middle" class="note">Learning is not complete until corrective action produces follow-up evidence.</text>
+</svg>

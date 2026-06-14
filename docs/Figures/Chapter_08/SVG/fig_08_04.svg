@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1255" viewBox="0 220 2400 1255">
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M2,2 L10,6 L2,10 Z" fill="#667085"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="2400" height="1650" fill="#ffffff"/>
+
+<rect x="85" y="470" width="500" height="430" rx="24" fill="#f4f8fd" stroke="#1e3a5f" stroke-width="3"/>
+<text x="335.0" y="552" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:36px;font-weight:700;fill:#1e3a5f;">
+<tspan x="335.0" dy="0">Work Item</tspan>
+<tspan x="335.0" dy="39.44px">Ready for Completion</tspan>
+</text>
+<line x1="155" y1="622" x2="515" y2="622" stroke="#94a3b8" stroke-width="3"/>
+<circle cx="143" cy="685" r="6.5" fill="#1e3a5f"/>
+<text x="175" y="695" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="175" dy="0">Requirement implemented</tspan>
+</text>
+<circle cx="143" cy="741" r="6.5" fill="#1e3a5f"/>
+<text x="175" y="751" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="175" dy="0">Feature updated</tspan>
+</text>
+<circle cx="143" cy="797" r="6.5" fill="#1e3a5f"/>
+<text x="175" y="807" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="175" dy="0">Defect corrected</tspan>
+</text>
+<circle cx="143" cy="853" r="6.5" fill="#1e3a5f"/>
+<text x="175" y="863" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="175" dy="0">AI-assisted artifact</tspan>
+</text>
+<rect x="700" y="300" width="1000" height="760" rx="28" fill="#f8fafc" stroke="#17324d" stroke-width="4"/>
+<rect x="750" y="335" width="900" height="108" rx="18" fill="#17324d" stroke="#17324d" stroke-width="2"/>
+<text x="1200.0" y="382" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:40px;font-weight:700;fill:#ffffff;">
+<tspan x="1200.0" dy="0">Definition of Done</tspan>
+</text>
+<text x="1200.0" y="428" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:36px;font-weight:700;fill:#ffffff;">
+<tspan x="1200.0" dy="0">Evidence Gate</tspan>
+</text>
+<text x="1200.0" y="515" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:34px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">Completion must pass through</tspan>
+<tspan x="1200.0" dy="39.04px">appropriate evidence.</tspan>
+</text>
+<line x1="810" y1="578" x2="1590" y2="578" stroke="#94a3b8" stroke-width="3"/>
+<rect x="775" y="630" width="280" height="150" rx="18" fill="#f4f8fd" stroke="#1e3a5f" stroke-width="3"/>
+<text x="915.0" y="672" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:29px;font-weight:700;fill:#1e3a5f;">
+<tspan x="915.0" dy="0">Traceability</tspan>
+</text>
+<line x1="807" y1="690" x2="1023" y2="690" stroke="#cbd5e1" stroke-width="2"/>
+<text x="915.0" y="726" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="915.0" dy="0">Issue linked</tspan>
+</text>
+<text x="915.0" y="756" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="915.0" dy="0">Criteria satisfied</tspan>
+</text>
+<rect x="1060" y="630" width="280" height="150" rx="18" fill="#f5faf7" stroke="#2e5b46" stroke-width="3"/>
+<text x="1200.0" y="672" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:29px;font-weight:700;fill:#2e5b46;">
+<tspan x="1200.0" dy="0">Verification</tspan>
+</text>
+<line x1="1092" y1="690" x2="1308" y2="690" stroke="#cbd5e1" stroke-width="2"/>
+<text x="1200.0" y="726" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1200.0" dy="0">Tests completed</tspan>
+</text>
+<text x="1200.0" y="756" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1200.0" dy="0">Results recorded</tspan>
+</text>
+<rect x="1345" y="630" width="280" height="150" rx="18" fill="#f7f6fb" stroke="#473b71" stroke-width="3"/>
+<text x="1485.0" y="672" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:29px;font-weight:700;fill:#473b71;">
+<tspan x="1485.0" dy="0">Review</tspan>
+</text>
+<line x1="1377" y1="690" x2="1593" y2="690" stroke="#cbd5e1" stroke-width="2"/>
+<text x="1485.0" y="726" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1485.0" dy="0">Review completed</tspan>
+</text>
+<text x="1485.0" y="756" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1485.0" dy="0">Feedback addressed</tspan>
+</text>
+<rect x="915" y="835" width="280" height="150" rx="18" fill="#f7f8fa" stroke="#3f4a5a" stroke-width="3"/>
+<text x="1055.0" y="877" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:29px;font-weight:700;fill:#3f4a5a;">
+<tspan x="1055.0" dy="0">Documentation</tspan>
+</text>
+<line x1="947" y1="895" x2="1163" y2="895" stroke="#cbd5e1" stroke-width="2"/>
+<text x="1055.0" y="931" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1055.0" dy="0">Docs updated</tspan>
+</text>
+<text x="1055.0" y="961" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1055.0" dy="0">Limits recorded</tspan>
+</text>
+<rect x="1205" y="835" width="280" height="150" rx="18" fill="#fbfaf2" stroke="#66521f" stroke-width="3"/>
+<text x="1345.0" y="877" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:29px;font-weight:700;fill:#66521f;">
+<tspan x="1345.0" dy="0">Governance</tspan>
+</text>
+<line x1="1237" y1="895" x2="1453" y2="895" stroke="#cbd5e1" stroke-width="2"/>
+<text x="1345.0" y="931" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1345.0" dy="0">AI use disclosed</tspan>
+</text>
+<text x="1345.0" y="961" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:27px;font-weight:600;fill:#172033;">
+<tspan x="1345.0" dy="0">Risk updated</tspan>
+</text>
+<rect x="1815" y="470" width="500" height="430" rx="24" fill="#f5faf7" stroke="#2e5b46" stroke-width="3"/>
+<text x="2065.0" y="552" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:36px;font-weight:700;fill:#2e5b46;">
+<tspan x="2065.0" dy="0">Defensible</tspan>
+<tspan x="2065.0" dy="39.44px">Completion Claim</tspan>
+</text>
+<line x1="1885" y1="622" x2="2245" y2="622" stroke="#94a3b8" stroke-width="3"/>
+<circle cx="1873" cy="685" r="6.5" fill="#2e5b46"/>
+<text x="1905" y="695" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="1905" dy="0">Ready for integration</tspan>
+</text>
+<circle cx="1873" cy="741" r="6.5" fill="#2e5b46"/>
+<text x="1905" y="751" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="1905" dy="0">Release evaluation</tspan>
+</text>
+<circle cx="1873" cy="797" r="6.5" fill="#2e5b46"/>
+<text x="1905" y="807" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="1905" dy="0">Evidence preserved</tspan>
+</text>
+<circle cx="1873" cy="853" r="6.5" fill="#2e5b46"/>
+<text x="1905" y="863" text-anchor="start" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:600;fill:#172033;">
+<tspan x="1905" dy="0">Ownership retained</tspan>
+</text>
+<line x1="585" y1="685.0" x2="700" y2="680.0" stroke="#667085" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1700" y1="680.0" x2="1815" y2="685.0" stroke="#667085" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="380" y="1135" width="1640" height="105" rx="18" fill="#f8fafc" stroke="#17324d" stroke-width="3"/>
+<text x="1200.0" y="1178" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">Oversight remains proportional to risk.</tspan>
+</text>
+<text x="1200.0" y="1217" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:32px;font-weight:700;fill:#172033;">
+<tspan x="1200.0" dy="0">Small fixes and governance-sensitive workflows require different evidence depth.</tspan>
+</text>
+<rect x="300" y="1305" width="1800" height="125" rx="18" fill="#fffdf7" stroke="#17324d" stroke-width="3"/>
+<text x="630" y="1381" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:31px;font-weight:700;fill:#17324d;">
+<tspan x="630" dy="0">GOVERNING PRINCIPLE:</tspan>
+</text>
+<line x1="885" y1="1335" x2="885" y2="1400" stroke="#667085" stroke-width="3"/>
+<text x="1550" y="1369" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:33px;font-weight:700;fill:#172033;">
+<tspan x="1550" dy="0">Done is not a feeling.</tspan>
+</text>
+<text x="1550" y="1407" text-anchor="middle" style="font-family:Arial, Helvetica, sans-serif;font-size:33px;font-weight:700;fill:#172033;">
+<tspan x="1550" dy="0">Done is an evidence-backed claim.</tspan>
+</text>
+</svg>

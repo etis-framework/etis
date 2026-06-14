@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="880" viewBox="0 0 1600 880" role="img" aria-label="Operational runtime signals become durable repository-centered engineering memory through an evidence index, review record, signal gaps, and runbook inputs.">
+<rect x="0" y="0" width="1600" height="880" fill="#f7f9fb"/>
+
+
+<rect x="186.0" y="58" width="220" height="110" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="296.0" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827"><tspan x="296.0" dy="0">Logs</tspan></text>
+
+<rect x="438.0" y="58" width="220" height="110" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="548.0" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827"><tspan x="548.0" dy="0">Metrics</tspan></text>
+
+<rect x="690.0" y="58" width="220" height="110" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="800.0" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827"><tspan x="800.0" dy="0">Traces</tspan></text>
+
+<rect x="942.0" y="58" width="220" height="110" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="1052.0" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827"><tspan x="1052.0" dy="0">Audit</tspan><tspan x="1052.0" dy="31">Events</tspan></text>
+
+<rect x="1194.0" y="58" width="220" height="110" rx="18" fill="#fff4df" stroke="#334155" stroke-width="2.2"/>
+<text x="1304.0" y="105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827"><tspan x="1304.0" dy="0">AI Visibility</tspan><tspan x="1304.0" dy="31">Notes</tspan></text>
+
+<line x1="800" y1="168" x2="800" y2="205" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,220 790,204 810,204" fill="#475569"/>
+
+<rect x="330" y="245" width="940" height="105" rx="20" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="286" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#475569">RUNTIME EVIDENCE INDEX</text>
+<text x="800" y="322" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" fill="#111827">Signals are organized by question, owner, purpose, and limitation</text>
+
+<line x1="800" y1="350" x2="800" y2="382" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,397 790,381 810,381" fill="#475569"/>
+
+<rect x="330" y="420" width="940" height="100" rx="20" fill="#e8eef5" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="461" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#475569">RUNTIME EVIDENCE REVIEW RECORD</text>
+<text x="800" y="496" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" fill="#111827">Evidence is challenged, interpreted, and preserved</text>
+
+<line x1="800" y1="520" x2="800" y2="552" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,567 790,551 810,551" fill="#475569"/>
+
+<rect x="330" y="590" width="940" height="105" rx="20" fill="#fff4df" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="631" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#475569">SIGNAL GAPS</text>
+<text x="800" y="667" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" fill="#111827">Ownership gaps  •  Evidence limitations  •  Missing runtime signals</text>
+
+<line x1="800" y1="695" x2="800" y2="725" stroke="#475569" stroke-width="4" stroke-linecap="round"/>
+<polygon points="800,740 790,724 810,724" fill="#475569"/>
+
+<rect x="330" y="762" width="940" height="86" rx="18" fill="#e7f0f7" stroke="#334155" stroke-width="2.4"/>
+<text x="800" y="801" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#475569">RUNBOOK INPUTS</text>
+<text x="800" y="831" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500" fill="#111827">Operational preparation for support, escalation, recovery, and governance</text>
+</svg>
