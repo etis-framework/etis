@@ -190,7 +190,7 @@ These resources should help organizations turn ETIS from a reading framework int
 
 Available and planned downloads include:
 
-- [Download Full ETIS PDF](../downloads/ETIS_Full_PDF_Placeholder.pdf)
+- [Download Full ETIS PDF](../downloads/ETIS_First_Edition_Full.pdf)
 
 Future downloads may include:
 
