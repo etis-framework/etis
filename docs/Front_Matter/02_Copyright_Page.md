@@ -19,9 +19,9 @@ Copyright © 2026 William T. O'Connell, Ph.D. All rights reserved.
 
 First Edition
 
-ISBN (Paperback): **\[INSERT ISBN\]**<br>
-ISBN (Hardcover): **\[INSERT ISBN\]**<br>
-ISBN (eBook): **\[INSERT ISBN\]**
+This publication is part of the two-volume edition of *Engineering Trustworthy Intelligent Systems*.
+
+Print ISBNs vary by volume and format.
 
 No part of this publication may be reproduced, stored in a retrieval
 system, transmitted, distributed, or used in any form or by any means,
