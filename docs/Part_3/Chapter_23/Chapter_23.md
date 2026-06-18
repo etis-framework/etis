@@ -137,7 +137,7 @@ A useful timeline might include:
 08:11 - Human reviewer approved notification draft.
 08:14 - Request routed to Community Outreach queue.
 09:02 - Student Services asked why the request was not visible in its queue.
-09:13 - Community Outreach marked the request as requiring Student Services review.
+09:13 - Community Outreach marked request as requiring Student Services review.
 09:25 - IT began event reconstruction.
 09:48 - Team identified ambiguity in request category and handoff ownership.
 ```
