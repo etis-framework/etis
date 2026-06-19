@@ -9,13 +9,15 @@ Author: William T. O'Connell, Ph.D.
 
 ## Quick Navigation
 
+ETIS is a connected ecosystem consisting of publications, reference artifacts, educational resources, and engineering practices for building trustworthy intelligent systems.
+
 🌐 [ETIS Framework Website](https://etisframework.org)
 
+📖 [Read the FULL Book PDF](https://etisframework.org/downloads/ETIS_First_Edition_Full.pdf)
+
+📥 [Downloads](https://etisframework.org/Resources/download/)
+
 🗺️ [ETIS Roadmap](ROADMAP.md)
-
-📥 [Downloads](https://etisframework.org/download)
-
-📖 [Read Online](https://etisframework.org)
 
 🏛️ [ETIS Framework Organization](https://github.com/etis-framework)
 
