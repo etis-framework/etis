@@ -1,12 +1,12 @@
 # ETIS Framework
 
-**Engineering Trustworthy Intelligent Systems (ETIS)**
+## Engineering Trustworthy Intelligent Systems (ETIS)
 
-Software Engineering, Governance, and Operational Trust in the AI Era.
+**Software Engineering, Governance, and Operational Trust in the AI Era**
 
-The ETIS Framework provides practical guidance for designing, building, governing, operating, and continuously improving trustworthy intelligent systems. 
+Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered engineering framework for building, governing, operating, and stewarding intelligent systems in the AI era.
 
-ETIS integrates software engineering discipline, repository-centered evidence, operational trust, governance-by-design, human oversight, and responsible AI practices into a unified engineering framework for the AI era. 
+ETIS integrates software engineering discipline, repository-centered evidence, operational trust, governance-by-design, human oversight, and responsible AI practices into a unified engineering framework.
 
 ## Quick Links
 
@@ -15,6 +15,27 @@ ETIS integrates software engineering discipline, repository-centered evidence, o
 📘 [ETIS Repository](https://github.com/etis-framework/etis)
 
 🗺️ [ETIS Roadmap](https://github.com/etis-framework/etis/blob/main/ROADMAP.md)
+
+---
+
+## Vision
+
+ETIS is more than a publication.
+
+It is an engineering discipline that integrates software engineering, AI governance, operational trust, human oversight, and organizational stewardship into a unified approach for building trustworthy intelligent systems throughout their lifecycle.
+
+---
+
+## Core Principles
+
+* AI proposes; engineers verify.
+* Governance is architecture.
+* Context is control.
+* Everything important leaves evidence.
+* The model is not the system.
+* A demo is not operational proof.
+
+---
 
 ## ETIS Ecosystem
 
@@ -28,28 +49,25 @@ ETIS is evolving into a connected engineering ecosystem consisting of:
 * 🏛️ **LMU Enterprise Reference Environment** — Enterprise examples and supporting artifacts (planned).
 * 🚨 **COICP Operational Reference Environment** — Operational scenarios and evidence artifacts (planned).
 
-## Website
+---
 
-https://etisframework.org
+## Focus Areas
 
-## Vision
+* Repository-Centered Engineering
+* Evidence-Centered Engineering
+* AI Governance
+* Agentic Workflow Governance
+* Context Engineering
+* Human Oversight
+* Operational Trust
+* System Stewardship
 
-ETIS is more than a publication.
-
-It is an engineering discipline that integrates software engineering, AI governance, operational trust, human oversight, and organizational stewardship into a unified approach for building trustworthy intelligent systems throughout their lifecycle.
-
-## Core Principles
-
-* AI proposes; engineers verify.
-* Governance is architecture.
-* Context is control.
-* Everything important leaves evidence.
-* The model is not the system.
-* A demo is not operational proof.
+---
 
 ## Guiding Philosophy
 
 ETIS is not simply about building intelligent systems.
 
 It is about building intelligent systems that organizations can trust over time.
+
 
