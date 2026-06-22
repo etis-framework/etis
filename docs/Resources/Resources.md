@@ -23,6 +23,7 @@ ETIS is more than a publication. It is a framework ecosystem for building, gover
 
 | Resource | Use It For |
 |---|---|
+[What is ETIS?](../Framework/What_is_ETIS.md) | Introduction to ETIS, why it exists, who it serves, and how trustworthy intelligent systems are engineered |
 | [ETIS Framework](../Framework/ETIS_Framework.md) | Understand the framework, principles, lifecycle, and trustworthiness model |
 | [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the two volumes work together |
 | [Downloads](download.md) | Access PDF, print, and educational products |

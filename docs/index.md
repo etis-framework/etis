@@ -88,7 +88,20 @@ hide:
       <li>Human judgment, verification, and oversight remain essential.</li>
     </ul>
 
-    <a class="etis-inline-link" href="Appendices/Appendix_A/Appendix_A/">Learn more about the ETIS Framework →</a>
+  <div style="margin-top:1.4rem; padding:1rem 1.1rem; border-left:4px solid #0f5ed7; background:#f6f8fc; border-radius:.3rem;">
+
+  <strong>New to ETIS? Start Here</strong>
+
+  <p style="margin:.45rem 0 .6rem 0;">
+  Start with <a href="Framework/What_is_ETIS/">What is ETIS?</a> to learn why ETIS exists, who it serves, and how trustworthy intelligent systems are engineered.
+  </p>
+
+  <a class="etis-inline-link"
+     href="Framework/What_is_ETIS/">
+     Read What is ETIS? →
+  </a>
+
+</div>
   </div>
 
   <div class="etis-main-column etis-core-column">
