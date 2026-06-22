@@ -11,210 +11,220 @@ hide:
 
 # Resource Center
 
-**Practical materials for applying the ETIS framework**
+**Practical materials for reading, teaching, adopting, and applying ETIS**
 
-The ETIS resource ecosystem supports readers who want to move from understanding the framework to applying it. These resources are intended for students, instructors, engineers, architects, technical leads, managers, review boards, and organizations using *Engineering Trustworthy Intelligent Systems* in classroom, professional, or governance settings.
+The ETIS Resource Center connects readers to the public materials that support *Engineering Trustworthy Intelligent Systems*: the book, the two-volume edition, appendices, downloads, educational products, repository resources, and project information.
 
-Some resources are available now through the book, appendices, and supporting pages. Others are planned as downloadable packets, repository examples, teaching materials, and professional practice tools.
+ETIS is more than a publication. It is a framework ecosystem for building, governing, operating, teaching, and stewarding trustworthy intelligent systems.
 
-## Resource Ecosystem
+---
 
-ETIS is designed as more than a book. The larger ecosystem may include:
+## Start Here
 
-- the online book and appendices,
-- a public publication repository,
-- a student starter kit,
-- a populated LMU / COICP reference repository,
-- instructor course materials,
-- professional practice templates,
-- review-board playbooks,
-- trustworthiness assessment rubrics,
-- repository-centered engineering examples,
-- visual governance references,
-- and future simulation or certification resources.
+| Resource | Use It For |
+|---|---|
+| [ETIS Framework](../Framework/ETIS_Framework.md) | Understand the framework, principles, lifecycle, and trustworthiness model |
+| [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the two volumes work together |
+| [Downloads](download.md) | Access PDF, print, and educational products |
+| [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Explore instructor, student, and institutional adoption resources |
+| [GitHub Repository](Repository_Ecosystem.md) | Explore repository-centered engineering and public project resources |
 
-These materials support the central ETIS idea: trustworthy intelligent systems require evidence, reviewability, accountability, governance, operational learning, and durable engineering memory.
+---
 
-## Core Reference Materials
+## Book and Volume Products
 
-Start here for the main framework references.
+The core ETIS publication products are available now.
 
-- [ETIS Framework](../Framework/ETIS_Framework.md)
-- [Appendices Overview](../Appendices/Appendices.md)
-- [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md)
-- [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md)
-- [Table of Contents](../Front_Matter/07_Table_of_Contents.md)
-- [Volume I — Foundations and Engineering Construction](../Volumes/Volume_I.md)
-- [Volume II — Operations, Governance, and Organizational Trust](../Volumes/Volume_II.md)
+<div class="etis-download-panel">
 
-## Engineering Templates and Checklists
+<h3>Full ETIS First Edition PDF</h3>
 
-Planned reusable resources include templates and checklists that help teams preserve evidence across the engineering lifecycle.
+<p>The complete first edition of <em>Engineering Trustworthy Intelligent Systems</em>.</p>
 
-Future materials may include:
+<a class="md-button md-button--primary"
+   href="../downloads/ETIS_First_Edition_Full.pdf"
+   download>
+   Download PDF
+</a>
 
-- requirements review templates,
-- architecture decision record templates,
-- work breakdown and planning templates,
-- pull request and review checklists,
-- AI-use log templates,
-- verification and validation evidence checklists,
-- release-readiness checklists,
-- operational-readiness checklists,
-- runbook templates,
-- postmortem templates,
-- repository stewardship review checklists,
-- and trustworthy-engineer portfolio templates.
+<a class="md-button"
+   href="../downloads/ETIS_First_Edition_Full.pdf">
+   Open PDF
+</a>
 
-These resources will support repository-centered engineering by helping teams capture important decisions, evidence, review outcomes, risks, release judgments, operational learning, and stewardship records in durable forms.
+</div>
 
-## Governance and Review Aids
+<div class="etis-download-panel">
 
-ETIS treats governance as part of the engineering architecture. Planned governance resources may include:
+<h3>Volume I PDF</h3>
 
-- review-board prompts,
-- architecture review prompts,
-- release-approval prompts,
-- AI-governance review prompts,
-- context-engineering review prompts,
-- human-oversight readiness prompts,
-- risk-acceptance templates,
-- trustworthiness assessment prompts,
-- evidence-mapping worksheets,
-- operational-trust review aids,
-- and stewardship review aids.
+<p><em>Foundations, Engineering Practices, and System Construction</em></p>
 
-These resources are intended for teams that must defend engineering decisions with evidence rather than rely on demos, claims, or informal confidence.
+<a class="md-button md-button--primary"
+   href="../downloads/ETIS_Volume_1_Paperback.pdf"
+   download>
+   Download PDF
+</a>
 
-## Repository-Centered Engineering Resources
+<a class="md-button"
+   href="../downloads/ETIS_Volume_1_Paperback.pdf">
+   Open PDF
+</a>
 
-ETIS treats the repository as the system of record. Future repository resources may include:
+</div>
 
-- example repository structures,
-- `/docs` directory templates,
-- evidence-chain examples,
-- ADR organization patterns,
-- AI-governance folder patterns,
-- release-evidence folder patterns,
-- operations and incident-response folder patterns,
-- postmortem and learning-record patterns,
-- repository health review examples,
-- and repository stewardship review examples.
+<div class="etis-download-panel">
 
-These materials should help teams preserve engineering memory across requirements, architecture, implementation, reviews, testing, AI use, release decisions, incidents, operations, and continuous improvement.
+<h3>Volume II PDF</h3>
 
-## Student Starter Kit
+<p><em>Operations, Governance, and Engineering Stewardship</em></p>
 
-A future ETIS Student Starter Kit should provide a ready-to-use project repository structure for course teams and early-career engineers.
+<a class="md-button md-button--primary"
+   href="../downloads/ETIS_Volume_2_Paperback.pdf"
+   download>
+   Download PDF
+</a>
 
-The starter kit may include:
+<a class="md-button"
+   href="../downloads/ETIS_Volume_2_Paperback.pdf">
+   Open PDF
+</a>
 
-- recommended folders,
-- README templates,
-- issue templates,
-- pull request templates,
-- AI-use disclosure forms,
-- review checklists,
-- requirements templates,
-- ADR templates,
-- release-readiness records,
-- test-evidence records,
-- and postmortem templates.
+</div>
 
-The goal is to help students practice repository-centered engineering without needing to invent the evidence architecture from scratch.
+---
 
-## LMU / COICP Reference Repository
+## Professional Print Editions (Amazon KDP)
 
-A populated Lakeside Metropolitan University (LMU) reference repository is planned as a major ETIS ecosystem resource.
+ETIS is also available as a professionally published Amazon KDP two-volume series.
 
-The LMU / COICP repository should demonstrate how engineering evidence evolves over time for the Campus Operations and Incident Coordination Platform. It should show requirements, architecture, planning, review records, AI-use records, testing evidence, release evidence, operations, incidents, postmortems, governance decisions, runbooks, and stewardship records.
+Available formats include:
 
-The strongest version of this repository would be tagged by assignment or lifecycle milestone so readers can inspect the repository at different points in its evolution.
+* Volume I Paperback
+* Volume I Hardcover
+* Volume II Paperback
+* Volume II Hardcover
 
-Possible tags include:
+The print editions are intended for engineers, instructors, students, libraries, and institutions seeking durable professional references.
 
-- `a1-project-launch`
-- `a2-planning-requirements`
-- `a3-architecture-review`
-- `a4-construction-integration`
-- `a5-cycle1-release`
-- `a6-final-release`
+Explore the two-volume edition to determine which format best meets your needs.
 
-This would allow students, instructors, and professionals to see how repository evidence accumulates from early project launch through final release and operational learning.
+[Explore the Two-Volume Edition →](../Volumes/ETIS_Two_Volume_Edition.md)
 
-## Instructor and Classroom Resources
+---
 
-Instructor resources are planned for classroom adoption and course integration.
+## Core Framework References
 
-Potential materials include:
+These resources provide the main public reference path into ETIS.
 
-- lecture outlines,
-- slide decks,
-- assignment prompts,
-- project scaffolding,
-- review-board simulations,
-- repository-centered engineering activities,
-- AI-governance case studies,
-- release-readiness exercises,
-- operational-readiness exercises,
-- portfolio-defense guidance,
-- rubrics,
-- discussion prompts,
-- and capstone integration guides.
+| Resource | Purpose |
+|---|---|
+| [Read Online](../Front_Matter/01_Title_Page.md) | Start reading the complete online edition |
+| [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand the two-volume structure |
+| [Volume I](../Volumes/Volume_I.md) | Foundations and engineering construction |
+| [Volume II](../Volumes/Volume_II.md) | Operations, governance, and stewardship |
+| [Appendices Overview](../Appendices/Appendices.md) | Access framework references and supporting material |
+| [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md) | Core trustworthiness model |
+| [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md) | Repository-centered engineering structure |
+| [Appendix F — Engineering Judgment Framework](../Appendices/Appendix_F/Appendix_F.md) | Engineering judgment and decision-making |
+| [Appendix H — Terminology and Definitions](../Appendices/Appendix_H/Appendix_H.md) | ETIS terminology and definitions |
 
-Instructor-facing materials may be organized separately when ready, especially if some resources include assessment guidance, sample answers, rubrics, or solution notes.
+---
 
-[Open Instructor Resources →](../Resources/Instructor_Resources.md)
+## Educational Resources
 
-## Professional Practice Toolkit
+The ETIS Educational Ecosystem turns the framework into teachable, adoptable, and stewardable educational products.
 
-Future professional resources may support teams and organizations adopting ETIS outside the classroom.
+| Resource | Purpose |
+|---|---|
+| [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Overview of ETIS education, products, and adoption paths |
+| [Educational Products](../Educational_Ecosystem/Educational_Products.md) | Downloadable public educational product guides for teaching, adoption, and implementation |
+| [Instructor Resources](../Educational_Ecosystem/Instructor_Resources.md) | Instructor operating system, educational engines, course operation, and stewardship |
+| [Student Resources](../Educational_Ecosystem/Student_Resources.md) | Student professional engineering behaviors, repository evidence, AI responsibility, and portfolio value |
+| [Flagship Implementation](../Educational_Ecosystem/Flagship_Implementation.md) | Loyola COMP330/474 as the flagship ETIS educational implementation |
+| [Institutional Adoption](../Educational_Ecosystem/Institutional_Adoption.md) | Guidance for adopting ETIS responsibly in universities and programs |
 
-Potential toolkit components include:
+---
 
-- AI-governance policy templates,
-- delegation matrices,
-- context-source registries,
-- oversight readiness reviews,
-- release governance records,
-- stewardship review templates,
-- repository health dashboards,
-- incident-response templates,
-- postmortem templates,
-- runbook templates,
-- and trustworthiness maturity rubrics.
+## Educational Product PDFs
 
-These resources should help organizations turn ETIS from a reading framework into an operational practice.
+The ETIS Educational Products are now publicly available.
 
-## Downloads
+[Browse Educational Products →](../Educational_Ecosystem/Educational_Products.md)
 
-Available and planned downloads include:
+---
 
-- [Download Full ETIS PDF](../downloads/ETIS_First_Edition_Full.pdf)
+## Repository and Practice Resources
 
-Future downloads may include:
+ETIS treats the repository as the system of record.
 
-- Volume I PDF,
-- Volume II PDF,
-- appendix packet,
-- template packet,
-- checklist packet,
-- instructor packet,
-- student starter kit,
-- repository starter kit,
-- and professional practice toolkit.
+Repository-centered engineering preserves requirements, decisions, reviews, AI-use evidence, test evidence, release judgments, operational records, incidents, postmortems, and stewardship learning.
 
-## Project and Updates
+Use these resources to explore the repository side of ETIS:
 
-The ETIS publication ecosystem may include public repository materials, issue tracking, corrections, release notes, update history, and future support resources.
+| Resource | Purpose |
+|---|---|
+| [GitHub Repository Ecosystem](Repository_Ecosystem.md) | Public repository model, publication repository, starter kit direction, and reference repository strategy |
+| [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md) | Authoritative repository-centered engineering reference |
+| [Student Resources](../Educational_Ecosystem/Student_Resources.md) | Student-facing repository-centered engineering model |
+| [Instructor Resources](../Educational_Ecosystem/Instructor_Resources.md) | Instructor-facing repository and evidence expectations |
 
-- [GitHub Repository](../Resources/GitHub_Repository.md)
-- [First Edition Notes](../Back_Matter/04_First_Edition_Notes.md)
-- [License](../Legal/License.md)
-- [Contact](../Legal/Contact.md)
+Future repository resources may include templates, checklists, example evidence packages, starter repositories, and reference implementations.
 
-## Resource Status
+---
 
-The book text and appendices remain the authoritative source for the ETIS framework. Downloadable resources, templates, starter kits, instructor materials, and professional-practice artifacts will be added after they are finalized and reviewed.
+## Professional Practice Resources
 
-[Open Appendices →](../Appendices/Appendices.md)
+ETIS is designed for both education and professional engineering practice.
+
+Future professional resources may include:
+
+* AI governance policy templates
+* review-board prompts
+* release governance records
+* repository health review guidance
+* incident response and postmortem templates
+* operational readiness checklists
+* stewardship review templates
+* trustworthiness maturity models
+
+These materials should help engineering teams and organizations apply ETIS beyond the classroom.
+
+---
+
+## Project Information
+
+| Resource | Purpose |
+|---|---|
+| [GitHub Repository](Repository_Ecosystem.md) | Source, examples, publication history, and ecosystem artifacts |
+| [First Edition Notes](../Back_Matter/04_First_Edition_Notes.md) | Notes on the first edition |
+| [License](../Legal/License.md) | Licensing information |
+| [Contact](../Legal/Contact.md) | Contact information |
+
+---
+
+## Resource Boundary
+
+The book and appendices remain the authoritative ETIS doctrine.
+
+The Resource Center provides public access points, downloads, educational products, repository resources, and project information.
+
+Internal architecture registers, continuity packages, freeze records, and raw construction artifacts are not published here.
+
+Public resources should help readers apply ETIS without exposing unnecessary internal complexity.
+
+---
+
+## Bottom Line
+
+Use this Resource Center to move from reading ETIS to applying ETIS.
+
+Start with the framework and volumes.
+
+Use the appendices for reference.
+
+Use the educational ecosystem for teaching and adoption.
+
+Use the repository resources to practice evidence-centered engineering.
+
+Everything important leaves evidence.

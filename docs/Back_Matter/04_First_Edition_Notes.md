@@ -11,57 +11,99 @@ hide:
 
 # First Edition Notes
 
-## First Edition Baseline
+## A Foundational Edition
 
-This volume represents the First Edition of **Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era**.
+This publication represents the First Edition of **Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era**.
 
-The First Edition establishes the foundational architecture of the Engineering Trustworthy Intelligent Systems (ETIS) framework. It brings together software engineering, governance, operational trust, repository-centered engineering, AI accountability, human oversight, and stewardship into a unified professional model intended for students, practitioners, technical leaders, architects, managers, and educators.
+More than a book, this edition establishes the constitutional foundation of the Engineering Trustworthy Intelligent Systems (ETIS) framework.
 
-The framework presented in this edition reflects the state of the discipline at the time of publication. While technologies, platforms, development environments, AI models, governance practices, and industry terminology will continue to evolve, the book focuses on engineering principles intended to remain valuable beyond any specific generation of tools.
+It introduces a unified engineering discipline that connects software engineering, AI governance, operational trust, repository-centered engineering, human oversight, and long-term stewardship.
 
-## What This Edition Establishes
+The objective is straightforward:
 
-The First Edition establishes the constitutional foundation of the Engineering Trustworthy Intelligent Systems framework.
+> Help engineers build intelligent systems that remain worthy of trust over time.
 
-It introduces the core engineering doctrines, lifecycle architecture, governance model, repository-centered engineering principles, trustworthiness framework, stewardship model, review-board progression, and evidence-centered practices that form the basis of ETIS.
+---
 
-Future editions may expand, refine, or extend the framework, but this edition establishes the foundational architecture upon which those future developments are expected to build.
+## What This First Edition Establishes
 
-For that reason, the First Edition serves not only as a learning resource, but also as the historical baseline of the ETIS framework itself.
+This edition defines the foundational ETIS doctrines that future editions are expected to inherit.
 
-## Technology Changes. Responsibility Remains.
+It establishes:
 
-One of the central observations of this book is that software engineering is entering a period of rapid transformation driven by artificial intelligence.
+* engineering principles
+* lifecycle architecture
+* trustworthiness models
+* repository-centered engineering
+* evidence-centered engineering
+* AI governance
+* review-board practices
+* operational trust
+* engineering stewardship
+* educational transformation models
+
+Future editions may expand the framework, but this edition establishes its baseline.
+
+In many respects, this edition serves as the engineering constitution for ETIS.
+
+---
+
+## Built for an Era of Rapid Change
+
+Artificial intelligence is accelerating the pace of software engineering transformation.
 
 Models will improve.
 
-Agentic capabilities will expand.
+Agentic systems will mature.
 
-Development tools will evolve.
+Development environments will evolve.
 
-Workflow automation will increase.
+Automation will expand.
 
-New governance challenges will emerge.
+Governance challenges will increase.
 
-Some technical details discussed in this edition will inevitably change over time.
+Many technologies discussed in this edition will eventually change.
 
-The enduring purpose of the book is not to preserve a particular toolset, vendor platform, framework, or AI capability. The purpose is to preserve the engineering responsibilities required to build systems that can be responsibly trusted.
+That is expected.
 
-Trustworthiness, evidence, governance, reviewability, operational readiness, accountability, recoverability, stewardship, and professional judgment remain important regardless of which technologies become dominant.
+ETIS was intentionally designed around responsibilities that endure rather than technologies that expire.
+
+The framework focuses on engineering behaviors that remain valuable regardless of tools, vendors, or platforms.
+
+Those responsibilities include:
+
+* defining intent
+* engineering context
+* bounding authority
+* verifying behavior
+* preserving evidence
+* governing decisions
+* learning operationally
+* stewarding systems over time
+
+---
 
 ## LMU and COICP
 
-Throughout the book, readers encounter **Lakeside Metropolitan University (LMU)** and the **Campus Operations and Incident Coordination Platform (COICP)**.
+Throughout ETIS, readers encounter **Lakeside Metropolitan University (LMU)** and the **Campus Operations and Incident Coordination Platform (COICP)**.
 
-LMU and COICP are fictional reference environments created to provide continuity across the lifecycle presented in the book. They are used to demonstrate how requirements, architecture, implementation, reviews, testing, release governance, operations, AI-enabled workflows, stewardship, and professional responsibility interact over time.
+These fictional continuity environments were created to demonstrate how trustworthy engineering unfolds across an entire lifecycle.
 
-The organizations, systems, repositories, governance structures, and artifacts described throughout the book are intended for educational and professional illustration.
+They allow readers to observe how requirements, architecture, implementation, testing, AI governance, release decisions, operational learning, and stewardship interact over time.
 
-## Repository References
+LMU and COICP transform abstract concepts into continuous engineering experiences.
 
-Repository paths appear throughout the manuscript because repository-centered engineering is a core aspect of the framework.
+---
 
-Paths such as:
+## Repository-Centered Engineering
+
+Repository paths appear throughout ETIS intentionally.
+
+Within ETIS, repositories are not code storage locations.
+
+They are systems of record.
+
+Examples include:
 
 ```text
 /docs/requirements/
@@ -71,40 +113,67 @@ Paths such as:
 /docs/operations/
 ```
 
-are intentionally concrete examples designed to illustrate how engineering evidence may be organized and preserved.
+These examples illustrate how organizations may preserve engineering memory.
 
-Readers should adapt repository structures to the needs of their own organizations, technologies, governance requirements, and operational environments while preserving the underlying principles of evidence, traceability, reviewability, and stewardship.
+Repository structures will vary across organizations, but the underlying principles remain consistent:
 
-## The ETIS Ecosystem
+* evidence
+* traceability
+* transparency
+* reviewability
+* continuity
+* stewardship
 
-ETIS is intentionally designed as more than a standalone publication.
+---
 
-The framework is supported by a broader ecosystem that may include:
+## ETIS Is More Than a Book
 
-- the online ETIS publication,
-- appendices and professional reference materials,
-- repository templates,
-- student starter kits,
-- instructor resources,
-- governance toolkits,
-- review-board materials,
-- LMU and COICP reference repositories,
-- stewardship resources,
-- framework updates and errata.
+This First Edition launched an ecosystem rather than a standalone publication.
 
-Together these resources are intended to help readers move from understanding trustworthy engineering concepts to applying them in real projects, organizations, and educational environments.
+The public ETIS ecosystem includes:
 
-## Publication Availability
+* the online ETIS book
+* the two-volume edition
+* appendices and professional references
+* the educational ecosystem
+* instructor resources
+* student resources
+* flagship implementations
+* institutional adoption guidance
+* repository resources
+* downloadable products
 
-The First Edition of *Engineering Trustworthy Intelligent Systems* was initially published online in July 2026 through the official ETIS website.
+These resources help readers move from understanding ETIS to applying ETIS.
 
-Additional publication formats, including PDF, paperback, hardcover, and eBook editions, may become available after the initial online release. Regardless of distribution format, all are considered part of the First Edition unless explicitly identified as a revised edition.
+---
 
-The official publication site is:
+## Publication Information
+
+The First Edition was initially published online in June 2026 through:
 
 **https://etisframework.org**
 
-The website serves as the primary publication platform for framework updates, supporting resources, appendices, repository references, teaching materials, and future ecosystem development.
+The website serves as the primary publication platform for:
+
+* the online book
+* framework resources
+* appendices
+* educational products
+* downloads
+* repository resources
+* future ecosystem development
+
+Additional publication formats include:
+
+* downloadable PDF editions
+* Amazon KDP paperback editions
+* Amazon KDP hardcover editions
+
+The Amazon editions are published as a professionally organized two-volume series intended for long-term reference, teaching, and professional use.
+
+All formats remain part of the First Edition unless explicitly identified otherwise.
+
+---
 
 ## Future Editions
 
@@ -112,40 +181,52 @@ No engineering framework should be considered permanently complete.
 
 Future editions may incorporate:
 
-- advances in AI capabilities,
-- emerging governance approaches,
-- evolving regulatory environments,
-- new operational patterns,
-- expanded stewardship practices,
-- additional case studies,
-- enhanced repository-centered engineering patterns,
-- educational adoption experiences,
-- professional implementation lessons,
-- new appendices and supporting resources,
-- lessons learned from practical ETIS adoption.
+* advances in AI capabilities
+* new governance approaches
+* evolving regulations
+* additional case studies
+* educational adoption experiences
+* implementation lessons
+* stewardship practices
+* expanded professional resources
 
-Future editions may also refine terminology, examples, figures, appendices, repository structures, and ecosystem resources while preserving the core engineering principles established in this First Edition.
+Future editions should evolve the framework without compromising its foundational principles.
 
-## Errata and Corrections
+---
 
-Despite careful review, errors, omissions, and opportunities for clarification may be discovered after publication.
+## Errata Philosophy
 
-Corrections that do not alter the substance of the framework may be handled through errata updates.
+Minor corrections may be published through errata.
 
-Substantive modifications to doctrine, architecture, or framework structure should be reserved for future editions.
+Substantive doctrinal changes should be reserved for future editions.
 
-## Closing Note
+ETIS values stability over unnecessary change.
 
-The technologies described in this book will evolve.
+Stewardship is often more important than expansion.
 
-The responsibilities described in this book will remain.
+---
 
-The future trustworthy engineer will not be defined by mastery of a particular tool, model, platform, framework, or vendor ecosystem.
+## Closing Perspective
 
-That engineer will be defined by the ability to make intelligent systems understandable, governable, reviewable, observable, operable, recoverable, accountable, and worthy of trust over time.
+The technologies described in this edition will evolve.
+
+The engineering responsibilities described in this edition will remain.
+
+The future trustworthy engineer will not be defined by mastery of a particular model, vendor, toolchain, or platform.
+
+That engineer will be defined by the ability to build intelligent systems that are:
+
+* understandable
+* reviewable
+* governable
+* observable
+* operable
+* recoverable
+* accountable
+* worthy of trust over time
 
 Technologies will change.
 
 Responsibilities will remain.
 
-The purpose of ETIS is to help ensure that those responsibilities remain visible, teachable, reviewable, and actionable for future generations of engineers.
+That is the enduring purpose of ETIS.

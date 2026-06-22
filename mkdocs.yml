@@ -44,6 +44,7 @@ nav:
           - At a Glance: Front_Matter/06_At_A_Glance.md
           - Table of Contents: Front_Matter/07_Table_of_Contents.md
       - Part I:
+          - Foundations: Part_1/Part_I_Foundations.md
           - Chapter 1: Part_1/Chapter_01/Chapter_01.md
           - Chapter 2: Part_1/Chapter_02/Chapter_02.md
           - Chapter 3: Part_1/Chapter_03/Chapter_03.md
@@ -52,6 +53,7 @@ nav:
           - Chapter 6: Part_1/Chapter_06/Chapter_06.md
           - Chapter 7: Part_1/Chapter_07/Chapter_07.md
       - Part II:
+          - Engineering Practice: Part_2/Part_II_Engineering_Practice.md
           - Chapter 8: Part_2/Chapter_08/Chapter_08.md
           - Chapter 9: Part_2/Chapter_09/Chapter_09.md
           - Chapter 10: Part_2/Chapter_10/Chapter_10.md
@@ -68,6 +70,7 @@ nav:
           - Chapter 21: Part_2/Chapter_21/Chapter_21.md
           - Chapter 22: Part_2/Chapter_22/Chapter_22.md
       - Part III:
+          - Operational Trust: Part_3/Part_III_Operational_Trust.md
           - Chapter 23: Part_3/Chapter_23/Chapter_23.md
           - Chapter 24: Part_3/Chapter_24/Chapter_24.md
           - Chapter 25: Part_3/Chapter_25/Chapter_25.md
@@ -79,6 +82,7 @@ nav:
           - Chapter 31: Part_3/Chapter_31/Chapter_31.md
           - Chapter 32: Part_3/Chapter_32/Chapter_32.md
       - Part IV:
+          - Stewardship: Part_4/Part_IV_Trustworthy_Intelligent_Systems.md
           - Chapter 33: Part_4/Chapter_33/Chapter_33.md
           - Chapter 34: Part_4/Chapter_34/Chapter_34.md
           - Chapter 35: Part_4/Chapter_35/Chapter_35.md
@@ -106,8 +110,9 @@ nav:
           - Privacy: Legal/Privacy.md
 
   - Volumes:
-      - Volume I - Parts I-II: Volumes/Volume_I.md
-      - Volume II - Parts III-IV: Volumes/Volume_II.md
+      - ETIS Two-Volume Edition: Volumes/ETIS_Two_Volume_Edition.md
+      - Volume I: Volumes/Volume_I.md
+      - Volume II: Volumes/Volume_II.md
 
   - Appendices:
       - Appendices Overview: Appendices/Appendices.md
@@ -123,11 +128,18 @@ nav:
   - Framework:
       - Framework Overview: Framework/ETIS_Framework.md
 
+  - Education:
+      - Educational Ecosystem: Educational_Ecosystem/Educational_Ecosystem.md
+      - Educational Products: Educational_Ecosystem/Educational_Products.md
+      - Instructor Resources: Educational_Ecosystem/Instructor_Resources.md
+      - Student Resources: Educational_Ecosystem/Student_Resources.md
+      - Flagship Implementation: Educational_Ecosystem/Flagship_Implementation.md
+      - Institutional Adoption: Educational_Ecosystem/Institutional_Adoption.md
+
   - Resources:
-      - Resources Center: Resources/Resources.md
-      - Teaching with ETIS: Resources/Teaching_with_ETIS.md
-      - GitHub Repository: Resources/GitHub_Repository.md
+      - Resource Center: Resources/Resources.md
       - Downloads: Resources/download.md
+      - Repository Ecosystem: Resources/Repository_Ecosystem.md
 
   - About:
     - About ETIS: About.md

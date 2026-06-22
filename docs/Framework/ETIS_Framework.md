@@ -165,22 +165,19 @@ ETIS is designed for:
 
 ## ETIS as an Ecosystem
 
-ETIS is larger than a book. It is intended to become a complete ecosystem for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
+ETIS is larger than a book. It is a public framework ecosystem for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
 
-The long-term ecosystem includes:
+The ETIS ecosystem includes:
 
-- the ETIS book,
-- the public website,
-- a public GitHub publication repository,
-- a student starter kit repository,
-- a populated LMU / COICP reference repository,
-- instructor course materials,
-- professional practice templates,
-- review-board playbooks,
-- trustworthiness assessment models,
-- repository-centered engineering examples,
-- figure and visual-governance assets,
-- and future simulation or certification pathways.
+- ETIS book,
+- two-volume edition,
+- educational ecosystem,
+- instructor resources,
+- student resources,
+- flagship implementation,
+- institutional adoption,
+- public repository,
+- professional practice resources.
 
 Together, these components provide a shared operating model for students, instructors, engineering teams, review boards, and organizations.
 
@@ -203,14 +200,29 @@ The trustworthy engineer is not defined by a programming language, framework, me
 
 As intelligent systems become more capable, interconnected, and autonomous, those responsibilities become more important, not less.
 
+## Framework in Public Form
+
+ETIS is expressed publicly through several connected forms:
+
+- **The book** defines the doctrine.
+- **The two-volume edition** makes the lifecycle easier to navigate.
+- **The educational ecosystem** turns ETIS into teachable and adoptable educational products.
+- **The repository model** preserves engineering evidence and continuity.
+- **The public resources** support use, teaching, and adoption.
+
+Together, these forms make ETIS more than a publication. They make it a stewarded framework.
+
 ## Learn More
 
-- [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md)
-- [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md)
+- [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
 - [Volume I — Foundations and Engineering Construction](../Volumes/Volume_I.md)
 - [Volume II — Operations, Governance, and Organizational Trust](../Volumes/Volume_II.md)
-- [Appendices](../Appendices/Appendices.md)
+- [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md)
+- [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md)
+- [Appendix F — Engineering Judgment Framework](../Appendices/Appendix_F/Appendix_F.md)
+- [Appendix H — Terminology and Definitions](../Appendices/Appendix_H/Appendix_H.md)
+- [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
 - [Resources](../Resources/Resources.md)
-- [GitHub Repository](../Resources/GitHub_Repository.md)
+- [GitHub Repository](../Resources/Repository_Ecosystem.md)
 
-[Open Appendix A →](../Appendices/Appendix_A/Appendix_A.md)
+[Explore the ETIS Framework →](../Appendices/Appendix_A/Appendix_A.md)

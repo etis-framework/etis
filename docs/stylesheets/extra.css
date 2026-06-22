@@ -482,6 +482,8 @@ body:has(.etis-page) .md-footer-meta {
 body:has(.etis-page) .md-footer-meta__inner {
   padding-top: .65rem !important;
   padding-bottom: .8rem !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
 }
 
 /* Slightly tighten the resource strip so the footer feels like one unified unit. */
@@ -1105,4 +1107,48 @@ body:has(.etis-page) .etis-framework-tile:hover {
     flex: 0 0 auto !important;
     margin: 0 !important;
   }
+}
+
+/* ------------------------------------------- */
+/* ETIS Educational Ecosystem Hero Addition */
+/* ------------------------------------------- */
+
+body:has(.etis-page) .etis-hero-education-text {
+
+  color: #eaf2ff;
+
+  font-size: 1.06rem;
+
+  line-height: 1.6;
+
+  max-width: 710px;
+
+  margin-top: -.45rem;
+
+  margin-bottom: .35rem;
+
+}
+
+body:has(.etis-page) .etis-education-link {
+
+  display: inline-block;
+
+  color: #7bb7ff !important;
+
+  font-size: .98rem;
+
+  font-weight: 700;
+
+  text-decoration: none !important;
+
+  margin-bottom: 1.55rem;
+
+}
+
+body:has(.etis-page) .etis-education-link:hover {
+
+  color: #a5d0ff !important;
+
+  text-decoration: underline !important;
+
 }
