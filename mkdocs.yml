@@ -127,6 +127,7 @@ nav:
       - Appendix H: Appendices/Appendix_H/Appendix_H.md
 
   - Framework:
+      - What is ETIS?: Framework/What_is_ETIS.md
       - Framework Overview: Framework/ETIS_Framework.md
 
   - Education:
@@ -150,3 +151,4 @@ nav:
     - License: Legal/License.md
     - Contact: Legal/Contact.md
     - Privacy: Legal/Privacy.md
+

@@ -19,6 +19,8 @@ ETIS begins with a simple premise: as AI systems become more capable, engineerin
 
 ETIS provides a common language, evidence model, and lifecycle architecture for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
 
+New to ETIS? Start with [What is ETIS?](What_is_ETIS.md) for a plain-language introduction to the framework, its purpose, and why it matters in the AI era.
+
 ## What ETIS Is
 
 ETIS is a full-lifecycle engineering framework.

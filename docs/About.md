@@ -13,6 +13,8 @@ hide:
 
 Engineering Trustworthy Intelligent Systems (ETIS) is a practical engineering framework for building, governing, operating, teaching, and continuously improving trustworthy intelligent systems in the AI era.
 
+New to ETIS? Start with [What is ETIS?](Framework/What_is_ETIS.md) for a plain-language introduction to the framework, its purpose, and its engineering philosophy.
+
 ETIS is built on a simple premise:
 
 > AI can produce artifacts. Engineers create trust.
