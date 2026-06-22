@@ -1,7 +1,6 @@
 # ETIS Roadmap
 
-# Engineering Trustworthy Intelligent Systems (ETIS)
-
+**Engineering Trustworthy Intelligent Systems (ETIS)**  
 **Software Engineering, Governance, and Operational Trust in the AI Era**
 
 ---
@@ -65,23 +64,43 @@ The ETIS foundation has been established.
 
 ---
 
-# Phase II — Educational Ecosystem
+# Phase II — Educational Ecosystem (Completed)
 
 Expand ETIS into a comprehensive educational platform.
 
-### Planned Capabilities
+### Completed Capabilities
 
-* ☐ Instructor Course Package
-* ☐ Student Starter Kit
-* ☐ Course implementation guidance
-* ☐ Classroom exercises and activities
-* ☐ Assessment framework
-* ☐ Learning progression models
-* ☐ Adoption examples
+* ✅ Educational Ecosystem
+* ✅ Instructor Resources
+* ✅ Student Resources
+* ✅ COMP330/474 Flagship Implementation
+* ✅ Institutional Adoption guidance
+* ✅ Educational Product Library
+* ✅ ETIS Educational Ecosystem Guide
+* ✅ ETIS Instructor Course Package
+* ✅ ETIS Classroom Facilitation Guide
+* ✅ ETIS Instructor Handbook
+* ✅ ETIS Student Professional Engineering Guide
+* ✅ ETIS COMP330 Flagship Implementation Guide
 
 ---
 
-# Phase III — Professional Toolkit
+# Phase II.b — Public Reference Repositories (Planned)
+
+Build public reference repositories that demonstrate ETIS in practice.
+
+### Planned Capabilities
+
+* ☐ COMP330 Reference Repository
+* ☐ Student Starter Kit public reference implementation
+* ☐ LMU / COICP Reference Repository
+* ☐ Chapter-aligned repository evolution
+* ☐ Tagged lifecycle states
+* ☐ Public reference evidence packages
+
+---
+
+# Phase III — Professional Ecosystem (Planned)
 
 Translate ETIS concepts into reusable professional resources.
 
@@ -97,22 +116,7 @@ Translate ETIS concepts into reusable professional resources.
 
 ---
 
-# Phase IV — Reference Enterprise Repository
-
-Expand LMU and COICP into a fully populated reference implementation.
-
-### Planned Capabilities
-
-* ☐ Repository artifact population
-* ☐ Architecture examples
-* ☐ Governance examples
-* ☐ Operational evidence examples
-* ☐ Stewardship examples
-* ☐ Enterprise simulation assets
-
----
-
-# Phase V — Community Ecosystem
+# Phase IV — Community Ecosystem (Future)
 
 Establish ETIS as an evolving public engineering community.
 
@@ -137,17 +141,17 @@ ETIS is intended to evolve into a connected engineering ecosystem.
 
 🌐 ETIS Framework Website
 
-🎓 Instructor Course Package
+🎓 ETIS Educational Ecosystem
 
-🎒 Student Starter Kit
+📄 Educational Product Library
 
-🧰 Professional Toolkit
+🎒 COMP330 Reference Repository (Phase II.b)
 
-🏛️ LMU Enterprise Reference Environment
+🏛️ LMU / COICP Reference Repository (Phase II.b)
 
-🚨 COICP Operational Reference Environment
+🧰 Professional Ecosystem (Phase III)
 
-📊 Assessment Framework
+🌐 Community Ecosystem (Phase IV)
 
 ---
 
