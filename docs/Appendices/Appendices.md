@@ -13,11 +13,9 @@ hide:
 
 **Professional Reference Materials and Engineering Resources**
 
-The appendices are the professional reference layer of ETIS.
+The appendices are the professional reference library of ETIS. While the chapters teach the lifecycle, the appendices provide durable engineering references that support real-world engineering work, educational adoption, governance activities, and long-term stewardship.
 
-While the chapters teach the lifecycle, the appendices provide reusable frameworks, templates, governance references, review aids, checklists, operational resources, and publication standards that readers can return to during real engineering work.
-
-Use the appendices when you need to evaluate trustworthiness, organize repository evidence, prepare reviews, govern AI use, structure engineering artifacts, check release readiness, improve operations, or preserve visual and publication consistency.
+Use the appendices when you need to evaluate trustworthiness, organize repository evidence, prepare reviews, govern AI use, structure engineering artifacts, exercise engineering judgment, improve operations, or apply ETIS terminology consistently.
 
 ## Appendix Guide
 
@@ -53,15 +51,43 @@ Consolidates the AI governance concepts used throughout ETIS. Use this appendix 
 
 Provides the shared ETIS vocabulary for software engineering, trustworthiness, governance, operations, stewardship, and intelligent systems. Use this appendix when interpreting key terms, preparing artifacts, conducting reviews, or applying ETIS concepts consistently.
 
+---
+
+## How to Use the Appendices
+
+The appendices are not intended to be read sequentially.
+
+They function as a professional engineering reference library that supports the ETIS lifecycle.
+
+Different appendices support different engineering activities.
+
+| Need | Recommended Appendix |
+|------|---------------------|
+| Understand ETIS trustworthiness | Appendix A |
+| Conduct reviews and governance activities | Appendix B |
+| Organize repository evidence | Appendix C |
+| Apply ETIS engineering principles | Appendix D |
+| Understand LMU and COICP examples | Appendix E |
+| Exercise engineering judgment | Appendix F |
+| Govern AI responsibly | Appendix G |
+| Standardize terminology | Appendix H |
+
 ## Quick Access
 
-- [Appendix A — Trustworthiness Framework](Appendix_A/Appendix_A.md)
-- [Appendix B — Repository Architecture](Appendix_B/Appendix_B.md)
-- [Appendix C — Review Boards and Governance](Appendix_C/Appendix_C.md)
-- [Appendix D — AI Governance Reference](Appendix_D/Appendix_D.md)
-- [Appendix E — Engineering Templates](Appendix_E/Appendix_E.md)
-- [Appendix F — Checklists and Reviews](Appendix_F/Appendix_F.md)
-- [Appendix G — Operational References](Appendix_G/Appendix_G.md)
-- [Appendix H — Visual Governance](Appendix_H/Appendix_H.md)
+- [Appendix A — ETIS Trustworthiness Framework Reference](Appendix_A/Appendix_A.md)
+
+- [Appendix B — Complete Review-Board Catalog](Appendix_B/Appendix_B.md)
+
+- [Appendix C — Repository-Centered Engineering Artifact Catalog](Appendix_C/Appendix_C.md)
+
+- [Appendix D — Engineering Principles Catalog](Appendix_D/Appendix_D.md)
+
+- [Appendix E — LMU / COICP Enterprise Reference Architecture](Appendix_E/Appendix_E.md)
+
+- [Appendix F — Engineering Judgment Framework](Appendix_F/Appendix_F.md)
+
+- [Appendix G — AI Governance Framework](Appendix_G/Appendix_G.md)
+
+- [Appendix H — Terminology and Definitions](Appendix_H/Appendix_H.md)
 
 [Open Appendix A →](Appendix_A/Appendix_A.md)

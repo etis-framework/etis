@@ -17,6 +17,16 @@ This site is intended to be a static publication site for *Engineering Trustwort
 
 The site itself does not intentionally collect personal information through accounts, forms, comments, mailing lists, payment systems, or site-level tracking scripts.
 
+## ETIS Privacy Philosophy
+
+ETIS is built around engineering trust.
+
+The website intentionally minimizes data collection and unnecessary tracking.
+
+The objective is to provide a professional publication experience without creating unnecessary digital footprints for readers.
+
+Personal information should be collected only when there is a clear and legitimate reason to do so.
+
 ## Hosting
 
 This site is expected to be hosted through GitHub Pages or similar static-site infrastructure. The hosting provider may collect standard server, access, diagnostic, or security logs according to its own policies.

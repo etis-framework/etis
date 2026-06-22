@@ -38,6 +38,14 @@ Permission is not granted to reproduce substantial portions of the publication, 
 
 No permission is granted to use this publication, its figures, appendices, downloadable materials, website content, or associated resources for the training, fine-tuning, evaluation, synthetic-data generation, or commercial development of artificial intelligence, machine learning, large language model, or related systems without prior written authorization from the copyright holder.
 
+## Educational Adoption
+
+Universities, instructors, and educational institutions are encouraged to adopt ETIS concepts, teaching approaches, engineering practices, and educational models within their own courses and programs.
+
+The framework is intended to be taught, adapted, and applied.
+
+However, redistribution or reproduction of substantial ETIS content, educational products, figures, appendices, downloadable materials, or instructor resources remains subject to these licensing terms unless separate permissions have been granted.
+
 ## Supplemental Materials
 
 Templates, examples, repositories, starter kits, instructor materials, downloadable resources, and future ecosystem components may be distributed under separate licensing terms.

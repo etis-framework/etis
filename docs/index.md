@@ -30,6 +30,15 @@ hide:
         throughout their lifecycle.
       </p>
 
+      <p class="etis-hero-education-text">
+        It also provides a complete educational ecosystem for universites,
+        instructors, and future engineers.
+      </p>
+
+      <a class="etis-education-link" href="Educational_Ecosystem/educational_ecosystem/">
+        Explore ETIS Education →
+      </a>
+
       <div class="etis-hero-buttons-final">
         <a class="etis-hero-button etis-primary-button" href="Front_Matter/01_Title_Page/">
           <span class="etis-button-icon etis-book-icon" aria-hidden="true">
@@ -58,7 +67,7 @@ hide:
               <path d="M7.5 24.5h17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
             </svg>
           </span>
-          <span class="etis-button-text"><strong>Download</strong><small>Full PDF</small></span>
+          <span class="etis-button-text"><strong>Download</strong><small>PDF Library</small></span>
         </a>
       </div>
     </div>
@@ -99,31 +108,31 @@ hide:
     <div class="etis-short-rule"></div>
     <p>A four-part framework covering the full lifecycle of trustworthy intelligent systems.</p>
 
-    <a class="etis-framework-tile blue" href="Part_1/Chapter_01/Chapter_01/">
+    <a class="etis-framework-tile blue" href="Part_1/Part_I_Foundations/">
       <div class="etis-framework-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M10 52h44M14 46h36M17 24h30M13 20l19-9 19 9M20 24v22M29 24v22M38 24v22M47 24v22"/></svg></div>
       <div class="etis-framework-copy"><strong>Part I<br>Foundations</strong><small>Principles, context, and the engineering mindset.</small></div>
       <img src="assets/framework-foundations-photo.png" alt="Bridge at dusk representing engineering foundations">
     </a>
 
-    <a class="etis-framework-tile teal" href="Part_2/Chapter_08/Chapter_08/">
+    <a class="etis-framework-tile teal" href="Part_2/Part_II_Engineering_Practice/">
       <div class="etis-framework-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M25 10h14l2 8 7 4 8-3 7 12-6 6v8l6 6-7 12-8-3-7 4-2 8H25l-2-8-7-4-8 3-7-12 6-6v-8l-6-6 7-12 8 3 7-4 2-8Z"/><circle cx="32" cy="36" r="9"/></svg></div>
       <div class="etis-framework-copy"><strong>Part II<br>Engineering Practice</strong><small>Requirements, architecture, planning, implementation, verification, and delivery.</small></div>
       <img src="assets/framework-practice-photo.png" alt="Steel framework representing engineering practice">
     </a>
 
-    <a class="etis-framework-tile purple" href="Part_3/Chapter_23/Chapter_23/">
+    <a class="etis-framework-tile purple" href="Part_3/Part_III_Operational_Trust/">
       <div class="etis-framework-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M25 15c-7 0-12 5-12 12 0 3 1 5 3 7-3 2-5 5-5 9 0 7 5 12 12 12 4 0 7-2 9-5 2 3 5 5 9 5 7 0 12-5 12-12 0-4-2-7-5-9 2-2 3-4 3-7 0-7-5-12-12-12-3 0-6 1-8 4-2-3-5-4-6-4Z"/><path d="M32 19v31M22 27h9M33 28h10M20 39h11M33 40h11"/></svg></div>
       <div class="etis-framework-copy"><strong>Part III<br>Operational Trust</strong><small>Incidents, observability, security, reliability, governance, and release authority.</small></div>
       <img src="assets/framework-operational-photo.png" alt="Digital network representing operational intelligent systems">
     </a>
 
-    <a class="etis-framework-tile gold" href="Part_4/Chapter_33/Chapter_33/">
+    <a class="etis-framework-tile gold" href="Part_4/Part_IV_Trustworthy_Intelligent_Systems/">
       <div class="etis-framework-icon"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M32 8l22 8v15c0 14-9 24-22 29C19 55 10 45 10 31V16l22-8Z"/><path d="M22 32l7 7 14-16"/></svg></div>
       <div class="etis-framework-copy"><strong>Part IV<br>Trustworthy Intelligent Systems</strong><small>Agentic systems, context engineering, oversight, stewardship, and engineering identity.</small></div>
       <img src="assets/framework-stewardship-photo.png" alt="Lighthouse at sunset representing stewardship and operational trust">
     </a>
 
-    <a class="etis-inline-link" href="Part_1/Chapter_01/Chapter_01/">Explore all chapters →</a>
+    <a class="etis-inline-link" href="Front_Matter/07_Table_of_Contents/">Explore the full table of contents →</a>
   </div>
 </section>
 
@@ -162,10 +171,39 @@ hide:
 </section>
 
 <section class="etis-resource-strip">
-  <a href="Appendices/Appendices/"><span>▤</span><div><strong>Appendices</strong><small>Reference framework and tools</small></div></a>
-  <a href="Resources/Resources/"><span>◫</span><div><strong>Resource Center</strong><small>Downloads, templates, and guides</small></div></a>
-  <a href="Resources/Teaching_with_ETIS/"><span>▱</span><div><strong>Teaching with ETIS</strong><small>Courses, assignments, and teaching materials</small></div></a>
-  <a href="Resources/GitHub_Repository/"><span>◉</span><div><strong>GitHub Repository</strong><small>Source, examples, and ecosystem artifacts</small></div></a>
+
+  <a href="Appendices/Appendices/">
+    <span>▤</span>
+    <div>
+      <strong>Appendices</strong>
+      <small>Reference architectures, models, and engineering guides</small>
+    </div>
+  </a>
+
+  <a href="Resources/Resources/">
+    <span>◫</span>
+    <div>
+      <strong>Resource Center</strong>
+      <small>PDFs, print editions, downloads, and professional resources</small>
+    </div>
+  </a>
+
+<a href="Educational_Ecosystem/Educational_Ecosystem/">
+  <span>▱</span>
+  <div>
+    <strong>Educational Ecosystem</strong>
+    <small>Educational products, courses, starter kits, and implementations</small>
+  </div>
+</a>
+
+  <a href="Resources/Repository_Ecosystem/">
+    <span>◉</span>
+    <div>
+      <strong>Repository Ecosystem</strong>
+      <small>Source, evidence, and repository-centered engineering</small>
+    </div>
+  </a>
+
 </section>
 
 </div>

@@ -15,7 +15,7 @@ hide:
 
 For questions about *Engineering Trustworthy Intelligent Systems* (ETIS), the ETIS framework, publication updates, teaching adoption, professional use, corrections, or related resources, please use the appropriate contact address below.
 
-## General Inquiries
+## Framework and Publication Inquiries
 
 For general questions, website issues, resource questions, errata, corrections, or publication-related inquiries:
 
@@ -37,6 +37,8 @@ Please use these addresses for:
 - instructor-resource inquiries,
 - professional-practice or organizational adoption questions,
 - repository or resource questions,
+- educational ecosystem questions,
+- insitutional adoption inquiries,
 - publication and edition updates,
 - speaking, presentation, or interview inquiries.
 
@@ -63,6 +65,8 @@ The `.com` domain is reserved for brand protection and may redirect to the offic
 ## Notes
 
 Please do not send confidential, proprietary, regulated, student-protected, client-sensitive, security-sensitive, or legally privileged information through email unless an appropriate communication channel has been established.
+
+ETIS is built around responsible engineering practices and encourages responsible information sharing as well.
 
 For privacy information, see the [Privacy](Privacy.md) page.
 
