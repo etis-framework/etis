@@ -2,7 +2,7 @@
 
 **Software Engineering, Governance, and Operational Trust in the AI Era**
 
-Official publication repository for *Engineering Trustworthy Intelligent Systems* and the supporting ETIS publication ecosystem.
+Authoritative platform repository for *Engineering Trustworthy Intelligent Systems* and the supporting ETIS framework ecosystem.
 
 Website: https://etisframework.org
 Author: William T. O'Connell, Ph.D.
@@ -20,6 +20,32 @@ ETIS is a connected ecosystem consisting of publications, reference artifacts, e
 🗺️ [ETIS Roadmap](ROADMAP.md)
 
 🏛️ [ETIS Framework Organization](https://github.com/etis-framework)
+
+---
+
+## Current State
+
+ETIS has evolved from a publication into a public engineering framework platform.
+
+Completed:
+
+✓ ETIS Book (39 chapters)
+
+✓ ETIS Website
+
+✓ Educational Ecosystem
+
+✓ Educational Products
+
+Upcoming:
+
+→ Phase II.b: Public Reference Repositories
+
+Future:
+
+→ Phase III: Professional Ecosystem
+
+ETIS is being developed incrementally through engineering phases while preserving the stability of its core framework doctrine.
 
 ---
 
@@ -42,34 +68,58 @@ Core principles include:
 
 ## Repository Purpose
 
-This repository supports the first-edition publication of ETIS, including:
+This repository is the authoritative source for the ETIS platform.
 
-* The official MkDocs publication website
-* Markdown source content
+It contains:
+
+* The ETIS book
+* The public website
+* Educational ecosystem
+* Educational products
 * Publication assets
-* Figures and diagrams
-* Appendices and supporting materials
-* Downloadable publication files
-* Repository-centered evidence and governance artifacts
+* Downloadable resources
+* Engineering reference materials
+* Governance artifacts
 
-This repository is part of the larger ETIS ecosystem under the `etis-framework` GitHub organization.
+The repository intentionally serves as both a publication system and a long-term engineering platform.
 
 ---
 
-## ETIS Ecosystem
+## ETIS Platform Ecosystems
 
-ETIS extends beyond a single publication and is evolving into a connected engineering ecosystem.
+ETIS now consists of multiple connected ecosystems.
 
-Core components include:
+### Framework Ecosystem
 
 - 📘 ETIS Book
-- 🌐 ETIS Framework Website
-- 🎓 Instructor Course Package (planned)
-- 🎒 Student Starter Kit (planned)
-- 🧰 Professional Toolkit (planned)
-- 🏛️ LMU Enterprise Reference Environment (planned)
-- 🚨 COICP Operational Reference Environment (planned)
-- 📊 Assessment Framework (planned)
+- 📚 Two-Volume Edition
+- 📎 Appendices
+- 🌐 ETIS Website
+
+### Educational Ecosystem
+
+- 🎓 Educational Architecture
+- 👨‍🏫 Instructor Resources
+- 👨‍🎓 Student Resources
+- 🏫 COMP330/474 Flagship Implementation
+- 🏛️ Institutional Adoption Guidance
+- 📄 Educational Product PDFs
+
+### Repository Ecosystem (Phase II.b)
+
+Planned public reference implementations:
+
+- 🎒 COMP330 Reference Repository
+- 🏛️ LMU / COICP Reference Repository
+
+### Professional Ecosystem (Future)
+
+Planned professional engineering resources:
+
+- 🧰 Professional Toolkits
+- 📋 Review Board Playbooks
+- 🏢 Organizational Adoption Models
+- 📊 Operational Engineering Assets
 
 ---
 
@@ -120,8 +170,22 @@ The `docs/` directory is the source of truth for the online publication website.
 **Edition:** First Edition  
 **Version:** 1.0  
 **Published:** June 2026  
-**Status:** Publication-ready website and supporting repository  
-**Primary Site:** https://etisframework.org
+**Primary Site:** https://etisframework.org  
+**Status:** Active public ETIS platform
+
+Completed:
+
+- Framework publication
+- Educational ecosystem
+- Educational products
+
+Current work:
+
+- Phase II.b Public Reference Repositories
+
+Future work:
+
+- Professional ecosystem
 
 ## Releases
 
@@ -144,8 +208,6 @@ No part of this repository may be reproduced, redistributed, modified, adapted, 
 See [LICENSE.md](LICENSE.md) for full license terms.
 
 ---
-
-## Citation
 
 ## Citation
 
