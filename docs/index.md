@@ -35,7 +35,7 @@ hide:
         instructors, and future engineers.
       </p>
 
-      <a class="etis-education-link" href="Educational_Ecosystem/educational_ecosystem/">
+      <a class="etis-education-link" href="Educational_Ecosystem/Educational_Ecosystem/">
         Explore ETIS Education →
       </a>
 
