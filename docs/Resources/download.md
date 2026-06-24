@@ -84,6 +84,12 @@ Open PDF
 
 </div>
 
+> Prefer a professionally printed edition?
+
+> The ETIS two-volume series is also available on Amazon in paperback and hardcover formats.
+
+[View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+
 ---
 
 ## Educational Products
@@ -236,6 +242,7 @@ Downloads are intentionally curated.
 - [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
 - [Resource Center](Resources.md)
 - [GitHub Repository](Repository_Ecosystem.md)
+- [ETIS Library](ETIS_Library.md)
 
 ---
 

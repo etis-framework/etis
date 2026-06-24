@@ -292,6 +292,16 @@ Then use the ETIS Educational Ecosystem, instructor resources, student resources
 
 ---
 
+## Print Editions
+
+The ETIS two-volume edition is also available as professionally printed paperback and hardcover editions through Amazon.
+
+The ETIS website remains the authoritative source for the framework, educational ecosystem, and downloadable resources. Amazon provides a convenient option for readers who prefer durable print editions for long-term reference, teaching, and professional use.
+
+[View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+
+---
+
 ## Beyond the Volumes
 
 *Engineering Trustworthy Intelligent Systems* is designed to extend beyond the printed page.
