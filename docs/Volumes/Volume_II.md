@@ -68,7 +68,15 @@ If you are new to ETIS, start with the ETIS Two-Volume Edition overview to under
 
 [Start Volume II →](../Part_3/Chapter_23/Chapter_23.md)
 
-## Beyond The Book
+## Beyond This Volume
+
+Volume II is one component of the broader ETIS ecosystem.
+
+Explore additional publication formats, downloadable products, educational resources, and professionally printed editions.
+
+[Explore the ETIS Library →](../Resources/ETIS_Library.md)
+
+## Beyond the Book
 
 ETIS extends beyond the book itself.
 

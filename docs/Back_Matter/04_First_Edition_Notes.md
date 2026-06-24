@@ -171,6 +171,10 @@ Additional publication formats include:
 
 The Amazon editions are published as a professionally organized two-volume series intended for long-term reference, teaching, and professional use.
 
+For additional publication formats, downloadable products, educational resources, and print editions:
+
+[Explore the ETIS Library →](../Resources/ETIS_Library.md)
+
 All formats remain part of the First Edition unless explicitly identified otherwise.
 
 ---

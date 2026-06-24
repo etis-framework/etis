@@ -68,6 +68,14 @@ If you are new to ETIS, start with the ETIS Two-Volume Edition overview to under
 
 [Start Volume I →](../Part_1/Chapter_01/Chapter_01.md)
 
+## Beyond This Volume
+
+Volume I is one component of the broader ETIS ecosystem.
+
+Explore additional publication formats, downloadable products, educational resources, and professionally printed editions.
+
+[Explore the ETIS Library →](../Resources/ETIS_Library.md)
+
 ## What Comes Next
 
 Volume I teaches how to build trustworthy intelligent systems.
