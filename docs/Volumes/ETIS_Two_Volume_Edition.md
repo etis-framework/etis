@@ -142,7 +142,7 @@ It moves from the mindset of professional software engineering into the practice
 
 **Operations, Governance, and Organizational Trust**
 
-Volume II moves beyond construction into operational reality.
+Volume II moves beyond construction into the realities of operating, governing, overseeing, and stewarding trustworthy intelligent systems.
 
 It examines what happens after a system begins to matter: defects emerge, incidents occur, AI use expands, operational evidence accumulates, governance decisions become consequential, and organizations must learn from real system behavior.
 

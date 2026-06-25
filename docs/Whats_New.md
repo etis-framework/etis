@@ -53,7 +53,7 @@ Foundations and Engineering Construction
 
 **Volume II**
 
-Operations, Governance, and Stewardship
+Operations, Governance, Oversight, and Stewardship
 
 The two-volume edition improves navigation while preserving the integrity of the complete framework.
 
@@ -135,8 +135,6 @@ The public architecture now includes:
 - Resources
 - Repository Ecosystem
 - Downloads
-
-The ETIS website has evolved from a publication website into a framework ecosystem.
 
 ---
 

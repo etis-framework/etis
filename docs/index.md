@@ -78,10 +78,10 @@ hide:
   <div class="etis-main-column etis-why-column">
     <h2>Why ETIS?</h2>
     <div class="etis-short-rule"></div>
-    <p>The acceleration of AI and intelligent systems demands a new standard: trust must be engineered, not assumed.</p>
+    <p>AI has changed software engineering: trust must be engineered-not assumed.</p>
 
     <ul class="etis-checks">
-      <li>AI systems introduce new risks and complexities.</li>
+      <li>AI accelerates engineering risk.</li>
       <li>Trustworthy systems require disciplined engineering.</li>
       <li>Governance is architecture, not an afterthought.</li>
       <li>Evidence creates accountability and enables trust.</li>
@@ -93,13 +93,22 @@ hide:
   <strong>New to ETIS? Start Here</strong>
 
   <p style="margin:.45rem 0 .6rem 0;">
-  Start with <a href="Framework/What_is_ETIS/">What is ETIS?</a> to learn why ETIS exists, who it serves, and how trustworthy intelligent systems are engineered.
+  Start with <a href="Framework/Why_ETIS/">Why ETIS?</a> to understand the engineering challenge. Then continue with <a href="Framework/What_is_ETIS/">What is ETIS?</a> for a plain-language introduction to the framework.
   </p>
 
-  <a class="etis-inline-link"
-     href="Framework/What_is_ETIS/">
-     Read What is ETIS? →
-  </a>
+  <div>
+    <a class="etis-inline-link"
+       href="Framework/Why_ETIS/">
+       Read Why ETIS? →
+    </a>
+  </div>
+
+  <div style="margin-top:.35rem;">
+    <a class="etis-inline-link"
+       href="Framework/What_is_ETIS/">
+       Read What is ETIS? →
+    </a>
+  </div>
 
 </div>
   </div>
