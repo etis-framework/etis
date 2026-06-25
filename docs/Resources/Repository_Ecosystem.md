@@ -170,7 +170,7 @@ Students learn that evidence is as important as implementation.
 
 ---
 
-## LMU / COICP Reference Repository
+## Inside the LMU / COICP Repository
 
 The Lakeside Metropolitan University (LMU) repository serves as the flagship ETIS reference implementation.
 

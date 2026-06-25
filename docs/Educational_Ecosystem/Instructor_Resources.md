@@ -83,7 +83,7 @@ Guidance for running ETIS classroom experiences as active engineering environmen
 
 It helps instructors facilitate discussion, team accountability, AI responsibility, review boards, and release defenses.
 
-### Instructor Notes Handbook
+### Instructor Handbook
 
 Long-term instructor guidance for preserving institutional memory across repeated ETIS implementations.
 
@@ -287,7 +287,7 @@ The PDFs provide deeper adoption and operating guidance.
 | ---------------------------------------------- | --------------------------------------------------- |
 | ETIS Instructor Course Package.pdf             | Complete instructor onboarding and course operation |
 | ETIS Classroom Facilitation Guide.pdf          | Running ETIS classroom experiences                  |
-| ETIS Instructor Notes Handbook.pdf             | Long-term instructional stewardship                 |
+| ETIS Instructor Handbook.pdf                   | Long-term instructional stewardship                 |
 | ETIS COMP330 Flagship Implementation Guide.pdf | Real-world implementation reference                 |
 
 These products are curated educational products.

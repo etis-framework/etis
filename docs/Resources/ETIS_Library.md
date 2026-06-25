@@ -145,7 +145,9 @@ Volume I answers the central question:
 
 **Operations, Governance, Oversight, and Stewardship**
 
-Volume II focuses on what happens after a system begins to matter operationally.
+Volume II focuses on what happens after a system begins to matter operationally. 
+
+It explores how organizations responsibly operate, govern, oversee, and steward intelligent systems throughout their lifecycle.
 
 It covers:
 

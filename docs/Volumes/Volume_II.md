@@ -35,6 +35,8 @@ Examines technical leadership, engineering stewardship, repository governance, c
 
 ## What This Volume Prepares You To Do
 
+Volume II explores how organizations responsibly operate intelligent systems through observability, operational readiness, governance, reliability engineering, security, human oversight, context engineering, and long-term stewardship.
+
 After completing Volume II, readers should be able to:
 
 * operate systems responsibly after deployment

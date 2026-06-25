@@ -78,7 +78,7 @@ The core ETIS publication products are available now.
 
 <h3>Volume II PDF</h3>
 
-<p><em>Operations, Governance, and Engineering Stewardship</em></p>
+<p><em>Operations, Governance, Oversight, and Stewardship</em></p>
 
 <a class="md-button md-button--primary"
    href="../downloads/ETIS_Volume_2_Paperback.pdf"

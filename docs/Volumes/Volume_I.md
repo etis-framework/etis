@@ -35,6 +35,8 @@ Covers requirements, architecture, planning, design decisions, AI-assisted imple
 
 ## What This Volume Prepares You To Do
 
+Volume I explores how modern software engineering is evolving in the AI era and how requirements engineering, planning, architecture, AI-assisted implementation, testing, reviews, and release readiness fit together as a coherent engineering discipline.
+
 After completing Volume I, readers should be able to:
 
 * think like a software engineer operating in the AI era

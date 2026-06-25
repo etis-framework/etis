@@ -127,6 +127,7 @@ nav:
       - Appendix H: Appendices/Appendix_H/Appendix_H.md
 
   - Framework:
+      - Why ETIS?: Framework/Why_ETIS.md
       - What is ETIS?: Framework/What_is_ETIS.md
       - Framework Overview: Framework/ETIS_Framework.md
 

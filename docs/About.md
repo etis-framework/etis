@@ -105,7 +105,7 @@ ETIS is also presented as a two-volume edition.
 The two volumes are not separate books. They are two phases of one professional engineering journey.
 
 * **Volume I** establishes the foundations and engineering construction practices needed to build trustworthy intelligent systems.
-* **Volume II** moves into operations, governance, organizational trust, and long-term stewardship.
+* **Volume II** moves into operations, governance, oversight, and long-term stewardship.
 
 Together, the volumes teach that trust is not achieved once. It is engineered continuously.
 
