@@ -10,6 +10,10 @@ hide:
 </div>
 
 # ETIS Instructor Resources
+## Engineering Platform Connection
+
+Instructors can use the ETIS Engineering Platform as the course project environment. The Platform provides staged lifecycle guidance, reusable templates, LMU/COICP reference examples, governance assets, and project workspaces that can support labs, checkpoints, reviews, release readiness exercises, and professional formation.
+
 
 ETIS Instructor Resources provide an educational operating system for teaching trustworthy intelligent systems in the AI era.
 
@@ -307,7 +311,7 @@ Understand the educational mission
 ↓
 Study the Instructor Course Package
 ↓
-Review the Student Starter Kit
+Review the Engineering Platform Project Environment
 ↓
 Study the COMP330 flagship implementation
 ↓

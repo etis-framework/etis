@@ -8,7 +8,7 @@ This directory shows how ETIS can be adopted, adapted, and taught in real educat
 
 Adoption examples are not the Educational Ecosystem itself.
 
-They are implementation records that demonstrate how the ETIS book, educational architecture, learning models, shared assets, and student starter kits can be applied within a specific course, institution, program, workshop, or training environment.
+They are implementation records that demonstrate how the ETIS book, educational architecture, learning models, shared assets, and Engineering Platform project environments can be applied within a specific course, institution, program, workshop, or training environment.
 
 ---
 

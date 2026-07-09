@@ -10,6 +10,10 @@ hide:
 </div>
 
 # ETIS COMP330 Flagship Implementation
+## Engineering Platform Connection
+
+The completed ETIS Engineering Platform strengthens the flagship implementation by providing a reusable project environment for staged engineering work. COMP330/474 teams can use Platform stages, templates, examples, and workspaces to practice repository-centered engineering in a way that aligns with ETIS doctrine.
+
 
 The Loyola University Chicago COMP330/474 implementation is the flagship ETIS educational implementation and feedback system.
 

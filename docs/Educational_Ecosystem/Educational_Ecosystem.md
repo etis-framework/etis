@@ -10,6 +10,12 @@ hide:
 </div>
 
 # ETIS Educational Ecosystem
+## Engineering Platform Connection
+
+The ETIS Engineering Platform now provides the practical project environment for ETIS education. Instructors and students can use the Platform for Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and project workspaces.
+
+The educational ecosystem teaches the discipline. The Engineering Platform gives learners a place to practice it.
+
 
 The ETIS Educational Ecosystem turns the ETIS Framework into teachable, adoptable, and stewardable educational products for instructors, students, and institutions.
 
@@ -174,9 +180,9 @@ It supports six instructional engines:
 
 ---
 
-## Student Starter Kit
+## Engineering Platform Project Environment
 
-The ETIS Student Starter Kit is a professional engineering environment, not a software platform.
+The ETIS Engineering Platform Project Environment is a professional engineering environment, not a software platform.
 
 It separates student work into clear engineering responsibilities:
 

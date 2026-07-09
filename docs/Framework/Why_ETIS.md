@@ -360,11 +360,12 @@ That is the engineering question of the AI era.
 |---|---|
 | [What is ETIS?](What_is_ETIS.md) | Plain-language introduction to the framework |
 | [ETIS Framework](ETIS_Framework.md) | Full framework overview and lifecycle architecture |
+| [Engineering Platform](https://platform.etisframework.org) | Apply ETIS through stages, templates, LMU/COICP examples, governance assets, and project workspaces |
 | [Read Online](../Front_Matter/01_Title_Page.md) | Begin the complete online book |
 | [Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the two volumes work together |
 | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Explore teaching, learning, and institutional adoption |
 | [Resource Center](../Resources/Resources.md) | Access downloads, products, and supporting resources |
-| [Repository Ecosystem](../Resources/Repository_Ecosystem.md) | Understand repository-centered engineering in practice |
+| [Repository-Centered Engineering](ETIS_Repository_Centered_Engineering.md) | Understand how ETIS uses repositories as systems of record for engineering evidence |
 
 ---
 

@@ -4,7 +4,7 @@
 
 This document defines the educational design principles that govern the ETIS (Engineering Trustworthy Intelligent Systems) Educational Ecosystem.
 
-These principles guide the creation of educational architecture, learning models, shared assets, student starter kits, adoption examples, classroom exercises, assessment mechanisms, and instructor materials.
+These principles guide the creation of educational architecture, learning models, shared assets, Engineering Platform project environments, adoption examples, classroom exercises, assessment mechanisms, and instructor materials.
 
 The purpose of this document is to preserve coherence as the Educational Ecosystem grows.
 

@@ -17,7 +17,7 @@ The ecosystem supports:
 - educational architecture
 - learning models
 - shared educational assets
-- student starter kits
+- Engineering Platform project environments
 - instructor course packages
 - adoption examples
 
@@ -195,7 +195,7 @@ Shared assets provide reusable educational capabilities.
 
 Instructor course packages help instructors operate ETIS educational systems.
 
-Student starter kits provide environments where learners practice trustworthy engineering.
+Engineering Platform project environments provide environments where learners practice trustworthy engineering.
 
 Adoption examples prove ETIS in real educational settings.
 

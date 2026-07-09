@@ -1,269 +1,155 @@
----
-hide:
-  - toc
----
-
-<div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="../../assets/etis-logo.svg"
-       alt="ETIS"
-       style="width:320px; max-width:60%; height:auto;">
-</div>
-
 # ETIS Repository Ecosystem
 
-**Repository-centered engineering in practice**
+ETIS is a repository-centered engineering ecosystem.
 
-The ETIS GitHub ecosystem demonstrates one of the central ETIS principles:
+The public ecosystem is intentionally organized around two repositories with different responsibilities.
 
-> Everything important leaves evidence.
+| Repository | Site | Responsibility |
+|---|---|---|
+| **ETIS Framework Repository** | https://etisframework.org | Authoritative source for the ETIS Framework, book, website, education, downloads, resources, and roadmap. |
+| **ETIS Engineering Platform Starter Kit Repository** | https://platform.etisframework.org | Practical implementation environment containing Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and a project workspace. |
 
-Repositories are not supplements to ETIS.
+This separation is deliberate.
 
-They are part of the framework itself.
-
-The ETIS repository ecosystem connects engineering decisions, evidence, reviews, governance, operations, and organizational learning across the entire lifecycle of trustworthy intelligent systems.
-
----
-
-## Why Repositories Matter
-
-Within ETIS, repositories are more than code storage locations.
-
-Repositories become systems of record that preserve:
-
-* engineering intent
-* assumptions
-* requirements
-* architectural decisions
-* AI usage
-* reviews
-* test evidence
-* release decisions
-* operational learning
-* incidents
-* stewardship knowledge
-
-The repository is where engineering memory lives.
+The Framework repository defines and publishes the discipline.  
+The Starter Kit repository demonstrates how to apply the discipline.
 
 ---
 
-## Repository Ecosystem Overview
+## Public Repositories
 
-The ETIS ecosystem is organized around several complementary repository models.
+### ETIS Framework Repository
 
-## ETIS Flagship Reference Implementations
+Repository: https://github.com/etis-framework/etis  
+Website: https://etisframework.org
 
-The ETIS ecosystem includes two flagship reference implementations.
+The Framework repository contains the authoritative ETIS publication and website system.
 
-These repositories bridge ETIS education and future professional adoption.
+It includes:
 
-They demonstrate how ETIS moves from doctrine into real engineering environments.
-
-### ETIS COMP330 Reference Implementation
-
-The COMP330 reference implementation demonstrates how ETIS operates within a university software engineering course.
-
-The repository will showcase:
-
-* repository-centered engineering
-* responsible AI usage
-* project lifecycle management
-* team-based engineering
-* release readiness
-* engineering accountability
-* evidence-centered learning
-
-Its objective is not to teach students how to complete assignments.
-
-Its objective is to help students practice professional engineering behaviors.
-
-> Status: Under development as part of the ETIS educational ecosystem.
-
-### ETIS LMU Reference Enterprise
-
-The Lakeside Metropolitan University (LMU) reference repository demonstrates ETIS across the complete intelligent systems lifecycle.
-
-Unlike a static example repository, LMU evolves throughout the ETIS framework itself.
-
-Readers will eventually be able to observe how engineering evidence accumulates chapter by chapter.
-
-The repository will demonstrate:
-
-* requirements evolution
-* architecture development
-* AI governance
-* implementation decisions
-* reviews and verification
-* release readiness
-* observability
-* incident response
-* operational trust
-* stewardship
-
-LMU is intentionally designed as an evolving enterprise rather than a finished system.
-
-> Status: Under development as a living ETIS reference implementation.
-
----
-
-## ETIS Publication Repository
-
-The publication repository is the authoritative source for the ETIS public ecosystem.
-
-It supports:
-
-* book publication
-* website generation
-* figures and visual assets
+* the ETIS book
+* the two-volume edition
 * appendices
-* downloads
-* educational products
-* publication releases
-* issue tracking
-* continuous improvement
+* downloadable publication assets
+* educational ecosystem materials
+* educational product references
+* framework resources
+* public roadmap
+* MkDocs website source
+* website assets and navigation
 
-Typical contents include:
-
-* Markdown manuscripts
-* MkDocs configuration
-* publication assets
-* figures and diagrams
-* branding resources
-* downloadable products
-* release history
+This repository is the long-term authority for ETIS doctrine.
 
 ---
 
-## ETIS Educational Ecosystem Repositories
+### ETIS Engineering Platform Starter Kit Repository
 
-Educational products extend ETIS into classroom and institutional environments.
+Repository: https://github.com/etis-framework/etis-starter-kit  
+Website: https://platform.etisframework.org
 
-Educational repositories may support:
+The Starter Kit repository contains the ETIS Engineering Platform.
 
-* instructor products
-* student products
-* flagship implementations
-* institutional adoption
-* educational stewardship
+It includes:
 
-These repositories preserve educational continuity over time.
+* Engineering Stages ES-100 through ES-114
+* stage guidance, activities, outputs, evidence expectations, readiness gates, and manifests
+* Template Library
+* completed LMU/COICP reference examples
+* Project Workspace
+* governance and evidence-centered engineering assets
+* GitHub workflows and collaboration templates
+* MkDocs-based platform site
+
+This repository is the practical application layer for ETIS.
 
 ---
 
-## ETIS Student Starter Kit Repository
-
-The Student Starter Kit provides a professional engineering environment rather than a software platform.
-
-Students learn repository-centered engineering without first inventing repository architecture.
-
-The repository separates responsibilities clearly:
+## Ecosystem Architecture
 
 ```text
-docs/    Think
-src/     Build
-tests/   Verify
-data/    Support
-scripts/ Automate
+ETIS Framework Website and Repository
+    Learn ETIS
+    Read the book
+    Understand the doctrine
+    Use education and framework resources
+    Download publication assets
+
+ETIS Engineering Platform and Starter Kit Repository
+    Apply ETIS
+    Follow Engineering Stages ES-100 through ES-114
+    Use templates
+    Study LMU/COICP examples
+    Create project-specific evidence
 ```
 
-Students learn that evidence is as important as implementation.
+The repositories complement each other without overlapping responsibilities.
 
 ---
 
-## Inside the LMU / COICP Repository
+## LMU/COICP Reference Examples
 
-The Lakeside Metropolitan University (LMU) repository serves as the flagship ETIS reference implementation.
+ETIS uses Lakeside Metropolitan University (LMU) and the Campus Operations and Incident Coordination Platform (COICP) as a continuing enterprise example.
 
-The Campus Operations and Incident Coordination Platform (COICP) demonstrates engineering evolution over time.
+In the current public ecosystem, LMU/COICP examples are included inside the Engineering Platform Starter Kit. They are not described as a separate planned public repository.
 
-Readers should be able to observe:
+The examples show how ETIS artifacts connect across the lifecycle:
 
-* requirements evolution
-* architectural decisions
-* planning activities
-* implementation evidence
-* reviews
-* AI governance
+* vision and problem framing
+* requirements and constraints
+* planning and work breakdown
+* architecture
+* design decisions and ADRs
+* AI-assisted implementation controls
+* code review and integration evidence
+* testing and verification
 * release readiness
-* operational governance
-* incidents
-* postmortems
-* stewardship learning
+* operational readiness
+* deployment and transition
+* operations and monitoring
+* post-release learning and stewardship
 
-The objective is not to showcase a finished project.
-
-The objective is to demonstrate how engineering evidence accumulates over time.
+The examples make the framework inspectable.
 
 ---
 
-## Repository-Centered Engineering
+## Template Library
 
-Repository-centered engineering is one of the foundational ETIS concepts.
+The Template Library provides reusable ETIS-aligned artifact structures.
 
-Repositories preserve:
+Templates help teams start faster while preserving discipline. They are useful for students, instructors, professional teams, review boards, and organizations adopting ETIS practices.
 
-| Activity | What Is Preserved |
+Templates do not replace engineering judgment. They create a consistent place to preserve it.
+
+---
+
+## Project Workspace
+
+The Project Workspace gives adopters a place to create project-specific evidence.
+
+It is designed to be adapted for real projects, class projects, professional pilots, and institutional demonstrations.
+
+The workspace is where teams turn ETIS concepts into reviewable evidence.
+
+---
+
+## How to Use the Ecosystem
+
+| Need | Start Here |
 |---|---|
-| Requirements | Intent |
-| Architecture | Decisions |
-| Reviews | Accountability |
-| AI Use | Transparency |
-| Testing | Verification |
-| Releases | Judgment |
-| Operations | Reality |
-| Postmortems | Learning |
-| Stewardship | Continuity |
-
-Repositories connect the entire engineering lifecycle.
-
----
-
-## Future Repository Assets
-
-Future repository assets may include:
-
-* starter repositories
-* populated reference implementations
-* template libraries
-* evidence packages
-* governance examples
-* review-board resources
-* operational toolkits
-
-Repository products will be intentionally curated.
-
-Not every internal artifact will become a public resource.
-
----
-
-## Related Resources
-
-- [ETIS Framework](../Framework/ETIS_Framework.md)
-- [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
-- [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
-- [Resource Center](Resources.md)
-
----
-
-## Repository Doctrine
-
-Several ETIS principles govern repository-centered engineering:
-
-* Everything important leaves evidence.
-* AI proposes; engineers verify.
-* Governance is architecture.
-* Context is control.
-* The model is not the system.
-* A demo is not operational proof.
-* Educational memory is educational infrastructure.
-* Tools change. Engineering behaviors endure.
+| Learn what ETIS is | [What is ETIS?](../Framework/What_is_ETIS.md) |
+| Understand why ETIS exists | [Why ETIS?](../Framework/Why_ETIS.md) |
+| Read the complete framework | [Read Online](../Front_Matter/01_Title_Page.md) |
+| Download the book PDFs | [Downloads](download.md) |
+| Understand repository-centered engineering | [Repository-Centered Engineering](../Framework/ETIS_Repository_Centered_Engineering.md) |
+| Apply ETIS to a project | [ETIS Engineering Platform](https://platform.etisframework.org) |
+| Use stages, templates, and examples | [Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
 
 ---
 
 ## Bottom Line
 
-The ETIS GitHub ecosystem demonstrates how trustworthy engineering work can be organized, reviewed, governed, operated, and continuously improved over time.
+ETIS is intentionally organized as a framework plus platform ecosystem.
 
-The repository is not where engineering ends.
-
-The repository is where engineering continuity begins.
+The Framework explains the discipline.  
+The Platform operationalizes the discipline.  
+The repository preserves the evidence that makes trust reviewable.

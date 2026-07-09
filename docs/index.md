@@ -25,19 +25,25 @@ hide:
       </p>
 
       <p class="etis-hero-copy-text">
-        ETIS is a practical engineering framework for building, governing,
-        operating, and continuously improving trustworthy intelligent systems
-        throughout their lifecycle.
+        ETIS is an engineering framework for building, governing, operating, and continuously improving trustworthy intelligent systems.
       </p>
 
       <p class="etis-hero-education-text">
-        It also provides a complete educational ecosystem for universites,
-        instructors, and future engineers.
+        An educational ecosystem and an open Engineering Platform help students, engineers, and organizations put ETIS into practice.
       </p>
 
-      <a class="etis-education-link" href="Educational_Ecosystem/Educational_Ecosystem/">
-        Explore ETIS Education →
-      </a>
+      <p class="etis-hero-copy-text">
+        <strong>Read the Framework. Learn the discipline. Apply it through the Engineering Platform.</strong>
+      </p>
+
+      <div class="etis-hero-links">
+        <a class="etis-education-link" href="Educational_Ecosystem/Educational_Ecosystem/">
+          Explore Education →
+        </a>
+        <a class="etis-education-link" href="https://platform.etisframework.org">
+          Explore Engineering Platform →
+        </a>
+      </div>
 
       <div class="etis-hero-buttons-final">
         <a class="etis-hero-button etis-primary-button" href="Front_Matter/01_Title_Page/">
@@ -67,7 +73,7 @@ hide:
               <path d="M7.5 24.5h17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
             </svg>
           </span>
-          <span class="etis-button-text"><strong>Download</strong><small>PDF Library</small></span>
+          <span class="etis-button-text"><strong>Download</strong><small>Library</small></span>
         </a>
       </div>
     </div>
@@ -181,6 +187,9 @@ hide:
 
     <p class="etis-evidence-sentence"><strong>Everything important leaves evidence.</strong></p>
 
+    <h3 style="margin:.65rem 0 .15rem; color:#06142d; font-family:Georgia, 'Times New Roman', serif; font-size:1.25rem;">Engineering Principles</h3>
+    <p style="max-width:760px; margin:.1rem auto .8rem; color:#526179;">Repository-centered engineering is guided by the following engineering principles.</p>
+
     <div class="etis-capability-row">
       <div><span>🛡</span><strong>Engineering First</strong><small>Sound engineering practices applied to intelligent systems.</small></div>
       <div><span>👥</span><strong>Human Oversight</strong><small>Engineers remain accountable for outcomes and impact.</small></div>
@@ -192,13 +201,36 @@ hide:
   </div>
 </section>
 
+<section class="etis-repo-section">
+  <div class="etis-repo-inner">
+    <h2>ETIS Engineering Platform</h2>
+    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how to apply it through Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and project workspaces.</p>
+
+    <div class="etis-capability-row">
+      <div><span>①</span><strong>Stages</strong><small>ES-100 through ES-114 guide lifecycle work.</small></div>
+      <div><span>▤</span><strong>Templates</strong><small>Reusable artifacts preserve engineering judgment.</small></div>
+      <div><span>🏛</span><strong>Examples</strong><small>LMU/COICP shows ETIS in practice.</small></div>
+      <div><span>🗂</span><strong>Workspace</strong><small>Project evidence has a clear home.</small></div>
+      <div><span>⚖</span><strong>Governance</strong><small>AI use, review, and readiness become visible.</small></div>
+      <div><span>↗</span><strong>Execution</strong><small>Teams move from doctrine to action.</small></div>
+    </div>
+
+    <p class="etis-evidence-sentence"><strong>Read the Framework to understand ETIS. Use the Engineering Platform to apply ETIS.</strong></p>
+
+    <div class="etis-platform-links" style="margin-top:.25rem; line-height:1.55;">
+      <a class="etis-inline-link" href="https://platform.etisframework.org">Explore the Engineering Platform →</a><br>
+      <a class="etis-inline-link" href="https://github.com/etis-framework/etis-starter-kit">Browse the Starter Kit Repository →</a>
+    </div>
+  </div>
+</section>
+
 <section class="etis-resource-strip">
 
   <a href="Appendices/Appendices/">
     <span>▤</span>
     <div>
       <strong>Appendices</strong>
-      <small>Reference architectures, models, and engineering guides</small>
+      <small>Reference architectures, models, terminology, and engineering guides</small>
     </div>
   </a>
 
@@ -206,23 +238,23 @@ hide:
     <span>◫</span>
     <div>
       <strong>Resource Center</strong>
-      <small>PDFs, print editions, downloads, and professional resources</small>
+      <small>PDFs, print editions, downloads, repository guidance, and professional resources</small>
     </div>
   </a>
 
-<a href="Educational_Ecosystem/Educational_Ecosystem/">
-  <span>▱</span>
-  <div>
-    <strong>Educational Ecosystem</strong>
-    <small>Educational products, courses, starter kits, and implementations</small>
-  </div>
-</a>
-
-  <a href="Resources/Repository_Ecosystem/">
-    <span>◉</span>
+  <a href="Educational_Ecosystem/Educational_Ecosystem/">
+    <span>▱</span>
     <div>
-      <strong>Repository Ecosystem</strong>
-      <small>Source, evidence, and repository-centered engineering</small>
+      <strong>Education</strong>
+      <small>Courses, instructor resources, student resources, adoption, and implementation guidance</small>
+    </div>
+  </a>
+
+  <a href="https://platform.etisframework.org">
+    <span>▣</span>
+    <div>
+      <strong>Engineering Platform</strong>
+      <small>Engineering stages, reusable templates, LMU/COICP examples, governance assets, and project workspaces</small>
     </div>
   </a>
 

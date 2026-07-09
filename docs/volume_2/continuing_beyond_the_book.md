@@ -8,7 +8,7 @@ Resources include:
 
 - The ETIS website
 - The ETIS public repository
-- Student starter kits
+- ETIS Engineering Platform project workspaces
 - Instructor course materials
 - Professional engineering toolkits
 - Review board playbooks

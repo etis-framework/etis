@@ -137,7 +137,26 @@ The goal is observable engineering maturity.
 
 [Explore ETIS Education →](Educational_Ecosystem/Educational_Ecosystem.md)
 
+
 ---
+
+## The ETIS Engineering Platform
+
+The ETIS Engineering Platform is the practical implementation layer of the Framework.
+
+The Framework defines the discipline.  
+The Platform demonstrates how to apply it.
+
+The Platform includes:
+
+* Engineering Stages ES-100 through ES-114
+* reusable engineering templates
+* completed LMU/COICP reference examples
+* Project Workspace structure
+* governance and evidence-centered engineering assets
+* GitHub-based collaboration and review patterns
+
+The Engineering Platform is publicly available at [platform.etisframework.org](https://platform.etisframework.org), with source in the [ETIS Starter Kit repository](https://github.com/etis-framework/etis-starter-kit).
 
 ## Repository-Centered Engineering
 
@@ -171,6 +190,8 @@ ETIS uses Lakeside Metropolitan University (LMU) and the Campus Operations and I
 This continuity environment allows readers to follow an intelligent system as it moves from early intent through requirements, architecture, implementation, review, release, operations, incidents, AI governance, context engineering, organizational learning, and stewardship.
 
 LMU and COICP make the framework concrete.
+
+In the completed public ecosystem, LMU/COICP is represented through completed reference examples inside the ETIS Engineering Platform Starter Kit. It is not a planned separate public repository. The examples show how framework concepts become repository-centered evidence across a realistic lifecycle.
 
 They show that trustworthiness is not created by one artifact, one meeting, one model, or one release. It emerges across the lifecycle as evidence accumulates and the organization learns how to govern the system responsibly.
 
@@ -208,6 +229,7 @@ ETIS is now expressed through several connected public forms:
 | **The appendices** | Professional reference library |
 | **The framework page** | Public conceptual overview |
 | **The educational ecosystem** | Teaching, learning, and adoption products |
+| **The Engineering Platform** | Practical application environment with stages, templates, examples, governance assets, and project workspaces |
 | **The resource center** | Public access points and support materials |
 | **The download and print library** | Offline PDFs and professional print editions |
 | **The repository ecosystem** | Repository-centered engineering in practice |
