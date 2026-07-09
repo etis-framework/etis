@@ -7,17 +7,17 @@
 
 ## Vision
 
-Engineering Trustworthy Intelligent Systems (ETIS) is an evolving repository-centered engineering ecosystem for building, governing, operating, and stewarding trustworthy intelligent systems in the AI era.
+Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered engineering ecosystem for building, governing, operating, teaching, and stewarding trustworthy intelligent systems in the AI era.
 
-ETIS extends beyond a single publication. It is intended to become a comprehensive body of knowledge consisting of educational resources, professional practices, reference implementations, and engineering artifacts that help organizations responsibly adopt and sustain intelligent systems over time.
+ETIS is no longer only a publication. It is now a connected public ecosystem consisting of an authoritative framework, public website, professional book editions, educational resources, an Engineering Platform, reusable templates, LMU/COICP reference examples, and project workspaces.
 
-This roadmap communicates the intended evolution of ETIS while preserving the principles established in the First Edition.
+This roadmap records the current ecosystem and the intended evolution of ETIS while preserving the First Edition doctrine.
 
 ---
 
 ## Foundational Principles
 
-ETIS is built upon six enduring principles.
+ETIS is built on six enduring principles.
 
 * **AI proposes; engineers verify.**
 * **Governance is architecture.**
@@ -26,27 +26,28 @@ ETIS is built upon six enduring principles.
 * **The model is not the system.**
 * **A demo is not operational proof.**
 
-These principles will remain stable as the ecosystem evolves.
+These principles remain stable across the Framework, Engineering Platform, educational ecosystem, and future professional resources.
 
 ---
 
-# Phase I — Foundation (Completed)
+# Phase I — Framework Foundation (Completed)
 
-The ETIS foundation has been established.
+The core ETIS framework foundation has been established.
 
 ### Publications
 
 * ✅ ETIS First Edition completed
-* ✅ Volume I publication completed
-* ✅ Volume II publication completed
+* ✅ Volume I completed
+* ✅ Volume II completed
 * ✅ Paperback and hardcover publication assets created
 * ✅ ISBN registration completed
+* ✅ Downloadable PDF library published
 
 ### Digital Presence
 
-* ✅ ETIS public website established
-* ✅ GitHub organization established
-* ✅ GitHub repository established
+* ✅ ETIS public framework website established: https://etisframework.org
+* ✅ ETIS GitHub organization established: https://github.com/etis-framework
+* ✅ ETIS Framework repository established: https://github.com/etis-framework/etis
 * ✅ Public documentation architecture established
 
 ### Framework Architecture
@@ -54,19 +55,21 @@ The ETIS foundation has been established.
 * ✅ Repository-Centered Engineering established
 * ✅ Evidence-Centered Engineering established
 * ✅ Governance architecture established
-* ✅ LMU and COICP enterprise case study architecture established
+* ✅ LMU and COICP enterprise continuity model established
+* ✅ Framework, book, website, education, and resources integrated
 
 ### Visual Identity
 
 * ✅ ETIS branding established
-* ✅ ETIS logo established
+* ✅ ETIS logo and visual identity established
+* ✅ ETIS website presentation established
 * ✅ ETIS visual governance standards established
 
 ---
 
 # Phase II — Educational Ecosystem (Completed)
 
-Expand ETIS into a comprehensive educational platform.
+ETIS has been expanded into a public educational ecosystem for universities, instructors, students, and institutional adopters.
 
 ### Completed Capabilities
 
@@ -83,89 +86,136 @@ Expand ETIS into a comprehensive educational platform.
 * ✅ ETIS Student Professional Engineering Guide
 * ✅ ETIS COMP330 Flagship Implementation Guide
 
----
+### Educational Positioning
 
-# Phase II.b — Public Reference Repositories (Planned)
+The educational ecosystem teaches ETIS as professional formation, not merely as course content. It gives instructors and students a way to practice repository-centered engineering, evidence discipline, AI governance, review, release readiness, operational thinking, and stewardship.
 
-Build public reference repositories that demonstrate ETIS in practice.
-
-### Planned Capabilities
-
-* ☐ COMP330 Reference Repository
-* ☐ Student Starter Kit public reference implementation
-* ☐ LMU / COICP Reference Repository
-* ☐ Chapter-aligned repository evolution
-* ☐ Tagged lifecycle states
-* ☐ Public reference evidence packages
+The Engineering Platform now serves as the practical project environment for that educational work.
 
 ---
 
-# Phase III — Professional Ecosystem (Planned)
+# Phase II.b — Engineering Platform Starter Kit (Completed)
 
-Translate ETIS concepts into reusable professional resources.
+The ETIS Engineering Platform Starter Kit has been completed as the practical implementation layer of the ETIS ecosystem.
 
-### Planned Capabilities
+### Completed Capabilities
+
+* ✅ ETIS Engineering Platform public site: https://platform.etisframework.org
+* ✅ ETIS Starter Kit repository: https://github.com/etis-framework/etis-starter-kit
+* ✅ Engineering Stages ES-100 through ES-114
+* ✅ Stage guidance, activities, outputs, evidence expectations, readiness gates, and stage manifests
+* ✅ Reusable Template Library
+* ✅ Completed LMU/COICP reference examples
+* ✅ Project Workspace structure for adopter projects
+* ✅ Governance and evidence-centered engineering assets
+* ✅ GitHub collaboration templates and workflows
+* ✅ MkDocs-based publication architecture
+
+### Architectural Role
+
+The Engineering Platform does not replace the Framework.
+
+The Framework defines the discipline.  
+The Platform demonstrates how to apply the discipline.
+
+The Framework repository remains the authoritative source for the ETIS book, public framework website, educational materials, downloads, and ecosystem explanation. The Starter Kit repository maintains the practical engineering platform: stages, templates, examples, governance assets, and project workspace.
+
+### Important Boundary
+
+LMU/COICP is no longer treated as a planned separate public repository in the Framework roadmap. It is represented as completed reference examples inside the Engineering Platform Starter Kit.
+
+---
+
+# Phase III — Professional Ecosystem (Active / Evolving)
+
+Translate ETIS concepts into reusable professional adoption resources for engineering teams, review boards, governance groups, instructors, and organizations.
+
+### Planned and Evolving Capabilities
 
 * ☐ Review Board Playbook
-* ☐ Repository templates
-* ☐ Governance templates
-* ☐ Architecture decision templates
-* ☐ Release readiness packages
-* ☐ Operational readiness packages
-* ☐ Incident response playbooks
+* ☐ Professional Toolkit
+* ☐ Organizational adoption models
+* ☐ Governance operating model guidance
+* ☐ Operational readiness and release readiness packages
+* ☐ Stewardship review guidance
+* ☐ Trustworthy engineer portfolio model
+* ☐ Additional simulation and case-study assets
+* ☐ Additional reference examples beyond LMU/COICP
+
+### Direction
+
+Phase III should build on the completed Engineering Platform rather than duplicate it. Professional resources should point teams into the Platform when they need stages, templates, examples, or workspaces, and into the Framework when they need doctrine, explanation, education, or publication authority.
 
 ---
 
-# Phase IV — Community Ecosystem (Future)
+# Phase IV — Community and Adoption Ecosystem (Future)
 
-Establish ETIS as an evolving public engineering community.
+Create pathways for external adoption, feedback, classroom use, institutional pilots, and professional application while preserving the stability of the ETIS doctrine.
 
-### Planned Capabilities
+### Potential Capabilities
 
-* ☐ Community discussions
-* ☐ Practitioner contributions
-* ☐ Additional case studies
-* ☐ Public adoption examples
-* ☐ Companion publications
+* ☐ Adoption stories
+* ☐ Instructor implementation examples
+* ☐ Professional practice examples
+* ☐ Community feedback model
+* ☐ Public issue and contribution guidance
+* ☐ Release notes and ecosystem stewardship practices
 * ☐ Future editions
 
 ---
 
-# ETIS Ecosystem
+# Current Public Ecosystem
 
-ETIS is intended to evolve into a connected engineering ecosystem.
+ETIS currently consists of the following public components.
 
-### Core Components
+| Component | Public Location | Role |
+|---|---|---|
+| **ETIS Framework Website** | https://etisframework.org | Authoritative public site for the framework, book, education, downloads, resources, and ecosystem explanation. |
+| **ETIS Framework Repository** | https://github.com/etis-framework/etis | Source repository for the Framework website, publication assets, educational ecosystem, roadmap, and public framework materials. |
+| **ETIS Engineering Platform** | https://platform.etisframework.org | Public platform site for applying ETIS through stages, templates, examples, and workspaces. |
+| **ETIS Starter Kit Repository** | https://github.com/etis-framework/etis-starter-kit | Source repository for the Engineering Platform, ES-100 through ES-114, Template Library, LMU/COICP examples, governance assets, and Project Workspace. |
 
-📘 ETIS Book
+---
 
-🌐 ETIS Framework Website
+# Ecosystem Architecture
 
-🎓 ETIS Educational Ecosystem
+ETIS is intentionally separated into two complementary public repositories.
 
-📄 Educational Product Library
+```text
+ETIS Framework
+├── Framework Website / Framework Repository
+│   ├── Book
+│   ├── Volumes
+│   ├── Appendices
+│   ├── Education
+│   ├── Downloads
+│   ├── Framework resources
+│   └── Ecosystem roadmap
+│
+└── Engineering Platform / Starter Kit Repository
+    ├── Engineering Stages ES-100 through ES-114
+    ├── Template Library
+    ├── LMU/COICP reference examples
+    ├── Project Workspace
+    ├── Governance assets
+    └── Evidence-centered engineering assets
+```
 
-🎒 COMP330 Reference Repository (Phase II.b)
+This separation protects clarity.
 
-🏛️ LMU / COICP Reference Repository (Phase II.b)
-
-🧰 Professional Ecosystem (Phase III)
-
-🌐 Community Ecosystem (Phase IV)
+The Framework explains ETIS.  
+The Platform operationalizes ETIS.
 
 ---
 
 # Guiding Philosophy
 
-ETIS is not a static publication.
-
-It is a long-term engineering discipline that integrates software engineering, AI governance, operational trust, human oversight, and organizational stewardship into a unified approach for building trustworthy intelligent systems.
+ETIS is a long-term engineering discipline that integrates software engineering, AI governance, operational trust, human oversight, evidence, and organizational stewardship into a unified approach for building trustworthy intelligent systems.
 
 The objective is not simply to build intelligent systems.
 
-The objective is to build intelligent systems that organizations can trust over time.
+The objective is to build intelligent systems that organizations can understand, govern, operate, improve, and trust over time.
 
 ---
 
 *ETIS Framework — Engineering Trustworthy Intelligent Systems*
-

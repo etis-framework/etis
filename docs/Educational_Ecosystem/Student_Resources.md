@@ -10,6 +10,10 @@ hide:
 </div>
 
 # ETIS Student Resources
+## Engineering Platform Connection
+
+Students can use the ETIS Engineering Platform as the practical workspace for applying the framework. The Platform provides Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, and a Project Workspace that help students produce reviewable engineering evidence instead of isolated assignment artifacts.
+
 
 ETIS Student Resources help students practice software engineering as professional engineering work in the AI era.
 
@@ -65,9 +69,9 @@ The goal is to become a trustworthy engineer.
 
 ## Start Here
 
-### Student Starter Kit
+### Engineering Platform Project Environment
 
-The ETIS Student Starter Kit is a professional engineering environment, not a software platform.
+The ETIS Engineering Platform Project Environment is a professional engineering environment, not a software platform.
 
 It helps students organize engineering work into clear responsibilities:
 
@@ -123,9 +127,9 @@ Each stage requires stronger evidence, better judgment, and greater ownership.
 
 ---
 
-## Student Starter Kit Structure
+## Engineering Platform Project Environment Structure
 
-The Student Starter Kit separates engineering responsibilities clearly.
+The Engineering Platform Project Environment separates engineering responsibilities clearly.
 
 | Area       | Responsibility                            |
 | ---------- | ----------------------------------------- |

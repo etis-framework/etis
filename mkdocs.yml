@@ -110,11 +110,30 @@ nav:
           - Contact: Legal/Contact.md
           - Privacy: Legal/Privacy.md
 
-  - Volumes:
-      - ETIS Two-Volume Edition: Volumes/ETIS_Two_Volume_Edition.md
-      - Volume I: Volumes/Volume_I.md
-      - Volume II: Volumes/Volume_II.md
+  - Framework:
+      - Why ETIS?: Framework/Why_ETIS.md
+      - What is ETIS?: Framework/What_is_ETIS.md
+      - Framework Overview: Framework/ETIS_Framework.md
+      - Repository-Centered Engineering: Framework/ETIS_Repository_Centered_Engineering.md
 
+  - Education:
+      - Educational Ecosystem: Educational_Ecosystem/Educational_Ecosystem.md
+      - Educational Products: Educational_Ecosystem/Educational_Products.md
+      - Instructor Resources: Educational_Ecosystem/Instructor_Resources.md
+      - Student Resources: Educational_Ecosystem/Student_Resources.md
+      - Flagship Implementation: Educational_Ecosystem/Flagship_Implementation.md
+      - Institutional Adoption: Educational_Ecosystem/Institutional_Adoption.md
+
+  - Engineering Platform:
+      - Open Platform: https://platform.etisframework.org
+      - Starter Kit Repository: https://github.com/etis-framework/etis-starter-kit
+
+  - Resources:
+      - Resource Center: Resources/Resources.md
+      - ETIS Library: Resources/ETIS_Library.md
+      - Downloads: Resources/download.md
+      - Repository Ecosystem: Resources/Repository_Ecosystem.md
+  
   - Appendices:
       - Appendices Overview: Appendices/Appendices.md
       - Appendix A: Appendices/Appendix_A/Appendix_A.md
@@ -125,25 +144,6 @@ nav:
       - Appendix F: Appendices/Appendix_F/Appendix_F.md
       - Appendix G: Appendices/Appendix_G/Appendix_G.md
       - Appendix H: Appendices/Appendix_H/Appendix_H.md
-
-  - Framework:
-      - Why ETIS?: Framework/Why_ETIS.md
-      - What is ETIS?: Framework/What_is_ETIS.md
-      - Framework Overview: Framework/ETIS_Framework.md
-
-  - Education:
-      - Educational Ecosystem: Educational_Ecosystem/Educational_Ecosystem.md
-      - Educational Products: Educational_Ecosystem/Educational_Products.md
-      - Instructor Resources: Educational_Ecosystem/Instructor_Resources.md
-      - Student Resources: Educational_Ecosystem/Student_Resources.md
-      - Flagship Implementation: Educational_Ecosystem/Flagship_Implementation.md
-      - Institutional Adoption: Educational_Ecosystem/Institutional_Adoption.md
-
-  - Resources:
-      - Resource Center: Resources/Resources.md
-      - ETIS Library: Resources/ETIS_Library.md
-      - Downloads: Resources/download.md
-      - Repository Ecosystem: Resources/Repository_Ecosystem.md
 
   - About:
     - About ETIS: About.md

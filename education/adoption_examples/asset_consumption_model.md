@@ -179,7 +179,7 @@ student_starter_kit/
 comp330/
 ```
 
-Starter kits are educational products.
+Engineering Platform project environments are educational products.
 
 They are consumed by implementations.
 
@@ -536,7 +536,7 @@ New educational implementations may appear.
 
 New shared assets may emerge.
 
-New student starter kits may be created.
+New Engineering Platform project environments may be created.
 
 However, the underlying consumption relationships should remain simple.
 

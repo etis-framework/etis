@@ -195,7 +195,7 @@ The book is intentionally practical. It includes frameworks, review questions, r
 
 ETIS is intended to be more than a book.
 
-The long-term vision is an ecosystem for teaching, practicing, governing, operating, and sustaining trustworthy intelligent systems. That ecosystem may include public repositories, student starter kits, populated LMU/COICP reference repositories, instructor course packages, professional practice toolkits, review-board playbooks, trustworthy engineer portfolio models, visual-governance libraries, simulation environments, assessment frameworks, and future certification paths.
+The long-term vision is an ecosystem for teaching, practicing, governing, operating, and sustaining trustworthy intelligent systems. That ecosystem now includes the ETIS Framework website, the public Framework repository, the ETIS Engineering Platform Starter Kit, Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, project workspaces, instructor course resources, educational products, and future professional practice assets such as review-board playbooks, portfolio models, visual-governance libraries, simulation environments, assessment frameworks, and potential certification paths.
 
 The reason is straightforward: trustworthy engineering cannot live only in prose. It must become practice. It must show up in repositories, reviews, templates, runbooks, release evidence, AI-governance records, context registries, postmortems, stewardship plans, and professional portfolios.
 

@@ -20,7 +20,7 @@ It is the design system for teaching trustworthy engineering.
 
 The mission of `educational_architecture` is to preserve the educational structure, rationale, learning pathways, design principles, and implementation boundaries required to teach ETIS responsibly over time.
 
-This directory explains how the ETIS book, shared educational assets, learning models, student starter kits, and course implementations relate to one another.
+This directory explains how the ETIS book, shared educational assets, learning models, Engineering Platform project environments, and course implementations relate to one another.
 
 The goal is to ensure that future educational work remains coherent, maintainable, and aligned with the core ETIS thesis:
 
@@ -56,7 +56,7 @@ It answers questions such as:
 * Where do ownership boundaries exist?
 * What should remain stable as the ecosystem grows?
 
-This directory should be consulted before creating new educational assets, new course implementations, new starter kits, or new learning pathways.
+This directory should be consulted before creating new educational assets, new course implementations, new Engineering Platform project environments, or new learning pathways.
 
 ---
 
@@ -105,7 +105,7 @@ It should explain:
 * The professional transformation model
 * The role of shared assets
 * The role of learning models
-* The role of student starter kits
+* The role of Engineering Platform project environments
 * The role of adoption examples
 * Educational ownership boundaries
 * Governance principles
@@ -253,9 +253,9 @@ Student Starter Kits are products.
 
 They are not collections of unrelated documents.
 
-Educational architecture governs what starter kits are supposed to accomplish, how they relate to shared assets, and how they support student transformation.
+Educational architecture governs what Engineering Platform project environments are supposed to accomplish, how they relate to shared assets, and how they support student transformation.
 
-Starter kits should help students practice repository-centered engineering in a realistic, structured, and reviewable environment.
+Engineering Platform project environments should help students practice repository-centered engineering in a realistic, structured, and reviewable environment.
 
 ---
 

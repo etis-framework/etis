@@ -25,7 +25,7 @@ Readers should use this document to understand:
 * The purpose of the ETIS Educational Ecosystem
 * The relationship between the ETIS book and educational implementations
 * The major educational architecture components
-* The role of shared assets and starter kits
+* The role of shared assets and Engineering Platform project environments
 * The professional transformation model
 * The ownership boundaries that prevent duplication and drift
 
