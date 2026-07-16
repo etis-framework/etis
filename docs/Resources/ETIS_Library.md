@@ -11,60 +11,75 @@ hide:
 
 # ETIS Library
 
-**Publication formats, editions, downloads, and educational products for the ETIS ecosystem**
+**A guide to ETIS editions, publication series, formats, downloads, and educational products**
 
-The ETIS Library is the central guide to the published forms of *Engineering Trustworthy Intelligent Systems*.
+The ETIS Library helps readers understand the different published forms of *Engineering Trustworthy Intelligent Systems* and choose the one best suited to their work.
 
-ETIS is more than a single book. It is an integrated engineering framework published across multiple complementary formats for reading, teaching, adoption, professional reference, and long-term stewardship.
+ETIS is not a single file or book. It is an integrated engineering knowledge ecosystem delivered through:
 
-The ETIS website remains the authoritative source for the framework.
+- the authoritative website;
+- the complete online book;
+- two professional print and PDF volumes;
+- three coordinated publication series;
+- educational products;
+- downloadable offline editions;
+- public repositories and the Engineering Platform.
 
-Other formats package ETIS into durable, portable, and professionally useful forms.
+These are complementary access paths into one coherent body of work.
 
 ---
 
-## Publication Model
-
-ETIS follows a simple publication model:
+## Publication and Product Model
 
 ```text
-Website
+ETIS Framework Website
 ↓
-Authoritative framework source
+Authoritative online framework, book, appendices, education, and ecosystem guidance
+
+ETIS Publications
+↓
+Focused, citable white papers, executive briefs, and education papers
+
+Book and Print Editions
+↓
+Complete and two-volume professional treatments of ETIS
 
 Downloads
 ↓
-Portable learning and adoption products
+Portable PDFs, educational products, and repository archives
 
-Print Editions
+Platform Overview
 ↓
-Durable professional references
+Orientation to the ETIS implementation environment
 
-Educational Products
+Engineering Platform and Repositories
 ↓
-Teaching, course design, and institutional adoption resources
+Working stages, templates, examples, governance assets, and project workspaces
 ```
 
-These formats are not competing versions of ETIS.
+The distinction is intentional:
 
-They are different access paths into the same body of work.
+- **Publications** are focused works with canonical landing pages, metadata, citation, version history, related materials, and authoritative PDFs.
+- **Downloads** are curated offline products such as books, guides, educational packages, and repository archives.
+- **The Library** explains the available formats and helps readers select the right one.
 
 ---
 
 ## Website Edition
 
-The ETIS website is the primary publication platform for the framework.
+The ETIS website is the primary public platform for the framework.
 
 It provides:
 
-* the online book
-* the complete lifecycle structure
-* appendices
-* framework references
-* educational resources
-* downloadable products
-* repository resources
-* future ecosystem updates
+- the complete online book;
+- the full lifecycle structure;
+- appendices;
+- framework references;
+- the Publications Program;
+- educational resources;
+- downloads;
+- repository guidance;
+- continuing ecosystem updates.
 
 New public ETIS resources should appear on the website first.
 
@@ -72,20 +87,72 @@ New public ETIS resources should appear on the website first.
 
 ---
 
+## ETIS Publications Program
+
+The Publications Program provides focused entry points into major ETIS ideas, engineering decisions, professional practices, and emerging directions.
+
+### White Paper Series
+
+Twelve long-form papers covering the conceptual and professional foundations of ETIS.
+
+[Explore the ETIS White Papers →](../publications/white-papers/index.md)
+
+### Executive Brief Series
+
+Five concise briefs translating AI-era engineering consequences into decision guidance for senior leaders.
+
+[Explore the Executive Briefs →](../publications/executive-briefs/index.md)
+
+### Education Paper Series
+
+Five professional papers supporting software engineering education, student development, responsible AI use, teamwork, portfolios, and career formation.
+
+[Explore the Education Papers →](../publications/education-papers/index.md)
+
+Each publication has:
+
+- a canonical webpage;
+- title, series, identifier, date, version, and status metadata;
+- an executive or core thesis;
+- a concise summary and intended audience;
+- related ETIS resources;
+- standard citation formats;
+- version history;
+- access to the authoritative PDF edition.
+
+<div style="margin-top:.75rem;">
+
+<a class="md-button md-button--primary"
+   href="../publications/index.md">
+Explore Publications
+</a>
+
+<a class="md-button"
+   href="../publications/reading-paths.md">
+View Reading Paths
+</a>
+
+<a class="md-button"
+   href="../publications/citations.md">
+Citation & Version Information
+</a>
+
+</div>
+
+---
+
 ## First Edition
 
-The First Edition of *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* establishes the foundation of the ETIS framework.
+The First Edition of *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* establishes the foundation of ETIS.
 
-It defines the core ETIS doctrines:
+It defines the core doctrines:
 
-* AI proposes; engineers verify
-* governance is architecture
-* context is control
-* everything important leaves evidence
-* the model is not the system
-* a demo is not operational proof
-
-The First Edition establishes ETIS as a repository-centered, evidence-centered engineering discipline for trustworthy intelligent systems.
+- AI proposes; engineers verify;
+- governance is architecture;
+- context is control;
+- everything important leaves evidence;
+- the model is not the system;
+- a demo is not operational proof.
 
 [Read the First Edition Notes →](../Back_Matter/04_First_Edition_Notes.md)
 
@@ -93,78 +160,33 @@ The First Edition establishes ETIS as a repository-centered, evidence-centered e
 
 ## Complete PDF Edition
 
-The complete First Edition is available as a downloadable PDF for offline reading, archiving, teaching preparation, and professional reference.
+The complete First Edition is available as one portable PDF for offline reading, archiving, teaching preparation, and professional reference.
 
-The PDF edition is intended for readers who want the entire framework in one portable document.
-
-[Download the Complete First Edition PDF →](download.md)
+[Explore the Complete PDF Edition →](download.md)
 
 ---
 
 ## Two-Volume Professional Edition
 
-ETIS is also organized as a two-volume professional edition.
-
 The two-volume edition improves readability and physical usability while preserving ETIS as one integrated framework.
 
-The volumes are not separate books.
-
-They are two movements in one professional engineering journey.
+The volumes are not separate works. They are two movements in one professional engineering journey.
 
 [Explore the ETIS Two-Volume Edition →](../Volumes/ETIS_Two_Volume_Edition.md)
 
----
-
-## Volume I
+### Volume I
 
 **Foundations, Engineering Practices, and System Construction**
 
-Volume I focuses on the engineering work required before sustained operation begins.
-
-It covers:
-
-* foundations of trustworthy intelligent systems
-* requirements and system intent
-* architecture and planning
-* AI-assisted engineering
-* repository evidence
-* verification
-* review
-* release readiness
-* release defense
-
-Volume I answers the central question:
-
-> How do we build intelligent systems responsibly enough that they can be reviewed, verified, and released with evidence?
+Volume I addresses how intelligent systems are framed, designed, constructed, verified, reviewed, and defended for release.
 
 [Explore Volume I →](../Volumes/Volume_I.md)
 
----
-
-## Volume II
+### Volume II
 
 **Operations, Governance, Oversight, and Stewardship**
 
-Volume II focuses on what happens after a system begins to matter operationally. 
-
-It explores how organizations responsibly operate, govern, oversee, and steward intelligent systems throughout their lifecycle.
-
-It covers:
-
-* operations
-* governance
-* observability
-* security
-* reliability
-* AI delegation
-* incident response
-* organizational trust
-* human oversight
-* stewardship
-
-Volume II answers the central question:
-
-> How do we operate, govern, improve, and steward intelligent systems so they remain worthy of trust over time?
+Volume II addresses how intelligent systems are operated, governed, observed, secured, improved, overseen, and stewarded over time.
 
 [Explore Volume II →](../Volumes/Volume_II.md)
 
@@ -174,19 +196,17 @@ Volume II answers the central question:
 
 Professionally printed paperback and hardcover editions are available through Amazon.
 
-Print editions are intended for:
+Print editions support:
 
-* instructors
-* students
-* software engineers
-* technical leads
-* engineering managers
-* professional libraries
-* organizational adopters
+- focused reading;
+- classroom use;
+- professional reference;
+- technical leadership;
+- engineering management;
+- institutional libraries;
+- organizational adoption.
 
-The website remains the authoritative source.
-
-The print editions provide durable reading and reference formats.
+The website remains the authoritative and most current public source.
 
 [View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
 
@@ -194,83 +214,94 @@ The print editions provide durable reading and reference formats.
 
 ## Download Library
 
-The ETIS download library provides curated offline products for reading, teaching, and adopting ETIS.
+The ETIS Downloads area provides curated offline products for reading, teaching, adoption, preservation, and project startup.
 
 Download categories include:
 
-* complete book editions
-* two-volume PDF editions
-* educational products
-* instructor resources
-* student resources
-* implementation guidance
+- complete book editions;
+- two-volume PDF editions;
+- educational products;
+- instructor and student guides;
+- implementation guidance;
+- the Engineering Platform Starter Kit archive.
 
-Downloads are intentionally curated.
+Downloads are intentionally curated and do not duplicate the canonical Publications catalog.
 
-Not every internal ETIS artifact becomes a public download.
-
-[Explore the Download Library →](download.md)
+[Explore Downloads →](download.md)
 
 ---
 
 ## Educational Products
 
-The ETIS Educational Ecosystem translates the framework into teaching, learning, and institutional adoption resources.
+The ETIS Educational Ecosystem translates the framework into teaching, learning, course-operation, and institutional-adoption resources.
 
 Educational products include:
 
-* ETIS Educational Ecosystem Guide
-* ETIS Instructor Course Package
-* ETIS Classroom Facilitation Guide
-* ETIS Instructor Handbook
-* ETIS Student Professional Engineering Guide
-* ETIS COMP330 Flagship Implementation Guide
+- ETIS Educational Ecosystem Guide;
+- ETIS Instructor Course Package;
+- ETIS Classroom Facilitation Guide;
+- ETIS Instructor Handbook;
+- ETIS Student Professional Engineering Guide;
+- ETIS COMP 330 Flagship Implementation Guide.
 
-These products support instructors, students, universities, and organizations adopting ETIS as an educational framework.
+These products are implementation and adoption resources. They are distinct from the ETIS Education Paper Series, which provides focused professional readings.
 
 [Explore Educational Products →](../Educational_Ecosystem/Educational_Products.md)
 
+[Explore Education Papers →](../publications/education-papers/index.md)
+
 ---
 
-## Repository and Ecosystem Resources
+## Repository and Engineering Platform Resources
 
 ETIS is intentionally repository-centered.
 
-Repository resources help readers understand how engineering evidence, governance, decisions, release readiness, operations, and stewardship can be preserved as systems of record.
+The public repositories preserve source, reusable artifacts, decisions, governance records, and engineering examples. The Engineering Platform provides the working implementation layer.
 
-The repository ecosystem supports:
+Repository and platform resources support:
 
-* evidence-centered engineering
-* governance traceability
-* instructional use
-* professional adoption
-* future reference implementations
+- evidence-centered engineering;
+- governance traceability;
+- instructional use;
+- project startup;
+- professional adoption;
+- reference implementations;
+- long-term stewardship.
 
 [Explore the Repository Ecosystem →](Repository_Ecosystem.md)
+
+[Explore the Platform Overview →](../Platform/Platform.md)
+
+[Launch the ETIS Engineering Platform ↗](https://platform.etisframework.org)
 
 ---
 
 ## Citation and Attribution
 
+### Cite the ETIS Book
+
 Preferred citation:
 
-> O'Connell, William T. *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. First Edition. ETIS Framework, 2026.
+> O’Connell, William T. *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. First Edition. ETIS Framework, 2026.
 
-Additional citation formats may be added as the ETIS publication ecosystem matures.
+### Cite an ETIS Publication
 
-For academic, professional, or institutional use, cite the First Edition unless referencing a specific ETIS product, volume, or future edition.
+Use the canonical publication webpage for the correct title, series identifier, version, date, and citation formats.
+
+[Publication Citation & Version Information →](../publications/citations.md)
+
+When referencing a specific white paper, executive brief, or education paper, cite that publication rather than the book as a whole.
 
 ---
 
 ## Versioning Philosophy
 
-ETIS values stability.
+ETIS values stability, traceability, and continuity.
 
-Minor corrections may be published through errata or website updates.
-
-Substantive doctrinal changes should be reserved for future editions.
-
-Future editions may expand ETIS, but they should preserve continuity with the foundational principles established in the First Edition.
+- Minor corrections may be published through errata or website updates.
+- Publication revisions should preserve version history.
+- Substantive doctrinal changes should be reserved for future book editions.
+- Future editions may expand ETIS while maintaining continuity with the foundational principles of the First Edition.
 
 ETIS is designed to evolve without becoming unstable.
 
@@ -278,28 +309,34 @@ ETIS is designed to evolve without becoming unstable.
 
 ## How to Use This Library
 
-Use this page as a publication map.
-
-| Need | Best Starting Point |
+| Need | Best starting point |
 |---|---|
-| Read ETIS online | Website Edition |
-| Read offline | Complete PDF Edition |
-| Use printed books | Print Editions |
-| Teach a course | Educational Products |
-| Understand the two-volume split | Two-Volume Professional Edition |
-| Cite ETIS | Citation and Attribution |
-| Adopt ETIS institutionally | Educational Ecosystem and Download Library |
+| Read the complete ETIS book online | [Website Edition](../Front_Matter/01_Title_Page.md) |
+| Read focused technical guidance | [White Papers](../publications/white-papers/index.md) |
+| Read executive decision guidance | [Executive Briefs](../publications/executive-briefs/index.md) |
+| Support student or instructor development | [Education Papers](../publications/education-papers/index.md) |
+| Follow a role-based sequence | [Publication Reading Paths](../publications/reading-paths.md) |
+| Read offline | [Downloads](download.md) |
+| Use printed books | [Print Editions](https://www.amazon.com/dp/B0H6297N1D) |
+| Teach a course | [Educational Products](../Educational_Ecosystem/Educational_Products.md) |
+| Understand the two-volume split | [Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md) |
+| Understand how the Platform supports ETIS adoption | [Platform Overview](../Platform/Platform.md) |
+| Enter the working Platform | [Launch Engineering Platform ↗](https://platform.etisframework.org) |
+| Inspect source and repositories | [Repository Ecosystem](Repository_Ecosystem.md) |
+| Cite ETIS | Book citation above or [Publication Citations](../publications/citations.md) |
 
 ---
 
 ## Bottom Line
 
-ETIS is not a single file, book, or download.
+The ETIS website is the authoritative public source.
 
-It is a publication ecosystem built around one engineering purpose:
+The Book provides the complete framework.
 
-> Help engineers, educators, students, and organizations build intelligent systems that remain worthy of trust over time.
+Publications provide focused, citable treatments of major ideas and decisions.
 
-The website provides the authoritative source.
+Downloads package selected ETIS products for offline use.
 
-The library helps readers find the format that best fits their work.
+The Engineering Platform and repositories turn the framework into inspectable, reusable engineering practice.
+
+The Library helps readers choose the format and experience that best fits their work.

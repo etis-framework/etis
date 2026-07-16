@@ -10,14 +10,10 @@ hide:
 </div>
 
 # ETIS Instructor Resources
-## Engineering Platform Connection
 
-Instructors can use the ETIS Engineering Platform as the course project environment. The Platform provides staged lifecycle guidance, reusable templates, LMU/COICP reference examples, governance assets, and project workspaces that can support labs, checkpoints, reviews, release readiness exercises, and professional formation.
+**An educational operating system for teaching trustworthy engineering in the AI era**
 
-
-ETIS Instructor Resources provide an educational operating system for teaching trustworthy intelligent systems in the AI era.
-
-They help instructors design, operate, assess, and steward courses where students do more than complete assignments.
+ETIS Instructor Resources help instructors design, operate, assess, and steward courses in which students do more than complete assignments.
 
 Students produce engineering evidence.
 
@@ -27,15 +23,41 @@ Students learn to create trust.
 
 > Educational work should resemble professional engineering work.
 
-The ETIS book provides the doctrine.
+The ETIS Two-Volume Edition provides the complete doctrine.
+
+The Education Papers provide focused professional readings.
 
 The Instructor Resources provide the teaching system.
+
+The ETIS Engineering Platform provides the course project environment through staged lifecycle guidance, reusable templates, LMU/COICP examples, governance assets, and Project Workspaces.
+
+---
+
+## Start Here
+
+| Resource | Purpose |
+|---|---|
+| **Instructor Course Package** | Course design, sequencing, assignments, assessment, operations, and stewardship |
+| **Classroom Facilitation Guide** | Discussion, team accountability, AI responsibility, review boards, and release defenses |
+| **Instructor Handbook** | Long-term instructional memory, patterns, judgment, and improvement |
+| **COMP 330 Flagship Implementation Guide** | Real implementation reference without confusing one course with ETIS doctrine |
+| **ETIS Education Papers** | Professional student readings for orientation, teamwork, AI use, portfolios, and careers |
+| **Platform Overview** | Learn how the Platform supports ETIS courses |
+| **Launch the Engineering Platform ↗** | Enter the working project environment |
+
+[Explore Educational Products →](Educational_Products.md)
+
+[Explore the ETIS Education Papers →](../publications/education-papers/index.md)
+
+[Explore the Platform Overview →](../Platform/Platform.md)
+
+[Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
 ---
 
 ## What Makes ETIS Different
 
-Traditional software engineering courses often emphasize delivery:
+Traditional course pattern:
 
 ```text
 Teach software
@@ -49,10 +71,12 @@ Complete semester
 Course ends
 ```
 
-ETIS emphasizes engineering accountability:
+ETIS pattern:
 
 ```text
 Teach engineering systems
+↓
+Establish professional expectations
 ↓
 Require evidence
 ↓
@@ -65,56 +89,38 @@ Preserve educational memory
 Improve the next offering
 ```
 
-The difference matters.
-
 AI can help students produce more artifacts faster.
 
 ETIS helps instructors teach students how to verify, govern, explain, and own those artifacts.
 
 ---
 
-## Start Here
+## Education Papers as Professional Readings
 
-### Instructor Course Package
+The five Education Papers can serve as a structured orientation sequence:
 
-A complete course operating model for instructors teaching ETIS-based software engineering.
+| Paper | Instructional Use |
+|---|---|
+| [COMP-WP-001](../publications/education-papers/comp-wp-001.md) | Establish why software engineering matters more in the AI era |
+| [COMP-WP-002](../publications/education-papers/comp-wp-002.md) | Connect course evidence to portfolios and interviews |
+| [COMP-WP-003](../publications/education-papers/comp-wp-003.md) | Establish team roles, shared ownership, review, and professional conflict |
+| [COMP-WP-004](../publications/education-papers/comp-wp-004.md) | Define responsible AI-assisted engineering behavior |
+| [COMP-WP-005](../publications/education-papers/comp-wp-005.md) | Connect the course to long-term judgment, growth, and professional trust |
 
-It includes course design, sequencing, assignments, assessment, classroom operations, and stewardship guidance.
-
-### Classroom Facilitation Guide
-
-Guidance for running ETIS classroom experiences as active engineering environments.
-
-It helps instructors facilitate discussion, team accountability, AI responsibility, review boards, and release defenses.
-
-### Instructor Handbook
-
-Long-term instructor guidance for preserving institutional memory across repeated ETIS implementations.
-
-It helps instructors improve courses over time instead of rebuilding from scratch.
-
-### COMP330 Flagship Implementation Guide
-
-A real implementation reference based on Loyola University Chicago COMP330/474.
-
-It shows how ETIS operates in practice while preserving the distinction between ETIS doctrine and one institution’s implementation.
+These papers are not replacements for lectures or course materials. They provide shared language and professional orientation.
 
 ---
 
 ## The Six Educational Engines
 
-The Instructor Course Package is organized around six educational engines.
-
-Each engine answers a different question an instructor must solve before, during, and after a course.
-
-| Educational Engine                | Guiding Question                                                                 |
-| --------------------------------- | -------------------------------------------------------------------------------- |
-| Educational Intent Engine         | What will students experience?                                                   |
-| Educational Sequencing Engine     | In what order will students mature?                                              |
-| Educational Accountability Engine | How will students progressively prove engineering accountability?                |
-| Educational Evaluation Engine     | How will we know students are becoming trustworthy engineers?                    |
-| Educational Operations Engine     | How do instructors run ETIS classroom experiences?                               |
-| Educational Stewardship Engine    | What should instructors know while operating ETIS educational systems over time? |
+| Educational Engine | Guiding Question |
+|---|---|
+| **Educational Intent Engine** | What will students experience and become? |
+| **Educational Sequencing Engine** | In what order will students mature? |
+| **Educational Accountability Engine** | How will students progressively prove engineering accountability? |
+| **Educational Evaluation Engine** | How will we know students are becoming trustworthy engineers? |
+| **Educational Operations Engine** | How do instructors run ETIS classroom experiences? |
+| **Educational Stewardship Engine** | What should instructors preserve and improve over time? |
 
 These engines keep ETIS education from becoming a loose collection of lectures, assignments, and rubrics.
 
@@ -124,73 +130,58 @@ They make the course itself an engineered system.
 
 ## Educational Intent Engine
 
-The Educational Intent Engine helps instructors define the educational experience before building the course.
-
-It asks what students should become, not merely what content they should encounter.
+This engine defines the educational experience before the course is assembled.
 
 Core capabilities include:
 
-* course design guidance
-* adoption planning
-* course readiness checklists
-* learning experience design
-* course purpose definition
-* educational outcome alignment
-* instructor onboarding
+- course-purpose definition;
+- student transformation goals;
+- learning-experience design;
+- outcome alignment;
+- instructor onboarding;
+- course-readiness review;
+- adoption planning.
 
-This engine prevents the course from becoming a sequence of disconnected topics.
+The central question is not merely what students will cover.
 
-It establishes the course as a transformation system.
+It is what they will become capable of doing responsibly.
 
 ---
 
 ## Educational Sequencing Engine
 
-The Educational Sequencing Engine helps instructors decide how students mature over time.
-
 ETIS learning is staged.
 
-Students should not be expected to demonstrate full engineering maturity immediately.
-
-They progressively inherit responsibility.
+Students progressively inherit responsibility.
 
 Core capabilities include:
 
-* syllabus guidance
-* semester sequencing
-* quarter sequencing
-* module sequencing
-* book mapping guidance
-* professional training sequence guidance
-* phase gate sequencing
-* schedule adaptation guidance
+- syllabus and module sequencing;
+- semester or quarter adaptation;
+- book and publication mapping;
+- phase-gate sequencing;
+- assignment progression;
+- professional training sequence;
+- schedule adaptation.
 
-This engine helps instructors move students from awareness to accountability.
-
-The sequence matters because maturity is developed, not assigned.
+Maturity is developed, not assigned.
 
 ---
 
 ## Educational Accountability Engine
 
-The Educational Accountability Engine helps instructors design assignments that require evidence, ownership, and reviewability.
-
-ETIS assignments are not just tasks.
-
-They are accountability structures.
+ETIS assignments are accountability structures.
 
 Core capabilities include:
 
-* assignment assembly guidance
-* assignment sequencing
-* phase gate models
-* evidence progression
-* assessment progression
-* engineering accountability checkpoints
-* COMP330 phase gate references
-* scaling guidance for different course formats
+- assignment assembly and sequencing;
+- phase-gate models;
+- evidence progression;
+- accountability checkpoints;
+- review and defense requirements;
+- scaling guidance.
 
-This engine shifts the instructor question from:
+The instructor question shifts from:
 
 > Did students complete the assignment?
 
@@ -202,53 +193,40 @@ to:
 
 ## Educational Evaluation Engine
 
-The Educational Evaluation Engine helps instructors assess trustworthiness, not just completion.
-
-ETIS evaluation focuses on the strength of evidence, the quality of reasoning, the reviewability of artifacts, and the maturity of engineering behavior.
+ETIS evaluation focuses on evidence quality, reasoning, reviewability, and professional maturity.
 
 Core capabilities include:
 
-* assessment philosophy
-* rubric design
-* evidence-based assessment
-* AI assessment guidance
-* engineering defense guidance
-* assessment model libraries
-* assessment scaling guidance
-* COMP330 assessment references
-
-This engine reinforces a critical ETIS doctrine:
+- assessment philosophy;
+- rubric design;
+- evidence-based assessment;
+- AI-responsibility assessment;
+- engineering-defense guidance;
+- maturity signals;
+- scaling guidance.
 
 > Evaluate the strength of the evidence before evaluating the strength of the conclusion.
 
 Grades measure performance.
 
-Maturity signals measure transformation.
+Maturity signals reveal transformation.
 
 ---
 
 ## Educational Operations Engine
 
-The Educational Operations Engine helps instructors run ETIS classrooms as active engineering environments.
-
-The instructor is not merely a lecturer.
-
 The instructor operates as facilitator, reviewer, coach, steward, and engineering leader.
 
 Core capabilities include:
 
-* classroom facilitation
-* discussion facilitation
-* team facilitation
-* AI facilitation
-* review board facilitation
-* session assembly
-* classroom energy management
-* facilitation model libraries
-* facilitation scaling guidance
-* COMP330 facilitation references
-
-This engine helps instructors keep students active, accountable, and engaged in real engineering behaviors.
+- classroom and discussion facilitation;
+- team facilitation;
+- AI facilitation;
+- review-board facilitation;
+- session assembly;
+- classroom energy management;
+- intervention and escalation;
+- professional communication.
 
 The classroom becomes an engineering laboratory.
 
@@ -256,72 +234,145 @@ The classroom becomes an engineering laboratory.
 
 ## Educational Stewardship Engine
 
-The Educational Stewardship Engine helps instructors preserve wisdom across semesters.
-
 ETIS courses should not reset to zero every term.
-
-Each offering should leave evidence for the next instructor, the next course, and the next version of ETIS.
 
 Core capabilities include:
 
-* semester preparation notes
-* first weeks guidance
-* common student patterns
-* engineering maturity signals
-* AI transition notes
-* difficult conversation guidance
-* course correction notes
-* institutional adaptation notes
-* COMP330 instructor notes references
-* teaching philosophy notes
+- preparation notes;
+- early-semester guidance;
+- recurring student patterns;
+- engineering maturity signals;
+- AI transition notes;
+- difficult-conversation guidance;
+- course-correction records;
+- institutional adaptation notes;
+- end-of-term learning;
+- continuity for future instructors.
 
-This engine treats educational memory as infrastructure.
+Educational memory is infrastructure.
 
-Every semester should improve ETIS.
+Every offering should improve the next one.
 
 ---
 
-## Public Instructor Products
+## Engineering Platform as the Project Environment
 
-The website introduces the instructor system.
+The Engineering Platform can support:
 
-The PDFs provide deeper adoption and operating guidance.
+- project startup;
+- staged engineering work;
+- requirements, architecture, and decision records;
+- AI-use records and verification evidence;
+- review and phase-gate preparation;
+- testing and release-readiness evidence;
+- operational thinking and stewardship.
 
-| Product                                        | Purpose                                             |
-| ---------------------------------------------- | --------------------------------------------------- |
-| ETIS Instructor Course Package.pdf             | Complete instructor onboarding and course operation |
-| ETIS Classroom Facilitation Guide.pdf          | Running ETIS classroom experiences                  |
-| ETIS Instructor Handbook.pdf                   | Long-term instructional stewardship                 |
-| ETIS COMP330 Flagship Implementation Guide.pdf | Real-world implementation reference                 |
+The Platform should be adapted to the course rather than treated as a rigid compliance system.
 
-These products are curated educational products.
+[Explore the Platform Overview →](../Platform/Platform.md)
 
-They are not directory exports.
+[Launch the Engineering Platform ↗](https://platform.etisframework.org)
+
+[Browse the Starter Kit Repository ↗]((https://github.com/etis-framework/etis-starter-kit)
+
+---
+
+## What Students Should Produce
+
+Student repositories should preserve evidence such as:
+
+- requirements and assumptions;
+- planning artifacts;
+- team roles and working agreements;
+- architecture decisions;
+- AI-use and verification notes;
+- review records;
+- test plans and evidence;
+- defects and quality records;
+- security and data-handling notes;
+- release-readiness evidence;
+- operational notes;
+- observability plans;
+- postmortem and improvement evidence.
+
+If the work cannot be reviewed, it cannot be trusted.
+
+---
+
+## Teaching AI Responsibility
+
+ETIS does not ask students to avoid AI.
+
+It asks students to use AI professionally.
+
+Instructor expectations should emphasize:
+
+- disclosure;
+- verification;
+- ownership;
+- traceability;
+- awareness of hallucination and overconfidence;
+- data and authorization boundaries;
+- engineering judgment over tool fluency.
+
+AI use is not an academic violation.
+
+Undisclosed and unverified AI dependency is an engineering risk.
+
+[Read COMP-WP-004 — Using AI Professionally →](../publications/education-papers/comp-wp-004.md)
+
+---
+
+## Review Boards and Release Defense
+
+Students should learn to explain:
+
+- what they built;
+- why they built it that way;
+- what evidence supports their claims;
+- what risks remain;
+- what tradeoffs they made;
+- what they would improve next;
+- whether the system is ready to release, operate, or continue.
+
+Engineering work is not complete until it can be defended.
+
+---
+
+## Scaling ETIS Courses
+
+> Scale complexity, not accountability.
+
+For earlier or smaller courses, reduce project scope.
+
+For advanced courses, increase lifecycle and operational depth.
+
+Do not remove evidence, reviewability, ownership, or professional defense.
 
 ---
 
 ## Instructor Adoption Path
 
-A new instructor should adopt ETIS in stages.
-
 ```text
-Discover the framework
+Discover the Framework
 ↓
-Understand the educational mission
+Understand the Educational Mission
 ↓
-Study the Instructor Course Package
+Read the Education Papers
 ↓
-Review the Engineering Platform Project Environment
+Study the Instructor Products
 ↓
-Study the COMP330 flagship implementation
+Explore the Engineering Platform
 ↓
-Adapt ETIS to the local course
+Study the Flagship Implementation
 ↓
-Operate the course
+Adapt ETIS to the Local Course
 ↓
-Capture evidence
+Operate the Course
 ↓
-Improve the next offering
+Capture Evidence
+↓
+Improve the Next Offering
 ```
 
 The objective is not to replicate Loyola University Chicago.
@@ -330,125 +381,19 @@ The objective is to inherit ETIS doctrine and adapt it responsibly.
 
 ---
 
-## What Instructors Should Expect Students To Produce
-
-ETIS courses should produce visible evidence of engineering maturity.
-
-Student repositories should include evidence such as:
-
-* requirements and assumptions
-* planning artifacts
-* team roles and working agreements
-* architecture decisions
-* AI use and verification notes
-* review records
-* test plans and test evidence
-* quality and defect records
-* security and data-handling notes
-* release readiness evidence
-* operational notes
-* observability plans
-* postmortem or improvement evidence
-
-This evidence matters because trustworthy engineering must be reviewable.
-
-If it cannot be reviewed, it cannot be trusted.
-
----
-
-## Teaching AI Responsibility
-
-ETIS does not ask students to avoid AI.
-
-ETIS asks students to use AI responsibly.
-
-Instructor expectations should emphasize:
-
-* disclosure of AI assistance
-* verification of AI-generated work
-* ownership of submitted artifacts
-* traceability from claims to evidence
-* awareness of hallucination, overconfidence, and hidden dependency
-* engineering judgment over tool fluency
-
-AI usage is not an academic violation.
-
-Undisclosed and unverified AI dependency is an engineering risk.
-
----
-
-## Review Boards and Release Defense
-
-ETIS instructors should normalize review, challenge, and defense.
-
-Students should learn to explain:
-
-* what they built
-* why they built it that way
-* what evidence supports their claims
-* what risks remain
-* what tradeoffs they made
-* what they would improve next
-* whether the system is ready to release, operate, or continue
-
-Engineering work is not complete until it can be defended.
-
----
-
-## Scaling ETIS Courses
-
-ETIS can be adapted to different course sizes, levels, and formats.
-
-The scaling rule is:
-
-> Scale complexity, not accountability.
-
-For smaller or earlier courses, reduce project scope.
-
-For larger or advanced courses, increase operational depth.
-
-Do not remove accountability.
-
-Do not remove evidence.
-
-Do not remove reviewability.
-
-Do not remove ownership.
-
----
-
 ## Instructor Doctrine
 
-ETIS instructor work is governed by durable principles:
-
-* Educational work should resemble professional engineering work.
-* Engineering accountability is the educational outcome, not the side effect.
-* Educational systems are engineered.
-* Educational systems are also stewarded.
-* Educational systems are inherited, not reinvented.
-* Every semester should leave evidence for the next instructor.
-* Scale complexity, not accountability.
-* Scale evaluation mechanisms, not engineering expectations.
-* Do not assess AI avoidance. Assess AI responsibility.
-* Rubrics should measure trustworthiness, not just task completion.
-* Engineering work is not complete until it can be defended.
-* Transformation should be observable.
-* Engineering maturity leaves evidence.
-* Tools change. Engineering behaviors endure.
-
----
-
-## Public Boundary
-
-The Instructor Resources page is a public hub.
-
-It exposes instructor capabilities, products, and adoption pathways.
-
-It does not expose internal freeze registers, continuity packages, raw architecture registers, or unnecessary directory structures.
-
-The internal education architecture remains the source system.
-
-The public instructor experience should remain clear, adoptable, and professionally bounded.
+- Educational work should resemble professional engineering work.
+- Engineering accountability is the educational outcome, not a side effect.
+- Educational systems are engineered and stewarded.
+- Every offering should leave evidence for the next instructor.
+- Scale complexity, not accountability.
+- Do not assess AI avoidance; assess AI responsibility.
+- Rubrics should measure trustworthiness, not merely task completion.
+- Engineering work is not complete until it can be defended.
+- Transformation should be observable.
+- Engineering maturity leaves evidence.
+- Tools change; engineering behaviors endure.
 
 ---
 

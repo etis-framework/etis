@@ -11,55 +11,45 @@ hide:
 
 # Downloads
 
-**Offline products for reading, teaching, and adopting ETIS**
+**Curated offline products for reading, teaching, adoption, and project startup**
 
-The ETIS download library provides curated products that support reading, teaching, and applying *Engineering Trustworthy Intelligent Systems*.
+The ETIS Downloads area provides durable, portable products derived from the ETIS Framework, Educational Ecosystem, and Engineering Platform.
 
-Downloads are organized as durable products, not as internal directory exports.
+Downloads are intentionally curated. They are not internal directory exports, and they do not replace the canonical website experiences.
 
-The ETIS Framework remains the authoritative body of knowledge. Download products make ETIS easier to read, teach, adopt, preserve, and apply.
+!!! info "Looking for ETIS papers and executive guidance?"
+    Browse [ETIS Publications](../publications/index.md) for white papers, executive briefs, education papers, reading paths, citation information, version history, and access to each authoritative PDF edition.
+
+**Publications support discovery, reading, citation, and focused guidance. Downloads package books, educational products, archives, and selected implementation resources for offline use.**
 
 ---
 
-## ETIS Public Websites
+## Choose the Right Experience
 
-The ETIS ecosystem is organized around two complementary public websites.
-
-| Website | Purpose |
+| Need | Best destination |
 |---|---|
-| **ETIS Framework** | Learn ETIS through the online framework, books, educational ecosystem, downloads, appendices, and reference materials. |
-| **ETIS Engineering Platform** | Apply ETIS through Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP examples, governance assets, and project workspaces. |
-
-**Read the Framework. Learn the discipline. Apply it through the Engineering Platform.**
-
-<div style="margin-top:.5rem;">
-
-<a class="md-button md-button--primary"
-   href="https://etisframework.org">
-Open Framework Website
-</a>
-
-<a class="md-button"
-   href="https://platform.etisframework.org">
-Open Engineering Platform
-</a>
-
-</div>
+| Read the complete ETIS book online | [Read ETIS Online](../Front_Matter/01_Title_Page.md) |
+| Explore white papers, executive briefs, or education papers | [ETIS Publications](../publications/index.md) |
+| Find a role-based publication sequence | [Publication Reading Paths](../publications/reading-paths.md) |
+| Download book PDFs | Book Editions below |
+| Download instructor or student products | Educational Products below |
+| Apply ETIS online | [ETIS Engineering Platform](https://platform.etisframework.org) |
+| Download the working Starter Kit repository | Engineering Platform Starter Kit below |
 
 ---
 
 ## Book Editions
 
-### ETIS First Edition
+### Complete First Edition
 
-The complete first edition of *Engineering Trustworthy Intelligent Systems*.
+The complete first edition of *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* in one portable PDF.
 
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
    href="../../downloads/ETIS_First_Edition_Full.pdf"
    download>
-Download PDF
+Download Complete PDF
 </a>
 
 <a class="md-button"
@@ -67,11 +57,18 @@ Download PDF
 Open PDF
 </a>
 
+<a class="md-button"
+   href="../Front_Matter/01_Title_Page.md">
+Read Online
+</a>
+
 </div>
 
 ---
 
-## Two-Volume Edition
+## Two-Volume Professional Edition
+
+The two-volume edition improves readability and physical usability while preserving ETIS as one integrated framework.
 
 ### Volume I
 
@@ -82,12 +79,17 @@ Open PDF
 <a class="md-button md-button--primary"
    href="../../downloads/ETIS_Volume_1_Paperback.pdf"
    download>
-Download PDF
+Download Volume I
 </a>
 
 <a class="md-button"
    href="../../downloads/ETIS_Volume_1_Paperback.pdf">
 Open PDF
+</a>
+
+<a class="md-button"
+   href="../Volumes/Volume_I.md">
+Explore Volume I
 </a>
 
 </div>
@@ -101,7 +103,7 @@ Open PDF
 <a class="md-button md-button--primary"
    href="../../downloads/ETIS_Volume_2_Paperback.pdf"
    download>
-Download PDF
+Download Volume II
 </a>
 
 <a class="md-button"
@@ -109,11 +111,15 @@ Download PDF
 Open PDF
 </a>
 
+<a class="md-button"
+   href="../Volumes/Volume_II.md">
+Explore Volume II
+</a>
+
 </div>
 
-> Prefer a professionally printed edition?
-
-> The ETIS two-volume series is also available on Amazon in paperback and hardcover formats.
+!!! note "Professionally printed editions"
+    The ETIS two-volume series is also available through Amazon in paperback and hardcover formats.
 
 [View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
 
@@ -121,9 +127,14 @@ Open PDF
 
 ## Educational Products
 
-Educational products are curated public guides derived from the ETIS Educational Ecosystem.
+Educational products are curated, publication-ready guides derived from the ETIS Educational Ecosystem. They support instructors, students, institutional adopters, and reference implementations.
 
-They support instructors, students, institutional adopters, and reference implementations. These are not internal directory exports; they are publication-ready products designed for teaching, adoption, and stewardship.
+These products are different from the ETIS Education Paper Series:
+
+- **Education Papers** provide focused professional readings and canonical citation records.
+- **Educational Products** provide course, facilitation, implementation, and adoption guidance.
+
+[Explore the ETIS Education Papers →](../publications/education-papers/index.md)
 
 ### ETIS Educational Ecosystem Guide
 
@@ -220,9 +231,9 @@ Open PDF
 
 </div>
 
-### ETIS COMP330 Flagship Implementation Guide
+### ETIS COMP 330 Flagship Implementation Guide
 
-Loyola University Chicago COMP330/474 reference implementation and educational laboratory.
+Loyola University Chicago COMP 330/474 reference implementation and educational laboratory.
 
 <div style="margin-top:.5rem;">
 
@@ -243,33 +254,19 @@ Open PDF
 
 ---
 
-## Engineering Platform
+## Engineering Platform Starter Kit
 
-The ETIS Engineering Platform is the practical application environment for the ETIS Framework.
+The ETIS Engineering Platform is a working engineering environment, not a static publication. Its downloadable form is therefore the repository archive.
 
-It includes Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and project workspaces. The Platform is intentionally distributed as a repository archive because the repository itself is the working engineering environment.
+The Starter Kit includes:
 
-### ETIS Engineering Platform Website
-
-Browse the complete online Engineering Platform.
-
-<div style="margin-top:.5rem;">
-
-<a class="md-button md-button--primary"
-   href="https://platform.etisframework.org">
-Open Platform
-</a>
-
-<a class="md-button"
-   href="https://github.com/etis-framework/etis-starter-kit">
-Browse Repository
-</a>
-
-</div>
-
-### ETIS Engineering Platform Starter Kit
-
-Download the complete Starter Kit repository archive for local use, classroom use, institutional adoption, or project startup.
+- Engineering Stages ES-100 through ES-114;
+- stage guidance, activities, outputs, evidence expectations, readiness gates, and manifests;
+- reusable templates;
+- LMU/COICP reference examples;
+- governance and evidence-centered engineering assets;
+- Project Workspace materials;
+- GitHub workflows and collaboration templates.
 
 <div style="margin-top:.5rem;">
 
@@ -280,55 +277,49 @@ Download Starter Kit
 </a>
 
 <a class="md-button"
+   href="https://platform.etisframework.org">
+Open Engineering Platform
+</a>
+
+<a class="md-button"
    href="https://github.com/etis-framework/etis-starter-kit">
 Browse on GitHub
 </a>
 
 </div>
 
-The archive contains the complete `etis-starter-kit` repository tree, including platform documentation, Engineering Stages, reusable templates, LMU/COICP examples, governance assets, and project workspace materials.
-
 ---
 
-## Additional Products
+## Download Policy
 
-The ETIS ecosystem will continue to expand with curated publications, implementation guides, and professional toolkits.
+ETIS downloads follow four principles:
 
-The Framework and Engineering Platform are the primary public products. Additional downloadable resources may be released as the ecosystem evolves, but not every internal artifact will become a standalone download.
+1. **Curated** — only complete, professionally useful products are published.
+2. **Durable** — downloads are suitable for offline reading, teaching, archiving, or project startup.
+3. **Traceable** — downloadable products should remain connected to their authoritative website or repository source.
+4. **Nonduplicative** — the Downloads area does not reproduce the Publications catalog or the Engineering Platform website.
 
-Downloads are intentionally curated.
+Not every internal ETIS artifact becomes a standalone download.
 
 ---
 
 ## Related Resources
 
+- [ETIS Publications](../publications/index.md)
+- [ETIS Library](ETIS_Library.md)
+- [Resource Center](Resources.md)
 - [ETIS Framework](../Framework/ETIS_Framework.md)
-- [Repository-Centered Engineering](../Framework/ETIS_Repository_Centered_Engineering.md)
-- [ETIS Engineering Platform](https://platform.etisframework.org)
-- [ETIS Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
 - [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
 - [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
-- [Resource Center](Resources.md)
-- [ETIS Library](ETIS_Library.md)
-
----
-
-## Download Philosophy
-
-The ETIS website teaches the framework.
-
-Downloads package ETIS into durable, portable products.
-
-The Engineering Platform is different from a book PDF: it is a working repository of stages, templates, examples, governance assets, and project workspaces. Its downloadable product is therefore the repository archive, not a static export of the platform website.
-
-Not every internal asset becomes a download.
-
-Downloads should remain curated, intentional, and professionally useful.
+- [ETIS Engineering Platform](https://platform.etisframework.org)
+- [Repository Ecosystem](Repository_Ecosystem.md)
 
 ---
 
 ## Bottom Line
 
-ETIS is more than a book.
+The ETIS website provides the authoritative online experiences.
 
-It is an ecosystem of products designed to help engineers, instructors, students, institutions, and organizations build trustworthy intelligent systems in the AI era.
+Publications provide focused, citable guidance.
+
+Downloads package selected ETIS books, educational products, and implementation resources into durable, portable forms.

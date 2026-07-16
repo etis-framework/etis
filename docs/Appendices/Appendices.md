@@ -9,85 +9,194 @@ hide:
        style="width:320px; max-width:60%; height:auto;">
 </div>
 
-# Appendices
+# ETIS Appendices
 
-**Professional Reference Materials and Engineering Resources**
+**Professional reference architecture for trustworthy intelligent systems**
 
-The appendices are the professional reference library of ETIS. While the chapters teach the lifecycle, the appendices provide durable engineering references that support real-world engineering work, educational adoption, governance activities, and long-term stewardship.
+The ETIS appendices are the professional reference library of the framework.
 
-Use the appendices when you need to evaluate trustworthiness, organize repository evidence, prepare reviews, govern AI use, structure engineering artifacts, exercise engineering judgment, improve operations, or apply ETIS terminology consistently.
+The Two-Volume Edition develops ETIS across the lifecycle. The appendices consolidate the most reusable structures into durable reference materials that readers can consult during engineering work, reviews, teaching, governance, operations, adoption, and stewardship.
 
-## Appendix Guide
+They are not supplementary afterthoughts. They are where major ETIS ideas become easier to inspect, compare, apply, and reuse.
 
-### Appendix A — ETIS Trustworthiness Framework Reference
+Use the appendices when you need to:
 
-Consolidates the trustworthiness pillars, lifecycle relationships, evidence expectations, governance interactions, maturity progression, and failure patterns used throughout ETIS. Use this appendix when evaluating systems, preparing reviews, organizing evidence, assessing maturity, or defending engineering decisions.
-
-### Appendix B — Complete Review-Board Catalog
-
-Provides the consolidated review-board and challenge-mechanism architecture for the full ETIS lifecycle. Use this appendix when preparing reviews, evaluating evidence, designing governance processes, or understanding how review boards support trustworthy engineering outcomes.
-
-### Appendix C — Repository-Centered Engineering Artifact Catalog
-
-Catalogs the major repository artifact families used throughout ETIS and explains their purpose, ownership, evidence role, review relationships, and contribution to trustworthiness. Use this appendix when organizing project evidence or designing repository-centered engineering practices.
-
-### Appendix D — Engineering Principles Catalog
-
-Consolidates the recurring ETIS engineering principles into a quick-reference catalog. Use this appendix when evaluating decisions, interpreting evidence, conducting reviews, or communicating engineering rationale.
-
-### Appendix E — LMU / COICP Enterprise Reference Architecture
-
-Provides the consolidated reference architecture for Lakeside Metropolitan University and the Campus Operations and Incident Coordination Platform. Use this appendix to understand the enterprise context, governance structures, operational scenarios, repository artifacts, and AI-era stewardship examples used throughout ETIS.
-
-### Appendix F — Engineering Judgment Framework
-
-Provides a professional framework for exercising engineering judgment under uncertainty. Use this appendix when assessing evidence, evaluating risk, making tradeoffs, communicating uncertainty, exercising authority, or defending consequential engineering decisions.
-
-### Appendix G — AI Governance Framework
-
-Consolidates the AI governance concepts used throughout ETIS. Use this appendix when deciding what AI may do, what humans must verify, what evidence must be preserved, what authority must be bounded, and how intelligent capabilities should be operated and stewarded.
-
-### Appendix H — Terminology and Definitions
-
-Provides the shared ETIS vocabulary for software engineering, trustworthiness, governance, operations, stewardship, and intelligent systems. Use this appendix when interpreting key terms, preparing artifacts, conducting reviews, or applying ETIS concepts consistently.
+- evaluate whether a system is becoming trustworthy;
+- prepare or conduct a consequential review;
+- organize repository-centered engineering evidence;
+- apply ETIS principles consistently;
+- understand the LMU/COICP continuity environment;
+- exercise engineering judgment under uncertainty;
+- govern AI authority, context, oversight, and lifecycle risk;
+- establish a shared professional vocabulary.
 
 ---
 
-## How to Use the Appendices
+## Why the Appendices Matter
 
-The appendices are not intended to be read sequentially.
+Trustworthy engineering requires more than understanding ideas.
 
-They function as a professional engineering reference library that supports the ETIS lifecycle.
+Teams must be able to convert doctrine into:
 
-Different appendices support different engineering activities.
+- review questions;
+- evidence expectations;
+- artifact structures;
+- governance controls;
+- decision frameworks;
+- operating models;
+- shared terminology;
+- durable organizational memory.
 
-| Need | Recommended Appendix |
-|------|---------------------|
-| Understand ETIS trustworthiness | Appendix A |
-| Conduct reviews and governance activities | Appendix B |
-| Organize repository evidence | Appendix C |
-| Apply ETIS engineering principles | Appendix D |
-| Understand LMU and COICP examples | Appendix E |
-| Exercise engineering judgment | Appendix F |
-| Govern AI responsibly | Appendix G |
-| Standardize terminology | Appendix H |
+The appendices provide that conversion layer.
+
+```text
+ETIS Doctrine
+↓
+Appendix Reference Frameworks
+↓
+Engineering Decisions, Reviews, Evidence, and Governance
+↓
+Operational Practice and Stewardship
+```
+
+The appendices support the book, Publications Program, Educational Ecosystem, and Engineering Platform without replacing engineering judgment.
+
+---
+
+## Appendix Architecture
+
+The eight appendices form a connected reference system.
+
+| Appendix | Primary Role | Central Question |
+|---|---|---|
+| **A — Trustworthiness Framework Reference** | Defines the trustworthiness pillars, evidence model, lifecycle relationships, maturity progression, and failure patterns | What makes a system worthy of trust? |
+| **B — Complete Review-Board Catalog** | Defines the challenge mechanisms used across the ETIS lifecycle | How should consequential claims be reviewed? |
+| **C — Repository-Centered Engineering Artifact Catalog** | Defines the artifact families that preserve engineering evidence and memory | What evidence should the repository preserve? |
+| **D — Engineering Principles Catalog** | Consolidates the durable principles that govern ETIS behavior and decisions | What principles should constrain engineering judgment? |
+| **E — LMU / COICP Enterprise Reference Architecture** | Consolidates the continuing enterprise environment used throughout ETIS | How do ETIS concepts operate inside a realistic institution? |
+| **F — Engineering Judgment Framework** | Provides a disciplined model for decisions under uncertainty, risk, tradeoffs, and incomplete evidence | How should engineers make and defend consequential decisions? |
+| **G — AI Governance Framework** | Defines authority, context, oversight, evidence, recoverability, and lifecycle governance for AI-enabled systems | What may AI do, and under what controls? |
+| **H — Terminology and Definitions** | Establishes the shared ETIS vocabulary | What do the key ETIS terms mean in professional practice? |
+
+---
+
+## How the Appendices Work Together
+
+The appendices are intentionally interdependent.
+
+```text
+Appendix A — Defines trustworthiness
+        ↓
+Appendix B — Challenges trustworthiness claims
+        ↓
+Appendix C — Preserves the evidence
+        ↓
+Appendix D — Anchors the engineering principles
+        ↓
+Appendix E — Grounds the framework in enterprise reality
+        ↓
+Appendix F — Guides judgment under uncertainty
+        ↓
+Appendix G — Governs AI-enabled authority and behavior
+        ↓
+Appendix H — Preserves shared meaning
+```
+
+A single engineering question may require several appendices.
+
+For example, an AI delegation decision may require:
+
+- Appendix A for trustworthiness implications;
+- Appendix B for the appropriate review mechanism;
+- Appendix C for required repository evidence;
+- Appendix D for governing principles;
+- Appendix F for risk and tradeoff judgment;
+- Appendix G for delegation, oversight, and revocation controls;
+- Appendix H for consistent terminology.
+
+---
+
+## Choose an Appendix by Need
+
+| If you need to... | Start with |
+|---|---|
+| Assess system trustworthiness or maturity | [Appendix A](Appendix_A/Appendix_A.md) |
+| Prepare a review board or readiness gate | [Appendix B](Appendix_B/Appendix_B.md) |
+| Design repository evidence and artifact structure | [Appendix C](Appendix_C/Appendix_C.md) |
+| Apply or teach ETIS principles | [Appendix D](Appendix_D/Appendix_D.md) |
+| Understand LMU/COICP examples and enterprise context | [Appendix E](Appendix_E/Appendix_E.md) |
+| Make a difficult engineering decision | [Appendix F](Appendix_F/Appendix_F.md) |
+| Govern AI assistance, delegation, context, or agents | [Appendix G](Appendix_G/Appendix_G.md) |
+| Clarify terminology or align team language | [Appendix H](Appendix_H/Appendix_H.md) |
+
+---
+
+## Use by Audience
+
+### Engineers and Architects
+
+Use Appendices A, C, D, F, and G to connect system design, evidence, judgment, and AI governance.
+
+### Review Boards and Governance Leaders
+
+Use Appendices A, B, F, and G to structure challenge, authority, risk, oversight, and decision records.
+
+### Operators and Stewards
+
+Use Appendices A, C, E, F, and G to support observability, recoverability, operational learning, repository health, and long-term stewardship.
+
+### Instructors and Students
+
+Use Appendices B, C, D, F, and H to teach review, evidence, professional judgment, shared vocabulary, and engineering defense.
+
+### Executives and Institutional Leaders
+
+Use Appendices A, B, E, F, and G to understand trust claims, governance responsibilities, enterprise implications, and AI authority.
+
+---
+
+## Relationship to Publications and the Engineering Platform
+
+The appendices provide the canonical reference architecture.
+
+The ETIS Publications Program provides focused treatments of selected ideas.
+
+The ETIS Engineering Platform turns those ideas into stages, templates, examples, governance assets, and project workspaces.
+
+```text
+Appendices
+Canonical reference
+
+Publications
+Focused explanation and decision guidance
+
+Engineering Platform
+Practical implementation
+```
+
+[Explore ETIS Publications →](../publications/index.md)
+
+[Explore the ETIS Engineering Platform →](https://platform.etisframework.org)
+
+---
 
 ## Quick Access
 
 - [Appendix A — ETIS Trustworthiness Framework Reference](Appendix_A/Appendix_A.md)
-
 - [Appendix B — Complete Review-Board Catalog](Appendix_B/Appendix_B.md)
-
 - [Appendix C — Repository-Centered Engineering Artifact Catalog](Appendix_C/Appendix_C.md)
-
 - [Appendix D — Engineering Principles Catalog](Appendix_D/Appendix_D.md)
-
 - [Appendix E — LMU / COICP Enterprise Reference Architecture](Appendix_E/Appendix_E.md)
-
 - [Appendix F — Engineering Judgment Framework](Appendix_F/Appendix_F.md)
-
 - [Appendix G — AI Governance Framework](Appendix_G/Appendix_G.md)
-
 - [Appendix H — Terminology and Definitions](Appendix_H/Appendix_H.md)
 
-[Open Appendix A →](Appendix_A/Appendix_A.md)
+---
+
+## Bottom Line
+
+The chapters develop ETIS.
+
+The appendices make ETIS reusable.
+
+They provide the reference frameworks needed to evaluate trustworthiness, challenge claims, preserve evidence, govern AI, exercise judgment, align terminology, and steward intelligent systems over time.

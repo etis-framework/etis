@@ -1,10 +1,14 @@
-# Appendix H<br><span class="chapter-title-main">Terminology and Definitions
+# Appendix H
 
-This book introduces a common vocabulary for discussing software engineering, trustworthiness, governance, operations, stewardship, and intelligent systems. Precise language matters because engineering decisions depend on what teams mean by evidence, authority, review, risk, oversight, readiness, and trust.
+## Terminology and Definitions
 
-This appendix provides concise definitions for the most important terms used throughout the book. It is intended as a practical reference for readers, teams, instructors, reviewers, and organizations that want to apply trustworthy engineering concepts consistently in project work, professional practice, operational environments, and governance activities.
+**The shared professional vocabulary of Engineering Trustworthy Intelligent Systems**
 
-The definitions emphasize how terms are used throughout this book rather than how they might appear in every possible technical, organizational, or academic context. The goal is not to create a dictionary for all of software engineering. The goal is to preserve the shared professional vocabulary needed to build, review, operate, govern, and steward trustworthy intelligent systems.
+Precise language matters because engineering decisions depend on what teams mean by evidence, authority, review, risk, oversight, readiness, trust, and stewardship.
+
+This appendix provides the shared ETIS vocabulary used across the Two-Volume Edition, Publications Program, Educational Ecosystem, Engineering Platform, reviews, governance records, and repository artifacts. The goal is professional clarity, not dictionary completeness.
+
+---
 
 ## H.1 Purpose of this Appendix
 
@@ -48,7 +52,7 @@ The following terms form the core vocabulary used throughout this book. They app
 | Reviewability | The degree to which humans can inspect, challenge, understand, and validate work, decisions, evidence, behavior, and risk. | Review boards, PRs |
 | Stewardship | Long-term responsibility for keeping systems understandable, governed, observable, recoverable, updated, and trustworthy as conditions change. | Part IV, professional identity |
 | Traceability | The ability to reconstruct why work was done, how it changed, what evidence supports it, who reviewed it, and what consequences remain. | Evidence chain |
-| Trustworthiness | Trustworthiness | The lifecycle property by which a system can be responsibly understood, verified, reviewed, governed, operated, recovered, stewarded, evolved, and defended. | ETIS framework |
+| Trustworthiness | The lifecycle property by which a system can be responsibly understood, verified, reviewed, governed, operated, recovered, stewarded, evolved, and defended. | ETIS framework |
 
 ## H.3 Trustworthiness Terms
 

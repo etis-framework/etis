@@ -23,7 +23,7 @@ Tests can be drafted.
 Documents can be summarized.  
 Architectures can be sketched.  
 Workflows can be automated.  
-Agents can act across tools.  
+Agents can act across tools.
 
 That is useful.
 
@@ -43,7 +43,7 @@ ETIS answers that question.
 
 ## The Industry Problem
 
-After decades of enterprise software delivery, one lesson becomes unavoidable:
+After decades of enterprise software delivery, one lesson is unavoidable:
 
 > Systems rarely fail only because people could not write code.
 
@@ -53,15 +53,15 @@ AI does not remove those failure modes.
 
 AI accelerates them.
 
-When teams can generate more artifacts faster, weak engineering discipline becomes more dangerous, not less dangerous.
+When teams can generate more artifacts faster, weak engineering discipline becomes more dangerous, not less.
 
 The result is synthetic productivity:
 
-* more code without more understanding
-* more documentation without more evidence
-* more automation without more accountability
-* more apparent progress without more operational readiness
-* more confidence without more governance
+- more code without more understanding;
+- more documentation without more evidence;
+- more automation without more accountability;
+- more apparent progress without more operational readiness;
+- more confidence without more governance.
 
 That is the gap ETIS addresses.
 
@@ -123,19 +123,19 @@ Engineered.
 
 ETIS integrates the disciplines that intelligent systems now require:
 
-* software engineering discipline
-* requirements and architectural judgment
-* AI-assisted implementation controls
-* review and verification
-* repository-centered evidence
-* release readiness and defense
-* operational readiness
-* observability and runtime evidence
-* security and reliability
-* AI governance and authority boundaries
-* human oversight
-* incident learning
-* organizational stewardship
+- software engineering discipline;
+- requirements and architectural judgment;
+- AI-assisted implementation controls;
+- review and verification;
+- repository-centered evidence;
+- release readiness and defense;
+- operational readiness;
+- observability and runtime evidence;
+- security and reliability;
+- AI governance and authority boundaries;
+- human oversight;
+- incident learning;
+- organizational stewardship.
 
 The result is a framework for building systems that can earn trust and sustain trust throughout their lifecycle.
 
@@ -150,7 +150,7 @@ Teams reorganize.
 Vendors change.  
 Tools evolve.  
 AI-generated artifacts accumulate.  
-Decisions become disconnected from evidence.  
+Decisions become disconnected from evidence.
 
 When engineering memory disappears, governance becomes theater.
 
@@ -158,24 +158,26 @@ ETIS treats the repository as the system of record for engineering accountabilit
 
 A trustworthy repository preserves:
 
-* requirements
-* assumptions
-* architecture decisions
-* AI-use records
-* review evidence
-* test evidence
-* release judgments
-* operational records
-* incidents
-* postmortems
-* governance decisions
-* stewardship lessons
+- requirements;
+- assumptions;
+- architecture decisions;
+- AI-use records;
+- review evidence;
+- test evidence;
+- release judgments;
+- operational records;
+- incidents;
+- postmortems;
+- governance decisions;
+- stewardship lessons.
 
 This is not paperwork.
 
 This is how organizations remember why a system should be trusted.
 
 Everything important leaves evidence.
+
+[Explore Repository-Centered Engineering →](ETIS_Repository_Centered_Engineering.md)
 
 ---
 
@@ -185,11 +187,11 @@ In traditional software projects, unsupported claims were already dangerous.
 
 In AI-supported systems, they are worse.
 
-AI can produce confident output without understanding the organizational context.  
+AI can produce confident output without understanding organizational context.  
 AI can generate plausible explanations without evidence.  
 AI can make incomplete work look mature.  
 AI can hide uncertainty behind fluency.  
-AI can accelerate dependency before governance catches up.  
+AI can accelerate dependency before governance catches up.
 
 ETIS pushes teams away from unsupported claims and toward reviewable evidence.
 
@@ -231,13 +233,13 @@ ETIS gives managers a way to evaluate maturity without relying on status theater
 
 It asks:
 
-* What evidence exists?
-* What changed?
-* What was reviewed?
-* What risks remain?
-* What did AI help produce?
-* What did humans verify?
-* What operational responsibility has the organization inherited?
+- What evidence exists?
+- What changed?
+- What was reviewed?
+- What risks remain?
+- What did AI help produce?
+- What did humans verify?
+- What operational responsibility has the organization inherited?
 
 That is a stronger management model than asking whether the demo worked.
 
@@ -257,14 +259,14 @@ Students no longer need courses that only reward working applications.
 
 They need courses that teach professional engineering behavior:
 
-* define intent
-* make decisions
-* use AI responsibly
-* verify claims
-* preserve evidence
-* defend releases
-* think operationally
-* improve systems over time
+- define intent;
+- make decisions;
+- use AI responsibly;
+- verify claims;
+- preserve evidence;
+- defend releases;
+- think operationally;
+- improve systems over time.
 
 Students should graduate with evidence of engineering maturity, not merely evidence of course completion.
 
@@ -286,21 +288,39 @@ Trustworthy engineering should be inspectable.
 
 ETIS is published as a public framework because the AI era needs shared engineering language, shared evidence models, shared educational patterns, and shared professional expectations.
 
-The website, book, downloadable products, educational ecosystem, and repository resources are designed to make ETIS usable by:
+The Framework, Two-Volume Edition, Publications Program, Educational Ecosystem, Engineering Platform, downloads, and repositories are designed to make ETIS usable by:
 
-* students
-* instructors
-* engineers
-* architects
-* technical leaders
-* governance teams
-* review boards
-* institutions
-* organizations
+- students;
+- instructors;
+- engineers;
+- architects;
+- technical leaders;
+- governance teams;
+- review boards;
+- institutions;
+- organizations.
 
 ETIS is not meant to be hidden inside a consulting engagement.
 
 It is meant to be read, taught, challenged, adopted, adapted, and improved.
+
+---
+
+## Why Publications Matter
+
+The ETIS Publications Program makes the framework easier to enter, apply, and cite.
+
+The White Papers provide deep technical and professional treatments of major ETIS ideas.
+
+The Executive Briefs translate engineering consequences into leadership decisions.
+
+The Education Papers support professional formation for students, instructors, early-career engineers, and academic programs.
+
+Publications do not replace the Two-Volume Edition or the Framework. They provide focused entry points into them.
+
+[Explore ETIS Publications →](../publications/index.md)
+
+[View Publication Reading Paths →](../publications/reading-paths.md)
 
 ---
 
@@ -312,7 +332,7 @@ AI capability is accelerating.
 
 Engineering discipline is not always keeping pace.
 
-Organizations are adopting intelligent systems faster than they are adapting their requirements practices, architecture reviews, AI governance controls, testing strategies, operational readiness, repository evidence, incident learning, and stewardship models.
+Organizations are adopting intelligent systems faster than they are adapting requirements practices, architecture reviews, AI governance controls, testing strategies, operational readiness, repository evidence, incident learning, and stewardship models.
 
 That mismatch is where trust breaks.
 
@@ -360,12 +380,15 @@ That is the engineering question of the AI era.
 |---|---|
 | [What is ETIS?](What_is_ETIS.md) | Plain-language introduction to the framework |
 | [ETIS Framework](ETIS_Framework.md) | Full framework overview and lifecycle architecture |
-| [Engineering Platform](https://platform.etisframework.org) | Apply ETIS through stages, templates, LMU/COICP examples, governance assets, and project workspaces |
+| [ETIS Publications](../publications/index.md) | Focused white papers, executive briefs, and education papers |
+| [Publication Reading Paths](../publications/reading-paths.md) | Role-based publication sequences |
+| [Platform Overview](../Platform/Platform.md) | Understand the implementation environment and how to begin |
+| [Launch Engineering Platform ↗](https://platform.etisframework.org) | Enter the working stages, templates, examples, governance assets, and project workspaces |
 | [Read Online](../Front_Matter/01_Title_Page.md) | Begin the complete online book |
 | [Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the two volumes work together |
 | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Explore teaching, learning, and institutional adoption |
-| [Resource Center](../Resources/Resources.md) | Access downloads, products, and supporting resources |
-| [Repository-Centered Engineering](ETIS_Repository_Centered_Engineering.md) | Understand how ETIS uses repositories as systems of record for engineering evidence |
+| [Resource Center](../Resources/Resources.md) | Navigate the complete ETIS ecosystem |
+| [Repository-Centered Engineering](ETIS_Repository_Centered_Engineering.md) | Understand repositories as systems of record for engineering evidence |
 
 ---
 

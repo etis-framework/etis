@@ -29,10 +29,10 @@ hide:
       </p>
 
       <p class="etis-hero-education-text">
-        An educational ecosystem and an open Engineering Platform help students, engineers, and organizations put ETIS into practice.
+        An educational ecosystem, professional publication program, and open Engineering Platform help students, engineers, leaders, and organizations learn and apply ETIS.
       </p>
 
-      <p class="etis-hero-copy-text">
+      <p class="etis-hero-copy-text etis-hero-action-statement">
         <strong>Read the Framework. Learn the discipline. Apply it through the Engineering Platform.</strong>
       </p>
 
@@ -40,43 +40,85 @@ hide:
         <a class="etis-education-link" href="Educational_Ecosystem/Educational_Ecosystem/">
           Explore Education →
         </a>
-        <a class="etis-education-link" href="https://platform.etisframework.org">
+        <a class="etis-education-link" href="publications/">
+          Explore Publications →
+        </a>
+        <a class="etis-education-link" href="Platform/Platform/">
           Explore Engineering Platform →
         </a>
       </div>
 
-      <div class="etis-hero-buttons-final">
-        <a class="etis-hero-button etis-primary-button" href="Front_Matter/01_Title_Page/">
-          <span class="etis-button-icon etis-book-icon" aria-hidden="true">
-            <svg viewBox="0 0 32 32" focusable="false" role="img" aria-hidden="true">
-              <path d="M5.5 7.25c0-.83.67-1.5 1.5-1.5h6.45c1.12 0 2.03.36 2.55 1.07.52-.71 1.43-1.07 2.55-1.07H25c.83 0 1.5.67 1.5 1.5v17.2c0 .44-.36.8-.8.8h-7.05c-.96 0-1.86.32-2.58.91a.96.96 0 0 1-1.14 0 4.05 4.05 0 0 0-2.58-.91H6.3a.8.8 0 0 1-.8-.8V7.25Z" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M16 6.95v19.1" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/>
-              <path d="M8.6 9.2h3.9M8.6 12.25h3.9M19.5 9.2h3.9M19.5 12.25h3.9" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" opacity=".9"/>
-            </svg>
-          </span>
-          <span class="etis-button-text"><strong>Read Online</strong><small>Start Reading</small></span>
-        </a>
-        <a class="etis-hero-button" href="Volumes/Volume_I/">
-          <span class="etis-button-text"><strong>Volume I</strong><small>Parts I–II</small></span>
-        </a>
-        <a class="etis-hero-button" href="Volumes/Volume_II/">
-          <span class="etis-button-text"><strong>Volume II</strong><small>Parts III–IV</small></span>
-        </a>
-        <a class="etis-hero-button" href="Appendices/Appendices/">
-          <span class="etis-button-text"><strong>Appendices</strong><small>Reference Material</small></span>
-        </a>
-       <a class="etis-hero-button" href="Resources/download/">
-          <span class="etis-download-icon" aria-hidden="true">
-            <svg viewBox="0 0 32 32" focusable="false" role="img" aria-hidden="true">
-              <path d="M16 5.5v14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
-              <path d="M10.5 14.5 16 20l5.5-5.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M7.5 24.5h17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/>
-            </svg>
-          </span>
-          <span class="etis-button-text"><strong>Download</strong><small>Library</small></span>
-        </a>
-      </div>
-    </div>
+<div class="etis-hero-buttons-final">
+
+  <a class="etis-hero-button etis-primary-button etis-read-button"
+     href="Front_Matter/01_Title_Page/">
+    <span class="etis-button-icon etis-book-icon" aria-hidden="true">
+      <svg viewBox="0 0 32 32" focusable="false" role="img" aria-hidden="true">
+        <path d="M5.5 7.25c0-.83.67-1.5 1.5-1.5h6.45c1.12 0 2.03.36 2.55 1.07.52-.71 1.43-1.07 2.55-1.07H25c.83 0 1.5.67 1.5 1.5v17.2c0 .44-.36.8-.8.8h-7.05c-.96 0-1.86.32-2.58.91a.96.96 0 0 1-1.14 0 4.05 4.05 0 0 0-2.58-.91H6.3a.8.8 0 0 1-.8-.8V7.25Z"
+              fill="none" stroke="currentColor" stroke-width="2.1"
+              stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M16 6.95v19.1"
+              fill="none" stroke="currentColor" stroke-width="2.1"
+              stroke-linecap="round"/>
+        <path d="M8.6 9.2h3.9M8.6 12.25h3.9M19.5 9.2h3.9M19.5 12.25h3.9"
+              fill="none" stroke="currentColor" stroke-width="1.65"
+              stroke-linecap="round" opacity=".9"/>
+      </svg>
+    </span>
+
+    <span class="etis-button-text">
+      <strong>Read Online</strong>
+      <small>Complete Book</small>
+    </span>
+  </a>
+
+  <a class="etis-hero-button etis-publications-button"
+     href="publications/">
+    <span class="etis-button-text">
+      <strong>Publications</strong>
+      <small>Papers &amp; Briefs</small>
+    </span>
+  </a>
+
+  <a class="etis-hero-button etis-volume-button"
+     href="Volumes/Volume_I/">
+    <span class="etis-button-text">
+      <strong>Volume I</strong>
+      <small>Foundations</small>
+    </span>
+  </a>
+
+  <a class="etis-hero-button etis-volume-button"
+     href="Volumes/Volume_II/">
+    <span class="etis-button-text">
+      <strong>Volume II</strong>
+      <small>Operations</small>
+    </span>
+  </a>
+
+  <a class="etis-hero-button etis-download-button"
+     href="Resources/download/">
+    <span class="etis-download-icon" aria-hidden="true">
+      <svg viewBox="0 0 32 32" focusable="false" role="img" aria-hidden="true">
+        <path d="M16 5.5v14"
+              fill="none" stroke="currentColor" stroke-width="2.2"
+              stroke-linecap="round"/>
+        <path d="M10.5 14.5 16 20l5.5-5.5"
+              fill="none" stroke="currentColor" stroke-width="2.2"
+              stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M7.5 24.5h17"
+              fill="none" stroke="currentColor" stroke-width="2.2"
+              stroke-linecap="round"/>
+      </svg>
+    </span>
+
+    <span class="etis-button-text">
+      <strong>Downloads</strong>
+      <small>Books &amp; Resources</small>
+    </span>
+  </a>
+
+</div>
   </div>
 </section>
 
@@ -203,8 +245,8 @@ hide:
 
 <section class="etis-repo-section">
   <div class="etis-repo-inner">
-    <h2>ETIS Engineering Platform</h2>
-    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how to apply it through Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and project workspaces.</p>
+    <h2>Applying ETIS Through the Engineering Platform</h2>
+    <p>The Framework defines the engineering discipline. The Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference implementations, governance assets, and project workspaces.</p>
 
     <div class="etis-capability-row">
       <div><span>①</span><strong>Stages</strong><small>ES-100 through ES-114 guide lifecycle work.</small></div>
@@ -215,22 +257,23 @@ hide:
       <div><span>↗</span><strong>Execution</strong><small>Teams move from doctrine to action.</small></div>
     </div>
 
-    <p class="etis-evidence-sentence"><strong>Read the Framework to understand ETIS. Use the Engineering Platform to apply ETIS.</strong></p>
+    <p class="etis-evidence-sentence"><strong>Read the Framework to understand ETIS. Explore the Platform to learn how to apply it. Launch the Engineering Platform when you're ready to begin.</strong></p>
 
     <div class="etis-platform-links" style="margin-top:.25rem; line-height:1.55;">
-      <a class="etis-inline-link" href="https://platform.etisframework.org">Explore the Engineering Platform →</a><br>
-      <a class="etis-inline-link" href="https://github.com/etis-framework/etis-starter-kit">Browse the Starter Kit Repository →</a>
+      <a class="etis-inline-link" href="Platform/Platform">Explore the Platform →</a><br>
+      <a class="etis-inline-link" href="https://platform.etisframework.org">Launch the Engineering Platform ↗</a><br>
+      <a class="etis-inline-link" href="https://github.com/etis-framework/etis-starter-kit">Browse the Starter Kit Repository ↗</a>
     </div>
   </div>
 </section>
 
 <section class="etis-resource-strip">
 
-  <a href="Appendices/Appendices/">
+  <a href="publications/">
     <span>▤</span>
     <div>
-      <strong>Appendices</strong>
-      <small>Reference architectures, models, terminology, and engineering guides</small>
+      <strong>Publications</strong>
+      <small>White papers, executive briefs, and education papers</small>
     </div>
   </a>
 
@@ -238,7 +281,7 @@ hide:
     <span>◫</span>
     <div>
       <strong>Resource Center</strong>
-      <small>PDFs, print editions, downloads, repository guidance, and professional resources</small>
+      <small>Downloads, repositories, and professional resources</small>
     </div>
   </a>
 
@@ -246,15 +289,15 @@ hide:
     <span>▱</span>
     <div>
       <strong>Education</strong>
-      <small>Courses, instructor resources, student resources, adoption, and implementation guidance</small>
+      <small>Courses, students, instructors, and adoption guidance</small>
     </div>
   </a>
 
-  <a href="https://platform.etisframework.org">
+  <a href="Platform/Platform/">
     <span>▣</span>
     <div>
       <strong>Engineering Platform</strong>
-      <small>Engineering stages, reusable templates, LMU/COICP examples, governance assets, and project workspaces</small>
+      <small>Stages, templates, examples, governance, and workspaces</small>
     </div>
   </a>
 

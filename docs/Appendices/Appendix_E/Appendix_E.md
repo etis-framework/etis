@@ -1,10 +1,14 @@
-# Appendix E<br><span class="chapter-title-main">LMU / COICP Enterprise Reference Architecture
+# Appendix E
 
-Lakeside Metropolitan University (LMU) and the Campus Operations and Incident Coordination Platform (COICP) provide the recurring enterprise environment used throughout Engineering Trustworthy Intelligent Systems (ETIS). Together they serve as a realistic institutional setting for exploring lifecycle management, governance, operational trust, repository-centered engineering, intelligent systems, and long-term stewardship.
+## LMU / COICP Enterprise Reference Architecture
 
-Rather than functioning as a fictional storyline, LMU and COICP provide continuity across the book's examples and demonstrate how trustworthy engineering concepts operate within a complex organizational environment.
+**The continuing enterprise environment that grounds ETIS in realistic organizational and operational conditions**
 
-This appendix provides a consolidated reference architecture for Lakeside Metropolitan University (LMU) and the Campus Operations and Incident Coordination Platform (COICP), the recurring enterprise environment used throughout the book.
+Lakeside Metropolitan University (LMU) and the Campus Operations and Incident Coordination Platform (COICP) provide the continuing enterprise environment used throughout ETIS.
+
+This appendix consolidates that environment into a reference architecture. It helps readers interpret examples, repository artifacts, governance structures, operational scenarios, review mechanisms, AI capabilities, and stewardship obligations without creating new doctrine or a separate case study.
+
+---
 
 ## E.1 Introduction
 
@@ -175,7 +179,7 @@ Readers may adapt the LMU/COICP reference architecture to their own organization
 
 Preserve the obligations that make the reference architecture trustworthy: stakeholder consequence, operational ownership, governance authority, repository evidence, review mechanisms, runtime evidence, AI boundaries, limitation disclosure, recoverability, and stewardship. Do not reduce the reference architecture to a folder structure, vendor diagram, process checklist, or fictional storyline.
 
-### E.14 Related Reference Materials
+## E.14 Related Reference Materials
 
 The LMU / COICP enterprise reference architecture is intended to be used alongside the other ETIS reference materials. Together, these resources provide complementary perspectives on trustworthiness, governance, evidence, operations, stewardship, intelligent systems, and professional responsibility.
 

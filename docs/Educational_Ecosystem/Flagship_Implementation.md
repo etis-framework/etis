@@ -9,19 +9,17 @@ hide:
        style="width:320px; max-width:60%; height:auto;">
 </div>
 
-# ETIS COMP330 Flagship Implementation
-## Engineering Platform Connection
+# ETIS COMP 330/474 Flagship Implementation
 
-The completed ETIS Engineering Platform strengthens the flagship implementation by providing a reusable project environment for staged engineering work. COMP330/474 teams can use Platform stages, templates, examples, and workspaces to practice repository-centered engineering in a way that aligns with ETIS doctrine.
+**A real-world educational laboratory for evidence-centered, AI-responsible software engineering**
 
+The Loyola University Chicago COMP 330/474 implementation is the flagship ETIS educational implementation and feedback system.
 
-The Loyola University Chicago COMP330/474 implementation is the flagship ETIS educational implementation and feedback system.
-
-It shows how ETIS operates in a real software engineering course.
-
-It also shows how an educational framework improves when it is tested through real students, real teams, real projects, real constraints, and real evidence.
+It shows how ETIS operates in a real software engineering course—and how the Educational Ecosystem improves when tested through real students, teams, projects, constraints, reviews, and engineering evidence.
 
 > Educational laboratories are where educational frameworks become trustworthy.
+
+The ETIS Engineering Platform strengthens the implementation by providing a reusable project environment for staged engineering work. Teams can use Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspaces in a manner aligned with ETIS doctrine.
 
 ---
 
@@ -31,18 +29,16 @@ The flagship implementation demonstrates how ETIS can be taught, operated, revie
 
 It is not the definition of ETIS.
 
-It is proof that ETIS can work in practice.
-
-The distinction matters:
+It is a reference implementation and evidence-generating laboratory.
 
 ```text
 ETIS Doctrine
 ↓
-Educational Ecosystem
+Education Papers and Educational Ecosystem
 ↓
 Flagship Implementation
 ↓
-Evidence and Feedback
+Engineering Evidence and Feedback
 ↓
 ETIS Improvement
 ```
@@ -51,22 +47,21 @@ ETIS Improvement
 
 ## Implementation Context
 
-The flagship implementation is based on:
-
-| Area                        | Detail                                                                        |
-| --------------------------- | ----------------------------------------------------------------------------- |
-| Institution                 | Loyola University Chicago                                                     |
-| Courses                     | COMP330 — Software Engineering; COMP474 — Software Engineering                |
-| Instructor and ETIS Steward | William T. O’Connell                                                          |
-| Course Model                | 15-week semester                                                              |
-| Enrollment Model            | Mixed undergraduate and graduate enrollment                                   |
-| Team Model                  | Teams of approximately 5–6 students                                           |
-| Graduate Student Model      | Graduate students intentionally distributed across teams, often as team leads |
-| Project Model               | One team project across the full semester                                     |
-| Engineering Model           | Two-cycle ETIS engineering model                                              |
-| Review Model                | Six engineering phase gates                                                   |
-| Tooling Model               | GitHub-supported repository-centered engineering                              |
-| AI Model                    | AI encouraged throughout the lifecycle and governed through ETIS principles   |
+| Area | Detail |
+|---|---|
+| **Institution** | Loyola University Chicago |
+| **Courses** | COMP 330 — Software Engineering; COMP 474 — Software Engineering |
+| **Instructor and ETIS Steward** | William T. O’Connell |
+| **Course Model** | 15-week semester |
+| **Enrollment Model** | Mixed undergraduate and graduate enrollment |
+| **Team Model** | Engineering teams of approximately five to six students |
+| **Graduate Student Model** | Graduate students intentionally distributed across teams, often in leadership roles |
+| **Project Model** | One team project matured across the semester |
+| **Engineering Model** | Two-cycle ETIS engineering model |
+| **Review Model** | Six engineering phase gates |
+| **Repository Model** | GitHub-supported repository-centered engineering |
+| **AI Model** | AI encouraged throughout the lifecycle and governed through ETIS principles |
+| **Platform Model** | ETIS Engineering Platform stages, templates, examples, governance assets, and workspaces |
 
 ---
 
@@ -76,61 +71,58 @@ The flagship implementation is informed by approximately four decades of softwar
 
 That provenance matters because ETIS is not only an academic framework.
 
-It carries professional engineering lessons into the classroom.
-
-The implementation asks students to experience software engineering as disciplined, reviewable, evidence-centered work.
+It carries professional engineering lessons into the classroom and asks students to experience software engineering as disciplined, reviewable, evidence-centered work.
 
 ---
 
 ## Core Thesis
 
-COMP330/474 is a bi-directional educational laboratory.
+COMP 330/474 is a bidirectional educational laboratory.
 
 ```text
 ETIS informs the course.
-The course informs ETIS.
+The course tests ETIS.
 The learners transform.
+The evidence improves the next offering.
 ```
 
 The course operationalizes ETIS doctrine.
 
-The classroom tests ETIS educational assumptions.
+The classroom tests educational assumptions.
 
-The student repositories leave evidence.
+Student repositories preserve evidence.
 
 The semester generates feedback.
 
-The framework improves.
+The framework and course improve.
 
 ---
 
-## What the Implementation Proves
+## What the Implementation Demonstrates
 
-The flagship implementation demonstrates that students can practice professional engineering behaviors in an academic course when the course is designed around evidence, review, and accountability.
+The flagship implementation demonstrates that students can practice professional engineering behaviors in an academic course when the course is designed around evidence, review, accountability, and operational thinking.
 
-It proves that students can:
+Students can:
 
-* work in engineering teams
-* use AI responsibly
-* maintain repository-centered evidence
-* make and defend requirements decisions
-* reason about architecture
-* perform reviews
-* produce test evidence
-* evaluate quality
-* consider security and operations
-* defend release readiness
-* reflect on improvement
+- work in engineering teams;
+- use AI responsibly;
+- maintain repository-centered evidence;
+- make and defend requirements decisions;
+- reason about architecture;
+- perform reviews;
+- produce test evidence;
+- evaluate quality;
+- consider security and operations;
+- defend release readiness;
+- reflect on improvement.
 
 The implementation does not prove that every institution should copy Loyola’s course structure.
 
-It proves that ETIS doctrine can be implemented in a real educational environment.
+It demonstrates that ETIS doctrine can be implemented in a real educational environment.
 
 ---
 
 ## Two-Cycle Engineering Model
-
-The flagship implementation uses a two-cycle engineering model.
 
 ```text
 Cycle 1
@@ -140,7 +132,7 @@ Cycle 2
 Can it survive?
 ```
 
-Cycle 1 emphasizes initial system construction, requirements clarity, architecture direction, working functionality, and early evidence.
+Cycle 1 emphasizes initial construction, requirements clarity, architecture direction, working functionality, and early evidence.
 
 Cycle 2 emphasizes maturity, quality, verification, release readiness, operational thinking, and defense.
 
@@ -152,22 +144,20 @@ A working demo is not operational proof.
 
 ## Six Engineering Phase Gates
 
-The flagship course uses six engineering phase gates to distribute accountability across the semester.
+The course uses six engineering phase gates to distribute accountability across the semester.
 
-Phase gates prevent the course from collapsing into end-of-semester compression.
-
-They create recurring moments where students must show evidence, receive challenge, and improve the work.
+Phase gates prevent the course from collapsing into end-of-semester compression. They create recurring moments when students must present evidence, receive challenge, disposition findings, and improve the work.
 
 Phase gates support:
 
-* requirements accountability
-* planning accountability
-* architecture accountability
-* AI responsibility
-* testing and quality accountability
-* release readiness
-* operational thinking
-* team ownership
+- requirements accountability;
+- planning accountability;
+- architecture accountability;
+- AI responsibility;
+- testing and quality accountability;
+- release readiness;
+- operational thinking;
+- team ownership.
 
 The goal is not ceremony.
 
@@ -177,27 +167,28 @@ The goal is visible engineering maturity.
 
 ## Repository-Centered Engineering
 
-GitHub is used because it is free, familiar, widely used, and supports repository-centered engineering.
+GitHub supports the implementation because it is widely used and well suited to repository-centered work.
 
 But ETIS is not defined by GitHub.
 
-The repository is used as an engineering memory system.
+The repository functions as an engineering memory system.
 
 Students preserve evidence such as:
 
-* requirements
-* assumptions
-* plans
-* team roles
-* architecture decisions
-* AI use logs
-* AI verification notes
-* reviews
-* test evidence
-* defects
-* release notes
-* operational notes
-* postmortems or improvement records
+- requirements;
+- assumptions;
+- plans;
+- team roles;
+- architecture decisions;
+- AI-use logs;
+- AI-verification notes;
+- issues and pull requests;
+- reviews;
+- test evidence;
+- defects;
+- release notes;
+- operational notes;
+- postmortems and improvement records.
 
 The tool can change.
 
@@ -205,24 +196,59 @@ The engineering behavior must endure.
 
 ---
 
+## Engineering Platform Connection
+
+The Engineering Platform gives teams a repeatable lifecycle and evidence architecture.
+
+Students can:
+
+- use stages to understand what work comes next;
+- use templates to structure important artifacts;
+- study LMU/COICP examples to calibrate quality;
+- use governance assets to make AI work visible;
+- preserve project-specific evidence in the Project Workspace;
+- connect construction, review, release, operations, and stewardship.
+
+[Explore the Platform Overview →](../Platform/Platform.md)
+
+[Launch the Engineering Platform ↗](https://platform.etisframework.org)
+
+[Browse the Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
+
+---
+
+## Education Papers in the Flagship Course
+
+The ETIS Education Papers provide a professional reading sequence for the course:
+
+- [COMP-WP-001](../publications/education-papers/comp-wp-001.md) establishes why software engineering matters more in the AI era.
+- [COMP-WP-002](../publications/education-papers/comp-wp-002.md) shows students how to turn course work into portfolio evidence.
+- [COMP-WP-003](../publications/education-papers/comp-wp-003.md) establishes the professional team model.
+- [COMP-WP-004](../publications/education-papers/comp-wp-004.md) defines responsible AI-assisted engineering.
+- [COMP-WP-005](../publications/education-papers/comp-wp-005.md) connects course practices to long-term professional growth.
+
+Together, these papers orient students before and during the engineering work.
+
+---
+
 ## AI-Supported, Evidence-Governed Work
 
-AI is encouraged throughout the entire lifecycle.
+AI is encouraged throughout the lifecycle.
 
 Students may use AI for ideation, drafting, code support, testing, documentation, review preparation, and operational reasoning.
 
-But AI use must be governed.
+But AI use must remain governed.
 
 Students are expected to:
 
-* disclose meaningful AI assistance
-* verify AI-generated artifacts
-* preserve evidence of verification
-* understand the work they submit
-* defend AI-supported decisions
-* avoid hidden dependency
+- disclose meaningful AI assistance;
+- verify AI-generated artifacts;
+- preserve evidence of verification;
+- understand the work they submit;
+- defend AI-supported decisions;
+- avoid hidden dependency.
 
-AI usage is not an academic violation.
+AI use is not an academic violation.
 
 Undisclosed and unverified AI dependency is an engineering risk.
 
@@ -240,53 +266,51 @@ The role is to help the team mature.
 
 Graduate student leadership supports:
 
-* team accountability
-* project planning
-* technical decision-making
-* peer mentoring
-* review readiness
-* release defense preparation
-* professional communication
+- team accountability;
+- project planning;
+- technical decision-making;
+- peer mentoring;
+- review readiness;
+- release-defense preparation;
+- professional communication.
 
 ---
 
 ## Professional Portfolio Evidence
 
-The flagship implementation encourages students to build projects that may continue for one to two years as professional portfolio evidence.
+The flagship implementation encourages students to create repositories that can continue as professional portfolio evidence.
 
-That matters because ETIS education should produce durable evidence of engineering ability.
+A strong repository can demonstrate that a student can:
 
-A strong repository can show future employers that students can:
-
-* work in teams
-* reason about requirements
-* make design decisions
-* use AI responsibly
-* verify system behavior
-* respond to review
-* prepare release evidence
-* think operationally
-* improve from feedback
+- work in a team;
+- reason about requirements;
+- make design decisions;
+- use AI responsibly;
+- verify system behavior;
+- respond to review;
+- prepare release evidence;
+- think operationally;
+- improve from feedback.
 
 Students should leave with more than a grade.
 
-They should leave with evidence.
+They should leave with credible evidence.
+
+[Read COMP-WP-002 — Building a Professional Engineering Portfolio →](../publications/education-papers/comp-wp-002.md)
 
 ---
 
 ## Educational Feedback System
 
-The flagship implementation is also a feedback system for ETIS itself.
+Each offering can reveal:
 
-Each semester can reveal:
-
-* where students struggle
-* where instructors need better guidance
-* where assignments need clearer sequencing
-* where AI policy needs refinement
-* where assessment needs better evidence
-* where repository structures need improvement
-* where ETIS doctrine needs clearer teaching pathways
+- where students struggle;
+- where instructors need better guidance;
+- where assignments need clearer sequencing;
+- where AI policy needs refinement;
+- where assessment needs stronger evidence;
+- where repository structures need improvement;
+- where ETIS doctrine needs clearer teaching pathways.
 
 The course does not merely consume ETIS.
 
@@ -302,20 +326,20 @@ They should not mechanically copy it.
 
 Local adoption should consider:
 
-* academic calendar
-* course level
-* student background
-* class size
-* tooling environment
-* institutional policy
-* AI expectations
-* assessment model
-* project scale
-* instructor capacity
+- academic calendar;
+- course level;
+- student background;
+- class size;
+- tooling environment;
+- institutional policy;
+- AI expectations;
+- assessment model;
+- project scale;
+- instructor capacity.
 
 The right question is not:
 
-> How do we copy COMP330?
+> How do we copy COMP 330?
 
 The right question is:
 
@@ -325,15 +349,15 @@ The right question is:
 
 ## Public Implementation Product
 
-The primary public implementation product is:
-
-| Product                                        | Purpose                                                                                                      |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ETIS COMP330 Flagship Implementation Guide.pdf | A real-world implementation reference for instructors, departments, universities, and institutional adopters |
+| Product | Purpose |
+|---|---|
+| **ETIS COMP 330 Flagship Implementation Guide** | Real-world reference for instructors, departments, universities, and institutional adopters |
 
 The website introduces the implementation model.
 
 The guide provides deeper implementation detail.
+
+[Explore Educational Products →](Educational_Products.md)
 
 ---
 
@@ -343,25 +367,22 @@ The Loyola implementation is an adoption example.
 
 It is not the ETIS architecture.
 
-It is proof, not doctrine.
+It is evidence, not doctrine.
 
 ```text
 Educational products teach ETIS.
-Adoption examples prove ETIS.
+Focused publications orient the learner.
+Adoption examples demonstrate ETIS in practice.
 ```
 
-This boundary protects ETIS from becoming overfit to one course, one university, one semester model, or one instructor.
+This boundary protects ETIS from becoming overfit to one course, university, semester model, or instructor.
 
 ---
 
 ## Bottom Line
 
-The COMP330/474 flagship implementation shows ETIS operating in the real world.
+The COMP 330/474 flagship implementation shows ETIS operating in a real educational environment.
 
-It proves that students can learn software engineering as professional, evidence-centered, AI-responsible engineering work.
+It demonstrates that students can learn software engineering as professional, evidence-centered, AI-responsible work.
 
-It also proves something larger:
-
-A course can become more than a course.
-
-It can become an educational laboratory where the framework, the instructor, the students, and the engineering evidence improve each other over time.
+It also shows that a course can become an educational laboratory in which the framework, instructor, students, and engineering evidence improve one another over time.

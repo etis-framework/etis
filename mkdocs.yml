@@ -20,6 +20,9 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/publications.css
+  - stylesheets/publications-epas.css
+  - stylesheets/publication-navigation-cards.css
 
 plugins:
   - search
@@ -31,6 +34,27 @@ markdown_extensions:
   - attr_list
   - toc:
       permalink: true
+
+not_in_nav: |
+  /publications/white-papers/wp-*.md
+  /publications/executive-briefs/eb-*.md
+  /publications/education-papers/comp-wp-*.md
+
+  /Volumes/ETIS_Two_Volume_Edition.md
+  /Volumes/Volume_I.md
+  /Volumes/Volume_II.md
+
+  /volume_1/how_to_use_volume_1.md
+  /volume_1/looking_ahead_to_volume_2.md
+
+  /volume_2/continuing_beyond_the_book.md
+  /volume_2/transitioning_from_volume_1_to_volume_2.md
+
+  /volume_edition/about_this_two_volume_edition.md
+  /volume_edition/etis_learning_journey.md
+  /volume_edition/how_the_volumes_work_together.md
+  /volume_edition/understanding_the_two_volumes.md
+  /volume_edition/which_volume_should_you_read.md
 
 nav:
   - Home: index.md
@@ -124,9 +148,15 @@ nav:
       - Flagship Implementation: Educational_Ecosystem/Flagship_Implementation.md
       - Institutional Adoption: Educational_Ecosystem/Institutional_Adoption.md
 
-  - Engineering Platform:
-      - Open Platform: https://platform.etisframework.org
-      - Starter Kit Repository: https://github.com/etis-framework/etis-starter-kit
+  - Platform: Platform/Platform.md
+
+  - Publications:
+     - Overview: publications/index.md
+     - White Papers: publications/white-papers/index.md
+     - Executive Briefs: publications/executive-briefs/index.md
+     - Education Papers: publications/education-papers/index.md
+     - Reading Paths: publications/reading-paths.md
+     - Citation & Version Information: publications/citations.md
 
   - Resources:
       - Resource Center: Resources/Resources.md

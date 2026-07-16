@@ -15,11 +15,13 @@ hide:
 
 Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered, evidence-driven framework for building, governing, operating, and continuously improving trustworthy intelligent systems.
 
-ETIS begins with a simple premise: as AI systems become more capable, engineering discipline must become stronger, not weaker. Intelligent systems can generate artifacts, retrieve context, coordinate workflows, recommend actions, and increasingly participate in operational decision-making. That makes trustworthiness an engineering responsibility, not a slogan or a compliance afterthought.
+ETIS begins with a simple premise: as AI systems become more capable, engineering discipline must become stronger, not weaker. Intelligent systems can generate artifacts, retrieve context, coordinate workflows, recommend actions, and increasingly participate in operational decision-making. That makes trustworthiness an engineering responsibility—not a slogan or a compliance afterthought.
 
-ETIS provides a common language, evidence model, and lifecycle architecture for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
+ETIS provides a common language, evidence model, lifecycle architecture, and professional standard for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
 
-New to ETIS? Start with [What is ETIS?](What_is_ETIS.md) for a plain-language introduction to the framework, its purpose, and why it matters in the AI era.
+New to ETIS? Start with [What is ETIS?](What_is_ETIS.md) for a plain-language introduction, then continue with [Why ETIS?](Why_ETIS.md) for the engineering case behind the framework.
+
+---
 
 ## What ETIS Is
 
@@ -27,20 +29,22 @@ ETIS is a full-lifecycle engineering framework.
 
 It connects:
 
-- software engineering discipline,
-- requirements and architecture,
-- AI-assisted implementation,
-- review and verification,
-- release readiness,
-- operational evidence,
-- security and reliability,
-- AI governance,
-- human oversight,
-- repository memory,
-- organizational learning,
+- software engineering discipline;
+- requirements and architecture;
+- AI-assisted implementation;
+- review and verification;
+- release readiness;
+- operational evidence;
+- security and reliability;
+- AI governance;
+- human oversight;
+- repository memory;
+- organizational learning;
 - and long-term stewardship.
 
 The framework applies to traditional software systems, AI-assisted development environments, retrieval-augmented systems, agentic workflows, and intelligent systems operating inside modern organizations.
+
+---
 
 ## Why ETIS Exists
 
@@ -50,22 +54,24 @@ The central challenge is whether software can be trusted.
 
 Trustworthy intelligent systems must remain:
 
-- understandable,
-- governable,
-- reviewable,
-- secure,
-- observable,
-- recoverable,
-- accountable,
+- understandable;
+- governable;
+- reviewable;
+- secure;
+- observable;
+- recoverable;
+- accountable;
 - and improvable over time.
 
 AI can accelerate requirements drafting, architecture exploration, implementation, documentation, testing, summarization, and workflow orchestration. But acceleration does not remove responsibility. In many cases, it increases it. The faster teams can generate artifacts, the more important it becomes to preserve evidence, verify behavior, bound authority, manage context, and keep humans accountable for consequential outcomes.
+
+---
 
 ## Core Principles
 
 ETIS is organized around a durable set of engineering principles.
 
-- **AI proposes; engineers verify.** AI-generated work is proposed material until reviewed, tested, and accepted by accountable engineers.
+- **AI proposes; engineers verify.** AI-generated work remains proposed material until reviewed, tested, and accepted by accountable engineers.
 - **Governance is architecture.** Authority, accountability, escalation, approval, intervention, and oversight must be engineered into systems.
 - **Context is control.** Intelligent systems are governed by the information they can retrieve, trust, combine, summarize, expose, and use.
 - **Everything important leaves evidence.** Important decisions, reviews, approvals, risks, tests, incidents, releases, and operational lessons must be preserved.
@@ -73,6 +79,8 @@ ETIS is organized around a durable set of engineering principles.
 - **A demo is not operational proof.** Trust is earned through evidence, reviewability, observability, recoverability, and sustained operation.
 - **Humans cannot govern what they cannot understand.** Understandability is a governance requirement, not merely a documentation concern.
 - **Trustworthiness is accumulated, not declared.** Trust emerges from repeated demonstrations of competence, transparency, accountability, reliability, recoverability, and stewardship.
+
+---
 
 ## Lifecycle Architecture
 
@@ -94,13 +102,15 @@ Part II treats engineering artifacts as evidence, not paperwork.
 
 Part III moves from construction into operation. It covers postmortems, defect reduction, observability, operational readiness, runbooks, security, AI governance, reliability, incident response, release governance, approval authority, transparency, and organizational confidence.
 
-Part III establishes that trustworthy systems must be operable, observable, reviewable, and governable after deployment.
+Part III establishes that trustworthy systems must remain operable, observable, reviewable, and governable after deployment.
 
 ### Part IV — Leadership and Future-State Engineering
 
 Part IV addresses the AI-era engineering future: agentic systems, workflow orchestration, enterprise AI architecture, context engineering, human oversight at scale, understandability, repository-centered operational engineering, stewardship, and the future trustworthy engineer.
 
 Part IV defines trustworthy engineering as a professional identity grounded in accountability, judgment, verification, governance, operations, and stewardship.
+
+---
 
 ## Trustworthiness Pillars
 
@@ -120,68 +130,96 @@ Key trustworthiness pillars include:
 
 Trustworthiness is not a feature, checklist, label, or release claim. It is accumulated through disciplined engineering practices that remain visible, reviewable, and improvable over time.
 
+---
+
 ## Repository-Centered Engineering
 
 ETIS treats the repository as the system of record.
 
 A trustworthy repository preserves more than source code. It preserves engineering memory:
 
-- requirements,
-- stakeholder intent,
-- architecture decisions,
-- review records,
-- AI-use logs,
-- test evidence,
-- release decisions,
-- security reviews,
-- runbooks,
-- operational records,
-- incidents,
-- postmortems,
-- governance decisions,
+- requirements;
+- stakeholder intent;
+- architecture decisions;
+- review records;
+- AI-use logs;
+- test evidence;
+- release decisions;
+- security reviews;
+- runbooks;
+- operational records;
+- incidents;
+- postmortems;
+- governance decisions;
 - and stewardship reviews.
 
 A trustworthy system does not merely work once. It preserves the evidence needed to understand why it works, how it was reviewed, what risks were accepted, what failures occurred, and how the organization learned.
+
+[Explore Repository-Centered Engineering →](ETIS_Repository_Centered_Engineering.md)
+
+---
 
 ## The LMU / COICP Continuity Environment
 
 ETIS uses Lakeside Metropolitan University (LMU) and the Campus Operations and Incident Coordination Platform (COICP) as a continuing enterprise example.
 
-This continuity environment allows readers to follow an intelligent system as it moves from early intent through requirements, architecture, implementation, review, release, operations, incidents, governance, learning, AI delegation, context engineering, and stewardship.
+This continuity environment allows readers to follow an intelligent system from early intent through requirements, architecture, implementation, review, release, operations, incidents, governance, learning, AI delegation, context engineering, and stewardship.
 
-LMU and COICP make the framework concrete. They show that trustworthiness is not created by one artifact, one meeting, one model, or one release. It emerges across the lifecycle as evidence accumulates and the organization learns how to govern the system responsibly.
+LMU and COICP make the framework concrete. They show that trustworthiness is not created by one artifact, meeting, model, or release. It emerges across the lifecycle as evidence accumulates and the organization learns how to govern the system responsibly.
+
+---
 
 ## Who the Framework Serves
 
 ETIS is designed for:
 
-- students learning modern software engineering,
-- instructors teaching software engineering and AI governance,
-- engineers building AI-assisted and intelligent systems,
-- architects designing trustworthy system boundaries,
-- technical leads coordinating evidence and review,
-- managers responsible for accountable delivery,
-- review boards governing risk, release, and operational trust,
-- executives responsible for AI-era governance,
+- students learning modern software engineering;
+- instructors teaching software engineering and AI governance;
+- engineers building AI-assisted and intelligent systems;
+- architects designing trustworthy system boundaries;
+- technical leads coordinating evidence and review;
+- managers responsible for accountable delivery;
+- review boards governing risk, release, and operational trust;
+- executives responsible for AI-era governance;
 - and organizations that need durable engineering memory.
 
-## ETIS as an Ecosystem
+---
 
-ETIS is larger than a book. It is a public framework ecosystem for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
+## ETIS as a Connected Ecosystem
 
-The ETIS ecosystem includes:
+ETIS is larger than a book. It is a connected professional ecosystem for teaching, practicing, governing, and sustaining trustworthy intelligent systems.
 
-- ETIS book,
-- two-volume edition,
-- educational ecosystem,
-- instructor resources,
-- student resources,
-- flagship implementation,
-- institutional adoption,
-- public repository,
-- professional practice resources.
+The ecosystem includes:
 
-Together, these components provide a shared operating model for students, instructors, engineering teams, review boards, and organizations.
+- the **ETIS Framework**, which defines the engineering discipline;
+- the **ETIS Two-Volume Edition**, which presents the complete treatment of that discipline;
+- **ETIS Publications**, which extend the framework through focused, citable white papers, executive briefs, and education papers;
+- the **ETIS Engineering Platform**, introduced through the [Platform Overview](../Platform/Platform.md), which demonstrates how to apply ETIS;
+- the **Educational Ecosystem**, which supports teaching, learning, and institutional adoption;
+- the **ETIS Repositories**, which preserve public source, reusable artifacts, and engineering evidence;
+- and **Downloads**, which package selected ETIS products into durable, portable forms.
+
+Together, these components provide a shared operating model for students, instructors, engineering teams, review boards, leaders, and organizations.
+
+---
+
+## ETIS Publications
+
+The ETIS Publications Program provides focused entry points into major ideas, decisions, and professional practices across the framework.
+
+It consists of:
+
+- the **ETIS White Paper Series** — long-form technical and professional treatments;
+- the **ETIS Executive Brief Series** — concise decision guidance for senior leaders;
+- the **ETIS Education Paper Series** — professional preparation for students, instructors, early-career engineers, and academic programs.
+
+Each publication has a canonical webpage for discovery, metadata, citation, version history, related ETIS materials, and access to the authoritative PDF edition.
+
+[Explore ETIS Publications →](../publications/index.md)
+
+[View Publication Reading Paths →](../publications/reading-paths.md)
+
+---
 
 ## The Trustworthy Engineer
 
@@ -189,42 +227,63 @@ ETIS culminates in a professional identity: the trustworthy engineer.
 
 The trustworthy engineer is not defined by a programming language, framework, methodology, toolchain, or AI model. The trustworthy engineer is defined by the ability to:
 
-- define intent,
-- engineer context,
-- bound authority,
-- verify behavior,
-- operate reality,
-- explain decisions,
-- preserve evidence,
-- govern risk,
-- learn from failure,
+- define intent;
+- engineer context;
+- bound authority;
+- verify behavior;
+- operate reality;
+- explain decisions;
+- preserve evidence;
+- govern risk;
+- learn from failure;
 - and own outcomes.
 
 As intelligent systems become more capable, interconnected, and autonomous, those responsibilities become more important, not less.
+
+---
 
 ## Framework in Public Form
 
 ETIS is expressed publicly through several connected forms:
 
-- **The book** defines the doctrine.
-- **The two-volume edition** makes the lifecycle easier to navigate.
-- **The educational ecosystem** turns ETIS into teachable and adoptable educational products.
-- **The repository model** preserves engineering evidence and continuity.
-- **The public resources** support use, teaching, and adoption.
+- **The ETIS Two-Volume Edition** provides the complete professional treatment of the framework.
+- **ETIS Publications** provide focused, citable treatments of major ideas and decisions.
+- **The Educational Ecosystem** turns ETIS into teachable and adoptable resources.
+- **The Platform Overview** introduces the implementation environment and explains how to begin.
+- **The Engineering Platform** turns framework doctrine into staged engineering practice.
+- **The repository model** preserves engineering evidence, source, and continuity.
+- **Downloads** provide durable offline editions and packaged resources.
 
-Together, these forms make ETIS more than a publication. They make it a stewarded framework.
+Together, these forms make ETIS more than a publication. They make it a stewarded engineering ecosystem.
+
+---
 
 ## Learn More
 
+- [What is ETIS?](What_is_ETIS.md)
+- [Why ETIS?](Why_ETIS.md)
+- [ETIS Publications](../publications/index.md)
 - [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
 - [Volume I — Foundations and Engineering Construction](../Volumes/Volume_I.md)
 - [Volume II — Operations, Governance, and Organizational Trust](../Volumes/Volume_II.md)
+- [Repository-Centered Engineering](ETIS_Repository_Centered_Engineering.md)
+- [Platform Overview](../Platform/Platform.md)
+- [Launch the ETIS Engineering Platform ↗](https://platform.etisframework.org)
+- [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
+- [Resource Center](../Resources/Resources.md)
 - [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md)
 - [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md)
 - [Appendix F — Engineering Judgment Framework](../Appendices/Appendix_F/Appendix_F.md)
 - [Appendix H — Terminology and Definitions](../Appendices/Appendix_H/Appendix_H.md)
-- [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
-- [Resources](../Resources/Resources.md)
-- [GitHub Repository](../Resources/Repository_Ecosystem.md)
 
-[Explore the ETIS Framework →](../Appendices/Appendix_A/Appendix_A.md)
+---
+
+## Bottom Line
+
+ETIS defines the engineering discipline required to build intelligent systems that remain understandable, reviewable, governable, operable, improvable, and worthy of trust over time.
+
+The Framework defines the discipline.  
+The Two-Volume Edition provides its complete treatment.  
+Publications extend it.  
+The Engineering Platform applies it.  
+Repositories preserve the evidence.

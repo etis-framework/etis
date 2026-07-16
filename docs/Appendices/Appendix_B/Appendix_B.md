@@ -1,10 +1,14 @@
-# Appendix B<br><span class="chapter-title-main">Complete Review-Board Catalog
+# Appendix B
 
-Review boards are recurring mechanisms throughout ETIS because consequential engineering claims require challenge, evidence, ownership, and accountability. Their purpose is not ceremony, compliance theater, or approval for its own sake. Their purpose is to ensure that important claims are examined before decisions are accepted.
+## Complete Review-Board Catalog
 
-This appendix consolidates the review structures used throughout ETIS and provides a reference for their purpose, evidence expectations, readiness questions, lifecycle placement, and relationships to trustworthiness.
+**The ETIS reference architecture for professional challenge, evidence, ownership, and consequential decisions**
 
-Readers may use this appendix as a quick reference when preparing for reviews, evaluating evidence, designing governance processes, or understanding how review mechanisms contribute to trustworthy engineering outcomes.
+Review boards are recurring ETIS challenge mechanisms because consequential engineering claims require evidence, ownership, risk visibility, and accountable decisions.
+
+This appendix consolidates the review structures used throughout the ETIS lifecycle. It is intended for teams designing review gates, preparing evidence, challenging readiness claims, recording decisions, or establishing governance processes that are substantive rather than ceremonial.
+
+---
 
 ## B.1 Introduction to the Review-Board Model
 

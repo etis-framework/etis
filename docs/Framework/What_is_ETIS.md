@@ -12,9 +12,9 @@ description: What is ETIS? Engineering Trustworthy Intelligent Systems is a soft
 
 # What is ETIS?
 
-**Engineering Trustworthy Intelligent Systems for the AI Era**
+**Engineering Trustworthy Intelligent Systems for the AI era**
 
-Engineering Trustworthy Intelligent Systems (ETIS) is a practical engineering framework for building, governing, operating, teaching, and continuously improving trustworthy intelligent systems.
+Engineering Trustworthy Intelligent Systems (ETIS) is a practical, full-lifecycle engineering framework for building, governing, operating, teaching, and continuously improving trustworthy intelligent systems.
 
 ETIS exists because intelligent systems are no longer just software applications. They increasingly include AI-assisted development, generative AI, retrieval-augmented systems, automation platforms, agentic workflows, enterprise integrations, human decision processes, governance rules, operational controls, and organizational accountability.
 
@@ -30,7 +30,7 @@ The harder question is:
 
 ETIS answers that question through software engineering discipline, evidence-centered engineering, AI governance, human oversight, operational trust, and long-term stewardship.
 
-For a deeper explanation of the ETIS lifecycle, principles, trustworthiness pillars, and public framework structure, see the [ETIS Framework Overview](ETIS_Framework.md).
+For the engineering case behind the framework, read [Why ETIS?](Why_ETIS.md). For the complete lifecycle, principles, and trustworthiness model, continue to the [ETIS Framework Overview](ETIS_Framework.md).
 
 ---
 
@@ -54,15 +54,15 @@ AI has changed how software is created, integrated, operated, and governed.
 
 Modern engineering teams now work with systems that may:
 
-* generate artifacts
-* summarize information
-* retrieve context
-* recommend actions
-* assist with code and testing
-* participate in workflows
-* support operational decisions
-* coordinate across tools and systems
-* influence human judgment
+- generate artifacts;
+- summarize information;
+- retrieve context;
+- recommend actions;
+- assist with code and testing;
+- participate in workflows;
+- support operational decisions;
+- coordinate across tools and systems;
+- influence human judgment.
 
 These capabilities are powerful, but they also create new risks.
 
@@ -80,7 +80,7 @@ ETIS exists to prevent that failure mode.
 
 The answer is not to reject AI.
 
-The answer is to engineer systems, processes, repositories, reviews, governance, and human accountability so that AI-supported work remains understandable, verifiable, and governable.
+The answer is to engineer systems, processes, repositories, reviews, governance, and human accountability so AI-supported work remains understandable, verifiable, and governable.
 
 ---
 
@@ -90,7 +90,7 @@ ETIS is organized around durable engineering principles.
 
 ### AI proposes; engineers verify.
 
-AI-generated work is proposed material until reviewed, tested, verified, and accepted by accountable engineers.
+AI-generated work remains proposed material until reviewed, tested, verified, and accepted by accountable engineers.
 
 ### Governance is architecture.
 
@@ -165,7 +165,7 @@ Incident Learning
 Stewardship
 ```
 
-The lifecycle matters because trustworthy systems are not created by one artifact, one approval, one model, one test, one demo, or one release.
+The lifecycle matters because trustworthy systems are not created by one artifact, approval, model, test, demo, or release.
 
 Trust accumulates through disciplined engineering behavior over time.
 
@@ -175,24 +175,22 @@ Trust accumulates through disciplined engineering behavior over time.
 
 ETIS treats the repository as the system of record.
 
-A trustworthy repository preserves more than source code.
+A trustworthy repository preserves more than source code. It preserves engineering memory:
 
-It preserves engineering memory:
-
-* requirements
-* stakeholder intent
-* assumptions
-* architecture decisions
-* AI-use records
-* review evidence
-* test evidence
-* release decisions
-* risk decisions
-* operational records
-* incidents
-* postmortems
-* governance decisions
-* stewardship lessons
+- requirements;
+- stakeholder intent;
+- assumptions;
+- architecture decisions;
+- AI-use records;
+- review evidence;
+- test evidence;
+- release decisions;
+- risk decisions;
+- operational records;
+- incidents;
+- postmortems;
+- governance decisions;
+- stewardship lessons.
 
 In ETIS, the repository is where engineering accountability becomes visible.
 
@@ -202,6 +200,8 @@ That is why one of the central ETIS principles is:
 
 > Everything important leaves evidence.
 
+[Explore Repository-Centered Engineering →](ETIS_Repository_Centered_Engineering.md)
+
 ---
 
 ## ETIS and AI Governance
@@ -210,16 +210,16 @@ ETIS treats AI governance as an engineering responsibility.
 
 Governance must answer questions such as:
 
-* What authority does the system have?
-* What can AI propose?
-* What must humans approve?
-* What information can the system retrieve?
-* What evidence must be preserved?
-* What risks are accepted?
-* What requires escalation?
-* What happens when the system fails?
-* How is AI-assisted work verified?
-* How does the organization learn from incidents?
+- What authority does the system have?
+- What can AI propose?
+- What must humans approve?
+- What information can the system retrieve?
+- What evidence must be preserved?
+- What risks are accepted?
+- What requires escalation?
+- What happens when the system fails?
+- How is AI-assisted work verified?
+- How does the organization learn from incidents?
 
 ETIS does not reduce AI governance to policy language.
 
@@ -235,20 +235,20 @@ It builds on durable software engineering practices while adapting them for the 
 
 ETIS emphasizes:
 
-* requirements discipline
-* architectural decision-making
-* engineering planning
-* responsible AI-assisted implementation
-* pull requests and reviews
-* verification and validation
-* release readiness
-* operational readiness
-* observability
-* reliability
-* security governance
-* incident response
-* postmortems
-* continuous improvement
+- requirements discipline;
+- architectural decision-making;
+- engineering planning;
+- responsible AI-assisted implementation;
+- pull requests and reviews;
+- verification and validation;
+- release readiness;
+- operational readiness;
+- observability;
+- reliability;
+- security governance;
+- incident response;
+- postmortems;
+- continuous improvement.
 
 AI can change how artifacts are produced.
 
@@ -266,17 +266,17 @@ It must also survive contact with reality.
 
 ETIS extends beyond construction into operation because real systems encounter:
 
-* defects
-* unexpected users
-* incomplete data
-* changing requirements
-* unclear accountability
-* degraded dependencies
-* security risks
-* policy changes
-* AI uncertainty
-* incidents
-* organizational pressure
+- defects;
+- unexpected users;
+- incomplete data;
+- changing requirements;
+- unclear accountability;
+- degraded dependencies;
+- security risks;
+- policy changes;
+- AI uncertainty;
+- incidents;
+- organizational pressure.
 
 Operational trust is earned when a system can be observed, governed, recovered, improved, and stewarded under real conditions.
 
@@ -292,19 +292,19 @@ ETIS is designed for people and organizations responsible for intelligent system
 
 It serves:
 
-* students learning modern software engineering
-* instructors teaching software engineering and AI governance
-* software engineers building AI-assisted and intelligent systems
-* architects designing trustworthy system boundaries
-* technical leads coordinating evidence and review
-* engineering managers responsible for accountable delivery
-* review boards governing risk, release, and operational trust
-* AI governance teams responsible for oversight
-* executives responsible for trustworthy technology strategy
-* universities and institutions adapting software engineering education for the AI era
-* organizations that need durable engineering memory
+- students learning modern software engineering;
+- instructors teaching software engineering and AI governance;
+- software engineers building AI-assisted and intelligent systems;
+- architects designing trustworthy system boundaries;
+- technical leads coordinating evidence and review;
+- engineering managers responsible for accountable delivery;
+- review boards governing risk, release, and operational trust;
+- AI governance teams responsible for oversight;
+- executives responsible for trustworthy technology strategy;
+- universities adapting software engineering education for the AI era;
+- organizations that need durable engineering memory.
 
-ETIS is intentionally lifecycle-oriented and methodology-neutral.
+ETIS is lifecycle-oriented and methodology-neutral.
 
 It can be applied within waterfall, iterative, agile, hybrid, DevOps, and AI-assisted engineering environments.
 
@@ -314,45 +314,50 @@ It can be applied within waterfall, iterative, agile, hybrid, DevOps, and AI-ass
 
 ETIS includes a complete Educational Ecosystem.
 
-The educational ecosystem helps instructors and institutions teach software engineering as professional, evidence-centered, AI-responsible engineering work.
+The ecosystem helps instructors and institutions teach software engineering as professional, evidence-centered, AI-responsible engineering work.
 
 It includes:
 
-* Instructor Resources
-* Student Resources
-* Educational Products
-* Classroom Facilitation Guidance
-* Student Professional Engineering Guidance
-* COMP330/474 Flagship Implementation
-* Institutional Adoption Guidance
+- Instructor Resources;
+- Student Resources;
+- Educational Products;
+- Classroom Facilitation Guidance;
+- Student Professional Engineering Guidance;
+- COMP 330/474 Flagship Implementation;
+- Institutional Adoption Guidance;
+- the ETIS Education Paper Series.
 
 The educational goal is not simply for students to complete assignments.
 
 The goal is for students to produce evidence of engineering maturity.
 
-Students should learn how to define intent, make decisions, use AI responsibly, verify claims, preserve evidence, defend releases, and think operationally.
+[Explore the Educational Ecosystem →](../Educational_Ecosystem/Educational_Ecosystem.md)
+
+[Explore the ETIS Education Papers →](../publications/education-papers/index.md)
 
 ---
 
 ## ETIS in Professional Practice
 
-ETIS also points toward professional use.
+ETIS supports professional use through the Framework, Publications Program, and Engineering Platform.
 
-Organizations adopting intelligent systems need more than AI tools.
+Organizations adopting intelligent systems need more than AI tools. They need engineering practices that make systems:
 
-They need engineering practices that make systems:
+- reviewable;
+- governable;
+- observable;
+- recoverable;
+- accountable;
+- understandable enough for oversight;
+- improvable over time.
 
-* reviewable
-* governable
-* observable
-* recoverable
-* accountable
-* explainable enough for oversight
-* improvable over time
+The ETIS White Papers provide deep technical and professional guidance. The Executive Briefs translate engineering consequences into leadership decisions. The Engineering Platform provides stages, templates, examples, governance assets, and workspaces for implementation.
 
-Future ETIS professional resources may include governance templates, review-board playbooks, release readiness records, operational readiness checklists, incident response guidance, stewardship reviews, repository templates, and maturity models.
+[Explore ETIS Publications →](../publications/index.md)
 
-The long-term objective is to help organizations build intelligent systems they can responsibly operate and trust.
+[Explore the Platform Overview →](../Platform/Platform.md)
+
+[Launch the ETIS Engineering Platform ↗](https://platform.etisframework.org)
 
 ---
 
@@ -380,15 +385,15 @@ They emerge from better engineering.
 
 They require people who can:
 
-* define intent
-* engineer context
-* bound authority
-* verify behavior
-* preserve evidence
-* govern risk
-* operate reality
-* learn from failure
-* steward systems over time
+- define intent;
+- engineer context;
+- bound authority;
+- verify behavior;
+- preserve evidence;
+- govern risk;
+- operate reality;
+- learn from failure;
+- steward systems over time.
 
 ETIS calls that professional identity the trustworthy engineer.
 
@@ -396,18 +401,19 @@ ETIS calls that professional identity the trustworthy engineer.
 
 ## Start Exploring ETIS
 
-After this introduction, continue with the framework overview, the book, the educational ecosystem, resources, or the repository ecosystem depending on your role.
-
 | Starting Point | Use It For |
 |---|---|
+| [Why ETIS?](Why_ETIS.md) | Understand the engineering problem ETIS addresses |
 | [ETIS Framework](ETIS_Framework.md) | Understand the full framework and lifecycle |
+| [ETIS Publications](../publications/index.md) | Explore focused white papers, executive briefs, and education papers |
+| [Publication Reading Paths](../publications/reading-paths.md) | Follow a role-based publication sequence |
 | [Read Online](../Front_Matter/01_Title_Page.md) | Begin the complete online book |
 | [Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand the book structure |
-| [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md) | Study the trustworthiness model |
+| [Platform Overview](../Platform/Platform.md) | Understand the implementation environment and how to begin |
+| [Launch Engineering Platform ↗](https://platform.etisframework.org) | Enter the working stages, templates, examples, governance assets, and workspaces |
 | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Explore teaching, learning, and adoption |
-| [Educational Products](../Educational_Ecosystem/Educational_Products.md) | Download public educational product guides |
-| [Resource Center](../Resources/Resources.md) | Access downloads, resources, and reference materials |
-| [Repository Ecosystem](../Resources/Repository_Ecosystem.md) | Understand repository-centered engineering in practice |
+| [Resource Center](../Resources/Resources.md) | Navigate the complete ETIS ecosystem |
+| [Repository Ecosystem](../Resources/Repository_Ecosystem.md) | Understand public source and repository responsibilities |
 
 ---
 

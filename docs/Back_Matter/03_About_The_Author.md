@@ -37,8 +37,8 @@ It is not a framework developed from theory alone. It is the synthesis of decade
 * University educator for more than three decades
 * Adjunct faculty at Loyola University Chicago
 * Holder or co-holder of multiple United States patents
-* Published author, conference presenter, keynote speaker, and industry thought leader
-* Creator of the Engineering Trustworthy Intelligent Systems framework
+* Published author, conference presenter, keynote speaker, and engineering thought leader
+* Creator of the Engineering Trustworthy Intelligent Systems framework and Publications Program
 
 ---
 
@@ -131,6 +131,8 @@ His classroom work directly informs ETIS.
 
 The framework is not only a publication. It is an active educational approach used to prepare students for the realities of software engineering in the AI era.
 
+That educational work also informs the ETIS Education Paper Series, which connects software engineering doctrine to teamwork, responsible AI use, portfolio development, professional judgment, and career formation.
+
 ---
 
 ## Education, Patents, and Publications
@@ -186,6 +188,8 @@ The ETIS framework is his contribution to that professional challenge.
 ## Current Work
 
 Today, Dr. O'Connell continues to teach, mentor, write, and speak on software engineering, trustworthy intelligent systems, AI-assisted development, engineering governance, operational trust, repository-centered engineering, and the future responsibilities of the trustworthy engineer.
+
+His current work includes stewardship of the ETIS Framework, Two-Volume Edition, Publications Program, Educational Ecosystem, and Engineering Platform.
 
 He lives in the Chicago area and continues to work on initiatives that help students, engineers, instructors, and organizations build systems that remain understandable, governable, reviewable, operable, recoverable, accountable, and worthy of trust.
 

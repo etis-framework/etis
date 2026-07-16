@@ -1,8 +1,14 @@
-# Appendix G<br><span class="chapter-title-main">AI Governance Framework
+# Appendix G
 
-AI governance is the discipline of ensuring that intelligent capabilities remain subject to authority, accountability, oversight, evidence, and operational control. In trustworthy engineering, governance is not an after-the-fact compliance layer. It is part of system design.
-Throughout Engineering Trustworthy Intelligent Systems (ETIS), AI is treated as useful, powerful, and limited. It can accelerate drafting, analysis, summarization, coding, testing, workflow support, and operational interpretation. It can also create fluent mistakes, hide assumptions, amplify poor context, blur responsibility, and make unsafe delegation look efficient.
-This appendix consolidates the AI governance concepts developed throughout the book into a practical reference framework. It is intended for readers who need to decide what AI may do, what humans must verify, what evidence must be preserved, what authority must be bounded, and how intelligent capabilities should be operated and stewarded over time.
+## AI Governance Framework
+
+**A lifecycle framework for AI authority, context, evidence, oversight, recoverability, and accountable human ownership**
+
+AI governance is the discipline of ensuring that intelligent capabilities remain subject to designed authority, evidence, accountability, oversight, operational control, and human ownership.
+
+This appendix consolidates the ETIS AI-governance model into a practical lifecycle reference. Use it when deciding what AI may assist, recommend, prepare, execute, or never do—and what context, verification, audit, intervention, revocation, recovery, and stewardship controls are required.
+
+---
 
 ## G.1 Purpose of AI Governance in ETIS
 
