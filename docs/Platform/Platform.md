@@ -35,7 +35,7 @@ Browse the Starter Kit Repository ↗
 </a>
 
 <a class="md-button"
-   href="../Resources/download.md#engineering-platform-starter-kit">
+   href="../../Resources/download/#engineering-platform-starter-kit">
 Download the Starter Kit
 </a>
 
