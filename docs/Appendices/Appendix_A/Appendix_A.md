@@ -1,10 +1,14 @@
-# Appendix A<br><span class="chapter-title-main">Introduction to the Trustworthiness Framework
+# Appendix A
 
-Trustworthiness is not a feature, a score, a slogan, or a release label. Trustworthiness is not a feature, a checklist, a certification, or a release event. It emerges from evidence, reviewability, accountability, observability, recoverability, governance, and disciplined engineering judgment across the full lifecycle of a system.
+## ETIS Trustworthiness Framework Reference
 
-Within this framework, trustworthiness is not a feature, a score, a slogan, or a release label. It provides a practical guide to trustworthiness pillars, lifecycle relationships, evidence expectations, governance interactions, maturity progression, and common failure patterns.
+**A consolidated reference for evaluating trustworthiness across the full system lifecycle**
 
-The appendix is intended as a professional reference that readers can consult when evaluating systems, preparing reviews, organizing evidence, assessing maturity, or defending engineering decisions.
+Trustworthiness is not a feature, score, slogan, certification, checklist, or release label. It is a lifecycle property that emerges when evidence, reviewability, accountability, observability, recoverability, governance, security, human oversight, understandability, and stewardship operate together.
+
+This appendix consolidates the ETIS trustworthiness model into a single professional reference. Use it when evaluating systems, preparing reviews, organizing evidence, assessing maturity, identifying failure patterns, or defending consequential engineering decisions.
+
+---
 
 ## A.1 Introduction to the ETIS Trustworthiness Framework
 
@@ -141,7 +145,7 @@ A team should not claim a higher level merely because it has artifacts. The ques
 
 AI does not weaken the need for trustworthiness. It increases the need for it. AI accelerates artifact production and may participate in workflows, but generated output and agentic behavior remain proposed or bounded delegated behavior until verified, governed, monitored, and owned by accountable humans.
 
-TThe governing rule remains stable: AI proposes; engineers verify. When AI behavior becomes integrated, operational, consequential, state-changing, or difficult to inspect, the verification burden increases. Trustworthy AI-era engineering requires context governance, delegation boundaries, human oversight, auditability, rollback or revocation where appropriate, and evidence that decisions can be reconstructed.
+The governing rule remains stable: AI proposes; engineers verify. When AI behavior becomes integrated, operational, consequential, state-changing, or difficult to inspect, the verification burden increases. Trustworthy AI-era engineering requires context governance, delegation boundaries, human oversight, auditability, rollback or revocation where appropriate, and evidence that decisions can be reconstructed.
 
 | AI-governance area | Trustworthiness relationship | Evidence expected | Governing control rule |
 | --- | --- | --- | --- |

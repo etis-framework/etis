@@ -1118,8 +1118,14 @@ body:has(.etis-page) .etis-hero-education-text {
   font-size: 1.06rem;
   line-height: 1.6;
   max-width: 710px;
-  margin-top: -.45rem;
-  margin-bottom: .35rem;
+
+  margin-top: -.58rem;
+  margin-bottom: 0;
+}
+
+body:has(.etis-page) .etis-hero-action-statement {
+  margin-top: .82rem !important;
+  margin-bottom: .72rem !important;
 }
 
 /* Container for the two hero links */
@@ -1210,3 +1216,163 @@ body:has(.etis-page) .etis-hero-links .etis-education-link:hover {
   }
 }
 
+/* ============================================================
+   ETIS HOMEPAGE HERO BUTTONS — CONSOLIDATED FINAL RULES
+   Order:
+   Read Online | Publications | Volume I | Volume II | Downloads
+   ============================================================ */
+
+@media screen and (min-width: 1220px) {
+
+  body:has(.etis-page) .etis-hero-buttons-final {
+    display: grid !important;
+
+    /* Original working proportions, reassigned to new order */
+    grid-template-columns:
+      1.82fr
+      1.16fr
+      .88fr
+      .88fr
+      1.50fr !important;
+
+    gap: .62rem !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    align-items: stretch !important;
+    box-sizing: border-box !important;
+  }
+
+  body:has(.etis-page) .etis-hero-button {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+
+    height: 4.55rem !important;
+    min-height: 4.55rem !important;
+
+    padding: .42rem .48rem !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  /*
+   * Default cards:
+   * Publications, Volume I, and Volume II.
+   */
+  body:has(.etis-page) .etis-hero-button:not(.etis-read-button):not(.etis-download-button) {
+    flex-direction: column !important;
+    gap: .18rem !important;
+    text-align: center !important;
+  }
+
+  body:has(.etis-page) .etis-button-text {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center !important;
+  }
+
+  /*
+   * Card titles.
+   * Smaller than the previous override so they remain inside
+   * the narrow Volume and Publications cards.
+   */
+body:has(.etis-page) .etis-hero-button strong {
+    display: block !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    line-height: 1.08 !important;
+    letter-spacing: 0 !important;
+
+    white-space: nowrap !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+}
+
+body:has(.etis-page) .etis-publications-button strong {
+    font-size: 13px !important;
+}
+
+  /*
+   * Card subtitles.
+   * Wrapping is allowed here only.
+   */
+  body:has(.etis-page) .etis-hero-button small {
+    display: block !important;
+
+    margin: .18rem 0 0 !important;
+    padding: 0 !important;
+
+    max-width: 100% !important;
+
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    line-height: 1.14 !important;
+
+    white-space: normal !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+    hyphens: none !important;
+
+    text-align: center !important;
+  }
+
+  /*
+   * Icon cards use a fixed two-column internal grid.
+   * This prevents the icon and text from separating.
+   */
+  body:has(.etis-page) .etis-read-button,
+  body:has(.etis-page) .etis-download-button {
+    display: grid !important;
+    grid-template-columns: 2.15rem auto !important;
+    justify-content: center !important;
+    align-items: center !important;
+    column-gap: .42rem !important;
+  }
+
+  body:has(.etis-page) .etis-read-button .etis-button-text,
+  body:has(.etis-page) .etis-download-button .etis-button-text {
+    align-items: center !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  body:has(.etis-page) .etis-read-button .etis-button-icon,
+  body:has(.etis-page) .etis-download-button .etis-download-icon {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    width: 2.15rem !important;
+    height: 2.15rem !important;
+    min-width: 2.15rem !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body:has(.etis-page) .etis-read-button svg,
+  body:has(.etis-page) .etis-download-button svg {
+    display: block !important;
+    width: 2.15rem !important;
+    height: 2.15rem !important;
+  }
+}

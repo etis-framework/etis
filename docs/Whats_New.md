@@ -6,7 +6,7 @@ hide:
 <div style="text-align:center; margin-bottom:1.5rem;">
   <img src="../assets/etis-logo.svg"
        alt="ETIS"
-       style="width:320px; max-width:60%; height:auto;">
+       style="width:320px; max-width:60%; height: auto;">
 </div>
 
 # What's New
@@ -15,7 +15,75 @@ hide:
 
 This page records major public milestones for *Engineering Trustworthy Intelligent Systems* (ETIS).
 
-ETIS is a stewarded engineering framework, not a continuously changing software product. Updates emphasize significant publications, ecosystem enhancements, Engineering Platform releases, educational products, and professional capabilities rather than routine documentation edits.
+ETIS is a stewarded engineering framework, not a continuously changing software product. Updates emphasize substantive publications, ecosystem releases, educational products, Engineering Platform capabilities, and major architectural improvements rather than routine editorial changes.
+
+---
+
+## July 2026 — ETIS Publications Program Released
+
+### Three Coordinated Publication Series
+
+The ETIS Publications Program is now publicly available through three coordinated series:
+
+| Series | Purpose |
+|---|---|
+| **ETIS White Paper Series** | Long-form technical and professional treatments of major ETIS ideas |
+| **ETIS Executive Brief Series** | Concise decision guidance for executives and senior leaders |
+| **ETIS Education Paper Series** | Professional preparation for students, instructors, early-career engineers, and academic programs |
+
+The initial program includes:
+
+- 12 ETIS White Papers;
+- 5 ETIS Executive Briefs;
+- 5 ETIS Education Papers.
+
+Each publication has a canonical webpage containing metadata, summary, audience, related materials, citation formats, version history, and access to the authoritative PDF edition.
+
+[Explore ETIS Publications →](publications/index.md)
+
+[View Publication Reading Paths →](publications/reading-paths.md)
+
+---
+
+### Role-Based Reading Paths and Citation Support
+
+The Publications Program includes role-based reading paths for:
+
+- executives and senior leaders;
+- software engineers and architects;
+- educators and curriculum leaders;
+- students and instructors;
+- agentic-system leaders;
+- governance and risk leaders.
+
+A dedicated citation and versioning page establishes canonical citation practices and publication-version expectations.
+
+[Explore Reading Paths →](publications/reading-paths.md)
+
+[Citation & Version Information →](publications/citations.md)
+
+---
+
+### Framework, Education, Resources, and About Areas Aligned
+
+The ETIS website has been updated so Publications is treated as a first-class ecosystem component.
+
+Major integration points now include:
+
+- the homepage;
+- Framework pages;
+- the Educational Ecosystem;
+- Student and Instructor Resources;
+- the Resource Center;
+- the ETIS Library;
+- Downloads;
+- the Repository Ecosystem;
+- About and First Edition materials.
+
+The distinction is now explicit:
+
+- **Publications** support discovery, reading, citation, and focused guidance.
+- **Downloads** package books, educational products, archives, and selected implementation resources for offline use.
 
 ---
 
@@ -25,51 +93,52 @@ ETIS is a stewarded engineering framework, not a continuously changing software 
 
 The ETIS Engineering Platform Starter Kit is complete and publicly available.
 
-Public platform site:
+- [Platform Overview](Platform/Platform.md)
+- [Launch the Engineering Platform ↗](https://platform.etisframework.org)
+- [Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
 
-[https://platform.etisframework.org](https://platform.etisframework.org)
+The Platform operationalizes the ETIS Framework through:
 
-Source repository:
-
-[https://github.com/etis-framework/etis-starter-kit](https://github.com/etis-framework/etis-starter-kit)
-
-The Engineering Platform operationalizes the ETIS Framework through:
-
-- Engineering Stages ES-100 through ES-114
-- stage guidance, activities, outputs, evidence expectations, readiness gates, and manifests
-- reusable Template Library
-- completed LMU/COICP reference examples
-- Project Workspace structure
-- governance and evidence-centered engineering assets
-- GitHub collaboration templates and workflows
-- MkDocs-based publication architecture
+- Engineering Stages ES-100 through ES-114;
+- stage guidance, activities, outputs, evidence expectations, readiness gates, and manifests;
+- reusable Template Library;
+- completed LMU/COICP reference examples;
+- Project Workspace structure;
+- governance and evidence-centered engineering assets;
+- GitHub collaboration templates and workflows;
+- MkDocs-based publication architecture.
 
 This completes the public bridge from ETIS doctrine to practical application.
 
-**The Framework defines the discipline. The Engineering Platform demonstrates how to apply it. Together, they complete the public ETIS engineering ecosystem.**
+A new **Platform Overview** page on the ETIS Framework website now serves as the canonical gateway to the companion Engineering Platform website. Visitors can learn how the Platform fits into the ETIS ecosystem before intentionally launching the implementation environment.
+
+**The Framework defines the discipline. Publications provide focused guidance. The Engineering Platform demonstrates how to apply it.**
+
 
 ---
 
-### Framework Website Reflects the Complete ETIS Ecosystem
+### Public Ecosystem Architecture Completed
 
-The ETIS Framework website has been updated to reflect the completed Engineering Platform and the current public architecture of ETIS.
-
-The public ecosystem now consists of two complementary websites and two public repositories.
+The public ETIS ecosystem now consists of two complementary websites and two public repositories.
 
 | Component | Role |
 |---|---|
-| **ETIS Framework Website** | Authoritative public site for the framework, book, education, downloads, resources, and ecosystem explanation. |
-| **ETIS Engineering Platform Website** | Practical application site for Engineering Stages, templates, examples, governance assets, and project workspace guidance. |
-| **ETIS Framework Repository** | Source repository for the framework publication, website, education, downloads, roadmap, and public framework materials. |
-| **ETIS Starter Kit Repository** | Source repository for the Engineering Platform and its reusable engineering assets. |
+| **ETIS Framework Website** | Authoritative public site for the framework, Two-Volume Edition, Publications Program, education, downloads, resources, and ecosystem guidance |
+| **ETIS Engineering Platform Website** | Practical application site for stages, templates, examples, governance assets, and Project Workspace guidance |
+| **ETIS Framework Repository** | Source repository for the framework, book, publications, education, downloads, roadmap, and public website |
+| **ETIS Starter Kit Repository** | Source repository for the Engineering Platform and reusable engineering assets |
 
-LMU/COICP is now represented as completed reference examples inside the Engineering Platform Starter Kit rather than as a planned separate public repository.
+LMU/COICP is represented through completed reference examples inside the Engineering Platform Starter Kit rather than as a separate planned repository.
+
+---
 
 ### Download Library Expanded
 
-The ETIS Download Library now includes the Engineering Platform Starter Kit repository archive alongside book editions and educational products.
+The Downloads area includes the Engineering Platform Starter Kit archive alongside book editions and educational products.
 
 The Platform is distributed as a repository archive because the repository itself is the working engineering environment.
+
+[Explore Downloads →](Resources/download.md)
 
 ---
 
@@ -79,118 +148,104 @@ The Platform is distributed as a repository archive because the repository itsel
 
 The ETIS First Edition established ETIS as a complete public framework for engineering trustworthy intelligent systems in the AI era.
 
-This release made the Framework publicly available as:
+The release made ETIS available as:
 
-- complete online edition
-- downloadable full PDF edition
-- two-volume professional edition
-- Amazon KDP paperback editions
-- Amazon KDP hardcover editions
+- a complete online edition;
+- a downloadable full PDF;
+- a two-volume professional edition;
+- paperback editions;
+- hardcover editions.
 
-The online edition remains the authoritative and continuously stewarded publication source.
+The website remains the authoritative and continuously stewarded public source.
 
 ---
 
-### Book Publication and Two-Volume Edition
-
-The ETIS book is available as a complete first edition and as a professionally organized two-volume edition.
+### Two-Volume Edition Released
 
 | Volume | Focus |
 |---|---|
 | **Volume I** | Foundations, Engineering Practices, and System Construction |
 | **Volume II** | Operations, Governance, Oversight, and Stewardship |
 
-The two-volume edition improves navigation and long-term usability while preserving the integrity of the complete framework.
+The Two-Volume Edition improves readability, navigation, and long-term usability while preserving the integrity of the complete framework.
 
-The print editions provide durable professional references for engineers, instructors, students, libraries, and institutions adopting ETIS.
+[Explore the Two-Volume Edition →](Volumes/ETIS_Two_Volume_Edition.md)
 
 ---
 
 ### Educational Ecosystem Released
 
-The ETIS Educational Ecosystem is publicly available.
+The ETIS Educational Ecosystem became publicly available with:
 
-Educational resources include:
+- Instructor Resources;
+- Student Resources;
+- Flagship Implementation;
+- Institutional Adoption;
+- Educational Product PDFs.
 
-- Educational Ecosystem
-- Instructor Resources
-- Student Resources
-- Flagship Implementation
-- Institutional Adoption
-- Educational Product PDFs
+The ecosystem transforms ETIS from a publication into a teachable framework for universities, instructors, students, and institutional adopters.
 
-The educational ecosystem transforms ETIS from a publication into a teachable framework for universities, instructors, students, and institutional adopters.
+The Engineering Platform now serves as the practical project environment for ETIS-aligned courses, labs, teams, and professional formation.
 
-The completed Engineering Platform can now serve as the practical project environment for ETIS-aligned courses, labs, team repositories, and professional formation activities.
+[Explore the Educational Ecosystem →](Educational_Ecosystem/Educational_Ecosystem.md)
 
-### Educational Product PDFs Released
+---
 
-The Phase II educational product PDFs are publicly available.
+### Educational Products Released
 
 Available products include:
 
-- ETIS Educational Ecosystem Guide
-- ETIS Instructor Course Package
-- ETIS Classroom Facilitation Guide
-- ETIS Instructor Handbook
-- ETIS Student Professional Engineering Guide
-- ETIS COMP330 Flagship Implementation Guide
+- ETIS Educational Ecosystem Guide;
+- ETIS Instructor Course Package;
+- ETIS Classroom Facilitation Guide;
+- ETIS Instructor Handbook;
+- ETIS Student Professional Engineering Guide;
+- ETIS COMP 330 Flagship Implementation Guide.
 
-These products make the ETIS Educational Ecosystem usable as a public teaching, adoption, and stewardship system.
-
-### Flagship Educational Implementation
-
-Loyola University Chicago COMP330 and COMP474 serve as the flagship ETIS educational implementation.
-
-The implementation demonstrates how ETIS can operate as a living educational laboratory where students learn professional engineering behavior, repository-centered evidence, AI responsibility, review discipline, and operational thinking.
+[Explore Educational Products →](Educational_Ecosystem/Educational_Products.md)
 
 ---
 
-### Framework Website and Resource Center Released
+### Flagship Educational Implementation Established
 
-The ETIS website evolved from a book publication site into a public framework ecosystem.
+Loyola University Chicago COMP 330 and COMP 474 serve as the flagship ETIS educational implementation.
 
-The public site now includes:
-
-- Read Online
-- Volumes
-- Appendices
-- Framework overview pages
-- Educational Ecosystem
-- Resource Center
-- Download Library
-- Repository-Centered Engineering guidance
-- Engineering Platform navigation
-
-The Resource Center connects readers, instructors, students, engineering teams, and organizations to the right part of the ecosystem.
+The implementation demonstrates how ETIS can operate as a living educational laboratory where students learn professional engineering behavior, repository-centered evidence, AI responsibility, review discipline, operational thinking, and professional defense.
 
 ---
 
-### Repository-Centered Engineering Elevated
+### Resource Center and Repository Guidance Released
 
-Repository-centered engineering is now exposed as a first-class ETIS capability.
+The ETIS website expanded from a book publication site into a public framework ecosystem with:
 
-ETIS treats the repository as the system of record for engineering accountability. Requirements, architecture decisions, reviews, AI-use records, evidence, release judgments, operational records, incidents, postmortems, and stewardship lessons become visible and reviewable over time.
+- Framework overview pages;
+- Appendices;
+- Educational Ecosystem;
+- Resource Center;
+- ETIS Library;
+- Downloads;
+- Repository-Centered Engineering guidance;
+- Repository Ecosystem;
+- Engineering Platform navigation.
 
-**Everything important leaves evidence.**
+The Resource Center directs users to the right experience based on their goal.
 
 ---
 
 ## Looking Ahead
 
-### Professional Practice Resources
+Future work should deepen the ecosystem without duplicating completed capabilities.
 
-Future professional resources may include:
+Potential additions include:
 
-- Review Board Playbook
-- Professional Toolkit
-- organizational adoption models
-- governance operating model guidance
-- release and operational readiness packages
-- stewardship resources
-- additional simulation and case-study assets
-
-Future additions should complement the completed Engineering Platform rather than duplicate its stages, templates, examples, or workspace structure.
+- Review Board Playbook;
+- Professional Toolkit;
+- organizational adoption models;
+- governance operating-model guidance;
+- release and operational-readiness packages;
+- stewardship resources;
+- additional simulations and case studies;
+- future publication series or special reports where a distinct need exists.
 
 ---
 
@@ -198,18 +253,20 @@ Future additions should complement the completed Engineering Platform rather tha
 
 ETIS is designed for long-term stewardship rather than rapid change.
 
-The objective is not to continuously expand the framework.
+The objective is not constant expansion.
 
-The objective is to continuously improve its clarity, usability, teachability, applicability, and trustworthiness.
+The objective is continual improvement in clarity, usability, teachability, applicability, evidence, and trustworthiness.
 
-Major updates should strengthen the ecosystem without diluting the Framework's core discipline or duplicating the Engineering Platform's implementation role.
+Major updates should strengthen the ecosystem without diluting the Framework's core discipline, fragmenting the Publications Program, or duplicating the Engineering Platform.
 
 ---
 
 ## Bottom Line
 
-ETIS has matured from a book into a public engineering ecosystem for the AI era.
+ETIS has matured from a book into a connected professional engineering ecosystem for the AI era.
 
 The Framework defines the discipline.  
-The Engineering Platform demonstrates how to apply it.  
-The repository preserves the evidence that makes trust reviewable.
+The Two-Volume Edition provides its complete treatment.  
+Publications extend it.  
+The Engineering Platform applies it.  
+Repositories preserve the source and evidence.

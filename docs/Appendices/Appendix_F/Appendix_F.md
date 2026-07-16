@@ -1,10 +1,14 @@
-# Appendix F<br><span class="chapter-title-main">Engineering Judgment Framework
+# Appendix F
 
-Engineering judgment is one of the central themes of this book because trustworthy systems cannot be produced through process, automation, tooling, testing, governance, documentation, or artificial intelligence alone.
+## Engineering Judgment Framework
 
-Throughout Engineering Trustworthy Intelligent Systems (ETIS), judgment appears repeatedly because trustworthy systems cannot be created through process, tooling, automation, testing, documentation, or artificial intelligence alone. Those capabilities provide information and evidence. Judgment determines how that evidence is interpreted, challenged, balanced, defended, and acted upon.
+**A professional framework for decisions under uncertainty, incomplete evidence, risk, and competing obligations**
 
-This appendix consolidates the engineering judgment concepts distributed throughout the book into a single professional reference framework. Its purpose is to help readers evaluate decisions, assess evidence, understand risk, communicate uncertainty, exercise authority responsibly, and defend consequential engineering choices.
+Trustworthy systems cannot be produced through process, automation, tooling, testing, governance, documentation, or artificial intelligence alone.
+
+Those capabilities provide information and evidence. Engineering judgment determines how that evidence is interpreted, challenged, balanced, communicated, defended, and acted upon. This appendix provides a disciplined framework for exercising that judgment throughout the lifecycle.
+
+---
 
 ## F.1 Engineering Judgment in ETIS
 
@@ -22,7 +26,7 @@ Use this appendix when a decision cannot be responsibly made by checking whether
 - Use it during review boards to convert opinions into evidence-backed challenge.
 - Use it during final portfolio defense to connect professional claims to repository evidence.
 
-The framework is most valuable when applied alongside evidence, review mechanisms, governance processes, operational experience, and professional accountability
+The framework is most valuable when applied alongside evidence, review mechanisms, governance processes, operational experience, and professional accountability.
 
 ## F.3 Core Judgment Principles
 

@@ -1,0 +1,168 @@
+/* ==========================================================================
+   ETIS Publications
+   ========================================================================== */
+
+.publication-lead {
+  max-width: 58rem;
+  margin: 0 0 1.25rem;
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: var(--md-default-fg-color--light);
+}
+
+.publication-actions,
+.publication-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.publication-actions--overview {
+  margin: 0 0 1.25rem;
+}
+
+.publication-actions--centered {
+  justify-content: center;
+  margin: 1.5rem 0 2.25rem;
+}
+
+.publication-actions--footer {
+  margin-top: 1.15rem;
+}
+
+.publication-actions .md-button,
+.publication-card-actions .md-button {
+  margin: 0;
+}
+
+.publication-series-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2.5rem;
+}
+
+.publication-series-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1.25rem 1.25rem 1.15rem;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-top: 0.3rem solid #17365d;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.15rem 0.5rem rgba(0, 0, 0, 0.07);
+}
+
+.publication-series-card--executive {
+  border-top-color: #8a1538;
+}
+
+.publication-series-card--education {
+  border-top-color: #f5b335;
+}
+
+.publication-series-label {
+  margin-bottom: 0.55rem;
+  font-size: 0.69rem;
+  font-weight: 750;
+  line-height: 1.35;
+  letter-spacing: 0.075em;
+  color: var(--md-default-fg-color--light);
+}
+
+.publication-series-card h3,
+.publication-start-card h3 {
+  margin: 0 0 0.55rem;
+  color: var(--md-default-fg-color);
+}
+
+.publication-series-card p,
+.publication-start-card p {
+  margin: 0 0 0.8rem;
+  line-height: 1.55;
+}
+
+.publication-count {
+  display: inline-flex;
+  align-self: flex-start;
+  margin: 0 0 0.8rem;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: #17365d;
+  background: #e8f1f8;
+  border-radius: 999px;
+}
+
+.publication-series-card--executive .publication-count {
+  color: #8a1538;
+  background: #f3e4ea;
+}
+
+.publication-series-card--education .publication-count {
+  color: #5f4700;
+  background: #fff4cf;
+}
+
+.publication-audience {
+  color: var(--md-default-fg-color--light);
+}
+
+.publication-card-actions {
+  margin-top: auto;
+  padding-top: 0.35rem;
+}
+
+.publication-card-actions .md-button {
+  padding: 0.45rem 0.72rem;
+  font-size: 0.78rem;
+}
+
+.publication-start-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1rem 0 0;
+}
+
+.publication-start-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1.05rem 1.1rem;
+  background: color-mix(in srgb, var(--md-default-bg-color) 96%, #17365d 4%);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 0.22rem solid #17365d;
+  border-radius: 0.25rem;
+}
+
+.publication-text-link {
+  margin-top: auto;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 76.1875em) {
+  .publication-series-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 44.984375em) {
+  .publication-start-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-actions,
+  .publication-card-actions {
+    align-items: stretch;
+  }
+
+  .publication-actions .md-button,
+  .publication-card-actions .md-button {
+    width: 100%;
+    text-align: center;
+  }
+}

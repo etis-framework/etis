@@ -13,61 +13,68 @@ hide:
 
 **Engineering Trustworthy Intelligent Systems**
 
-For questions about *Engineering Trustworthy Intelligent Systems* (ETIS), the ETIS framework, publication updates, teaching adoption, professional use, corrections, or related resources, please use the appropriate contact address below.
+For questions about the ETIS Framework, Publications Program, Two-Volume Edition, Educational Ecosystem, Engineering Platform, corrections, teaching adoption, professional use, or related resources, use the appropriate address below.
 
-## Framework and Publication Inquiries
+## Framework, Website, and Publication Inquiries
 
-For general questions, website issues, resource questions, errata, corrections, or publication-related inquiries:
+For general questions, website issues, resource questions, errata, corrections, citation questions, version questions, or publication-related inquiries:
 
 [contact@etisframework.org](mailto:contact@etisframework.org)
 
-## Author Inquiries
+## Author and Professional Inquiries
 
-For speaking, teaching, professional, academic, consulting, interview, or author-related inquiries:
+For speaking, teaching, academic, professional, consulting, interview, or author-related inquiries:
 
 [author@etisframework.org](mailto:author@etisframework.org)
 
 ## Appropriate Uses
 
-Please use these addresses for:
+These addresses may be used for:
 
-- questions about the ETIS framework,
-- corrections or suspected errors,
-- teaching and course adoption questions,
-- instructor-resource inquiries,
-- professional-practice or organizational adoption questions,
-- repository or resource questions,
-- educational ecosystem questions,
-- insitutional adoption inquiries,
-- publication and edition updates,
+- questions about the ETIS Framework;
+- suspected errors or corrections;
+- white paper, executive brief, or education paper inquiries;
+- citation and version questions;
+- teaching and course-adoption questions;
+- instructor and student resource inquiries;
+- institutional-adoption inquiries;
+- Engineering Platform or repository questions;
+- professional-practice and organizational-adoption questions;
 - speaking, presentation, or interview inquiries.
+
+## What to Include
+
+For classroom, institutional, publishing, technical, or professional inquiries, include enough context to make the request actionable:
+
+- your name;
+- organization or institution;
+- reason for contact;
+- relevant page, publication identifier, or resource;
+- the issue, question, or requested outcome;
+- any relevant deadline.
+
+For publication corrections, include the publication identifier and version when available.
 
 ## Response Expectations
 
-ETIS is an independent publication and professional framework project. Messages will be reviewed as time permits.
+ETIS is an independent publication and professional framework project.
 
-For classroom, institutional, publishing, or professional inquiries, please include enough context to make the request understandable, such as:
+Messages are reviewed as time permits. A response is not guaranteed, and ETIS does not provide emergency, legal, regulatory, security-incident, or operational-support services.
 
-- your name,
-- organization or institution,
-- reason for contact,
-- relevant page or resource,
-- and any deadline or requested follow-up.
+## Official Domain
 
-## Domain
-
-The official ETIS publication domain is:
+The official ETIS domain is:
 
 [etisframework.org](https://etisframework.org)
 
 The `.com` domain is reserved for brand protection and may redirect to the official `.org` site.
 
-## Notes
+## Responsible Information Sharing
 
-Please do not send confidential, proprietary, regulated, student-protected, client-sensitive, security-sensitive, or legally privileged information through email unless an appropriate communication channel has been established.
+Do not send confidential, proprietary, regulated, student-protected, client-sensitive, security-sensitive, export-controlled, or legally privileged information through email unless an appropriate communication channel has first been established.
 
-ETIS is built around responsible engineering practices and encourages responsible information sharing as well.
+ETIS is built around responsible engineering and encourages responsible information handling.
 
-For privacy information, see the [Privacy](Privacy.md) page.
+For privacy information, see [Privacy](Privacy.md).
 
-For licensing and permissions, see the [License](License.md) page.
+For licensing and permissions, see [License](License.md).

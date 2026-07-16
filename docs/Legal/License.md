@@ -11,65 +11,95 @@ hide:
 
 # License
 
-_Last updated: June 2026_
+_Last updated: July 2026_
 
 Copyright © William T. O'Connell, Ph.D.
 
 All rights reserved.
 
+## Scope
+
+This page applies generally to the ETIS Framework website and its protected content, including:
+
+- the ETIS book and Two-Volume Edition;
+- ETIS white papers, executive briefs, and education papers;
+- figures, appendices, and website content;
+- downloadable educational products;
+- publication metadata and associated assets;
+- other original ETIS materials unless separate terms are stated.
+
+Specific repositories, templates, examples, archives, or other resources may be governed by separate license files. Where a resource includes separate terms, those terms control for that resource.
+
 ## Publication Rights
 
-*Engineering Trustworthy Intelligent Systems* (ETIS), including its text, figures, appendices, website content, downloadable materials, and associated publication assets, is protected by applicable copyright laws.
+*Engineering Trustworthy Intelligent Systems* (ETIS) and associated original materials are protected by applicable copyright laws.
 
-Except as permitted by law or explicitly authorized in writing by the copyright holder, no part of this publication may be reproduced, distributed, transmitted, stored, republished, or incorporated into derivative works.
+Except as permitted by law or authorized in writing by the copyright holder, no substantial part may be reproduced, distributed, transmitted, republished, sold, incorporated into derivative publications, or made available as a substitute for the original work.
 
-## Educational and Reference Use
+## Reading, Citation, and Reference Use
 
 Readers may:
 
-- read and reference the online publication,
-- cite the work using standard academic or professional citation practices,
-- quote brief excerpts consistent with fair use, fair dealing, or other applicable legal exceptions,
-- use ideas, concepts, frameworks, and engineering practices discussed in the publication in their own professional or educational activities.
+- read and reference the public website;
+- link to public ETIS pages;
+- cite the book or individual ETIS publications using standard academic or professional practice;
+- quote brief excerpts consistent with fair use, fair dealing, or other applicable legal exceptions;
+- apply ETIS ideas, concepts, engineering practices, and educational approaches in their own work.
 
-Permission is not granted to reproduce substantial portions of the publication, figures, appendices, or downloadable materials without authorization.
+Permission is not granted to reproduce substantial portions of books, publications, figures, appendices, educational products, or downloadable materials without authorization.
 
-## AI and Machine Learning Use
-
-No permission is granted to use this publication, its figures, appendices, downloadable materials, website content, or associated resources for the training, fine-tuning, evaluation, synthetic-data generation, or commercial development of artificial intelligence, machine learning, large language model, or related systems without prior written authorization from the copyright holder.
+For publication-specific citation formats, use the canonical publication landing page or [Citation & Version Information](../publications/citations.md).
 
 ## Educational Adoption
 
-Universities, instructors, and educational institutions are encouraged to adopt ETIS concepts, teaching approaches, engineering practices, and educational models within their own courses and programs.
+Universities, instructors, and educational institutions are encouraged to teach, adapt, and apply ETIS concepts, practices, and educational models.
 
-The framework is intended to be taught, adapted, and applied.
+Educational adoption may include:
 
-However, redistribution or reproduction of substantial ETIS content, educational products, figures, appendices, downloadable materials, or instructor resources remains subject to these licensing terms unless separate permissions have been granted.
+- assigning links to public pages;
+- citing ETIS publications;
+- applying repository-centered and evidence-centered practices;
+- adapting course structures and learning activities;
+- using separately licensed templates or repositories according to their own terms.
 
-## Supplemental Materials
+Redistribution or reproduction of substantial protected ETIS content, educational products, figures, appendices, or instructor materials remains subject to these terms unless separate permission is granted.
 
-Templates, examples, repositories, starter kits, instructor materials, downloadable resources, and future ecosystem components may be distributed under separate licensing terms.
+## AI and Machine Learning Use
 
-Where separate licensing terms exist, those terms supersede the general provisions of this page for the specific resource involved.
+No permission is granted to use protected ETIS text, figures, appendices, publications, downloadable materials, website content, or associated resources for training, fine-tuning, evaluation-dataset construction, synthetic-data generation, model distillation, or commercial development of artificial intelligence or machine-learning systems without prior written authorization from the copyright holder.
 
-## Trademarks and Names
+This restriction does not limit lawful quotation, citation, analysis, or ordinary human use of the public materials.
 
-Engineering Trustworthy Intelligent Systems (ETIS), Lakeside Metropolitan University (LMU), Campus Operations and Incident Coordination Platform (COICP), and related project names may be used throughout this publication for educational, illustrative, and framework purposes.
+## Repositories, Templates, and Starter Kits
 
-Nothing in this publication grants trademark, endorsement, partnership, certification, or affiliation rights.
+The ETIS Framework Repository and ETIS Engineering Platform Starter Kit Repository may contain license files governing source code, templates, examples, documentation, or reusable assets.
+
+Users must review and comply with the license included in the specific repository or resource.
+
+A separate repository license does not automatically grant rights to reproduce the ETIS books, publication PDFs, protected figures, or educational products.
+
+## Names, Marks, and Endorsement
+
+Engineering Trustworthy Intelligent Systems (ETIS), Lakeside Metropolitan University (LMU), Campus Operations and Incident Coordination Platform (COICP), publication-series names, logos, and related project identifiers may be used throughout the ecosystem.
+
+Nothing on this site grants trademark, certification, endorsement, partnership, sponsorship, or affiliation rights.
+
+Use of ETIS concepts does not imply that a course, organization, product, or system is certified, approved, endorsed, or affiliated with ETIS or the author.
 
 ## No Warranty
 
-This publication is provided for educational and informational purposes.
+ETIS materials are provided for educational and informational purposes.
 
-While reasonable efforts have been made to ensure accuracy, completeness, and usefulness, the author makes no warranty, express or implied, regarding the suitability, reliability, completeness, or fitness of the material for any particular purpose.
+While reasonable efforts are made to support accuracy, clarity, and usefulness, no warranty—express or implied—is made regarding completeness, suitability, reliability, merchantability, fitness for a particular purpose, or legal or regulatory sufficiency.
 
-Readers remain responsible for applying professional judgment when using any concepts, examples, practices, templates, governance approaches, or recommendations described in this publication.
+Readers and adopters remain responsible for professional judgment and for compliance with applicable law, regulation, policy, security requirements, contractual obligations, and institutional standards.
 
-## Future Updates
+## No Professional Advice
 
-Licensing terms may be updated as the ETIS ecosystem expands to include additional publications, repositories, templates, educational resources, and supporting materials.
+ETIS does not provide legal, regulatory, security, medical, financial, or other licensed professional advice.
 
-Questions regarding licensing or permissions may be directed through the Contact page.
+Examples and guidance must be evaluated in the reader's actual technical, organizational, legal, and operational context.
 
-- [Contact](Contact.md)
+## Permissions
+
+Questions regarding licensing, permissions, translation, substantial reproduction, commercial use, or institutional distribution may be directed through the [Contact](Contact.md) page.

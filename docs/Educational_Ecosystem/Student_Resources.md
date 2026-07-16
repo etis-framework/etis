@@ -10,10 +10,8 @@ hide:
 </div>
 
 # ETIS Student Resources
-## Engineering Platform Connection
 
-Students can use the ETIS Engineering Platform as the practical workspace for applying the framework. The Platform provides Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, and a Project Workspace that help students produce reviewable engineering evidence instead of isolated assignment artifacts.
-
+**Professional engineering practice, responsible AI use, evidence, teamwork, and career readiness**
 
 ETIS Student Resources help students practice software engineering as professional engineering work in the AI era.
 
@@ -21,15 +19,32 @@ Students are not simply asked to build software.
 
 They are expected to create evidence that their work can be understood, reviewed, governed, operated, improved, and trusted over time.
 
-> The model is not the system.
-> The repository is not just code.
+> The model is not the system.  
+> The repository is not just code.  
 > Engineering work must leave evidence.
+
+The ETIS Engineering Platform provides the practical workspace. Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspaces help students produce reviewable engineering evidence instead of isolated assignment artifacts.
+
+---
+
+## Start Here
+
+| Resource | Use It For |
+|---|---|
+| [COMP-WP-001](../publications/education-papers/comp-wp-001.md) | Understand why software engineering matters more in the AI era |
+| [COMP-WP-002](../publications/education-papers/comp-wp-002.md) | Build a credible professional engineering portfolio |
+| [COMP-WP-003](../publications/education-papers/comp-wp-003.md) | Work effectively on an engineering team |
+| [COMP-WP-004](../publications/education-papers/comp-wp-004.md) | Use AI professionally |
+| [COMP-WP-005](../publications/education-papers/comp-wp-005.md) | Connect course work to long-term engineering growth |
+| [Platform Overview](../Platform/Platform.md) | Learn how the Platform supports ETIS student work |
+| [Launch the Engineering Platform ↗](https://platform.etisframework.org) | Enter the working project environment |
+| [Student Professional Engineering Guide](Educational_Products.md#student-product) | Obtain deeper practical guidance |
 
 ---
 
 ## What Makes ETIS Student Work Different
 
-Traditional student projects often follow this pattern:
+Traditional pattern:
 
 ```text
 Receive assignment
@@ -41,7 +56,7 @@ Submit final artifact
 Receive grade
 ```
 
-ETIS student work follows a different pattern:
+ETIS pattern:
 
 ```text
 Define intent
@@ -56,7 +71,7 @@ Build and verify
 ↓
 Preserve evidence
 ↓
-Defend decisions
+Review and defend
 ↓
 Improve from feedback
 ```
@@ -67,45 +82,7 @@ The goal is to become a trustworthy engineer.
 
 ---
 
-## Start Here
-
-### Engineering Platform Project Environment
-
-The ETIS Engineering Platform Project Environment is a professional engineering environment, not a software platform.
-
-It helps students organize engineering work into clear responsibilities:
-
-```text
-docs/      Think
-src/       Build
-tests/     Verify
-data/      Support
-scripts/   Automate
-```
-
-### Repository-Centered Engineering
-
-Students use the repository as an engineering memory system.
-
-The repository should show what the team decided, why it decided it, what evidence supports the work, and what risks remain.
-
-### AI Responsibility
-
-AI is allowed and encouraged.
-
-Unverified AI dependency is not.
-
-Students are responsible for disclosure, verification, traceability, and ownership.
-
-### Professional Portfolio Evidence
-
-A strong ETIS repository should become evidence of professional engineering ability, not merely evidence of course completion.
-
----
-
-## The Student Transformation Model
-
-ETIS education is designed to help students mature through a professional engineering progression:
+## Student Transformation Model
 
 ```text
 Student
@@ -127,56 +104,49 @@ Each stage requires stronger evidence, better judgment, and greater ownership.
 
 ---
 
-## Engineering Platform Project Environment Structure
+## Engineering Platform Project Environment
 
-The Engineering Platform Project Environment separates engineering responsibilities clearly.
-
-| Area       | Responsibility                            |
-| ---------- | ----------------------------------------- |
-| `docs/`    | Think, decide, explain, preserve evidence |
-| `src/`     | Build the system                          |
-| `tests/`   | Verify behavior                           |
-| `data/`    | Support realistic use and evaluation      |
-| `scripts/` | Automate repeatable work                  |
+| Area | Responsibility |
+|---|---|
+| `docs/` | Think, decide, explain, and preserve evidence |
+| `src/` | Build the system |
+| `tests/` | Verify behavior |
+| `data/` | Support realistic use and evaluation |
+| `scripts/` | Automate repeatable work |
 
 The most important area is often `docs/`.
 
-That is where engineering intent, assumptions, decisions, reviews, risks, and release evidence become visible.
+That is where intent, assumptions, decisions, reviews, risks, and release evidence become visible.
+
+[Explore the Platform Overview →](../Platform/Platform.md)
+
+[Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
 ---
 
 ## Engineering Evidence Package
 
-The starter kit helps students preserve evidence across the full lifecycle.
-
 Student repositories should include evidence such as:
 
-* requirements and assumptions
-* acceptance criteria
-* planning artifacts
-* task plans and schedules
-* team roles and working agreements
-* architecture descriptions
-* architecture decisions
-* AI use logs
-* AI verification notes
-* code review evidence
-* architecture review evidence
-* test plans
-* test cases
-* test evidence
-* defect logs
-* quality notes
-* security and data-handling notes
-* release readiness evidence
-* demo scripts
-* known limitations
-* operational notes
-* runbooks
-* observability plans
-* postmortem or improvement evidence
+- requirements and assumptions;
+- acceptance criteria;
+- planning artifacts;
+- task plans and schedules;
+- team roles and working agreements;
+- architecture descriptions and ADRs;
+- AI-use logs;
+- AI-verification notes;
+- code and architecture review evidence;
+- test plans, cases, and results;
+- defect logs and quality notes;
+- security and data-handling notes;
+- release-readiness evidence;
+- demo scripts and known limitations;
+- operational notes and runbooks;
+- observability plans;
+- postmortem and improvement evidence.
 
-This evidence is not paperwork.
+This is not paperwork.
 
 It is how engineering work becomes reviewable.
 
@@ -184,22 +154,18 @@ It is how engineering work becomes reviewable.
 
 ## Repository-Centered Engineering
 
-In ETIS, the repository is more than a place to store source code.
+A strong repository should answer:
 
-It is the center of engineering memory.
-
-A strong student repository should answer:
-
-* What are we building?
-* Why are we building it?
-* What assumptions are we making?
-* What decisions did we make?
-* What evidence supports our claims?
-* What risks remain?
-* How did we use AI?
-* How did we verify the work?
-* Is the system ready to release, demonstrate, or operate?
-* What should improve next?
+- What are we building?
+- Why are we building it?
+- What assumptions are we making?
+- What decisions did we make?
+- What evidence supports our claims?
+- What risks remain?
+- How did we use AI?
+- How did we verify the work?
+- Is the system ready to release, demonstrate, or operate?
+- What should improve next?
 
 If those answers are not visible, the engineering work is incomplete.
 
@@ -207,99 +173,91 @@ If those answers are not visible, the engineering work is incomplete.
 
 ## AI Use and Verification
 
-ETIS students may use AI throughout the engineering lifecycle.
+AI may support:
 
-AI may help with:
+- brainstorming;
+- requirements refinement;
+- design alternatives;
+- code generation;
+- test generation;
+- documentation drafting;
+- defect analysis;
+- review preparation;
+- operational planning.
 
-* brainstorming
-* requirements refinement
-* design alternatives
-* code generation
-* test generation
-* documentation drafting
-* defect analysis
-* review preparation
-* operational planning
+Students remain responsible for the work.
 
-But students remain responsible for the work.
+Professional expectations include:
 
-Student AI expectations include:
-
-* disclose meaningful AI assistance
-* verify AI-generated artifacts
-* document important AI usage
-* preserve evidence of verification
-* reject unsupported or incorrect AI output
-* understand the submitted work
-* defend the engineering decision
+- disclose meaningful AI assistance;
+- verify generated artifacts;
+- preserve evidence of verification;
+- reject unsupported or incorrect output;
+- understand submitted work;
+- defend the engineering decision;
+- respect data, security, licensing, and authorization boundaries.
 
 AI proposes.
 
 Engineers verify.
 
----
-
-## Reviews and Defenses
-
-ETIS students should expect their work to be reviewed and challenged.
-
-Students should be prepared to defend:
-
-* requirements choices
-* scope decisions
-* architecture tradeoffs
-* AI-assisted work
-* testing strategy
-* quality evidence
-* security assumptions
-* release readiness
-* operational risks
-* known limitations
-
-Engineering work is not complete until it can be defended.
+[Read COMP-WP-004 — Using AI Professionally →](../publications/education-papers/comp-wp-004.md)
 
 ---
 
 ## Team Engineering
 
-ETIS student work is team-based because professional engineering is team-based.
-
 Strong teams make work visible.
 
 They preserve:
 
-* roles
-* responsibilities
-* working agreements
-* communication plans
-* meeting notes
-* decisions
-* risks
-* blockers
-* review outcomes
-* ownership boundaries
+- roles and responsibilities;
+- working agreements;
+- communication plans;
+- decisions;
+- risks;
+- blockers;
+- review outcomes;
+- ownership boundaries.
 
-Hidden work creates hidden risk.
+Roles create primary accountability, not silos.
 
-Visible work creates engineering trust.
+Review creates shared responsibility, not ceremonial approval.
+
+[Read COMP-WP-003 — Working Effectively on an Engineering Team →](../publications/education-papers/comp-wp-003.md)
 
 ---
 
-## Student Accountability Model
+## Reviews and Defenses
 
-ETIS students are accountable for more than contribution.
+Students should be prepared to defend:
 
-They are accountable for ownership.
+- requirements choices;
+- scope decisions;
+- architecture tradeoffs;
+- AI-assisted work;
+- testing strategy;
+- quality evidence;
+- security assumptions;
+- release readiness;
+- operational risks;
+- known limitations.
+
+Engineering work is not complete until it can be defended.
+
+---
+
+## Individual Accountability
 
 Students should be able to explain:
 
-* what they personally contributed
-* what the team produced
-* what evidence supports the work
-* what AI helped create
-* how AI output was verified
-* what risks remain
-* what they would improve next
+- what they personally contributed;
+- what the team produced;
+- what evidence supports the work;
+- what AI helped create;
+- how AI output was verified;
+- what risks remain;
+- what they would improve next.
 
 The strongest students do not merely say, “It works.”
 
@@ -313,65 +271,44 @@ A strong ETIS repository can become professional portfolio evidence.
 
 It can show future employers that a student can:
 
-* work in a team
-* reason about requirements
-* make architectural decisions
-* use AI responsibly
-* test and verify systems
-* handle defects and quality issues
-* think about security and operations
-* prepare release evidence
-* explain tradeoffs
-* improve from review
+- work in a team;
+- reason about requirements;
+- make architectural decisions;
+- use AI responsibly;
+- test and verify systems;
+- handle defects and quality issues;
+- think about security and operations;
+- prepare release evidence;
+- explain tradeoffs;
+- improve from review.
 
-Students should leave the course with evidence of engineering ability.
+Students should leave the course with evidence of engineering ability—not only a grade.
 
-Not just a grade.
+[Read COMP-WP-002 — Building a Professional Engineering Portfolio →](../publications/education-papers/comp-wp-002.md)
 
 ---
 
 ## Student Product
 
-The primary public student product is:
+| Product | Purpose |
+|---|---|
+| **ETIS Student Professional Engineering Guide** | Deeper guidance for professional behavior, responsible AI use, repository evidence, review, release defense, and portfolio development |
 
-| Product                            | Purpose                                                                           |
-| ---------------------------------- | --------------------------------------------------------------------------------- |
-| ETIS Student Professional Engineering Guide.pdf | Guidance for using the ETIS starter kit as a professional engineering environment |
-
-The website introduces the student model.
-
-The guide provides deeper practical direction.
-
----
-
-## Student Doctrine
-
-ETIS student work is governed by durable principles:
-
-* Educational work should resemble professional engineering work.
-* AI can produce artifacts. Engineers create trust.
-* The model is not the system.
-* The repository is an engineering memory system.
-* Engineering work must leave evidence.
-* Undisclosed and unverified AI dependency is an engineering risk.
-* Requirements, decisions, tests, reviews, releases, and operations should be traceable.
-* Engineering work is not complete until it can be defended.
-* Tools change. Engineering behaviors endure.
-* Students should graduate with evidence of engineering ability rather than evidence of course completion.
+[Explore Educational Products →](Educational_Products.md)
 
 ---
 
 ## How to Use Student Resources
 
-Students should use ETIS Student Resources to:
-
-1. Understand the purpose of repository-centered engineering.
-2. Set up a professional engineering environment.
-3. Organize evidence before building too much code.
-4. Use AI responsibly and visibly.
-5. Preserve decisions, tests, reviews, and release evidence.
-6. Prepare to defend engineering work.
-7. Improve the repository as the project matures.
+1. Read the Education Papers.
+2. Understand repository-centered engineering.
+3. Set up the Engineering Platform Project Workspace.
+4. Organize evidence before producing too much code.
+5. Use AI responsibly and visibly.
+6. Preserve decisions, tests, reviews, and release evidence.
+7. Prepare to defend engineering work.
+8. Improve the repository as the project matures.
+9. Translate the evidence into portfolio and interview stories.
 
 The objective is not to fill folders.
 
@@ -379,10 +316,25 @@ The objective is to make engineering work understandable, reviewable, and trustw
 
 ---
 
+## Student Doctrine
+
+- Educational work should resemble professional engineering work.
+- AI can produce artifacts; engineers create trust.
+- The model is not the system.
+- The repository is an engineering memory system.
+- Engineering work must leave evidence.
+- Undisclosed and unverified AI dependency is an engineering risk.
+- Requirements, decisions, tests, reviews, releases, and operations should be traceable.
+- Engineering work is not complete until it can be defended.
+- Tools change; engineering behaviors endure.
+- Students should graduate with evidence of engineering ability rather than evidence of course completion.
+
+---
+
 ## Bottom Line
 
 ETIS Student Resources help students move from building software to practicing engineering.
 
-The student who succeeds in ETIS does not merely produce a working project.
+The successful ETIS student does not merely produce a working project.
 
-The student produces evidence that the work can be trusted.
+The student produces credible evidence that the work can be trusted.

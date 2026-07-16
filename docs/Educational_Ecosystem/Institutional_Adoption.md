@@ -11,7 +11,9 @@ hide:
 
 # Institutional Adoption
 
-Institutional Adoption helps universities, departments, and educators bring ETIS into their educational environments without reinventing software engineering education from scratch.
+**Adapting ETIS responsibly across universities, departments, and professional programs**
+
+Institutional Adoption helps universities, departments, educators, and professional training programs bring ETIS into their environments without reinventing software engineering education from scratch.
 
 ETIS is designed to be inherited, adapted, operated, and stewarded over time.
 
@@ -19,7 +21,7 @@ It is not designed to be copied mechanically.
 
 > Institutions should inherit ETIS doctrine, not ETIS implementations.
 
-The objective is not standardization.
+The objective is not uniformity.
 
 The objective is trustworthy adaptation.
 
@@ -29,14 +31,14 @@ The objective is trustworthy adaptation.
 
 Institutional Adoption is intended for:
 
-* universities
-* departments
-* colleges
-* professional training programs
-* academic leaders
-* instructors
-* curriculum designers
-* educational innovators
+- universities;
+- departments;
+- colleges;
+- professional training programs;
+- academic leaders;
+- instructors;
+- curriculum designers;
+- educational innovators.
 
 Any organization that teaches software engineering in the AI era can adopt ETIS principles.
 
@@ -44,11 +46,9 @@ Any organization that teaches software engineering in the AI era can adopt ETIS 
 
 ## Why Institutional Adoption Exists
 
-Software engineering education is changing.
-
 AI has fundamentally altered how students create artifacts.
 
-The educational challenge is no longer:
+The educational challenge is no longer only:
 
 > How do we teach students to produce software?
 
@@ -56,44 +56,48 @@ The educational challenge is now:
 
 > How do we teach students to create trustworthy systems while using increasingly capable AI?
 
-ETIS helps institutions answer that question.
+ETIS helps institutions answer that question through doctrine, educational products, professional readings, implementation examples, repository-centered work, and evidence-based assessment.
 
 ---
 
 ## What Institutions Adopt
 
-Institutions do not adopt a course.
+Institutions do not adopt a single course.
 
-Institutions adopt an educational framework.
+They adopt an educational framework.
 
 The ETIS Educational Ecosystem provides:
 
-* educational philosophy
-* educational doctrine
-* instructor operating systems
-* professional student engineering environments
-* implementation examples
-* adoption guidance
-* long-term stewardship models
+- educational philosophy;
+- durable doctrine;
+- instructor operating systems;
+- student professional-engineering environments;
+- the Education Paper Series;
+- implementation examples;
+- adoption guidance;
+- long-term stewardship models;
+- the Engineering Platform as a practical project environment.
 
-This allows institutions to adapt ETIS without rebuilding educational systems from scratch.
+This allows institutions to adapt ETIS without rebuilding every educational system from scratch.
 
 ---
 
 ## ETIS Adoption Model
 
-Institutional adoption should follow a deliberate progression.
-
 ```text
 Learn ETIS
+↓
+Read the Education Papers
 ↓
 Study Educational Products
 ↓
 Study the Flagship Implementation
 ↓
+Explore the Engineering Platform
+↓
 Adapt to the Local Environment
 ↓
-Operate the Course
+Operate a Pilot
 ↓
 Collect Educational Evidence
 ↓
@@ -108,60 +112,50 @@ The process is evolutionary rather than prescriptive.
 
 ## Adoption Principles
 
-ETIS adoption is governed by several principles.
-
 ### Preserve Doctrine
 
-Do not rewrite ETIS principles.
+Do not rewrite ETIS principles to fit existing habits.
 
 Adapt implementations.
 
 Preserve doctrine.
 
----
-
 ### Adapt Locally
-
-Every institution is different.
 
 Adapt to:
 
-* semester length
-* quarter systems
-* class size
-* student maturity
-* institutional policies
-* AI policies
-* instructor experience
-* project complexity
-
----
+- semester or quarter length;
+- class size;
+- student maturity;
+- institutional policy;
+- AI policy;
+- instructor experience;
+- project complexity;
+- available tools.
 
 ### Preserve Accountability
 
 Do not simplify accountability when adapting ETIS.
 
-Instead:
-
 > Scale complexity, not accountability.
 
-Reduce project scope if necessary.
+Reduce project scope when necessary.
 
-Do not remove evidence.
-
-Do not remove reviewability.
-
-Do not remove ownership.
-
----
+Do not remove evidence, reviewability, ownership, or professional defense.
 
 ### Preserve Evidence
 
-Educational evidence should survive beyond a single semester.
+Educational evidence should survive beyond a single term.
 
-Evidence should help future instructors improve future offerings.
+It should help future instructors improve future offerings.
 
 Educational memory is educational infrastructure.
+
+### Preserve Stewardship
+
+An ETIS implementation should become easier to understand, operate, and improve over time.
+
+Institutional adoption is not complete when the first course launches.
 
 ---
 
@@ -169,13 +163,13 @@ Educational memory is educational infrastructure.
 
 Institutions should not mechanically copy:
 
-* Loyola schedules
-* Loyola assignments
-* Loyola calendars
-* Loyola dates
-* Loyola grading percentages
-* Loyola logistics
-* Loyola terminology where unnecessary
+- Loyola schedules;
+- Loyola assignments;
+- Loyola calendars;
+- Loyola dates;
+- Loyola grading percentages;
+- Loyola logistics;
+- local terminology where unnecessary.
 
 These are implementation details.
 
@@ -187,15 +181,16 @@ They are not ETIS doctrine.
 
 Institutions should inherit:
 
-* repository-centered engineering
-* evidence-centered engineering
-* AI responsibility
-* engineering accountability
-* engineering review
-* engineering defense
-* educational stewardship
-* educational memory
-* transformation models
+- repository-centered engineering;
+- evidence-centered engineering;
+- responsible AI use;
+- engineering accountability;
+- engineering review;
+- release defense;
+- operational thinking;
+- educational stewardship;
+- educational memory;
+- observable transformation models.
 
 These are durable ETIS principles.
 
@@ -203,104 +198,63 @@ These are durable ETIS principles.
 
 ## Adoption Building Blocks
 
-Institutions can adopt ETIS incrementally.
+### Stage 1 — Educational Philosophy
 
-### Stage 1: Educational Philosophy
+Introduce ETIS doctrine and the AI-era engineering obligation.
 
-Introduce ETIS doctrine.
+Students begin thinking like engineers rather than assignment completers.
 
-Students begin thinking like engineers instead of assignment completers.
+### Stage 2 — Professional Orientation
 
----
+Use the Education Papers to establish expectations for software engineering, teamwork, AI use, portfolios, and professional growth.
 
-### Stage 2: Repository-Centered Engineering
+[Explore the Education Papers →](../publications/education-papers/index.md)
 
-Introduce repository-centered evidence.
+### Stage 3 — Repository-Centered Engineering
 
-Students learn to preserve engineering memory.
+Introduce repository-centered evidence and durable engineering memory.
 
----
+### Stage 4 — AI Responsibility
 
-### Stage 3: AI Responsibility
+Introduce AI disclosure, verification, traceability, and ownership.
 
-Introduce AI disclosure, verification, and ownership.
+### Stage 5 — Engineering Accountability
 
-Students learn to govern AI-assisted work.
+Require evidence strong enough to support review and defense.
 
----
+### Stage 6 — Engineering Defense
 
-### Stage 4: Engineering Accountability
+Introduce review boards, release readiness, and structured professional challenge.
 
-Introduce engineering evidence requirements.
+### Stage 7 — Stewardship
 
-Students learn that engineering work must be reviewable.
-
----
-
-### Stage 5: Engineering Defense
-
-Introduce review boards, release readiness, and engineering defense activities.
-
-Students learn to explain decisions.
-
----
-
-### Stage 6: Stewardship
-
-Preserve lessons for future semesters.
-
-Educational systems begin improving themselves.
+Preserve lessons for future offerings and improve the educational system.
 
 ---
 
 ## Institutional Decision Areas
 
-Institutions should make decisions in several areas.
-
 ### Academic Structure
 
-Determine:
-
-* semester or quarter model
-* course duration
-* meeting cadence
-* project duration
+Determine course duration, meeting cadence, project duration, and sequence.
 
 ### Student Structure
 
-Determine:
-
-* undergraduate or graduate audiences
-* team sizes
-* leadership models
-* project complexity
+Determine student level, team size, leadership model, and project complexity.
 
 ### AI Structure
 
-Determine:
-
-* AI policies
-* AI disclosure expectations
-* AI verification expectations
+Determine allowed tools, disclosure expectations, verification requirements, and data-handling boundaries.
 
 ### Assessment Structure
 
-Determine:
-
-* evidence expectations
-* review expectations
-* defense expectations
-* maturity expectations
+Determine evidence, review, defense, and maturity expectations.
 
 ### Operational Structure
 
-Determine:
+Determine repository, tooling, instructional support, continuity, and stewardship practices.
 
-* repository expectations
-* tooling expectations
-* instructional support
-
-The framework stays stable.
+The framework remains stable.
 
 The implementation adapts.
 
@@ -308,18 +262,17 @@ The implementation adapts.
 
 ## Recommended Adoption Path
 
-A department adopting ETIS should progress through these steps.
-
-1. Read the ETIS book.
-2. Study the Educational Ecosystem.
-3. Study Instructor Resources.
-4. Study Student Resources.
-5. Study the COMP330 Flagship Implementation.
-6. Build a pilot implementation.
-7. Run one offering.
-8. Collect evidence.
-9. Improve the next offering.
-10. Steward the implementation over time.
+1. Read the ETIS Framework and Two-Volume Edition.
+2. Review the ETIS Education Papers.
+3. Study the Educational Ecosystem.
+4. Study Instructor Resources.
+5. Study Student Resources.
+6. Review the Educational Products.
+7. Study the COMP 330/474 Flagship Implementation.
+8. Explore the Platform Overview, then launch the Engineering Platform and Starter Kit.
+9. Design and run a bounded pilot.
+10. Collect evidence and improve the next offering.
+11. Establish stewardship for future instructors.
 
 Do not attempt to perfect ETIS before operating it.
 
@@ -327,37 +280,43 @@ Educational systems improve through use.
 
 ---
 
-## Public Adoption Products
+## Public Adoption Resources
 
-The Educational Ecosystem provides several public products that support adoption.
+| Resource | Purpose |
+|---|---|
+| **ETIS Education Paper Series** | Professional orientation for students, instructors, and academic programs |
+| **ETIS Educational Ecosystem Guide** | Educational architecture and product overview |
+| **ETIS Instructor Course Package** | Instructor operating system |
+| **ETIS Classroom Facilitation Guide** | Classroom operations |
+| **ETIS Instructor Handbook** | Long-term stewardship |
+| **ETIS Student Professional Engineering Guide** | Professional student engineering behavior |
+| **ETIS COMP 330 Flagship Implementation Guide** | Real-world implementation reference |
+| **Platform Overview** | Orientation to the ETIS implementation environment |
+| **ETIS Engineering Platform** | Working implementation environment with stages, templates, examples, governance assets, and project workspaces |
 
-| Product                                         | Purpose                                       |
-| ----------------------------------------------- | --------------------------------------------- |
-| ETIS Educational Ecosystem Guide.pdf            | Educational architecture and product overview |
-| ETIS Instructor Course Package.pdf              | Instructor operating system                   |
-| ETIS Classroom Facilitation Guide.pdf           | Classroom operations                          |
-| ETIS Instructor Notes Handbook.pdf              | Long-term stewardship                         |
-| ETIS Student Professional Engineering Guide.pdf | Professional student engineering behaviors    |
-| ETIS COMP330 Flagship Implementation Guide.pdf  | Real-world implementation reference           |
+[Explore Educational Products →](Educational_Products.md)
 
-Together, these products provide a complete adoption system.
+[Explore the Platform Overview →](../Platform/Platform.md)
+
+[Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
 ---
 
 ## Why ETIS Is Sustainable
 
-Many educational innovations disappear because they depend upon a single instructor.
+Many educational innovations disappear because they depend on one instructor.
 
-ETIS was intentionally designed to survive beyond one person, one institution, or one course.
+ETIS is designed to survive beyond one person, institution, course, or toolset.
 
 Its sustainability comes from:
 
-* doctrine
-* products
-* evidence
-* stewardship
-* continuity
-* adaptation
+- doctrine;
+- publications;
+- products;
+- evidence;
+- stewardship;
+- continuity;
+- adaptation.
 
 The goal is long-term educational durability.
 
@@ -365,25 +324,22 @@ The goal is long-term educational durability.
 
 ## Institutional Doctrine
 
-Institutional adoption is governed by durable principles:
-
-* Educational work should resemble professional engineering work.
-* Educational systems are engineered.
-* Educational systems are also stewarded.
-* Educational systems are inherited, not reinvented.
-* Educational memory is educational infrastructure.
-* Every semester should leave evidence for the next instructor.
-* Scale complexity, not accountability.
-* Scale evaluation mechanisms, not engineering expectations.
-* Tools change. Engineering behaviors endure.
-* Educational laboratories are where educational frameworks become trustworthy.
+- Educational work should resemble professional engineering work.
+- Educational systems are engineered and stewarded.
+- Educational systems are inherited, not reinvented.
+- Educational memory is infrastructure.
+- Every offering should leave evidence for the next instructor.
+- Scale complexity, not accountability.
+- Scale evaluation mechanisms, not engineering expectations.
+- Tools change; engineering behaviors endure.
+- Educational laboratories are where educational frameworks become trustworthy.
 
 ---
 
 ## Bottom Line
 
-Institutional Adoption helps organizations responsibly inherit ETIS.
+Institutional Adoption helps organizations inherit ETIS responsibly.
 
 The goal is not to reproduce Loyola University Chicago.
 
-The goal is to build sustainable educational systems that teach future engineers how to create trustworthy intelligent systems in the AI era.
+The goal is to build durable educational systems that teach future engineers how to create trustworthy intelligent systems in the AI era.

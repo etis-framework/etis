@@ -11,30 +11,53 @@ hide:
 
 # ETIS Educational Products
 
-**Reusable educational products that operationalize the ETIS Educational Ecosystem**
+**Reusable products that operationalize the ETIS Educational Ecosystem**
 
-The ETIS Educational Ecosystem produces a collection of public educational products that transform ETIS from educational doctrine into deployable educational systems.
+ETIS Educational Products transform educational doctrine into complete, reusable implementation resources for instructors, students, institutions, and adopters.
 
-These products support instructors, students, institutions, and adopters while preserving a clear separation between public educational experiences and internal educational architecture.
+These products support course design, facilitation, professional student development, institutional adoption, and long-term educational stewardship.
+
+They are distinct from the ETIS Education Paper Series:
+
+- **Education Papers** provide focused professional readings with canonical publication records and citation support.
+- **Educational Products** provide practical course, facilitation, implementation, and adoption guidance.
+
+[Explore the ETIS Education Papers →](../publications/education-papers/index.md)
 
 ---
 
 ## Why Educational Products Exist
 
-The ETIS book teaches the doctrine.
+The ETIS Two-Volume Edition provides the complete doctrine.
 
-The Educational Ecosystem teaches educators how to teach the doctrine.
+The Education Papers provide focused professional orientation.
+
+The Educational Ecosystem explains how to teach and adopt the doctrine.
 
 Educational Products operationalize that ecosystem into reusable implementation assets.
 
-These products are designed to:
+They are designed to:
 
-* accelerate ETIS adoption
-* support instructional stewardship
-* provide reusable educational systems
-* promote evidence-centered learning
-* create consistent educational experiences
-* establish reference implementations
+- accelerate responsible ETIS adoption;
+- support instructional stewardship;
+- provide reusable educational systems;
+- promote evidence-centered learning;
+- create consistent educational experiences;
+- preserve educational memory;
+- establish reference implementations.
+
+---
+
+## Product Portfolio
+
+| Product | Audience | Primary Use |
+|---|---|---|
+| **ETIS Educational Ecosystem Guide** | Instructors and institutions | Understand the educational architecture, learning models, and adoption framework |
+| **ETIS Instructor Course Package** | Instructors | Design, launch, operate, assess, and steward an ETIS-based course |
+| **ETIS Classroom Facilitation Guide** | Instructors | Run discussions, reviews, teams, AI-responsible work, and release defenses |
+| **ETIS Instructor Handbook** | Instructors and stewards | Preserve instructional memory and improve future offerings |
+| **ETIS Student Professional Engineering Guide** | Students and instructors | Establish professional behavior, repository evidence, AI responsibility, and portfolio value |
+| **ETIS COMP 330 Flagship Implementation Guide** | Departments and adopters | Study a complete real-world implementation and educational laboratory |
 
 ---
 
@@ -44,7 +67,7 @@ These products are designed to:
 
 <h3>ETIS Educational Ecosystem Guide</h3>
 
-<p>Educational architecture, learning models, adoption pathways, and ecosystem design.</p>
+<p>Educational architecture, learning models, adoption pathways, product relationships, and ecosystem design.</p>
 
 <a class="md-button md-button--primary"
    href="../../downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf"
@@ -67,7 +90,7 @@ These products are designed to:
 
 <h3>ETIS Instructor Course Package</h3>
 
-<p>Complete instructor onboarding, course implementation, and educational operation guidance.</p>
+<p>Complete instructor onboarding, course design, implementation, assessment, operation, and stewardship guidance.</p>
 
 <a class="md-button md-button--primary"
    href="../../downloads/educational_products/ETIS_Instructor_Course_Package.pdf"
@@ -86,7 +109,7 @@ These products are designed to:
 
 <h3>ETIS Classroom Facilitation Guide</h3>
 
-<p>Classroom execution, facilitation strategies, and instructional operations.</p>
+<p>Classroom execution, discussion models, team accountability, review-board facilitation, AI responsibility, and instructional operations.</p>
 
 <a class="md-button md-button--primary"
    href="../../downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf"
@@ -105,7 +128,7 @@ These products are designed to:
 
 <h3>ETIS Instructor Handbook</h3>
 
-<p>Long-term instructional stewardship, observations, and operational guidance.</p>
+<p>Long-term instructional stewardship, course memory, recurring patterns, operational judgment, and continuous improvement.</p>
 
 <a class="md-button md-button--primary"
    href="../../downloads/educational_products/ETIS_Instructor_Handbook.pdf"
@@ -122,13 +145,13 @@ These products are designed to:
 
 ---
 
-## Student Products
+## Student Product
 
 <div class="etis-download-panel">
 
 <h3>ETIS Student Professional Engineering Guide</h3>
 
-<p>Professional engineering behaviors, AI responsibility, and evidence-centered work.</p>
+<p>Professional engineering behavior, responsible AI use, repository-centered evidence, teamwork, review, release defense, and portfolio development.</p>
 
 <a class="md-button md-button--primary"
    href="../../downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf"
@@ -145,13 +168,13 @@ These products are designed to:
 
 ---
 
-## Flagship Implementation
+## Flagship Implementation Product
 
 <div class="etis-download-panel">
 
-<h3>ETIS COMP330 Flagship Implementation Guide</h3>
+<h3>ETIS COMP 330 Flagship Implementation Guide</h3>
 
-<p>Loyola University Chicago reference implementation and educational laboratory.</p>
+<p>Loyola University Chicago reference implementation, educational laboratory, evidence model, and adoption reference.</p>
 
 <a class="md-button md-button--primary"
    href="../../downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf"
@@ -168,12 +191,37 @@ These products are designed to:
 
 ---
 
+## Related Education Papers
+
+The Education Papers complement these implementation products.
+
+- [COMP-WP-001 — Why Software Engineering Matters More in the AI Era](../publications/education-papers/comp-wp-001.md)
+- [COMP-WP-002 — Building a Professional Engineering Portfolio](../publications/education-papers/comp-wp-002.md)
+- [COMP-WP-003 — Working Effectively on an Engineering Team](../publications/education-papers/comp-wp-003.md)
+- [COMP-WP-004 — Using AI Professionally](../publications/education-papers/comp-wp-004.md)
+- [COMP-WP-005 — Engineering Career Lessons](../publications/education-papers/comp-wp-005.md)
+
+---
+
+## Product Governance
+
+ETIS Educational Products should remain:
+
+1. **Complete** — each product should serve a defined educational purpose.
+2. **Curated** — public products should not be raw internal directory exports.
+3. **Traceable** — products should remain connected to the Educational Ecosystem and their implementation context.
+4. **Adoptable** — guidance should support adaptation without requiring mechanical copying.
+5. **Stewardable** — products should preserve educational memory and support improvement over time.
+6. **Nonduplicative** — products should complement, not reproduce, the Education Paper Series or Engineering Platform.
+
+---
+
 ## Bottom Line
 
-The ETIS Educational Products transform educational theory into reusable educational systems.
+The Educational Ecosystem defines the educational architecture.
 
-The ecosystem defines the architecture.
+The Education Papers provide focused professional readings.
 
-The products operationalize the architecture.
+The Educational Products operationalize the architecture.
 
-The implementations prove the architecture.
+The flagship implementation demonstrates the architecture in practice.

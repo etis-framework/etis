@@ -1,10 +1,14 @@
-# Appendix D<br><span class="chapter-title-main">Engineering Principles Catalog
+# Appendix D
 
-Engineering Trustworthy Intelligent Systems (ETIS) is built upon a set of recurring engineering principles that appear throughout discussions of software construction, governance, operations, intelligent systems, stewardship, and professional responsibility. These principles serve as durable anchors that remain valuable even as technologies, vendors, tools, and implementation approaches evolve.
+## Engineering Principles Catalog
 
-This appendix consolidates the engineering principles that recur throughout the book. Each principle is accompanied by its meaning, significance, practical implications, and relationship to trustworthy engineering.
+**The durable principles that constrain ETIS engineering behavior, review, governance, and stewardship**
 
-Readers may use this appendix as a quick-reference guide when evaluating decisions, interpreting evidence, conducting reviews, or communicating engineering rationale.
+ETIS is built on durable engineering principles that remain useful as models, vendors, tools, methodologies, and operating environments change.
+
+This appendix consolidates those principles into a practical reference for decision-making, review, governance, teaching, operations, and professional defense. The principles are not slogans; they are constraints that must become visible in engineering behavior and evidence.
+
+---
 
 ## D.1 Introduction
 
@@ -38,7 +42,7 @@ The following table is the canonical reference catalog. The wording is concise, 
 | A demo is not operational proof | A successful demonstration shows that one path worked once. It does not prove traceability, security, observability, governability, recoverability, scalability, support readiness, or stewardship. | Stops teams from confusing visible feature behavior with release readiness or operational trust. | Demo theater, green-path confidence, presentation polish without evidence, and release decisions based on optimism. | Ch. 1-2, 19-22, 25-32, 39 | /docs/release_evidence/release_readiness_record.md; /docs/operations/runbooks/; /docs/operations/observability/observability_plan.md |
 | Honest engineering is mature engineering | Limitations, residual risks, unresolved defects, failed checks, assumptions, weak evidence, and deferred work should be visible and owned. Concealing uncertainty is immature engineering. | Builds organizational confidence by making truth visible rather than manufacturing false certainty. | Confidence theater, limitation hiding, risk laundering, blame avoidance, and unowned residual risk. | Ch. 2, 12, 21-24, 30-32, 38-39 | /docs/release_evidence/known_limitations.md; /docs/governance/risk_register.md; /docs/operations/postmortems/ |
 | Trustworthiness emerges across the full lifecycle | Trustworthiness is cumulative. It depends on correctness, traceability, reviewability, observability, governability, recoverability, security/privacy, accountability, operational visibility, human oversight, transparency, understandability, repository memory, stewardship, and professional judgment. | Prevents trustworthiness from becoming a one-time checklist, certification claim, release ritual, or model property. | Checklist theater, narrow testing claims, governance paperwork without evidence, and treating trust as a status label. | Ch. 1, 5-7, 9, 18-22, 25-32, 35-39; Appendix A | /docs/trustworthiness/trustworthiness_framework.md; /docs/governance/reviews/; /docs/professional_portfolio/trustworthiness_evidence_map.md |
-| Engineering judgment is the enduring skill | Tools, models, platforms, frameworks, and methods change. Judgment about evidence, uncertainty, risk, tradeoffs, architecture, governance, operations, communication, and stewardship remains the durable professional skill. | Anchors the final professional identity of the future trustworthy engineer. | Tool worship, replacement mythology, process obedience without judgment, and treating AI fluency as professional maturity. | Ch. 4, 6-7, 12, 15, 21-22, 31-32, 38-39; Appendix G | /docs/professional_portfolio/final_defense_packet.md; /docs/professional_portfolio/evidence_portfolio.md |
+| Engineering judgment is the enduring skill | Tools, models, platforms, frameworks, and methods change. Judgment about evidence, uncertainty, risk, tradeoffs, architecture, governance, operations, communication, and stewardship remains the durable professional skill. | Anchors the final professional identity of the future trustworthy engineer. | Tool worship, replacement mythology, process obedience without judgment, and treating AI fluency as professional maturity. | Ch. 4, 6-7, 12, 15, 21-22, 31-32, 38-39; Appendix F | /docs/professional_portfolio/final_defense_packet.md; /docs/professional_portfolio/evidence_portfolio.md |
 
 ## D.4 Principle Clusters
 
