@@ -1,19 +1,44 @@
 cff-version: 1.2.0
-title: "Engineering Trustworthy Intelligent Systems"
 message: "If you use or reference ETIS, please cite it using the metadata below."
+title: "Engineering Trustworthy Intelligent Systems"
+title-short: "ETIS"
 type: book
 authors:
   - family-names: "O'Connell"
     given-names: "William T."
-title-short: "ETIS"
-version: "1.0.0"
-date-released: 2026-06-01
+version: "1.2.0"
+date-released: 2026-07-16
 year: 2026
 publisher: "ETIS Framework"
 url: "https://etisframework.org"
 repository-code: "https://github.com/etis-framework/etis"
+repository-artifact: "https://github.com/etis-framework/etis/releases/tag/v1.2.0"
 abstract: >
-  Engineering Trustworthy Intelligent Systems (ETIS) is a practical framework
-  for software engineering, governance, operational trust, repository-centered
-  engineering, and trustworthy intelligent systems in the AI era.
-license: "All Rights Reserved"
+  Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered,
+  evidence-driven engineering framework for building, governing, operating,
+  teaching, and stewarding trustworthy intelligent systems in the AI era. The
+  ETIS ecosystem includes the Two-Volume Edition, Publications Program,
+  Educational Ecosystem, Engineering Platform, professional appendices,
+  downloadable resources, and public repositories.
+keywords:
+  - "software engineering"
+  - "artificial intelligence"
+  - "trustworthy AI"
+  - "AI governance"
+  - "repository-centered engineering"
+  - "evidence-centered engineering"
+  - "operational trust"
+  - "human oversight"
+  - "intelligent systems"
+  - "engineering education"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "O'Connell"
+      given-names: "William T."
+  title: "Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era"
+  publisher:
+    name: "ETIS Framework"
+  year: 2026
+  version: "First Edition"
+  url: "https://etisframework.org"
