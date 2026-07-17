@@ -1,10 +1,120 @@
 # Changelog
 
-All notable changes to the Engineering Trustworthy Intelligent Systems (ETIS) publication ecosystem will be documented in this file.
+All notable changes to the Engineering Trustworthy Intelligent Systems (ETIS) ecosystem are documented in this file.
 
-The format is inspired by Keep a Changelog and adapted for publication, framework, website, and ecosystem releases.
+The format is inspired by *Keep a Changelog* and adapted for framework, publication, educational, platform, website, and ecosystem releases.
 
 ---
+
+## [1.2.0] - July 2026
+
+### Publications and Platform Integration Release
+
+This release transforms ETIS from a book-centered publication site into a complete professional engineering ecosystem.
+
+### Added
+
+#### Publications Program
+
+- ETIS Publications landing page
+- White Paper Series (12 papers)
+- Executive Brief Series (5 briefs)
+- Education Paper Series (5 papers)
+- Canonical publication landing pages
+- Publication metadata, citation guidance, and version history
+- Role-based reading paths
+- Publication PDF integration
+
+#### Engineering Platform
+
+- Platform gateway on the ETIS Framework website
+- Companion Engineering Platform integration
+- Starter Kit repository integration
+- Explore / Launch / Browse navigation model
+- Starter Kit download integration
+
+#### Website
+
+- Homepage integration of Publications and Platform
+- Platform overview section
+- Updated Resource Center
+- Updated ETIS Library
+- Updated About pages
+- Updated Framework pages
+- Updated Educational Ecosystem pages
+- Updated Appendices landing page
+- Updated navigation architecture
+- Publications integrated throughout the website
+
+#### Repository
+
+- Repository documentation modernized
+- README updated to reflect the complete ETIS ecosystem
+- Roadmap updated to reflect completed ecosystem architecture
+- License updated to reflect the expanded ETIS intellectual property portfolio and AI training restrictions
+- Release documentation aligned with the v1.2.0 architecture
+
+### Changed
+
+- Clarified the distinction between Publications and Downloads.
+- Established the Platform gateway as the canonical entry point to the companion Engineering Platform.
+- Standardized external navigation using the Explore / Launch ↗ / Browse Repository ↗ convention.
+- Updated ecosystem terminology throughout the public website.
+
+### Fixed
+
+- Corrected Platform download links.
+- Corrected publication cross-links.
+- Corrected MkDocs relative-link issues.
+- Improved navigation consistency across the site.
+
+### Milestone
+
+This release establishes the mature ETIS public ecosystem consisting of:
+
+- ETIS Framework
+- Two-Volume Edition
+- Publications Program
+- Educational Ecosystem
+- Engineering Platform
+- Framework Repository
+- Starter Kit Repository
+- Resource Center
+- Downloads
+- Appendices
+
+---
+
+## [1.1.0] - July 2026
+
+### Ecosystem Expansion Release
+
+### Added
+
+- Two-Volume Edition landing pages
+- Volume reading guidance
+- Expanded downloads architecture
+- Resource Center enhancements
+- Educational Ecosystem integration
+- Initial Platform references
+- Improved website navigation and branding
+- Repository governance improvements
+- GitHub release and versioning model
+- Expanded framework documentation
+
+### Changed
+
+- Reorganized website architecture around the Two-Volume Edition.
+- Improved navigation consistency and discoverability.
+- Expanded educational and framework resources.
+- Strengthened repository documentation and release management.
+
+### Milestone
+
+This release evolved ETIS beyond the initial publication into a broader framework and educational ecosystem, establishing the foundation for the Publications Program and Engineering Platform introduced in v1.2.0.
+
+---
+
 ## [1.0.0] - July 2026
 
 ### First Edition Release
@@ -67,7 +177,7 @@ Initial public release of the ETIS framework and publication ecosystem.
 
 This release establishes the constitutional baseline for:
 
-- The ETIS framework
+- The ETIS Framework
 - The First Edition manuscript
 - The ETIS publication website
 - Publication governance
