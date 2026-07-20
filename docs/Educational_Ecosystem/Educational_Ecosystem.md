@@ -149,6 +149,21 @@ Adoption examples demonstrate ETIS in practice.
 
 ---
 
+## Educational Tooling
+
+The ETIS Educational Ecosystem also includes purpose-built engineering tools that support evidence-centered software engineering education.
+
+These tools complement the publications, products, and Engineering Platform by providing automated repository analysis, engineering review support, and instructor workflow acceleration.
+
+Current tooling includes:
+
+• Instructor Engineering Workbench (Instructor-only)
+• Student Submission Preflight Toolkit
+
+Some educational tools are distributed as public releases while their engineering source repositories remain private in order to preserve educational integrity and assessment effectiveness.
+
+---
+
 ## Instructor Course Package
 
 The Instructor Course Package functions as an educational operating system for teaching ETIS.

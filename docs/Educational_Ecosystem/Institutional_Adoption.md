@@ -73,10 +73,15 @@ The ETIS Educational Ecosystem provides:
 - instructor operating systems;
 - student professional-engineering environments;
 - the Education Paper Series;
+- educational engineering tooling;
 - implementation examples;
 - adoption guidance;
 - long-term stewardship models;
 - the Engineering Platform as a practical project environment.
+
+Educational tooling complements the Engineering Platform by helping instructors evaluate engineering evidence consistently while enabling students to assess repository readiness before formal engineering reviews.
+
+Together, the Platform and educational tooling reinforce repository-centered, evidence-centered engineering without replacing professional judgment.
 
 This allows institutions to adapt ETIS without rebuilding every educational system from scratch.
 

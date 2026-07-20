@@ -48,6 +48,10 @@ Downloads
 ↓
 Portable PDFs, educational products, and repository archives
 
+Educational Engineering Tooling
+↓
+Student and instructor tools that support repository-centered, evidence-centered engineering
+
 Platform Overview
 ↓
 Orientation to the ETIS implementation environment
@@ -245,6 +249,8 @@ Educational products include:
 - ETIS COMP 330 Flagship Implementation Guide.
 
 These products are implementation and adoption resources. They are distinct from the ETIS Education Paper Series, which provides focused professional readings.
+
+The Educational Ecosystem is also supported by complementary educational engineering tooling. These tools extend ETIS educational products by helping students strengthen repository quality and assisting instructors with evidence-centered repository evaluation throughout the engineering lifecycle.
 
 [Explore Educational Products →](../Educational_Ecosystem/Educational_Products.md)
 

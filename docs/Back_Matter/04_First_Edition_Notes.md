@@ -135,13 +135,14 @@ The ecosystem includes:
 - the ETIS Publications Program;
 - the Educational Ecosystem;
 - instructor and student resources;
+- educational engineering tooling that supports repository-centered learning and evidence-centered assessment;
 - the COMP 330/474 flagship implementation;
 - institutional adoption guidance;
 - the ETIS Engineering Platform;
 - public repositories;
 - downloadable products.
 
-These resources help readers move from understanding ETIS to applying, teaching, governing, and stewarding ETIS.
+These resources help readers move from understanding ETIS to applying, teaching, reviewing, governing, and stewarding ETIS. As the ecosystem evolves, complementary educational products and engineering tooling continue to extend the First Edition while remaining grounded in its foundational engineering principles.
 
 ---
 

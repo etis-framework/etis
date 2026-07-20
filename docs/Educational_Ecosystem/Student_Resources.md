@@ -124,6 +124,18 @@ That is where intent, assumptions, decisions, reviews, risks, and release eviden
 
 ---
 
+## Student Engineering Tooling
+
+The ETIS Educational Ecosystem includes engineering tooling that helps students evaluate the quality and completeness of their engineering repositories before formal review.
+
+The ETIS Student Submission Preflight Toolkit analyzes repository organization, engineering evidence, lifecycle readiness, and governance artifacts to help students identify areas that may require additional attention before assignment submission.
+
+The toolkit is intended to strengthen engineering practice—not to replace thoughtful review or engineering judgment. Students remain responsible for the quality, accuracy, and completeness of the work they submit.
+
+Used throughout the semester, the Student Submission Preflight Toolkit encourages continuous repository improvement, reinforces evidence-centered engineering, and helps students prepare for engineering phase-gate reviews.
+
+---
+
 ## Engineering Evidence Package
 
 Student repositories should include evidence such as:
@@ -304,11 +316,12 @@ Students should leave the course with evidence of engineering ability—not only
 2. Understand repository-centered engineering.
 3. Set up the Engineering Platform Project Workspace.
 4. Organize evidence before producing too much code.
-5. Use AI responsibly and visibly.
-6. Preserve decisions, tests, reviews, and release evidence.
-7. Prepare to defend engineering work.
-8. Improve the repository as the project matures.
-9. Translate the evidence into portfolio and interview stories.
+5. Use the Student Submission Preflight Toolkit throughout the project to identify repository gaps and strengthen engineering evidence.
+6. Use AI responsibly and visibly.
+7. Preserve decisions, tests, reviews, and release evidence.
+8. Prepare to defend engineering work.
+9. Improve the repository as the project matures.
+10. Translate the evidence into portfolio and interview stories.
 
 The objective is not to fill folders.
 

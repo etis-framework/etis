@@ -142,6 +142,24 @@ The Platform is distributed as a repository archive because the repository itsel
 
 ---
 
+## July 2026 — Educational Engineering Tooling Released
+
+### Instructor and Student Engineering Tools Introduced
+
+The ETIS Educational Ecosystem now includes complementary engineering tooling that strengthens repository-centered, evidence-centered engineering education.
+
+Two complementary tools extend the Educational Ecosystem:
+
+- **ETIS Instructor Engineering Workbench**, which assists instructors with evidence-centered repository reviews, lifecycle assessment, engineering evidence evaluation, and review consistency across engineering teams.
+
+- **ETIS Student Submission Preflight Toolkit**, which helps engineering teams evaluate repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal engineering review.
+
+These tools complement the Engineering Platform while reinforcing the ETIS principle that engineering judgment remains a human responsibility.
+
+Together, the Framework, Publications, Educational Ecosystem, Engineering Platform, and Educational Engineering Tooling provide a complete professional learning and engineering environment.
+
+---
+
 ## June 2026 — ETIS First Public Release
 
 ### Version 1.0 Public Framework Release

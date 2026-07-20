@@ -20,7 +20,9 @@ The Two-Volume Edition provides its complete treatment.
 Publications provide focused guidance.  
 The Engineering Platform turns ETIS into structured engineering work.
 
-The Platform provides Engineering Stages ES-100 through ES-114, reusable templates, completed LMU/COICP reference examples, governance assets, and a Project Workspace for preserving project-specific engineering evidence.
+The Platform is complemented by ETIS educational tooling that supports engineering practice throughout the lifecycle. While the Platform provides the working environment for creating engineering evidence, complementary instructor and student tools help evaluate repository readiness, engineering evidence, and lifecycle maturity without replacing professional judgment.
+
+The Platform provides Engineering Stages ES-100 through ES-114, reusable templates, completed LMU/COICP reference examples, governance assets, a Project Workspace, and integration with complementary educational tooling that supports evidence-centered engineering throughout the lifecycle.
 
 <div style="margin-top:1rem; margin-bottom:1.5rem;">
 
@@ -63,6 +65,8 @@ It provides a structured environment in which teams can:
 - preserve release and operational evidence;
 - learn from incidents;
 - steward systems after release.
+
+The Platform serves as the engineering workspace. Complementary educational tooling supports engineering review by helping students assess repository readiness before formal evaluation and helping instructors perform consistent evidence-centered repository reviews across engineering teams.
 
 The Platform is designed for real projects, course projects, professional pilots, institutional adoption, and reference implementations.
 
@@ -209,9 +213,13 @@ Within ETIS, governance is architecture.
 
 Use the Platform to practice professional engineering, produce reviewable evidence, use AI responsibly, defend decisions, and build credible portfolio material.
 
+Students may also use the ETIS Student Submission Preflight Toolkit to evaluate repository organization, engineering evidence, governance artifacts, and phase-gate readiness throughout the project lifecycle.
+
 ### Instructors
 
 Use the Platform as a course project environment for staged assignments, phase gates, templates, reviews, release defenses, and professional formation.
+
+Instructors may complement the Platform with the ETIS Instructor Engineering Workbench to review repositories, evaluate engineering evidence, monitor lifecycle progression, and support consistent evidence-centered assessment across multiple engineering teams.
 
 ### Engineering Teams
 
@@ -245,6 +253,9 @@ Provide focused guidance
         ↓
 ETIS Engineering Platform
 Provides the implementation environment
+        ↓
+Educational Tooling
+Supports engineering review, assessment, and continuous improvement
         ↓
 Your Repository
 Preserves project-specific engineering evidence
