@@ -21,7 +21,8 @@ ETIS is organized as a connected professional ecosystem:
 - the **ETIS Two-Volume Book Edition** presents the complete treatment of that discipline;
 - **ETIS Publications** extend the framework through focused, citable papers and executive guidance;
 - the **ETIS Engineering Platform** demonstrates how to apply ETIS;
-- the **Educational Ecosystem** supports teaching, learning, and institutional adoption;
+- the **Educational Ecosystem** supports teaching, learning, institutional adoption, and educational engineering practices;
+- **Educational Engineering Tooling** supports evidence-centered repository review for both instructors and students;
 - the **ETIS Repositories** preserve source, reusable artifacts, and engineering evidence;
 - **Downloads** package selected ETIS products into durable, portable forms.
 
@@ -157,6 +158,14 @@ The ETIS Educational Ecosystem supports instructors, students, universities, pro
 
 The Engineering Platform can serve as the project environment for ETIS-based courses, labs, team projects, and professional formation activities.
 
+The Educational Ecosystem also includes complementary educational engineering tooling.
+
+Students can strengthen repository quality throughout a project using the **ETIS Student Submission Preflight Toolkit**, which evaluates repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal review.
+
+Instructors can perform evidence-centered repository reviews using the **ETIS Instructor Engineering Workbench**, which assists with lifecycle evaluation, engineering evidence assessment, and consistent review across multiple engineering teams.
+
+These tools complement the Engineering Platform while preserving the ETIS principle that engineering judgment remains a human responsibility.
+
 ---
 
 ## Downloads and Offline Products
@@ -221,6 +230,7 @@ New professional resources should extend the ecosystem without duplicating the E
 | **Engineering Platform** | Applies ETIS through stages, templates, examples, governance assets, and workspaces. |
 | **Repositories** | Preserve engineering evidence, decisions, reusable artifacts, and public source materials. |
 | **Education** | Teaches ETIS through courses, instructor resources, student guidance, and adoption models. |
+| **Educational Tooling** | Supports repository analysis, engineering evidence evulation, lifecycle readiness, and educational review workflows. |
 | **Downloads** | Package selected ETIS products into durable, portable editions and archives. |
 | **Resource Center** | Connects users to the right ETIS experience based on their goal. |
 

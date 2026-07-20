@@ -196,6 +196,7 @@ The ecosystem includes:
 - **ETIS Publications**, which extend the framework through focused, citable white papers, executive briefs, and education papers;
 - the **ETIS Engineering Platform**, introduced through the [Platform Overview](../Platform/Platform.md), which demonstrates how to apply ETIS;
 - the **Educational Ecosystem**, which supports teaching, learning, and institutional adoption;
+- **Educational Products and Tooling**, which provide reusable guides, instructor resources, student resources, and engineering tools that operationalize ETIS educational practices;
 - the **ETIS Repositories**, which preserve public source, reusable artifacts, and engineering evidence;
 - and **Downloads**, which package selected ETIS products into durable, portable forms.
 
@@ -249,7 +250,8 @@ ETIS is expressed publicly through several connected forms:
 - **The ETIS Two-Volume Edition** provides the complete professional treatment of the framework.
 - **ETIS Publications** provide focused, citable treatments of major ideas and decisions.
 - **The Educational Ecosystem** turns ETIS into teachable and adoptable resources.
-- **The Platform Overview** introduces the implementation environment and explains how to begin.
+- **Educational Products and Tooling** operationalize those resources for instructors, students, and institutional adopters.
+- **The Platform Overview** introduces the implementation environment...
 - **The Engineering Platform** turns framework doctrine into staged engineering practice.
 - **The repository model** preserves engineering evidence, source, and continuity.
 - **Downloads** provide durable offline editions and packaged resources.

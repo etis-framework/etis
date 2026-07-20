@@ -269,11 +269,34 @@ The Engineering Platform can support:
 
 The Platform should be adapted to the course rather than treated as a rigid compliance system.
 
+The Engineering Platform supports student engineering work, while complementary educational tooling supports instructor review and assessment. Together they create a consistent repository-centered engineering workflow from project initiation through engineering evaluation.
+
 [Explore the Platform Overview →](../Platform/Platform.md)
 
 [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
 [Browse the Starter Kit Repository ↗]((https://github.com/etis-framework/etis-starter-kit)
+
+---
+
+## Instructor Engineering Tooling
+
+The ETIS Educational Ecosystem includes engineering tooling that helps instructors evaluate engineering work while preserving professional judgment.
+
+The ETIS Instructor Engineering Workbench supports repository-centered, evidence-centered assessment by providing a structured environment for reviewing engineering repositories across the lifecycle.
+
+The Workbench is designed to assist—not replace—instructor evaluation. It helps instructors:
+
+- review repository organization and engineering evidence;
+- evaluate lifecycle and phase-gate readiness;
+- analyze engineering artifacts across assignments;
+- identify evidence gaps and areas requiring additional review;
+- support consistent evaluation across multiple engineering teams;
+- preserve instructional continuity across course offerings.
+
+The Workbench complements the Engineering Platform by providing an instructor-focused review environment while maintaining the ETIS principle that engineering judgment remains a human responsibility.
+
+The Instructor Engineering Workbench is provided to instructors and educational stewards as part of the ETIS Educational Ecosystem.
 
 ---
 

@@ -29,7 +29,7 @@ hide:
       </p>
 
       <p class="etis-hero-education-text">
-        An educational ecosystem, professional publication program, and open Engineering Platform help students, engineers, leaders, and organizations learn and apply ETIS.
+        The ETIS ecosystem provides the publications, educational resources, Engineering Platform, and engineering tools needed to put ETIS into practice.
       </p>
 
       <p class="etis-hero-copy-text etis-hero-action-statement">
@@ -246,7 +246,8 @@ hide:
 <section class="etis-repo-section">
   <div class="etis-repo-inner">
     <h2>Applying ETIS Through the Engineering Platform</h2>
-    <p>The Framework defines the engineering discipline. The Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference implementations, governance assets, and project workspaces.</p>
+    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference implementations, governance assets, and project workspaces.<p>
+    <p>Complementary educational engineering tooling further supports repository-centered engineering by helping students strengthen engineering repositories before formal review and helping instructors perform consistent evidence-centered engineering evaluations.<p>
 
     <div class="etis-capability-row">
       <div><span>①</span><strong>Stages</strong><small>ES-100 through ES-114 guide lifecycle work.</small></div>
@@ -289,7 +290,7 @@ hide:
     <span>▱</span>
     <div>
       <strong>Education</strong>
-      <small>Courses, students, instructors, and adoption guidance</small>
+      <small>Courses, educational products, engineering tools, and adoption guidance</small>
     </div>
   </a>
 

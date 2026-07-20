@@ -254,6 +254,28 @@ Open PDF
 
 ---
 
+## Educational Engineering Tooling
+
+The ETIS Educational Ecosystem includes complementary engineering tools that reinforce repository-centered, evidence-centered software engineering education.
+
+These tools support continuous engineering improvement throughout the lifecycle while preserving professional engineering judgment.
+
+### ETIS Student Submission Preflight Toolkit
+
+The Student Submission Preflight Toolkit helps engineering teams evaluate repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal engineering reviews.
+
+The toolkit is intended to strengthen engineering practice throughout the project rather than function solely as a final submission checker.
+
+### ETIS Instructor Engineering Workbench
+
+The Instructor Engineering Workbench supports evidence-centered repository review across multiple engineering teams.
+
+It assists instructors with lifecycle assessment, engineering evidence evaluation, repository analysis, and instructional consistency while preserving instructor judgment.
+
+The Workbench is provided to instructors and institutional adopters as part of the ETIS Educational Ecosystem.
+
+---
+
 ## Engineering Platform Starter Kit
 
 The ETIS Engineering Platform is a working engineering environment, not a static publication. Its downloadable form is therefore the repository archive.

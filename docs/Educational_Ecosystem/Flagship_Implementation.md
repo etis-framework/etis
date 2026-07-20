@@ -194,11 +194,23 @@ The tool can change.
 
 The engineering behavior must endure.
 
+Within the flagship implementation, repository quality is reinforced through complementary educational tooling. Students evaluate their repositories prior to submission using the Student Submission Preflight Toolkit, while instructors perform evidence-centered repository reviews using the Instructor Engineering Workbench.
+
+These tools improve visibility, consistency, and engineering feedback. They do not replace professional review, engineering judgment, or instructor oversight.
+
 ---
 
 ## Engineering Platform Connection
 
 The Engineering Platform gives teams a repeatable lifecycle and evidence architecture.
+
+The Platform is complemented by ETIS educational tooling that supports both instructors and students throughout the engineering lifecycle.
+
+Students use the ETIS Student Submission Preflight Toolkit to evaluate repository completeness, engineering evidence, governance artifacts, and phase-gate readiness before submitting assignments.
+
+Instructors use the ETIS Instructor Engineering Workbench to review repositories, analyze engineering evidence, assess lifecycle maturity, and support consistent evidence-centered evaluation across multiple engineering teams.
+
+Together, the Platform and educational tooling reinforce repository-centered engineering while preserving the principle that engineering judgment always remains a human responsibility.
 
 Students can:
 

@@ -15,7 +15,9 @@ hide:
 
 ETIS is a repository-centered engineering ecosystem.
 
-The public ecosystem is intentionally organized around two repositories with different responsibilities:
+The public ETIS ecosystem is organized around two primary public repositories that are complemented by specialized educational and operational repositories.
+
+The public repositories define and operationalize the ETIS Framework. Specialized repositories support educational engineering tooling and future ETIS capabilities while remaining aligned with the same repository-centered engineering principles.
 
 - the **ETIS Framework Repository** defines, publishes, and preserves the ETIS body of knowledge;
 - the **ETIS Engineering Platform Starter Kit Repository** operationalizes ETIS through stages, templates, examples, governance assets, and project workspaces.
@@ -127,6 +129,8 @@ ETIS Engineering Platform and Starter Kit Repository
 ```
 
 The repositories complement each other without duplicating their primary responsibilities.
+
+The two public repositories form the foundation of the ETIS ecosystem. Additional specialized repositories may support educational tooling, instructor resources, student engineering workflows, and future professional capabilities while preserving clear separation of responsibilities and release models.
 
 ---
 
@@ -240,6 +244,16 @@ The public repository ecosystem follows several principles:
 4. **Repository-centered evidence** — requirements, decisions, reviews, AI use, verification, release, operations, and stewardship remain inspectable.
 5. **Reusable structure** — templates and examples support adoption without replacing engineering judgment.
 6. **Public maintainability** — navigation, source organization, and publication assets should remain understandable as the ecosystem grows.
+
+---
+
+## Specialized Repository Components
+
+As the ETIS ecosystem evolves, specialized repositories may be used to support educational engineering tooling and other focused capabilities.
+
+These repositories allow individual components to evolve independently while remaining aligned with ETIS engineering doctrine, repository-centered engineering, and evidence-centered engineering principles.
+
+Some specialized repositories may be distributed differently from the public framework repositories to preserve instructional integrity, support institutional deployment, or simplify lifecycle management.
 
 ---
 

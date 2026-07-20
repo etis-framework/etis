@@ -15,7 +15,7 @@ hide:
 
 ETIS Educational Products transform educational doctrine into complete, reusable implementation resources for instructors, students, institutions, and adopters.
 
-These products support course design, facilitation, professional student development, institutional adoption, and long-term educational stewardship.
+These products support course design, facilitation, professional student development, educational engineering tooling, institutional adoption, and long-term educational stewardship.
 
 They are distinct from the ETIS Education Paper Series:
 
@@ -163,6 +163,34 @@ They are designed to:
    href="../../downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf">
    Open PDF
 </a>
+
+</div>
+
+---
+
+## Educational Engineering Tooling
+
+The ETIS Educational Ecosystem includes purpose-built engineering tools that complement the publications, educational products, and Engineering Platform.
+
+These tools support evidence-centered software engineering education by helping instructors evaluate repository maturity and helping students assess repository readiness before formal engineering reviews.
+
+Some educational tools are distributed as public releases while their engineering source repositories remain private to preserve educational integrity and assessment effectiveness.
+
+---
+
+<div class="etis-download-panel">
+
+<h3>ETIS Student Submission Preflight Toolkit</h3>
+
+<p>Repository analysis toolkit that helps students evaluate engineering evidence, repository completeness, lifecycle readiness, and governance artifacts before assignment submission.</p>
+
+</div>
+
+<div class="etis-download-panel">
+
+<h3>ETIS Instructor Engineering Workbench</h3>
+
+<p>Instructor-only repository review environment supporting engineering evidence analysis, assignment assessment, longitudinal team review, and AI-assisted instructional workflows.</p>
 
 </div>
 
