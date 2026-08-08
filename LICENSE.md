@@ -4,7 +4,7 @@ Copyright © 2026 William T. O'Connell
 
 All Rights Reserved.
 
-This repository contains the ETIS Framework website, the *Engineering Trustworthy Intelligent Systems (ETIS)* Two-Volume Edition, the ETIS Publications Program, the Educational Ecosystem, appendices, public framework resources, website assets, downloads, and related intellectual property associated with the ETIS Framework ("ETIS").
+This repository contains the ETIS Framework website; the *Engineering Trustworthy Intelligent Systems* Framework Reference Work and its Two-Volume Professional Edition; ETIS Professional Computing Series materials; the ETIS Publications Program; the Educational Ecosystem; appendices; public framework resources; website assets; downloads; and related intellectual property associated with the ETIS ecosystem ("ETIS").
 
 This repository serves as the authoritative public source for the ETIS Framework. The companion ETIS Engineering Platform Starter Kit is maintained in a separate repository and is governed by its own license terms.
 
@@ -13,7 +13,9 @@ Except as permitted by applicable copyright law, no part of this repository may 
 The following materials are protected by copyright and are included within this restriction:
 
 - ETIS Framework content
-- Two-Volume Edition
+- *Engineering Trustworthy Intelligent Systems* Framework Reference Work
+- ETIS Two-Volume Professional Edition
+- ETIS Professional Computing Series works and associated materials
 - Manuscript and chapter content
 - Front matter and back matter
 - ETIS White Papers
@@ -52,7 +54,7 @@ Permission is not granted to:
 - Sell, license, or commercially exploit repository content.
 - Use any portion of this repository to train, fine-tune, evaluate, benchmark, or otherwise improve machine learning or artificial intelligence models without prior written permission from the copyright holder.
 
-The names **Engineering Trustworthy Intelligent Systems**, **ETIS**, associated logos, and branding may not be used to imply endorsement, affiliation, certification, or sponsorship without written permission from the author.
+The names **Engineering Trustworthy Intelligent Systems**, **ETIS**, **ETIS Professional Computing Series**, associated logos, and branding may not be used to imply endorsement, affiliation, certification, or sponsorship without written permission from the author.
 
 Requests for permissions, licensing inquiries, translation rights, educational use beyond fair use, or commercial use should be directed to the copyright holder.
 
@@ -60,4 +62,4 @@ THE MATERIALS IN THIS REPOSITORY ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KI
 
 This license applies only to the contents of this repository. The ETIS Engineering Platform Starter Kit repository is governed by its own separate license.
 
-This license statement may be revised as the ETIS Framework, Publications Program, Educational Ecosystem, Engineering Platform, and related repositories evolve. Unless otherwise stated in writing, all rights remain reserved by the copyright holder.
+This license statement may be revised as the ETIS Framework, Framework Reference Work, Professional Computing Series, Publications Program, Educational Ecosystem, Engineering Platform, and related repositories evolve. Unless otherwise stated in writing, all rights remain reserved by the copyright holder.

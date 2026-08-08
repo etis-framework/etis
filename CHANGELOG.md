@@ -6,6 +6,44 @@ The format is inspired by *Keep a Changelog* and adapted for framework, publicat
 
 ---
 
+## [Unreleased] - August 2026
+
+### Books and Publishing Architecture
+
+This update expands the ETIS publishing architecture while preserving *Engineering Trustworthy Intelligent Systems* as the foundational ETIS Framework Reference Work.
+
+### Added
+
+- ETIS Books landing architecture
+- ETIS Framework Reference Work publishing page
+- ETIS Professional Computing Series
+- *From Data Structures to Engineering Judgment: Professional Computing in the AI Era* as the inaugural Professional Computing Series title
+- Book companion-resources and updates/errata structure
+- Framework and Professional Computing book-cover integration
+- Cross-site Books discovery from Publications, Education, About, Resources, and supporting pages
+
+### Changed
+
+- Clarified *Engineering Trustworthy Intelligent Systems* as the **ETIS Framework Reference Work**.
+- Clarified the **ETIS Two-Volume Professional Edition** as the two-volume publishing form of one integrated Framework Reference Work rather than a separate book series.
+- Distinguished the **ETIS Professional Computing Series** from the focused ETIS Publications Program.
+- Updated Downloads, Publications, Educational Ecosystem, Engineering Platform, About, Author, First Edition, Legal, and homepage terminology to reflect the expanded publishing architecture.
+- Preserved Publications as a separate program for White Papers, Executive Briefs, and Education Papers.
+- Preserved the Engineering Platform as the practical implementation environment for the ETIS Framework.
+- Updated repository-level documentation to reflect the Books architecture.
+
+### Fixed
+
+- Corrected and normalized internal MkDocs link handling where needed.
+- Corrected malformed or inconsistent internal links discovered during the publishing-architecture review.
+- Clarified ambiguous “Complete Book” homepage language as “Full Framework.”
+
+### Release Note
+
+These changes are currently recorded as **Unreleased**. The latest tagged repository release remains **v1.2.0** until a new release is formally created.
+
+---
+
 ## [1.2.0] - July 2026
 
 ### Publications and Platform Integration Release
@@ -73,7 +111,7 @@ This release transforms ETIS from a book-centered publication site into a comple
 This release establishes the mature ETIS public ecosystem consisting of:
 
 - ETIS Framework
-- Two-Volume Edition
+- ETIS Framework Reference Work and Two-Volume Professional Edition
 - Publications Program
 - Educational Ecosystem
 - Engineering Platform
