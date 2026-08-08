@@ -22,7 +22,7 @@ Research-informed perspectives for engineers, technology leaders, educators, stu
 </div>
 
 !!! info "The ETIS Publication Program"
-    The ETIS publication program connects industry direction, engineering discipline, executive decision-making, and professional education. Together, the three publication series provide focused entry points into the ideas, practices, and governance models developed across the ETIS ecosystem.
+    The ETIS publication program connects industry direction, engineering discipline, executive decision-making, and professional education. Together, the three publication series provide focused, citable entry points into the ideas, practices, and governance models developed across the ETIS ecosystem. They complement—but do not replace—the ETIS Framework Reference Work, the ETIS Professional Computing Series, or the Engineering Platform.
 
 ## Three Publication Series
 
@@ -116,16 +116,18 @@ Research-informed perspectives for engineers, technology leaders, educators, stu
 
 ## How Publications Fit Within ETIS
 
-The publication program is one part of a larger engineering knowledge platform:
+The publication program is one part of a larger engineering knowledge and practice ecosystem:
 
-- **The ETIS Framework** defines the principles, controls, and engineering model.
-- **The ETIS books** provide the comprehensive treatment of software engineering, governance, operations, oversight, and stewardship.
-- **The ETIS Engineering Platform** turns the framework into a navigable engineering system.
-- **The Engineering Platform Starter Kit** provides a reusable repository-centered implementation baseline.
-- **Education resources** support instructors, students, academic programs, and professional development.
-- **Publications** provide focused, citable treatments of major ideas, decisions, and emerging directions.
+- **The ETIS Framework Reference Work, _Engineering Trustworthy Intelligent Systems_,** defines the comprehensive full-lifecycle engineering discipline for software and intelligent systems in the AI era. Its **Two-Volume Professional Edition** presents that integrated work in two volumes.
+- **The ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the teaching vehicle for developing engineering judgment.
+- **ETIS Publications** provide focused, citable treatments of major ideas, decisions, professional practices, and emerging directions through the White Paper, Executive Brief, and Education Paper series.
+- **The ETIS Engineering Platform** turns framework doctrine into staged, repository-centered engineering work.
+- **The Engineering Platform Starter Kit** provides a reusable implementation baseline for project startup and adoption.
+- **The Educational Ecosystem** supports instructors, students, academic programs, professional formation, and institutional adoption.
 
-Publications do not replace the books, framework, or platform. They provide concise entry points and focused arguments that connect readers to the broader ETIS ecosystem.
+The roles are complementary. The Framework Reference Work provides the comprehensive lifecycle treatment. The Professional Computing Series develops sustained professional formation. Publications provide focused arguments and guidance. The Platform supports application and evidence-producing engineering work.
+
+[Explore ETIS Books →](..//Books/index.md)
 
 ## Authoritative Editions and Citation
 
@@ -133,6 +135,7 @@ Each publication has a permanent webpage for discovery, metadata, citation, vers
 
 <div class="publication-actions publication-actions--footer">
   <a class="md-button" href="citations/">Citation &amp; Version Information</a>
+  <a class="md-button" href="/Books/">Explore ETIS Books</a>
   <a class="md-button" href="../Framework/ETIS_Framework/">Explore the ETIS Framework</a>
   <a class="md-button" href="https://platform.etisframework.org">Open the Engineering Platform</a>
 </div>

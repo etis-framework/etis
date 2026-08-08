@@ -4,7 +4,7 @@ hide:
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="../../assets/etis-logo.svg"
+  <img src="/assets/etis-logo.svg"
        alt="ETIS"
        style="width:320px; max-width:60%; height:auto;">
 </div>
@@ -13,14 +13,14 @@ hide:
 
 **Curated offline products for reading, teaching, adoption, and project startup**
 
-The ETIS Downloads area provides durable, portable products derived from the ETIS Framework, Educational Ecosystem, and Engineering Platform.
+The ETIS Downloads area provides durable, portable products derived from the ETIS Framework, ETIS Books, Educational Ecosystem, and Engineering Platform.
 
 Downloads are intentionally curated. They are not internal directory exports, and they do not replace the canonical website experiences.
 
 !!! info "Looking for ETIS papers and executive guidance?"
     Browse [ETIS Publications](../publications/index.md) for white papers, executive briefs, education papers, reading paths, citation information, version history, and access to each authoritative PDF edition.
 
-**Publications support discovery, reading, citation, and focused guidance. Downloads package books, educational products, archives, and selected implementation resources for offline use.**
+**Publications support discovery, reading, citation, and focused guidance. Downloads package ETIS books, educational products, archives, and selected implementation resources for offline use.**
 
 ---
 
@@ -28,10 +28,11 @@ Downloads are intentionally curated. They are not internal directory exports, an
 
 | Need | Best destination |
 |---|---|
-| Read the complete ETIS book online | [Read ETIS Online](../Front_Matter/01_Title_Page.md) |
+| Read the complete ETIS Framework Reference Work online | [Read ETIS Online](../Front_Matter/01_Title_Page.md) |
+| Explore ETIS books and the Professional Computing Series | [ETIS Books](../Books/index.md) |
 | Explore white papers, executive briefs, or education papers | [ETIS Publications](../publications/index.md) |
 | Find a role-based publication sequence | [Publication Reading Paths](../publications/reading-paths.md) |
-| Download book PDFs | Book Editions below |
+| Download ETIS book PDFs | Book Editions below |
 | Download instructor or student products | Educational Products below |
 | Apply ETIS online | [ETIS Engineering Platform](https://platform.etisframework.org) |
 | Download the working Starter Kit repository | Engineering Platform Starter Kit below |
@@ -40,25 +41,33 @@ Downloads are intentionally curated. They are not internal directory exports, an
 
 ## Book Editions
 
-### Complete First Edition
+ETIS has two complementary long-form publishing roles.
 
-The complete first edition of *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* in one portable PDF.
+The **ETIS Framework Reference Work, _Engineering Trustworthy Intelligent Systems_**, is the foundational professional work of the ETIS ecosystem. It provides the comprehensive treatment of software engineering, governance, operational trust, human oversight, and long-term stewardship in the AI era.
+
+The **ETIS Professional Computing Series** develops durable professional capabilities aligned with that framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the teaching vehicle for developing engineering judgment.
+
+[Explore ETIS Books →](../Books/index.md)
+
+### Complete First Edition — Single PDF
+
+The complete First Edition of *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* is available as one portable PDF for offline reading, archiving, teaching preparation, and professional reference.
 
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/ETIS_First_Edition_Full.pdf"
+   href="/downloads/ETIS_First_Edition_Full.pdf"
    download>
 Download Complete PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/ETIS_First_Edition_Full.pdf">
+   href="/downloads/ETIS_First_Edition_Full.pdf">
 Open PDF
 </a>
 
 <a class="md-button"
-   href="../Front_Matter/01_Title_Page.md">
+   href="/Front_Matter/01_Title_Page/">
 Read Online
 </a>
 
@@ -68,27 +77,63 @@ Read Online
 
 ## Two-Volume Professional Edition
 
-The two-volume edition improves readability and physical usability while preserving ETIS as one integrated framework.
+*Engineering Trustworthy Intelligent Systems* is one integrated framework presented in two professional volumes for readability, teaching, reference, and sustained professional use.
+
+<div style="
+  display:grid;
+  grid-template-columns:repeat(2,minmax(150px,210px));
+  justify-content:center;
+  gap:1.5rem;
+  width:100%;
+  max-width:450px;
+  margin:1.5rem auto 1rem auto;
+">
+
+  <a href="/Volumes/Volume_I/" style="display:block;">
+    <img src="/assets/books/etis-framework/volume-1-cover.png"
+         alt="Engineering Trustworthy Intelligent Systems Volume I cover"
+         style="display:block; width:100%; height:auto; margin:0; border:1px solid #d9d9d9; box-shadow:0 10px 28px rgba(0,0,0,.13); border-radius:.25rem;">
+  </a>
+
+  <a href="/Volumes/Volume_II/" style="display:block;">
+    <img src="/assets/books/etis-framework/volume-2-cover.png"
+         alt="Engineering Trustworthy Intelligent Systems Volume II cover"
+         style="display:block; width:100%; height:auto; margin:0; border:1px solid #d9d9d9; box-shadow:0 10px 28px rgba(0,0,0,.13); border-radius:.25rem;">
+  </a>
+
+</div>
+
+<p style="text-align:center; margin:.2rem 0 1.5rem 0;">
+  <strong>ETIS Two-Volume Professional Edition</strong><br>
+  <span style="font-size:.92rem;">One integrated framework. Two lifecycle movements.</span>
+</p>
+
+<div style="text-align:center; margin:-.3rem 0 1.5rem 0;">
+  <a class="md-button" href="/Books/ETIS_Framework_Reference/">Explore the Framework Reference Work</a>
+  <a class="md-button" href="/Volumes/ETIS_Two_Volume_Edition/">Explore the Two-Volume Edition</a>
+</div>
 
 ### Volume I
 
 **Foundations, Engineering Practices, and System Construction**
 
+Volume I carries the engineering lifecycle from foundations and intent through requirements, architecture, construction, AI-assisted implementation, independent verification, release readiness, and release defense.
+
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/ETIS_Volume_1_Paperback.pdf"
+   href="/downloads/ETIS_Volume_1_Paperback.pdf"
    download>
 Download Volume I
 </a>
 
 <a class="md-button"
-   href="../../downloads/ETIS_Volume_1_Paperback.pdf">
+   href="/downloads/ETIS_Volume_1_Paperback.pdf">
 Open PDF
 </a>
 
 <a class="md-button"
-   href="../Volumes/Volume_I.md">
+   href="/Volumes/Volume_I/">
 Explore Volume I
 </a>
 
@@ -98,30 +143,90 @@ Explore Volume I
 
 **Operations, Governance, Oversight, and Stewardship**
 
+Volume II continues the lifecycle into sustained operation, observability, reliability, security, governance, human oversight, incident learning, organizational trust, and long-term stewardship.
+
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/ETIS_Volume_2_Paperback.pdf"
+   href="/downloads/ETIS_Volume_2_Paperback.pdf"
    download>
 Download Volume II
 </a>
 
 <a class="md-button"
-   href="../../downloads/ETIS_Volume_2_Paperback.pdf">
+   href="/downloads/ETIS_Volume_2_Paperback.pdf">
 Open PDF
 </a>
 
 <a class="md-button"
-   href="../Volumes/Volume_II.md">
+   href="/Volumes/Volume_II/">
 Explore Volume II
 </a>
 
 </div>
 
 !!! note "Professionally printed editions"
-    The ETIS two-volume series is also available through Amazon in paperback and hardcover formats.
+    The **ETIS Two-Volume Professional Edition** is also available through Amazon in paperback and hardcover formats. Volume I and Volume II are complementary parts of one integrated Framework Reference Work, not separate works in a book series.
 
-[View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+[View the ETIS Two-Volume Professional Edition on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+
+---
+
+## ETIS Professional Computing Series
+
+The **ETIS Professional Computing Series** develops the professional judgment required to understand, verify, build, operate, and steward trustworthy systems in the AI era.
+
+### Book 1 — From Data Structures to Engineering Judgment
+
+*Professional Computing in the AI Era*  
+**William T. O'Connell, Ph.D.**
+
+<div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin:1rem 0 1.5rem 0;">
+  <div style="flex:0 0 190px;">
+    <a href="/Books/engineering-judgment/" style="display:block;">
+      <img src="/assets/books/engineering-judgment/front-cover.png"
+           alt="Front cover of From Data Structures to Engineering Judgment"
+           style="display:block; width:190px; max-width:100%; height:auto; margin:0; border:1px solid #d9d9d9; box-shadow:0 10px 30px rgba(0,0,0,.12); border-radius:.25rem;">
+    </a>
+  </div>
+  <div style="flex:1 1 320px; min-width:280px;">
+    <p style="margin-top:0;">The inaugural title uses data structures and algorithms as the <strong>teaching vehicle</strong> for developing engineering judgment about representation, evidence, tradeoffs, system consequences, AI-assisted engineering, verification, and professional responsibility. It is intentionally not a conventional data structures textbook, Java programming guide, or algorithms reference.</p>
+
+    <p><strong>Edition:</strong> First Edition · 2026<br>
+    <strong>ETIS website PDF:</strong> Free download<br>
+    <strong>Amazon:</strong> Coming soon<br>
+    <strong>ISBN:</strong> Coming soon</p>
+  </div>
+</div>
+
+<div style="margin-top:.5rem;">
+
+<a class="md-button md-button--primary"
+   href="/downloads/books/From_Data_Structures_to_Engineering_Judgment_First_Edition_2026.pdf"
+   download>
+Download Free PDF
+</a>
+
+<a class="md-button"
+   href="/downloads/books/From_Data_Structures_to_Engineering_Judgment_First_Edition_2026.pdf">
+Open PDF
+</a>
+
+<a class="md-button"
+   href="/Books/engineering-judgment/">
+Explore Book
+</a>
+
+<a class="md-button"
+   href="/Books/engineering-judgment/companion-resources/">
+Companion Resources
+</a>
+
+</div>
+
+The canonical book page provides publication information, companion resources, updates, and errata. The PDF is the authorized free ETIS website edition; Amazon availability and ISBN information will be added when available.
+
+[Explore the ETIS Professional Computing Series →](../Books/ETIS_Professional_Computing_Series.md)
 
 ---
 
@@ -143,13 +248,13 @@ Educational architecture, learning models, product structure, and adoption frame
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf"
+   href="/downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf"
    download>
 Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf">
+   href="/downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf">
 Open PDF
 </a>
 
@@ -162,13 +267,13 @@ Instructor onboarding, course implementation, and educational operation guidance
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Instructor_Course_Package.pdf"
+   href="/downloads/educational_products/ETIS_Instructor_Course_Package.pdf"
    download>
 Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Instructor_Course_Package.pdf">
+   href="/downloads/educational_products/ETIS_Instructor_Course_Package.pdf">
 Open PDF
 </a>
 
@@ -181,13 +286,13 @@ Classroom execution, facilitation strategy, discussion models, and instructional
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf"
+   href="/downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf"
    download>
 Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf">
+   href="/downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf">
 Open PDF
 </a>
 
@@ -200,13 +305,13 @@ Instructor judgment, teaching memory, stewardship practices, and long-term opera
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Instructor_Handbook.pdf"
+   href="/downloads/educational_products/ETIS_Instructor_Handbook.pdf"
    download>
 Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Instructor_Handbook.pdf">
+   href="/downloads/educational_products/ETIS_Instructor_Handbook.pdf">
 Open PDF
 </a>
 
@@ -219,13 +324,13 @@ Student-facing guidance for professional engineering behavior, AI responsibility
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf"
+   href="/downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf"
    download>
 Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf">
+   href="/downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf">
 Open PDF
 </a>
 
@@ -238,13 +343,13 @@ Loyola University Chicago COMP 330/474 reference implementation and educational 
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf"
+   href="/downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf"
    download>
 Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf">
+   href="/downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf">
 Open PDF
 </a>
 
@@ -293,7 +398,7 @@ The Starter Kit includes:
 <div style="margin-top:.5rem;">
 
 <a class="md-button md-button--primary"
-   href="../../downloads/ETIS_Engineering_Platform_Starter_Kit_v1.0.0.tar.gz"
+   href="/downloads/ETIS_Engineering_Platform_Starter_Kit_v1.0.0.tar.gz"
    download>
 Download Starter Kit
 </a>
@@ -327,11 +432,15 @@ Not every internal ETIS artifact becomes a standalone download.
 
 ## Related Resources
 
+- [ETIS Books](../Books/index.md)
+- [ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md)
+- [ETIS Professional Computing Series](../Books/ETIS_Professional_Computing_Series.md)
+- [From Data Structures to Engineering Judgment](../Books/engineering-judgment/index.md)
 - [ETIS Publications](../publications/index.md)
 - [ETIS Library](ETIS_Library.md)
 - [Resource Center](Resources.md)
 - [ETIS Framework](../Framework/ETIS_Framework.md)
-- [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
+- [ETIS Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md)
 - [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
 - [ETIS Engineering Platform](https://platform.etisframework.org)
 - [Repository Ecosystem](Repository_Ecosystem.md)
@@ -341,6 +450,8 @@ Not every internal ETIS artifact becomes a standalone download.
 ## Bottom Line
 
 The ETIS website provides the authoritative online experiences.
+
+The **ETIS Framework Reference Work** provides the complete professional framework. The **ETIS Professional Computing Series** develops durable engineering judgment aligned with that framework.
 
 Publications provide focused, citable guidance.
 

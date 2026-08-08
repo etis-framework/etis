@@ -13,9 +13,9 @@ hide:
 
 **Engineering Trustworthy Intelligent Systems**
 
-For questions about the ETIS Framework, Publications Program, Two-Volume Edition, Educational Ecosystem, Engineering Platform, corrections, teaching adoption, professional use, or related resources, use the appropriate address below.
+For questions about the ETIS Framework, Framework Reference Work, ETIS Books, Publications Program, Educational Ecosystem, Engineering Platform, corrections, teaching adoption, professional use, or related resources, use the appropriate address below.
 
-## Framework, Website, and Publication Inquiries
+## Framework, Books, Website, and Publication Inquiries
 
 For general questions, website issues, resource questions, errata, corrections, citation questions, version questions, or publication-related inquiries:
 
@@ -31,8 +31,9 @@ For speaking, teaching, academic, professional, consulting, interview, or author
 
 These addresses may be used for:
 
-- questions about the ETIS Framework;
-- suspected errors or corrections;
+- questions about the ETIS Framework or Framework Reference Work;
+- ETIS book, edition, companion-resource, errata, or correction inquiries;
+- suspected website or resource errors;
 - white paper, executive brief, or education paper inquiries;
 - citation and version questions;
 - teaching and course-adoption questions;
@@ -49,11 +50,11 @@ For classroom, institutional, publishing, technical, or professional inquiries, 
 - your name;
 - organization or institution;
 - reason for contact;
-- relevant page, publication identifier, or resource;
+- relevant page, book title and edition, publication identifier, or resource;
 - the issue, question, or requested outcome;
 - any relevant deadline.
 
-For publication corrections, include the publication identifier and version when available.
+For publication corrections, include the publication identifier and version when available. For book corrections or errata, include the book title, edition, and the relevant chapter, section, or page when practical.
 
 ## Response Expectations
 
@@ -74,6 +75,8 @@ The `.com` domain is reserved for brand protection and may redirect to the offic
 Do not send confidential, proprietary, regulated, student-protected, client-sensitive, security-sensitive, export-controlled, or legally privileged information through email unless an appropriate communication channel has first been established.
 
 ETIS is built around responsible engineering and encourages responsible information handling.
+
+For book information, companion resources, and canonical book records, see [ETIS Books](../Books/index.md).
 
 For privacy information, see [Privacy](Privacy.md).
 

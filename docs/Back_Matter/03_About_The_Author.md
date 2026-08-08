@@ -38,7 +38,9 @@ It is not a framework developed from theory alone. It is the synthesis of decade
 * Adjunct faculty at Loyola University Chicago
 * Holder or co-holder of multiple United States patents
 * Published author, conference presenter, keynote speaker, and engineering thought leader
-* Creator of the Engineering Trustworthy Intelligent Systems framework and Publications Program
+* Creator of the Engineering Trustworthy Intelligent Systems framework and author of the ETIS Framework Reference Work
+* Founder of the ETIS Professional Computing Series and author of its inaugural title, *From Data Structures to Engineering Judgment*
+* Creator and steward of the ETIS Publications Program
 
 ---
 
@@ -133,6 +135,27 @@ The framework is not only a publication. It is an active educational approach us
 
 That educational work also informs the ETIS Education Paper Series, which connects software engineering doctrine to teamwork, responsible AI use, portfolio development, professional judgment, and career formation.
 
+His teaching in foundational computing also informs *From Data Structures to Engineering Judgment*, the inaugural title in the ETIS Professional Computing Series. The book uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment rather than treating them only as programming or algorithmic topics.
+
+---
+
+## Books and ETIS Publishing
+
+Dr. O'Connell is the author of the **ETIS Framework Reference Work**, *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. Its **Two-Volume Professional Edition** presents the integrated framework across system construction, release readiness, operations, governance, oversight, and long-term stewardship.
+
+He is also the founder of the **ETIS Professional Computing Series** and author of its inaugural title, *From Data Structures to Engineering Judgment: Professional Computing in the AI Era*.
+
+The two publishing roles are complementary:
+
+- the **Framework Reference Work** defines the comprehensive ETIS engineering discipline across the lifecycle;
+- the **Professional Computing Series** develops enduring professional capabilities aligned with that discipline.
+
+[Explore ETIS Books →](../Books/index.md)
+
+[Explore the Framework Reference Work →](../Books/ETIS_Framework_Reference.md)
+
+[Explore *From Data Structures to Engineering Judgment* →](../Books/engineering-judgment/index.md)
+
 ---
 
 ## Education, Patents, and Publications
@@ -189,7 +212,7 @@ The ETIS framework is his contribution to that professional challenge.
 
 Today, Dr. O'Connell continues to teach, mentor, write, and speak on software engineering, trustworthy intelligent systems, AI-assisted development, engineering governance, operational trust, repository-centered engineering, and the future responsibilities of the trustworthy engineer.
 
-His current work includes stewardship of the ETIS Framework, Two-Volume Edition, Publications Program, Educational Ecosystem, and Engineering Platform.
+His current work includes stewardship of the ETIS Framework and Framework Reference Work, its Two-Volume Professional Edition, the ETIS Professional Computing Series, Publications Program, Educational Ecosystem, and Engineering Platform.
 
 He lives in the Chicago area and continues to work on initiatives that help students, engineers, instructors, and organizations build systems that remain understandable, governable, reviewable, operable, recoverable, accountable, and worthy of trust.
 

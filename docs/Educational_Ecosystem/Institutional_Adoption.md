@@ -56,7 +56,7 @@ The educational challenge is now:
 
 > How do we teach students to create trustworthy systems while using increasingly capable AI?
 
-ETIS helps institutions answer that question through doctrine, educational products, professional readings, implementation examples, repository-centered work, and evidence-based assessment.
+ETIS helps institutions answer that question through the Framework Reference Work, professional computing books, focused publications, educational products, implementation examples, repository-centered work, and evidence-based assessment.
 
 ---
 
@@ -66,8 +66,10 @@ Institutions do not adopt a single course.
 
 They adopt an educational framework.
 
-The ETIS Educational Ecosystem provides:
+The ETIS ecosystem provides complementary layers rather than a single course package:
 
+- the **ETIS Framework Reference Work** for comprehensive full-lifecycle engineering doctrine;
+- the **ETIS Professional Computing Series** for durable professional formation aligned with ETIS;
 - educational philosophy;
 - durable doctrine;
 - instructor operating systems;
@@ -90,11 +92,13 @@ This allows institutions to adapt ETIS without rebuilding every educational syst
 ## ETIS Adoption Model
 
 ```text
-Learn ETIS
+Understand the ETIS Framework Reference Work
+↓
+Review ETIS Books and Professional Formation Resources
 ↓
 Read the Education Papers
 ↓
-Study Educational Products
+Study the Educational Ecosystem and Products
 ↓
 Study the Flagship Implementation
 ↓
@@ -209,9 +213,15 @@ Introduce ETIS doctrine and the AI-era engineering obligation.
 
 Students begin thinking like engineers rather than assignment completers.
 
-### Stage 2 — Professional Orientation
+### Stage 2 — Professional Formation and Orientation
 
-Use the Education Papers to establish expectations for software engineering, teamwork, AI use, portfolios, and professional growth.
+Use ETIS Books and Education Papers where they fit the curriculum. The Professional Computing Series supports longer-form capability development, while the Education Papers establish focused expectations for software engineering, teamwork, AI use, portfolios, and professional growth.
+
+*From Data Structures to Engineering Judgment* can support foundational or intermediate computing courses that want to use data structures and algorithms as a vehicle for developing engineering judgment. It is not a prerequisite for every ETIS implementation.
+
+[Explore ETIS Books →](../Books/index.md)
+
+[Explore the ETIS Professional Computing Series →](../Books/ETIS_Professional_Computing_Series.md)
 
 [Explore the Education Papers →](../publications/education-papers/index.md)
 
@@ -267,17 +277,18 @@ The implementation adapts.
 
 ## Recommended Adoption Path
 
-1. Read the ETIS Framework and Two-Volume Edition.
-2. Review the ETIS Education Papers.
-3. Study the Educational Ecosystem.
-4. Study Instructor Resources.
-5. Study Student Resources.
-6. Review the Educational Products.
-7. Study the COMP 330/474 Flagship Implementation.
-8. Explore the Platform Overview, then launch the Engineering Platform and Starter Kit.
-9. Design and run a bounded pilot.
-10. Collect evidence and improve the next offering.
-11. Establish stewardship for future instructors.
+1. Understand the [ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md) and its full-lifecycle engineering doctrine.
+2. Review [ETIS Books](../Books/index.md) and determine where Professional Computing Series titles can strengthen professional formation.
+3. Review the ETIS Education Papers.
+4. Study the Educational Ecosystem.
+5. Study Instructor Resources.
+6. Study Student Resources.
+7. Review the Educational Products.
+8. Study the COMP 330/474 Flagship Implementation.
+9. Explore the Platform Overview, then launch the Engineering Platform and Starter Kit.
+10. Design and run a bounded pilot.
+11. Collect evidence and improve the next offering.
+12. Establish stewardship for future instructors.
 
 Do not attempt to perfect ETIS before operating it.
 
@@ -289,6 +300,9 @@ Educational systems improve through use.
 
 | Resource | Purpose |
 |---|---|
+| [**ETIS Books**](../Books/index.md) | Long-form framework and professional computing works |
+| [**ETIS Framework Reference Work**](../Books/ETIS_Framework_Reference.md) | Comprehensive full-lifecycle engineering doctrine for software and intelligent systems in the AI era |
+| [**ETIS Professional Computing Series**](../Books/ETIS_Professional_Computing_Series.md) | Professional formation works that develop durable computing judgment aligned with ETIS |
 | **ETIS Education Paper Series** | Professional orientation for students, instructors, and academic programs |
 | **ETIS Educational Ecosystem Guide** | Educational architecture and product overview |
 | **ETIS Instructor Course Package** | Instructor operating system |

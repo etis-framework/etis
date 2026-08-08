@@ -12,8 +12,10 @@ hide:
 # ETIS Publication Reading Paths
 
 <p class="publication-lead">
-The ETIS publication portfolio is designed as a connected body of work. These reading paths help readers enter the program through the sequence most relevant to their role, responsibilities, and goals.
+The ETIS publication portfolio is designed as a connected body of work. These reading paths help readers enter the publication program through the sequence most relevant to their role, responsibilities, and goals.
 </p>
+
+These are **publication reading paths**: they sequence ETIS White Papers, Executive Briefs, and Education Papers. For comprehensive lifecycle treatment and longer-form professional formation, continue into [ETIS Books](../Books/index.md) after or alongside the publication path that best fits your needs.
 
 ## New to ETIS
 
@@ -89,10 +91,20 @@ The ETIS publication portfolio is designed as a connected body of work. These re
 4. [WP-011 — Engineering Trust](white-papers/wp-011.md)
 5. [EB-001 — Why AI Changes Software Governance](executive-briefs/eb-001.md)
 
+## Continue into ETIS Books
+
+The publication paths provide focused entry points. ETIS Books provide the longer-form works that sit beside them in the broader ETIS publishing architecture.
+
+- **For comprehensive full-lifecycle engineering:** continue with the [ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md), *Engineering Trustworthy Intelligent Systems*.
+- **For sustained professional formation:** explore [*From Data Structures to Engineering Judgment*](..//Books/engineering-judgment/index.md), the inaugural title in the ETIS Professional Computing Series. It uses data structures and algorithms as the teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, and professional responsibility.
+
+The books and publications are complementary: publications provide focused arguments and role-based guidance; books provide sustained treatment and professional formation.
+
 ## Explore by Series
 
 <div class="publication-actions publication-actions--footer">
   <a class="md-button md-button--primary" href="../white-papers/">ETIS White Papers</a>
   <a class="md-button" href="../executive-briefs/">Executive Briefs</a>
   <a class="md-button" href="../education-papers/">Education Papers</a>
+  <a class="md-button" href="../Books/index.md">ETIS Books</a>
 </div>

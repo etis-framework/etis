@@ -15,6 +15,9 @@ hide:
 Each ETIS publication has a permanent identifier, a stable public record, an authoritative PDF edition, and a version history. This page explains how to cite, reference, and interpret ETIS publications.
 </p>
 
+!!! info "Scope of this page"
+    This guidance applies to the **ETIS White Paper Series, ETIS Executive Brief Series, and ETIS Education Paper Series**. ETIS books are separate long-form publishing works and use their own edition and bibliographic records. See [ETIS Books](../Books/index.md) for canonical book information.
+
 ## Publication Identifiers
 
 ETIS uses permanent identifiers that are never reused:
@@ -124,6 +127,12 @@ O’Connell, William T. “Repository-Centered Engineering: Why the Repository I
 ## Citing Revised or Superseded Editions
 
 Cite the exact version consulted. When a publication is superseded, use the archived version only when discussing the historical record; otherwise cite the current replacement.
+
+## Books and Long-Form Works
+
+The ETIS Framework Reference Work and ETIS Professional Computing Series are not assigned publication-program identifiers such as `WP-###`, `EB-###`, or `COMP-WP-###`.
+
+For book citations, use the canonical title, edition, author, publication year, ISBN when assigned, and the canonical ETIS book record. Book-specific publication and edition information is maintained in the [ETIS Books area](../Books/index.md).
 
 ## Questions About Citation or Reuse
 

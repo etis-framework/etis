@@ -11,7 +11,7 @@ hide:
 
 # Privacy
 
-_Last updated: July 2026_
+_Last updated: August 2026_
 
 The ETIS website is intended to operate primarily as a static publication and resource site.
 
@@ -23,7 +23,7 @@ The site does not intentionally require reader accounts or collect personal info
 
 ETIS is built around engineering trust.
 
-The website is designed to minimize unnecessary data collection and tracking while providing access to the Framework, Two-Volume Edition, Publications Program, Educational Ecosystem, Engineering Platform, downloads, and repository resources.
+The website is designed to minimize unnecessary data collection and tracking while providing access to the ETIS Framework, Framework Reference Work, ETIS Books, Publications Program, Educational Ecosystem, Engineering Platform, downloads, and repository resources.
 
 Personal information should be collected only when there is a clear, legitimate purpose and an appropriate method for handling it.
 
@@ -72,9 +72,9 @@ Do not send confidential, regulated, student-protected, client-sensitive, securi
 
 ---
 
-## Downloads and Publications
+## Books, Downloads, and Publications
 
-The ETIS website may provide links to PDFs, archives, repositories, and external publication platforms.
+The ETIS website may provide access or links to book pages, PDFs, archives, repositories, and external publication or distribution platforms.
 
 Accessing or downloading these resources may generate standard hosting or provider logs.
 
