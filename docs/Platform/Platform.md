@@ -13,12 +13,9 @@ hide:
 
 **Apply ETIS through staged, repository-centered engineering**
 
-The ETIS Engineering Platform is the practical implementation environment for *Engineering Trustworthy Intelligent Systems*.
+The ETIS Engineering Platform is the practical implementation environment for the ETIS Framework as defined in *Engineering Trustworthy Intelligent Systems*.
 
-The ETIS Framework defines the discipline.  
-The Two-Volume Edition provides its complete treatment.  
-Publications provide focused guidance.  
-The Engineering Platform turns ETIS into structured engineering work.
+The **ETIS Framework Reference Work** provides the comprehensive lifecycle treatment of the discipline. Its **Two-Volume Professional Edition** presents that work in two integrated volumes. **ETIS Publications** provide focused guidance. The **Engineering Platform** turns ETIS doctrine into structured, repository-centered engineering work.
 
 The Platform is complemented by ETIS educational tooling that supports engineering practice throughout the lifecycle. While the Platform provides the working environment for creating engineering evidence, complementary instructor and student tools help evaluate repository readiness, engineering evidence, and lifecycle maturity without replacing professional judgment.
 
@@ -37,7 +34,7 @@ Browse the Starter Kit Repository ↗
 </a>
 
 <a class="md-button"
-   href="../../Resources/download/#engineering-platform-starter-kit">
+   href="/Resources/download/#engineering-platform-starter-kit">
 Download the Starter Kit
 </a>
 
@@ -50,9 +47,9 @@ Download the Starter Kit
 
 ## What the Engineering Platform Is
 
-The Engineering Platform is the implementation companion to ETIS.
+The Engineering Platform is the implementation companion to the ETIS Framework Reference Work.
 
-It is not a replacement for the Framework, the Two-Volume Edition, the Publications Program, or professional judgment.
+It is not a replacement for the Framework Reference Work, the Publications Program, organizational governance, or professional judgment.
 
 It provides a structured environment in which teams can:
 
@@ -242,11 +239,9 @@ Use the Platform as a starting architecture for pilots, adoption programs, inter
 ## Relationship to the ETIS Ecosystem
 
 ```text
-ETIS Framework
-Defines the discipline
-        ↓
-ETIS Two-Volume Edition
-Provides the complete treatment
+ETIS Framework Reference Work
+Engineering Trustworthy Intelligent Systems
+Defines the discipline and comprehensive lifecycle treatment
         ↓
 ETIS Publications
 Provide focused guidance
@@ -257,7 +252,7 @@ Provides the implementation environment
 Educational Tooling
 Supports engineering review, assessment, and continuous improvement
         ↓
-Your Repository
+Project Repository
 Preserves project-specific engineering evidence
 ```
 
@@ -265,11 +260,13 @@ The components are complementary.
 
 | ETIS Component | Primary Question |
 |---|---|
-| **Framework** | What is the ETIS engineering discipline? |
-| **Two-Volume Edition** | How does the complete ETIS lifecycle work? |
-| **Publications** | What focused guidance applies to this role or decision? |
-| **Engineering Platform** | How do we apply ETIS in structured engineering work? |
+| **Framework Reference Work** | What is the ETIS engineering discipline, and how does the full lifecycle fit together? |
+| **Publications** | What focused guidance applies to this role, problem, or decision? |
+| **Engineering Platform** | How do we apply ETIS through structured engineering work? |
+| **Educational Tooling** | How do students and instructors strengthen repository readiness, evidence quality, and review? |
 | **Project Repository** | What evidence shows what our team actually did? |
+
+The **Two-Volume Professional Edition** is the preferred two-volume publishing form of the Framework Reference Work; it is not a separate engineering layer in the ecosystem.
 
 ---
 
@@ -279,8 +276,9 @@ The components are complementary.
 
 1. [What is ETIS?](../Framework/What_is_ETIS.md)
 2. [Why ETIS?](../Framework/Why_ETIS.md)
-3. [Read the Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
-4. Return here and launch the Platform.
+3. [Explore the ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md)
+4. [Explore the Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md)
+5. Return here and launch the Platform.
 
 ### Ready to Start a Project
 
@@ -360,7 +358,7 @@ Browse the Starter Kit Repository ↗
 
 ## Bottom Line
 
-Read the Framework to understand ETIS.
+Read the Framework Reference Work to understand the ETIS discipline and full lifecycle.
 
 Use Publications for focused guidance.
 

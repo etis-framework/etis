@@ -73,32 +73,50 @@ ETIS is grounded in durable engineering principles:
 - **Humans cannot govern what they cannot understand.**
 - **Trustworthiness is accumulated, not declared.**
 
-These principles appear throughout the Two-Volume Edition, Publications Program, appendices, Educational Ecosystem, Engineering Platform, and repository resources.
+These principles appear throughout the ETIS Framework Reference Work, its Two-Volume Professional Edition, the ETIS Professional Computing Series, Publications Program, appendices, Educational Ecosystem, Engineering Platform, and repository resources.
 
 ---
 
-## The ETIS Two-Volume Edition
+## ETIS Books
 
-The ETIS Two-Volume Edition provides the complete professional treatment of the framework.
+ETIS has two complementary long-form publishing roles.
+
+### ETIS Framework Reference Work
+
+*Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* is the foundational reference work of the ETIS ecosystem. It provides the comprehensive full-lifecycle treatment of the framework—from intent, requirements, architecture, construction, AI-assisted engineering, verification, and release readiness through operations, security, governance, human oversight, organizational learning, operational trust, and long-term stewardship.
+
+Its **ETIS Two-Volume Professional Edition** presents the integrated work in two volumes:
 
 | Volume | Focus |
 |---|---|
 | **Volume I — Foundations, Engineering Practices, and System Construction** | Foundations, requirements, architecture, planning, AI-assisted implementation, reviews, verification, release readiness, and release defense |
 | **Volume II — Operations, Governance, Oversight, and Stewardship** | Operations, observability, security, reliability, AI governance, human oversight, incident learning, organizational trust, and stewardship |
 
-The volumes are not separate works. They are two movements in one engineering journey.
+The volumes are not separate works. They are two lifecycle movements within one framework reference.
 
-The complete work is available online, as downloadable PDF editions, and in professionally published paperback and hardcover formats.
+[Explore the Framework Reference Work →](Books/ETIS_Framework_Reference.md)
 
-[Read Online →](Front_Matter/01_Title_Page.md)
+[Explore the Two-Volume Professional Edition →](Volumes/ETIS_Two_Volume_Edition.md)
 
-[Explore the Two-Volume Edition →](Volumes/ETIS_Two_Volume_Edition.md)
+[Read ETIS Online →](Front_Matter/01_Title_Page.md)
+
+### ETIS Professional Computing Series
+
+The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, system thinking, and professional responsibility.
+
+The series complements the Framework Reference Work. It does not replace or summarize it.
+
+[Explore ETIS Books →](Books/index.md)
+
+[Explore the Professional Computing Series →](Books/ETIS_Professional_Computing_Series.md)
+
+[Explore *From Data Structures to Engineering Judgment* →](Books/engineering-judgment/index.md)
 
 ---
 
 ## ETIS Publications
 
-The ETIS Publications Program extends the framework through focused, citable works for engineers, executives, educators, students, and institutional leaders.
+The ETIS Publications Program complements the Framework Reference Work and ETIS books through focused, citable works for engineers, executives, educators, students, and institutional leaders.
 
 It includes:
 
@@ -138,11 +156,11 @@ The goal is observable engineering maturity.
 
 ## The ETIS Engineering Platform
 
-The ETIS Engineering Platform is the practical implementation layer of the Framework.
+The ETIS Engineering Platform is the practical implementation environment for the Framework Reference Work.
 
-The Framework defines the discipline.  
+The Framework Reference Work defines the discipline and comprehensive lifecycle treatment.  
 Publications provide focused guidance.  
-The Platform demonstrates how to apply ETIS.
+The Platform turns ETIS doctrine into structured engineering work.
 
 The Platform includes:
 
@@ -226,10 +244,12 @@ It can be applied within waterfall, iterative, agile, hybrid, DevOps, and AI-ass
 | Public Form | Purpose |
 |---|---|
 | **ETIS Framework** | Defines the engineering discipline |
-| **ETIS Two-Volume Edition** | Provides the complete professional treatment |
-| **ETIS Publications** | Extend the framework through focused, citable guidance |
+| **ETIS Framework Reference Work** | Provides the comprehensive full-lifecycle treatment in *Engineering Trustworthy Intelligent Systems* |
+| **ETIS Two-Volume Professional Edition** | Presents the Framework Reference Work in two integrated professional volumes |
+| **ETIS Professional Computing Series** | Develops enduring professional capabilities aligned with ETIS |
+| **ETIS Publications** | Provide focused, citable guidance through White Papers, Executive Briefs, and Education Papers |
 | **Appendices** | Provide detailed professional reference material |
-| **Educational Ecosystem** | Supports teaching, learning, and institutional adoption |
+| **Educational Ecosystem** | Supports teaching, learning, professional formation, and institutional adoption |
 | **Platform Overview** | Introduces the ETIS implementation environment and how to begin |
 | **Engineering Platform** | Companion implementation site for stages, templates, examples, governance assets, and project workspaces |
 | **Resource Center** | Connects users to the right ETIS experience |
@@ -244,13 +264,14 @@ They make it a connected, stewarded engineering ecosystem.
 
 ## Current Status
 
-The ETIS First Edition and public ecosystem are complete and available through:
+The ETIS First Edition and public ecosystem are established and available through:
 
-- the complete online book;
-- the Two-Volume Edition;
+- the complete online Framework Reference Work;
+- the ETIS Two-Volume Professional Edition;
 - paperback and hardcover print editions;
 - downloadable PDF editions;
 - eight appendices;
+- the ETIS Books area and Professional Computing Series;
 - the ETIS Publications Program;
 - the Educational Ecosystem and downloadable educational products;
 - the ETIS Engineering Platform and Starter Kit;

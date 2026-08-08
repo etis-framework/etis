@@ -15,6 +15,8 @@ hide:
 
 This publication represents the First Edition of **Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era**.
 
+It is the foundational **ETIS Framework Reference Work**.
+
 More than a book, this edition establishes the constitutional foundation of the Engineering Trustworthy Intelligent Systems (ETIS) framework.
 
 It introduces a unified engineering discipline connecting software engineering, AI governance, operational trust, repository-centered engineering, human oversight, organizational learning, and long-term stewardship.
@@ -127,11 +129,12 @@ Repository structures will vary across organizations, but the underlying princip
 
 The First Edition launched a connected professional ecosystem rather than a standalone publication.
 
-The ecosystem includes:
+The ecosystem now includes:
 
-- the complete online ETIS book;
-- the ETIS Two-Volume Edition;
+- the complete online ETIS Framework Reference Work;
+- the ETIS Two-Volume Professional Edition;
 - appendices and professional references;
+- the ETIS Professional Computing Series;
 - the ETIS Publications Program;
 - the Educational Ecosystem;
 - instructor and student resources;
@@ -142,7 +145,11 @@ The ecosystem includes:
 - public repositories;
 - downloadable products.
 
-These resources help readers move from understanding ETIS to applying, teaching, reviewing, governing, and stewarding ETIS. As the ecosystem evolves, complementary educational products and engineering tooling continue to extend the First Edition while remaining grounded in its foundational engineering principles.
+The **ETIS Professional Computing Series** is complementary to the First Edition rather than part of the Framework Reference Work itself. Its books develop sustained professional capabilities aligned with ETIS; they do not revise, summarize, or replace the First Edition.
+
+These resources help readers move from professional formation and understanding ETIS to applying, teaching, reviewing, governing, and stewarding ETIS. As the ecosystem evolves, complementary books, publications, educational products, and engineering tooling may extend the broader ETIS ecosystem while remaining grounded in the First Edition's foundational engineering principles.
+
+[Explore ETIS Books →](../Books/index.md)
 
 ---
 
@@ -189,11 +196,11 @@ Additional formats include:
 - paperback editions;
 - hardcover editions.
 
-The print editions are published as a professionally organized two-volume series intended for long-term reference, teaching, and professional use.
+The print editions are published as the **ETIS Two-Volume Professional Edition**, a two-volume presentation of one integrated Framework Reference Work intended for long-term reference, teaching, and professional use.
 
 [Explore the ETIS Library →](../Resources/ETIS_Library.md)
 
-All book formats remain part of the First Edition unless explicitly identified otherwise.
+All formats of *Engineering Trustworthy Intelligent Systems* remain part of the First Edition unless explicitly identified otherwise. Separate ETIS Professional Computing Series titles are independent publishing works with their own edition and bibliographic records.
 
 ---
 
@@ -201,7 +208,7 @@ All book formats remain part of the First Edition unless explicitly identified o
 
 The online website is the authoritative public source for the ETIS ecosystem.
 
-The First Edition book remains stable.
+The First Edition Framework Reference Work remains stable.
 
 Minor corrections may be published through errata or website updates.
 
@@ -212,6 +219,18 @@ Individual ETIS publications maintain their own version histories and citation r
 ETIS values stability over unnecessary change.
 
 Stewardship is often more important than expansion.
+
+---
+
+## Relationship to Later ETIS Books
+
+Later ETIS books may develop professional capabilities, educational formation, or domain-specific practice aligned with the Framework Reference Work.
+
+Those books are part of the broader ETIS publishing ecosystem, but they are not automatically revisions to this First Edition.
+
+A new title in the ETIS Professional Computing Series does not change the doctrine of *Engineering Trustworthy Intelligent Systems*. Substantive changes to the Framework Reference Work belong in a future edition of the Framework Reference Work itself.
+
+[Explore ETIS Books →](../Books/index.md)
 
 ---
 

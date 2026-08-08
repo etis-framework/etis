@@ -23,13 +23,15 @@ Students learn to create trust.
 
 > Educational work should resemble professional engineering work.
 
-The ETIS Two-Volume Edition provides the complete doctrine.
+The **ETIS Framework Reference Work, *Engineering Trustworthy Intelligent Systems***, provides the comprehensive full-lifecycle engineering doctrine.
 
-The Education Papers provide focused professional readings.
+The **ETIS Professional Computing Series** develops enduring professional capabilities through longer-form computing works aligned with that framework.
 
-The Instructor Resources provide the teaching system.
+The **Education Papers** provide focused professional readings.
 
-The ETIS Engineering Platform provides the course project environment through staged lifecycle guidance, reusable templates, LMU/COICP examples, governance assets, and Project Workspaces.
+The **Instructor Resources** provide the teaching system.
+
+The **ETIS Engineering Platform** provides the course project environment through staged lifecycle guidance, reusable templates, LMU/COICP examples, governance assets, and Project Workspaces.
 
 ---
 
@@ -37,6 +39,8 @@ The ETIS Engineering Platform provides the course project environment through st
 
 | Resource | Purpose |
 |---|---|
+| [**ETIS Books**](../Books/index.md) | Full-length framework and professional computing works for curriculum design and professional formation |
+| [**From Data Structures to Engineering Judgment**](../Books/engineering-judgment/index.md) | Use data structures and algorithms as a technical vehicle for developing engineering judgment; especially relevant to foundational and intermediate computing courses |
 | **Instructor Course Package** | Course design, sequencing, assignments, assessment, operations, and stewardship |
 | **Classroom Facilitation Guide** | Discussion, team accountability, AI responsibility, review boards, and release defenses |
 | **Instructor Handbook** | Long-term instructional memory, patterns, judgment, and improvement |
@@ -92,6 +96,24 @@ Improve the next offering
 AI can help students produce more artifacts faster.
 
 ETIS helps instructors teach students how to verify, govern, explain, and own those artifacts.
+
+---
+
+## Using ETIS Books in Curriculum
+
+ETIS Books serve two complementary instructional roles.
+
+The **ETIS Framework Reference Work** gives instructors the comprehensive engineering model: how trustworthy software and intelligent systems are framed, designed, constructed, verified, released, operated, governed, and stewarded over time. It can serve as a reference work, course foundation, or source for lifecycle-specific readings.
+
+The **ETIS Professional Computing Series** develops durable professional capabilities through sustained computing topics aligned with the framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for engineering judgment rather than treating the subject as an end in itself.
+
+That book is particularly relevant to data structures and intermediate computing courses. It is not intended to become a required text for every ETIS course or implementation.
+
+[Explore ETIS Books →](../Books/index.md)
+
+[Explore the ETIS Professional Computing Series →](../Books/ETIS_Professional_Computing_Series.md)
+
+[Explore *From Data Structures to Engineering Judgment* →](../Books/engineering-judgment/index.md)
 
 ---
 
@@ -275,7 +297,7 @@ The Engineering Platform supports student engineering work, while complementary 
 
 [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
-[Browse the Starter Kit Repository ↗]((https://github.com/etis-framework/etis-starter-kit)
+[Browse the Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
 
 ---
 
@@ -377,7 +399,9 @@ Do not remove evidence, reviewability, ownership, or professional defense.
 ## Instructor Adoption Path
 
 ```text
-Discover the Framework
+Discover the Framework Reference Work
+↓
+Review ETIS Books and Professional Formation Resources
 ↓
 Understand the Educational Mission
 ↓

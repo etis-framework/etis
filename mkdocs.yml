@@ -140,6 +140,15 @@ nav:
       - Framework Overview: Framework/ETIS_Framework.md
       - Repository-Centered Engineering: Framework/ETIS_Repository_Centered_Engineering.md
 
+  - Books:
+      - Overview: Books/index.md
+      - Framework Reference Work: Books/ETIS_Framework_Reference.md
+      - Professional Computing Series: Books/ETIS_Professional_Computing_Series.md
+      - From Data Structures to Engineering Judgment:
+          - Book Overview: Books/engineering-judgment/index.md
+          - Companion Resources: Books/engineering-judgment/companion-resources.md
+          - Updates & Errata: Books/engineering-judgment/updates-and-errata.md
+
   - Education:
       - Educational Ecosystem: Educational_Ecosystem/Educational_Ecosystem.md
       - Educational Products: Educational_Ecosystem/Educational_Products.md

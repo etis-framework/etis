@@ -19,6 +19,51 @@ ETIS is a stewarded engineering framework, not a continuously changing software 
 
 ---
 
+## August 2026 — ETIS Books Architecture Expanded
+
+### Framework Reference Work and Professional Computing Series Established
+
+The ETIS website now distinguishes two complementary long-form publishing roles.
+
+The **ETIS Framework Reference Work**, *Engineering Trustworthy Intelligent Systems*, remains the foundational full-lifecycle work of the ETIS ecosystem. Its **Two-Volume Professional Edition** presents the integrated framework in two professional volumes spanning system construction, release readiness, operations, governance, oversight, and long-term stewardship.
+
+The **ETIS Professional Computing Series** provides a separate home for books that develop enduring professional computing capabilities aligned with ETIS.
+
+Its inaugural title is:
+
+**From Data Structures to Engineering Judgment**  
+*Professional Computing in the AI Era*
+
+The book uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, system thinking, and professional responsibility. It is not a conventional data structures textbook, programming guide, or algorithms reference.
+
+[Explore ETIS Books →](Books/index.md)
+
+[Explore the Framework Reference Work →](Books/ETIS_Framework_Reference.md)
+
+[Explore the ETIS Professional Computing Series →](Books/ETIS_Professional_Computing_Series.md)
+
+[Explore *From Data Structures to Engineering Judgment* →](Books/engineering-judgment/index.md)
+
+---
+
+### Books, Downloads, Publications, and Education Aligned
+
+The broader website architecture has been updated so the roles of books, publications, education, downloads, and implementation resources remain distinct and connected.
+
+The publishing model is now explicit:
+
+- **Framework Reference Work** — comprehensive full-lifecycle ETIS treatment;
+- **Two-Volume Professional Edition** — two-volume publishing form of that reference work;
+- **Professional Computing Series** — sustained professional-formation books aligned with ETIS;
+- **Publications Program** — focused, citable White Papers, Executive Briefs, and Education Papers;
+- **Educational Ecosystem** — teaching, learning, tooling, implementation, and adoption guidance;
+- **Engineering Platform** — staged, repository-centered application environment;
+- **Downloads** — curated portable editions and implementation products.
+
+This alignment preserves clear boundaries while making it easier for readers to move from professional formation to framework doctrine, focused guidance, education, and practical application.
+
+---
+
 ## July 2026 — ETIS Publications Program Released
 
 ### Three Coordinated Publication Series
@@ -156,7 +201,7 @@ Two complementary tools extend the Educational Ecosystem:
 
 These tools complement the Engineering Platform while reinforcing the ETIS principle that engineering judgment remains a human responsibility.
 
-Together, the Framework, Publications, Educational Ecosystem, Engineering Platform, and Educational Engineering Tooling provide a complete professional learning and engineering environment.
+Together, the Framework Reference Work, ETIS Books, Publications, Educational Ecosystem, Engineering Platform, and Educational Engineering Tooling form a connected professional learning and engineering environment.
 
 ---
 
@@ -164,7 +209,7 @@ Together, the Framework, Publications, Educational Ecosystem, Engineering Platfo
 
 ### Version 1.0 Public Framework Release
 
-The ETIS First Edition established ETIS as a complete public framework for engineering trustworthy intelligent systems in the AI era.
+The ETIS First Edition established *Engineering Trustworthy Intelligent Systems* as the foundational Framework Reference Work for engineering trustworthy intelligent systems in the AI era.
 
 The release made ETIS available as:
 
@@ -178,16 +223,16 @@ The website remains the authoritative and continuously stewarded public source.
 
 ---
 
-### Two-Volume Edition Released
+### Two-Volume Professional Edition Released
 
 | Volume | Focus |
 |---|---|
 | **Volume I** | Foundations, Engineering Practices, and System Construction |
 | **Volume II** | Operations, Governance, Oversight, and Stewardship |
 
-The Two-Volume Edition improves readability, navigation, and long-term usability while preserving the integrity of the complete framework.
+The Two-Volume Professional Edition improves readability, navigation, and long-term usability while preserving the integrity of the complete Framework Reference Work.
 
-[Explore the Two-Volume Edition →](Volumes/ETIS_Two_Volume_Edition.md)
+[Explore the Two-Volume Professional Edition →](Volumes/ETIS_Two_Volume_Edition.md)
 
 ---
 
@@ -263,7 +308,8 @@ Potential additions include:
 - release and operational-readiness packages;
 - stewardship resources;
 - additional simulations and case studies;
-- future publication series or special reports where a distinct need exists.
+- future ETIS-aligned book titles where a durable long-form need exists;
+- future publication series or special reports where a distinct focused need exists.
 
 ---
 
@@ -281,10 +327,11 @@ Major updates should strengthen the ecosystem without diluting the Framework's c
 
 ## Bottom Line
 
-ETIS has matured from a book into a connected professional engineering ecosystem for the AI era.
+ETIS has matured from a foundational framework reference work into a connected professional engineering ecosystem for the AI era.
 
-The Framework defines the discipline.  
-The Two-Volume Edition provides its complete treatment.  
-Publications extend it.  
-The Engineering Platform applies it.  
-Repositories preserve the source and evidence.
+The Framework Reference Work defines the discipline and comprehensive lifecycle treatment.  
+The Two-Volume Professional Edition presents that work in two integrated volumes.  
+The Professional Computing Series develops enduring professional capabilities aligned with ETIS.  
+Publications provide focused, citable guidance.  
+The Engineering Platform applies ETIS through structured engineering work.  
+Repositories preserve source, decisions, and engineering evidence.

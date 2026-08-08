@@ -31,6 +31,8 @@ The ETIS Engineering Platform provides the practical workspace. Engineering Stag
 
 | Resource | Use It For |
 |---|---|
+| [From Data Structures to Engineering Judgment](../Books/engineering-judgment/index.md) | Develop professional engineering judgment using data structures and algorithms as the technical teaching vehicle |
+| [ETIS Books](../Books/index.md) | Explore the Framework Reference Work and Professional Computing Series |
 | [COMP-WP-001](../publications/education-papers/comp-wp-001.md) | Understand why software engineering matters more in the AI era |
 | [COMP-WP-002](../publications/education-papers/comp-wp-002.md) | Build a credible professional engineering portfolio |
 | [COMP-WP-003](../publications/education-papers/comp-wp-003.md) | Work effectively on an engineering team |
@@ -39,6 +41,20 @@ The ETIS Engineering Platform provides the practical workspace. Engineering Stag
 | [Platform Overview](../Platform/Platform.md) | Learn how the Platform supports ETIS student work |
 | [Launch the Engineering Platform ↗](https://platform.etisframework.org) | Enter the working project environment |
 | [Student Professional Engineering Guide](Educational_Products.md#student-product) | Obtain deeper practical guidance |
+
+---
+
+## Professional Computing and Engineering Judgment
+
+The **ETIS Professional Computing Series** provides longer-form works for developing professional computing judgment.
+
+Its inaugural title, *From Data Structures to Engineering Judgment*, is intentionally not a conventional data structures textbook, programming guide, or algorithms reference. It uses data structures and algorithms as the technical vehicle for learning how engineers reason about representation, performance, tradeoffs, evidence, verification, system consequences, AI-assisted work, and professional responsibility.
+
+The goal is not simply to know which structure or algorithm to choose. The goal is to be able to explain **why** a choice is appropriate, what assumptions and boundaries it depends on, what evidence supports it, and what consequences follow from it.
+
+[Explore *From Data Structures to Engineering Judgment* →](../Books/engineering-judgment/index.md)
+
+[Explore the ETIS Professional Computing Series →](../Books/ETIS_Professional_Computing_Series.md)
 
 ---
 
@@ -312,7 +328,7 @@ Students should leave the course with evidence of engineering ability—not only
 
 ## How to Use Student Resources
 
-1. Read the Education Papers.
+1. Read the Education Papers and any ETIS book assigned or relevant to your course.
 2. Understand repository-centered engineering.
 3. Set up the Engineering Platform Project Workspace.
 4. Organize evidence before producing too much code.

@@ -11,7 +11,7 @@ hide:
 
 # License
 
-_Last updated: July 2026_
+_Last updated: August 2026_
 
 Copyright © William T. O'Connell, Ph.D.
 
@@ -21,7 +21,8 @@ All rights reserved.
 
 This page applies generally to the ETIS Framework website and its protected content, including:
 
-- the ETIS book and Two-Volume Edition;
+- the ETIS Framework Reference Work, *Engineering Trustworthy Intelligent Systems*, including its Two-Volume Professional Edition;
+- ETIS Professional Computing Series titles, including *From Data Structures to Engineering Judgment*;
 - ETIS white papers, executive briefs, and education papers;
 - figures, appendices, and website content;
 - downloadable educational products;
@@ -32,7 +33,7 @@ Specific repositories, templates, examples, archives, or other resources may be 
 
 ## Publication Rights
 
-*Engineering Trustworthy Intelligent Systems* (ETIS) and associated original materials are protected by applicable copyright laws.
+ETIS books, including *Engineering Trustworthy Intelligent Systems* and titles in the ETIS Professional Computing Series, together with associated original materials, are protected by applicable copyright laws.
 
 Except as permitted by law or authorized in writing by the copyright holder, no substantial part may be reproduced, distributed, transmitted, republished, sold, incorporated into derivative publications, or made available as a substitute for the original work.
 
@@ -42,13 +43,13 @@ Readers may:
 
 - read and reference the public website;
 - link to public ETIS pages;
-- cite the book or individual ETIS publications using standard academic or professional practice;
+- cite ETIS books or individual ETIS publications using standard academic or professional practice;
 - quote brief excerpts consistent with fair use, fair dealing, or other applicable legal exceptions;
 - apply ETIS ideas, concepts, engineering practices, and educational approaches in their own work.
 
 Permission is not granted to reproduce substantial portions of books, publications, figures, appendices, educational products, or downloadable materials without authorization.
 
-For publication-specific citation formats, use the canonical publication landing page or [Citation & Version Information](../publications/citations.md).
+For publication-specific citation formats, use the canonical publication landing page or [Citation & Version Information](../publications/citations.md). For books, use the canonical bibliographic and edition information provided through [ETIS Books](../Books/index.md).
 
 ## Educational Adoption
 
@@ -57,7 +58,7 @@ Universities, instructors, and educational institutions are encouraged to teach,
 Educational adoption may include:
 
 - assigning links to public pages;
-- citing ETIS publications;
+- assigning or citing ETIS books and publications;
 - applying repository-centered and evidence-centered practices;
 - adapting course structures and learning activities;
 - using separately licensed templates or repositories according to their own terms.
@@ -66,7 +67,7 @@ Redistribution or reproduction of substantial protected ETIS content, educationa
 
 ## AI and Machine Learning Use
 
-No permission is granted to use protected ETIS text, figures, appendices, publications, downloadable materials, website content, or associated resources for training, fine-tuning, evaluation-dataset construction, synthetic-data generation, model distillation, or commercial development of artificial intelligence or machine-learning systems without prior written authorization from the copyright holder.
+No permission is granted to use protected ETIS book text, figures, appendices, publications, downloadable materials, website content, or associated resources for training, fine-tuning, evaluation-dataset construction, synthetic-data generation, model distillation, or commercial development of artificial intelligence or machine-learning systems without prior written authorization from the copyright holder.
 
 This restriction does not limit lawful quotation, citation, analysis, or ordinary human use of the public materials.
 
@@ -80,7 +81,7 @@ A separate repository license does not automatically grant rights to reproduce t
 
 ## Names, Marks, and Endorsement
 
-Engineering Trustworthy Intelligent Systems (ETIS), Lakeside Metropolitan University (LMU), Campus Operations and Incident Coordination Platform (COICP), publication-series names, logos, and related project identifiers may be used throughout the ecosystem.
+Engineering Trustworthy Intelligent Systems (ETIS), the ETIS Professional Computing Series, Lakeside Metropolitan University (LMU), Campus Operations and Incident Coordination Platform (COICP), publication-series names, logos, and related project identifiers may be used throughout the ecosystem.
 
 Nothing on this site grants trademark, certification, endorsement, partnership, sponsorship, or affiliation rights.
 

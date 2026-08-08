@@ -19,11 +19,15 @@ ETIS education is built on a simple premise:
 
 > AI can produce artifacts. Engineers create trust.
 
-The ETIS Two-Volume Edition provides the complete engineering doctrine. The ETIS Education Papers provide focused professional readings. The Educational Ecosystem translates those ideas into course systems, instructor and student resources, downloadable products, implementation guidance, and institutional adoption pathways.
+The **ETIS Framework Reference Work, *Engineering Trustworthy Intelligent Systems***, provides the comprehensive full-lifecycle engineering doctrine for software and intelligent systems in the AI era. Its Two-Volume Professional Edition presents that integrated work across the journey from intent, requirements, architecture, and construction through verification, release, operations, governance, oversight, and long-term stewardship.
 
-The ETIS Engineering Platform provides the practical project environment. Instructors and students can use Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and Project Workspaces to practice repository-centered, evidence-centered engineering.
+The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with that framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing evidence-based engineering judgment, tradeoff reasoning, AI accountability, system thinking, and professional responsibility.
 
-**The Framework defines the discipline. Publications provide focused guidance. The Educational Ecosystem teaches it. The Engineering Platform gives learners a place to practice it.**
+The **ETIS Education Papers** provide focused professional readings. The **Educational Ecosystem** translates ETIS doctrine and professional formation into course systems, instructor and student resources, downloadable products, implementation guidance, and institutional adoption pathways.
+
+The **ETIS Engineering Platform** provides the practical project environment. Instructors and students can use Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and Project Workspaces to practice repository-centered, evidence-centered engineering.
+
+**The Framework defines the discipline. ETIS Books develop and extend professional judgment. Publications provide focused guidance. The Educational Ecosystem teaches the discipline. The Engineering Platform gives learners a place to practice it.**
 
 ---
 
@@ -31,6 +35,8 @@ The ETIS Engineering Platform provides the practical project environment. Instru
 
 | Starting Point | Use It For |
 |---|---|
+| [ETIS Books](../Books/index.md) | Full-length framework and professional computing works |
+| [From Data Structures to Engineering Judgment](../Books/engineering-judgment/index.md) | Develop engineering judgment through data structures and algorithms as the technical teaching vehicle |
 | [Instructor Resources](Instructor_Resources.md) | Course design, sequencing, assessment, facilitation, and instructional stewardship |
 | [Student Resources](Student_Resources.md) | Professional engineering behavior, AI responsibility, repository evidence, review, and portfolio development |
 | [Education Papers](../publications/education-papers/index.md) | Focused readings on software engineering, portfolios, teamwork, AI use, and engineering careers |
@@ -140,6 +146,8 @@ The public Educational Ecosystem is organized around complete products, not inte
 | **ETIS COMP 330 Flagship Implementation Guide** | Institutional adopters | Real-world reference implementation and educational laboratory |
 
 These products expose ETIS education without exposing unnecessary internal architecture.
+
+**ETIS Books are publishing works, not Educational Products.** Books provide sustained framework and professional-formation treatments; Educational Products translate ETIS educational doctrine into reusable implementation resources.
 
 Products teach ETIS.
 
@@ -274,9 +282,11 @@ ETIS education is governed by durable principles:
 ## From Framework to Practice
 
 ```text
-ETIS Framework and Two-Volume Edition
+ETIS Framework Reference Work
+Engineering Trustworthy Intelligent Systems
 ↓
-ETIS Education Papers
+Professional Formation
+Professional Computing Series · Education Papers
 ↓
 Educational Ecosystem
 ↓
@@ -291,9 +301,13 @@ Engineering Evidence
 Stewardship and Improvement
 ```
 
-The Framework informs the course.
+The Framework Reference Work defines the full-lifecycle engineering discipline.
 
-Publications provide focused professional guidance.
+The Professional Computing Series develops durable professional capabilities through sustained book-length treatments.
+
+Education Papers provide focused professional guidance and shared language.
+
+The Educational Ecosystem turns those foundations into teachable systems and reusable resources.
 
 The course tests and improves the Educational Ecosystem.
 
@@ -324,7 +338,8 @@ ETIS education is not about adding AI to old software engineering courses.
 
 It is about teaching future engineers how to create trust in systems shaped by AI.
 
-The Framework defines the discipline.  
-The Education Papers prepare the learner.  
+The Framework Reference Work defines the discipline.  
+The Professional Computing Series develops enduring professional judgment.  
+The Education Papers provide focused professional orientation.  
 The Educational Ecosystem teaches the discipline.  
 The Engineering Platform provides the environment in which students practice it.

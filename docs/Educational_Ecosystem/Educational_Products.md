@@ -28,13 +28,18 @@ They are distinct from the ETIS Education Paper Series:
 
 ## Why Educational Products Exist
 
-The ETIS Two-Volume Edition provides the complete doctrine.
+The **ETIS Framework Reference Work, *Engineering Trustworthy Intelligent Systems***, provides the comprehensive full-lifecycle engineering doctrine. Its Two-Volume Professional Edition is one publication form of that integrated work.
 
-The Education Papers provide focused professional orientation.
+The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with the framework through sustained book-length treatments.
 
-The Educational Ecosystem explains how to teach and adopt the doctrine.
+The **Education Papers** provide focused professional orientation.
 
-Educational Products operationalize that ecosystem into reusable implementation assets.
+The **Educational Ecosystem** explains how to teach and adopt ETIS doctrine and professional-formation practices.
+
+**Educational Products** operationalize that ecosystem into reusable implementation assets.
+
+!!! info "Books and Educational Products serve different roles"
+    ETIS Books are publishing works. Educational Products are implementation resources. A book may inform teaching and curriculum design, but it does not become an Educational Product simply because it is used in education.
 
 They are designed to:
 
@@ -70,13 +75,13 @@ They are designed to:
 <p>Educational architecture, learning models, adoption pathways, product relationships, and ecosystem design.</p>
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf"
+   href="/downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf"
    download>
    Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf">
+   href="/downloads/educational_products/ETIS_Educational_Ecosystem_Guide.pdf">
    Open PDF
 </a>
 
@@ -93,13 +98,13 @@ They are designed to:
 <p>Complete instructor onboarding, course design, implementation, assessment, operation, and stewardship guidance.</p>
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Instructor_Course_Package.pdf"
+   href="/downloads/educational_products/ETIS_Instructor_Course_Package.pdf"
    download>
    Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Instructor_Course_Package.pdf">
+   href="/downloads/educational_products/ETIS_Instructor_Course_Package.pdf">
    Open PDF
 </a>
 
@@ -112,13 +117,13 @@ They are designed to:
 <p>Classroom execution, discussion models, team accountability, review-board facilitation, AI responsibility, and instructional operations.</p>
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf"
+   href="/downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf"
    download>
    Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf">
+   href="/downloads/educational_products/ETIS_Classroom_Facilitation_Guide.pdf">
    Open PDF
 </a>
 
@@ -131,13 +136,13 @@ They are designed to:
 <p>Long-term instructional stewardship, course memory, recurring patterns, operational judgment, and continuous improvement.</p>
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Instructor_Handbook.pdf"
+   href="/downloads/educational_products/ETIS_Instructor_Handbook.pdf"
    download>
    Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Instructor_Handbook.pdf">
+   href="/downloads/educational_products/ETIS_Instructor_Handbook.pdf">
    Open PDF
 </a>
 
@@ -154,13 +159,13 @@ They are designed to:
 <p>Professional engineering behavior, responsible AI use, repository-centered evidence, teamwork, review, release defense, and portfolio development.</p>
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf"
+   href="/downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf"
    download>
    Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf">
+   href="/downloads/educational_products/ETIS_Student_Professional_Engineering_Guide.pdf">
    Open PDF
 </a>
 
@@ -205,17 +210,28 @@ Some educational tools are distributed as public releases while their engineerin
 <p>Loyola University Chicago reference implementation, educational laboratory, evidence model, and adoption reference.</p>
 
 <a class="md-button md-button--primary"
-   href="../../downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf"
+   href="/downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf"
    download>
    Download PDF
 </a>
 
 <a class="md-button"
-   href="../../downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf">
+   href="/downloads/educational_products/ETIS_COMP330_Flagship_Implementation_Guide.pdf">
    Open PDF
 </a>
 
 </div>
+
+---
+
+## Related ETIS Books
+
+ETIS Books provide sustained framework and professional-formation works that complement the Educational Ecosystem and its implementation products.
+
+- [ETIS Books](../Books/index.md) — the publishing architecture for the Framework Reference Work and Professional Computing Series
+- [Engineering Trustworthy Intelligent Systems](../Books/ETIS_Framework_Reference.md) — the ETIS Framework Reference Work
+- [ETIS Professional Computing Series](../Books/ETIS_Professional_Computing_Series.md) — professional computing books aligned with ETIS
+- [From Data Structures to Engineering Judgment](../Books/engineering-judgment/index.md) — the inaugural series title, using data structures and algorithms as the technical vehicle for developing engineering judgment
 
 ---
 

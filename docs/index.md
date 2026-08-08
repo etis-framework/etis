@@ -29,7 +29,7 @@ hide:
       </p>
 
       <p class="etis-hero-education-text">
-        The ETIS ecosystem provides the publications, educational resources, Engineering Platform, and engineering tools needed to put ETIS into practice.
+        The ETIS ecosystem provides books, publications, educational resources, the Engineering Platform, and engineering tools needed to put ETIS into practice.
       </p>
 
       <p class="etis-hero-copy-text etis-hero-action-statement">
@@ -68,7 +68,7 @@ hide:
 
     <span class="etis-button-text">
       <strong>Read Online</strong>
-      <small>Complete Book</small>
+      <small>Full Framework</small>
     </span>
   </a>
 
@@ -126,7 +126,7 @@ hide:
   <div class="etis-main-column etis-why-column">
     <h2>Why ETIS?</h2>
     <div class="etis-short-rule"></div>
-    <p>AI has changed software engineering: trust must be engineered-not assumed.</p>
+    <p>AI has changed software engineering: trust must be engineered—not assumed.</p>
 
     <ul class="etis-checks">
       <li>AI accelerates engineering risk.</li>
@@ -246,8 +246,8 @@ hide:
 <section class="etis-repo-section">
   <div class="etis-repo-inner">
     <h2>Applying ETIS Through the Engineering Platform</h2>
-    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference implementations, governance assets, and project workspaces.<p>
-    <p>Complementary educational engineering tooling further supports repository-centered engineering by helping students strengthen engineering repositories before formal review and helping instructors perform consistent evidence-centered engineering evaluations.<p>
+    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference implementations, governance assets, and project workspaces.</p>
+    <p>Complementary educational engineering tooling further supports repository-centered engineering by helping students strengthen engineering repositories before formal review and helping instructors perform consistent evidence-centered engineering evaluations.</p>
 
     <div class="etis-capability-row">
       <div><span>①</span><strong>Stages</strong><small>ES-100 through ES-114 guide lifecycle work.</small></div>
@@ -261,7 +261,7 @@ hide:
     <p class="etis-evidence-sentence"><strong>Read the Framework to understand ETIS. Explore the Platform to learn how to apply it. Launch the Engineering Platform when you're ready to begin.</strong></p>
 
     <div class="etis-platform-links" style="margin-top:.25rem; line-height:1.55;">
-      <a class="etis-inline-link" href="Platform/Platform">Explore the Platform →</a><br>
+      <a class="etis-inline-link" href="Platform/Platform/">Explore the Platform →</a><br>
       <a class="etis-inline-link" href="https://platform.etisframework.org">Launch the Engineering Platform ↗</a><br>
       <a class="etis-inline-link" href="https://github.com/etis-framework/etis-starter-kit">Browse the Starter Kit Repository ↗</a>
     </div>

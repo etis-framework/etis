@@ -11,16 +11,17 @@ hide:
 
 # ETIS Library
 
-**A guide to ETIS editions, publication series, formats, downloads, and educational products**
+**A guide to ETIS books, editions, publication series, formats, downloads, and educational products**
 
-The ETIS Library helps readers understand the different published forms of *Engineering Trustworthy Intelligent Systems* and choose the one best suited to their work.
+The ETIS Library helps readers understand the ETIS book architecture, published editions, focused publication series, downloads, and educational products, and choose the form best suited to their work.
 
 ETIS is not a single file or book. It is an integrated engineering knowledge ecosystem delivered through:
 
 - the authoritative website;
-- the complete online book;
-- two professional print and PDF volumes;
-- three coordinated publication series;
+- the complete online ETIS Framework Reference Work;
+- the ETIS Two-Volume Professional Edition;
+- the ETIS Professional Computing Series;
+- three coordinated focused publication series;
 - educational products;
 - downloadable offline editions;
 - public repositories and the Engineering Platform.
@@ -34,7 +35,11 @@ These are complementary access paths into one coherent body of work.
 ```text
 ETIS Framework Website
 ↓
-Authoritative online framework, book, appendices, education, and ecosystem guidance
+Authoritative online framework, book records, appendices, education, and ecosystem guidance
+
+ETIS Books
+↓
+Framework Reference Work and ETIS Professional Computing Series
 
 ETIS Publications
 ↓
@@ -42,11 +47,11 @@ Focused, citable white papers, executive briefs, and education papers
 
 Book and Print Editions
 ↓
-Complete and two-volume professional treatments of ETIS
+Framework Reference Work editions and Professional Computing Series titles
 
 Downloads
 ↓
-Portable PDFs, educational products, and repository archives
+Authorized book PDFs, educational products, and repository archives
 
 Educational Engineering Tooling
 ↓
@@ -63,19 +68,20 @@ Working stages, templates, examples, governance assets, and project workspaces
 
 The distinction is intentional:
 
+- **Books** provide sustained professional works. The ETIS Framework Reference Work defines the complete framework; the Professional Computing Series develops focused, transferable engineering judgment.
 - **Publications** are focused works with canonical landing pages, metadata, citation, version history, related materials, and authoritative PDFs.
-- **Downloads** are curated offline products such as books, guides, educational packages, and repository archives.
+- **Downloads** are curated offline products such as authorized book PDFs, guides, educational packages, and repository archives.
 - **The Library** explains the available formats and helps readers select the right one.
 
 ---
 
 ## Website Edition
 
-The ETIS website is the primary public platform for the framework.
+The ETIS website is the primary public platform for the framework and the canonical online home for the broader ETIS publishing ecosystem.
 
 It provides:
 
-- the complete online book;
+- the complete online ETIS Framework Reference Work;
 - the full lifecycle structure;
 - appendices;
 - framework references;
@@ -85,9 +91,56 @@ It provides:
 - repository guidance;
 - continuing ecosystem updates.
 
+For Professional Computing Series titles, the website provides the canonical book record, authorized downloads, companion resources, updates, errata, and distribution links.
+
 New public ETIS resources should appear on the website first.
 
 [Read ETIS Online →](../Front_Matter/01_Title_Page.md)
+
+---
+
+## ETIS Books
+
+ETIS books now serve two complementary publishing roles.
+
+### ETIS Framework Reference Work
+
+*Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* is the definitive ETIS framework reference. It defines the complete lifecycle discipline across software engineering, AI-assisted development, governance, operations, oversight, and stewardship.
+
+Its print and PDF form is the **ETIS Two-Volume Professional Edition**.
+
+### ETIS Professional Computing Series
+
+The **ETIS Professional Computing Series** develops durable professional judgment through focused computing books aligned with the broader ETIS philosophy.
+
+The inaugural title is:
+
+**From Data Structures to Engineering Judgment**  
+*Professional Computing in the AI Era*  
+William T. O'Connell, Ph.D.
+
+The book uses data structures and algorithms as a vehicle for developing engineering judgment about representation, prediction, evidence, tradeoffs, scale, policy, system consequences, AI-assisted engineering, and professional responsibility.
+
+The ETIS website provides a free PDF edition, companion resources, and the canonical publication record. Amazon availability and ISBN information will be added when available.
+
+<div style="margin-top:.75rem;">
+
+<a class="md-button md-button--primary"
+   href="../../Books/">
+Explore ETIS Books
+</a>
+
+<a class="md-button"
+   href="../../Books/engineering-judgment/">
+Explore Engineering Judgment
+</a>
+
+<a class="md-button"
+   href="../download/#etis-professional-computing-series">
+Download Free PDF
+</a>
+
+</div>
 
 ---
 
@@ -198,7 +251,7 @@ Volume II addresses how intelligent systems are operated, governed, observed, se
 
 ## Print Editions
 
-Professionally printed paperback and hardcover editions are available through Amazon.
+Professionally printed paperback and hardcover editions of the **ETIS Framework Reference Work** are available through Amazon. The Amazon listing for *From Data Structures to Engineering Judgment* is coming soon.
 
 Print editions support:
 
@@ -222,8 +275,9 @@ The ETIS Downloads area provides curated offline products for reading, teaching,
 
 Download categories include:
 
-- complete book editions;
+- complete framework book editions;
 - two-volume PDF editions;
+- authorized Professional Computing Series PDFs;
 - educational products;
 - instructor and student guides;
 - implementation guidance;
@@ -290,6 +344,16 @@ Preferred citation:
 
 > O’Connell, William T. *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. First Edition. ETIS Framework, 2026.
 
+### Cite *From Data Structures to Engineering Judgment*
+
+Preferred citation:
+
+> O’Connell, William T. *From Data Structures to Engineering Judgment: Professional Computing in the AI Era*. First Edition. ETIS Framework, 2026.
+
+Use the canonical book page for current edition information, companion resources, updates, and errata.
+
+[Book Page →](../Books/engineering-judgment/index.md)
+
 ### Cite an ETIS Publication
 
 Use the canonical publication webpage for the correct title, series identifier, version, date, and citation formats.
@@ -317,7 +381,9 @@ ETIS is designed to evolve without becoming unstable.
 
 | Need | Best starting point |
 |---|---|
-| Read the complete ETIS book online | [Website Edition](../Front_Matter/01_Title_Page.md) |
+| Read the complete ETIS Framework Reference Work online | [Website Edition](../Front_Matter/01_Title_Page.md) |
+| Explore ETIS books | [ETIS Books](../Books/index.md) |
+| Read *From Data Structures to Engineering Judgment* | [Book Page](../Books/engineering-judgment/index.md) or [Downloads](download.md#etis-professional-computing-series) |
 | Read focused technical guidance | [White Papers](../publications/white-papers/index.md) |
 | Read executive decision guidance | [Executive Briefs](../publications/executive-briefs/index.md) |
 | Support student or instructor development | [Education Papers](../publications/education-papers/index.md) |
@@ -337,7 +403,9 @@ ETIS is designed to evolve without becoming unstable.
 
 The ETIS website is the authoritative public source.
 
-The Book provides the complete framework.
+The **ETIS Framework Reference Work** provides the complete framework.
+
+The **ETIS Professional Computing Series** develops focused, transferable professional engineering judgment aligned with ETIS.
 
 Publications provide focused, citable treatments of major ideas and decisions.
 
