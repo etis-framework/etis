@@ -2,7 +2,7 @@
 
 ## Security Scope
 
-The ETIS repository is the authoritative source for the ETIS Framework website, the *Engineering Trustworthy Intelligent Systems (ETIS)* Two-Volume Edition, the ETIS Publications Program, the Educational Ecosystem, the Platform gateway, appendices, downloads, and related public framework resources.
+The ETIS repository is the authoritative source for the ETIS Framework website, the *Engineering Trustworthy Intelligent Systems* Framework Reference Work and its Two-Volume Professional Edition, ETIS Books and Professional Computing Series materials, the ETIS Publications Program, the Educational Ecosystem, the Platform gateway, appendices, downloads, and related public framework resources.
 
 This repository is primarily a documentation, publication, and educational-resource repository. It does **not** provide hosted software services, production APIs, cloud infrastructure, or applications that process user data.
 
@@ -21,7 +21,7 @@ The following components are within the scope of this repository's security poli
 | GitHub Pages deployment | Yes |
 | MkDocs configuration | Yes |
 | Website build configuration | Yes |
-| Publication assets | Yes |
+| Book and publication assets | Yes |
 | Downloads and public resources | Yes |
 | Platform gateway | Yes |
 | Documentation build pipeline | Yes |

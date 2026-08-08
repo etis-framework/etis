@@ -28,7 +28,9 @@ Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered, evi
 ETIS now consists of:
 
 - the ETIS Framework;
-- the ETIS Two-Volume Edition;
+- the *Engineering Trustworthy Intelligent Systems* Framework Reference Work;
+- the ETIS Two-Volume Professional Edition;
+- the ETIS Professional Computing Series;
 - the ETIS Publications Program;
 - eight professional appendices;
 - the ETIS Educational Ecosystem;
@@ -70,13 +72,13 @@ Phase I established the foundational ETIS body of knowledge, publication archite
 
 ## Completed Outcomes
 
-### Framework and Book
+### Framework Reference Work
 
 - ✅ ETIS First Edition completed
 - ✅ 39-chapter framework completed
 - ✅ Volume I completed
 - ✅ Volume II completed
-- ✅ Two-Volume Edition architecture completed
+- ✅ ETIS Two-Volume Professional Edition architecture completed
 - ✅ Paperback and hardcover publication assets completed
 - ✅ ISBN registration completed
 - ✅ Downloadable full-book and volume PDF editions published
@@ -196,8 +198,8 @@ Phase II.b created the practical implementation layer of ETIS.
 
 The Platform does not replace the Framework.
 
-The Framework defines the discipline.  
-The Two-Volume Edition provides its complete treatment.  
+The Framework Reference Work defines the discipline and comprehensive lifecycle treatment.  
+The Two-Volume Professional Edition presents that integrated work in two volumes.  
 Publications provide focused guidance.  
 The Platform demonstrates how to apply ETIS.  
 The repository preserves project-specific engineering evidence.
@@ -297,6 +299,49 @@ The following convention should remain stable:
 - **Launch** — enter `platform.etisframework.org`
 - **Browse Repository** — enter GitHub
 - **Download** — obtain a packaged offline resource
+
+---
+
+# Phase II.e — Books and Professional Computing Architecture
+
+**Status: Completed**
+
+Phase II.e established a durable long-form publishing architecture that separates the foundational ETIS Framework Reference Work from additional professional computing books aligned with ETIS.
+
+## Completed Outcomes
+
+### Framework Reference Work
+
+- ✅ *Engineering Trustworthy Intelligent Systems* formally positioned as the **ETIS Framework Reference Work**
+- ✅ **ETIS Two-Volume Professional Edition** terminology established for the two-volume form of the integrated reference work
+- ✅ Framework Reference Work landing and cross-site discovery aligned
+- ✅ Volume I and Volume II presentation integrated with the Books architecture
+
+### Professional Computing Series
+
+- ✅ **ETIS Professional Computing Series** established
+- ✅ *From Data Structures to Engineering Judgment: Professional Computing in the AI Era* established as the inaugural series title
+- ✅ Book overview, companion-resource, and updates/errata architecture established
+- ✅ Professional Computing Series distinguished from the ETIS Publications Program
+
+### Ecosystem Integration
+
+- ✅ Books added as a first-class top-level website area
+- ✅ Downloads aligned with both Framework Reference Work and Professional Computing Series roles
+- ✅ Publications, Education, Platform, About, Author, First Edition, Legal, and homepage terminology aligned
+- ✅ Books and Publications preserved as separate peer publishing forms
+- ✅ Repository documentation aligned with the expanded publishing architecture
+
+## Stable Boundary
+
+The publishing roles should remain distinct:
+
+- **Framework Reference Work** — comprehensive ETIS doctrine and full-lifecycle treatment;
+- **Two-Volume Professional Edition** — publishing form of that integrated reference work;
+- **Professional Computing Series** — sustained professional-formation books aligned with ETIS;
+- **Publications Program** — focused, citable White Papers, Executive Briefs, and Education Papers.
+
+A Professional Computing Series title does not revise the ETIS Framework Reference Work. Substantive doctrinal changes to the Framework belong in a future edition of the Framework Reference Work.
 
 ---
 
@@ -429,7 +474,8 @@ Future editions should be driven by substantive doctrinal need rather than routi
 
 | Component | Public Location | Role |
 |---|---|---|
-| **ETIS Framework Website** | https://etisframework.org | Authoritative public portal for the Framework, Two-Volume Edition, Publications, Appendices, Education, Resources, Downloads, Platform gateway, and About materials. |
+| **ETIS Framework Website** | https://etisframework.org | Authoritative public portal for the Framework, Framework Reference Work, Books, Publications, Appendices, Education, Resources, Downloads, Platform gateway, and About materials. |
+| **ETIS Books** | https://etisframework.org/Books/ | Canonical home for the Framework Reference Work, Two-Volume Professional Edition, Professional Computing Series, and individual book records. |
 | **ETIS Publications Program** | https://etisframework.org/publications/ | Canonical home for White Papers, Executive Briefs, Education Papers, reading paths, citations, and version information. |
 | **ETIS Platform Gateway** | https://etisframework.org/Platform/Platform/ | Framework-site introduction to the Engineering Platform, audiences, capabilities, and starting paths. |
 | **ETIS Framework Repository** | https://github.com/etis-framework/etis | Source authority for the Framework website, book, publications, education, appendices, downloads, roadmap, and public resources. |
@@ -443,7 +489,11 @@ Future editions should be driven by substantive doctrinal need rather than routi
 ```text
 ETIS Framework Website and Repository
 ├── Framework
-├── Two-Volume Edition
+├── Books
+│   ├── ETIS Framework Reference Work
+│   │   └── Two-Volume Professional Edition
+│   └── ETIS Professional Computing Series
+│       └── From Data Structures to Engineering Judgment
 ├── Publications Program
 │   ├── White Papers
 │   ├── Executive Briefs
@@ -468,9 +518,10 @@ ETIS Engineering Platform and Starter Kit Repository
 
 This separation protects clarity.
 
-The Framework explains ETIS.  
-The Two-Volume Edition provides the full treatment.  
-Publications extend ETIS.  
+The Framework Reference Work explains ETIS and provides the comprehensive lifecycle treatment.  
+The Two-Volume Professional Edition presents that integrated work in two volumes.  
+The Professional Computing Series develops durable professional capabilities aligned with ETIS.  
+Publications provide focused, citable guidance.  
 Appendices provide reference architecture.  
 Education teaches ETIS.  
 The Platform operationalizes ETIS.  
@@ -486,6 +537,7 @@ Downloads package selected resources.
 - `v1.0.0` — initial public ETIS Framework release
 - `v1.1.0` — earlier framework and publication evolution
 - `v1.2.0` — Publications Program and Platform integration
+- `Unreleased` — Books architecture and ETIS Professional Computing Series integration
 
 ## Release Discipline
 
@@ -532,6 +584,8 @@ The Engineering Platform is complete.
 The Publications Program is complete.
 
 The public ecosystem architecture is complete.
+
+The Books and Professional Computing publishing architecture is complete.
 
 The next major frontier is professional adoption: helping teams, leaders, review boards, and organizations apply ETIS at scale without weakening evidence, accountability, governance, or stewardship.
 
