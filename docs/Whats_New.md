@@ -164,7 +164,7 @@ A new **Platform Overview** page on the ETIS Framework website now serves as the
 
 ### Public Ecosystem Architecture Completed
 
-The public ETIS ecosystem now consists of two complementary websites and two public repositories.
+The ETIS public architecture is built around two canonical repositories: the Framework Repository and the Engineering Platform Starter Kit Repository. Public course, adoption, demonstration, or implementation repositories may also exist; these are implementation artifacts and do not extend the canonical ETIS repository architecture.
 
 | Component | Role |
 |---|---|

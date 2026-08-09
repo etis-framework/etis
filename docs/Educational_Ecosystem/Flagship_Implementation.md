@@ -212,6 +212,9 @@ Instructors use the ETIS Instructor Engineering Workbench to review repositories
 
 Together, the Platform and educational tooling reinforce repository-centered engineering while preserving the principle that engineering judgment always remains a human responsibility.
 
+> **Flagship Implementation — COMP 330/474 Software Engineering**
+> The ETIS Engineering Platform and educational tooling are used together in COMP 330/474 as the flagship classroom implementation of the ETIS educational model. Student teams apply the lifecycle through six phase-gate reviews while building and evolving a semester-long engineering repository.
+
 Students can:
 
 - use stages to understand what work comes next;
@@ -225,7 +228,9 @@ Students can:
 
 [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
-[Browse the Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
+[Browse the General ETIS Starter Kit ↗](https://github.com/etis-framework/etis-starter-kit)
+
+[View the COMP 330 Fall 2026 Starter Kit ↗](https://github.com/etis-framework/comp330-f26-starter-kit)
 
 ---
 
