@@ -13,7 +13,7 @@ hide:
 
 **Operations, Governance, and Organizational Trust**
 
-Volume II moves beyond construction into the realities of operation, governance, organizational trust, and long-term stewardship. It examines what happens after a system begins to matter: defects emerge, incidents occur, AI use expands, operational evidence accumulates, governance decisions become consequential, and organizations must learn from real system behavior.
+Volume II is the second half of the **ETIS Framework Reference Work** and moves beyond construction into the realities of operation, governance, organizational trust, and long-term stewardship. It examines what happens after a system begins to matter: defects emerge, incidents occur, AI use expands, operational evidence accumulates, governance decisions become consequential, and organizations must learn from real system behavior.
 
 ## Central Question
 
@@ -57,9 +57,9 @@ It answers the question:
 
 ## Before You Begin
 
-If you are new to ETIS, start with the ETIS Two-Volume Edition overview to understand how the two volumes work together.
+If you are new to ETIS, start with the ETIS Two-Volume Professional Edition overview to understand how the two volumes work together.
 
-[Explore the ETIS Two-Volume Edition →](ETIS_Two_Volume_Edition.md)
+[Explore the ETIS Two-Volume Professional Edition →](ETIS_Two_Volume_Edition.md)
 
 ## Volume Snapshot
 
@@ -72,23 +72,24 @@ If you are new to ETIS, start with the ETIS Two-Volume Edition overview to under
 
 ## Beyond This Volume
 
-Volume II is one component of the broader ETIS ecosystem.
+Volume II completes the integrated ETIS Framework Reference Work.
 
-Explore additional publication formats, downloadable products, educational resources, and professionally printed editions.
-
-[Explore the ETIS Library →](../Resources/ETIS_Library.md)
-
-## Beyond the Book
-
-ETIS extends beyond the book itself.
+The broader ETIS ecosystem extends the Framework into focused publications, professional computing books, education, implementation, and adoption resources.
 
 Continue exploring:
 
-* Educational Ecosystem
-* Educational Products
+* ETIS Books and the Professional Computing Series
+* ETIS Publications
+* Educational Ecosystem and Educational Products
+* ETIS Engineering Platform and Starter Kit
 * Repository Ecosystem
-* Reference Implementations (coming in Phase 2.b)
-* Professional Ecosystem (future)
+* Resource Center and Downloads
+
+[Explore the Framework Reference Work →](../Books/ETIS_Framework_Reference.md)
+
+[Explore ETIS Books →](../Books/index.md)
 
 [Explore the Educational Ecosystem →](../Educational_Ecosystem/Educational_Ecosystem.md)
+
+[Explore the ETIS Library →](../Resources/ETIS_Library.md)
 

@@ -18,8 +18,10 @@ The ETIS Resource Center helps readers, engineers, executives, educators, studen
 ETIS is organized as a connected professional ecosystem:
 
 - the **ETIS Framework** defines the engineering discipline;
-- the **ETIS Two-Volume Book Edition** presents the complete treatment of that discipline;
-- **ETIS Publications** extend the framework through focused, citable papers and executive guidance;
+- the **ETIS Framework Reference Work**, *Engineering Trustworthy Intelligent Systems*, provides the comprehensive treatment of that discipline;
+- the **ETIS Two-Volume Professional Edition** presents the integrated Framework Reference Work in two complementary volumes;
+- the **ETIS Professional Computing Series** develops durable professional computing capabilities aligned with ETIS;
+- **ETIS Publications** provide focused, citable papers and executive guidance;
 - the **ETIS Engineering Platform** demonstrates how to apply ETIS;
 - the **Educational Ecosystem** supports teaching, learning, institutional adoption, and educational engineering practices;
 - **Educational Engineering Tooling** supports evidence-centered repository review for both instructors and students;
@@ -36,7 +38,8 @@ ETIS is organized as a connected professional ecosystem:
 |---|---|
 | Understand why ETIS exists | [Why ETIS?](../Framework/Why_ETIS.md) |
 | Learn what ETIS is | [What is ETIS?](../Framework/What_is_ETIS.md) |
-| Read the complete ETIS book online | [Read ETIS Online](../Front_Matter/01_Title_Page.md) |
+| Read the complete ETIS Framework Reference Work online | [Read ETIS Online](../Front_Matter/01_Title_Page.md) |
+| Explore ETIS books and the Professional Computing Series | [ETIS Books](../Books/index.md) |
 | Explore focused papers and executive guidance | [ETIS Publications](../publications/index.md) |
 | Follow a role-based publication sequence | [Publication Reading Paths](../publications/reading-paths.md) |
 | Understand and apply ETIS through the Platform | [Platform Overview](../Platform/Platform.md) |
@@ -53,7 +56,8 @@ ETIS is organized as a connected professional ecosystem:
 
 | Public Resource | Role |
 |---|---|
-| **ETIS Framework Website** | Authoritative public site for the ETIS framework, online book, publications, appendices, educational ecosystem, downloads, and reference materials. |
+| **ETIS Framework Website** | Authoritative public site for the ETIS Framework, Framework Reference Work, Books, Publications, Appendices, Educational Ecosystem, Downloads, Platform gateway, and reference materials. |
+| **ETIS Books** | Canonical home for the Framework Reference Work, Two-Volume Professional Edition, Professional Computing Series, and individual book records. |
 | **ETIS Publications** | Canonical webpages and authoritative PDF editions for the White Paper, Executive Brief, and Education Paper series. |
 | **Platform Overview** | Canonical gateway on the ETIS Framework website introducing the Engineering Platform, its audiences, capabilities, and relationship to the ETIS ecosystem. |
 | **ETIS Engineering Platform Website** | Companion implementation environment for Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP examples, governance assets, and project workspaces. |
@@ -91,17 +95,17 @@ Each publication has a canonical webpage for discovery, metadata, citation, vers
 <div style="margin-top:.75rem;">
 
 <a class="md-button md-button--primary"
-   href="../publications/index.md">
+   href="/publications/">
 Explore Publications
 </a>
 
 <a class="md-button"
-   href="../publications/reading-paths.md">
+   href="/publications/reading-paths/">
 View Reading Paths
 </a>
 
 <a class="md-button"
-   href="../publications/citations.md">
+   href="/publications/citations/">
 Citation & Version Information
 </a>
 
@@ -109,9 +113,9 @@ Citation & Version Information
 
 ---
 
-## Framework and Book Resources
+## Framework Reference Work and Book Resources
 
-Use these resources when you want to understand ETIS doctrine, read the complete book, or consult the reference appendices.
+Use these resources when you want to understand ETIS doctrine, read the complete Framework Reference Work, explore ETIS Books, or consult the reference appendices.
 
 - [Read ETIS Online](../Front_Matter/01_Title_Page.md)
 - [Why ETIS?](../Framework/Why_ETIS.md)
@@ -119,7 +123,10 @@ Use these resources when you want to understand ETIS doctrine, read the complete
 - [Framework Overview](../Framework/ETIS_Framework.md)
 - [Repository-Centered Engineering](../Framework/ETIS_Repository_Centered_Engineering.md)
 - [Appendices](../Appendices/Appendices.md)
-- [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
+- [ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md)
+- [ETIS Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md)
+- [ETIS Professional Computing Series](../Books/ETIS_Professional_Computing_Series.md)
+- [ETIS Books](../Books/index.md)
 - [ETIS Library](ETIS_Library.md)
 
 ---
@@ -174,7 +181,8 @@ Downloads provide curated, durable products for offline reading, teaching, adopt
 
 They include:
 
-- complete and two-volume book PDFs;
+- Framework Reference Work and Two-Volume Professional Edition PDFs;
+- Professional Computing Series book PDFs;
 - educational products;
 - instructor and student guides;
 - the ETIS Engineering Platform Starter Kit archive;
@@ -201,7 +209,7 @@ The repository is where engineering memory becomes visible. Requirements, decisi
 
 ## Professional Resources
 
-Professional resources will continue to evolve around the completed Framework, Publications Program, and Engineering Platform.
+Professional resources will continue to evolve around the completed Framework Reference Work, Professional Computing Series, Publications Program, and Engineering Platform.
 
 Current and emerging resources include:
 
@@ -225,12 +233,14 @@ New professional resources should extend the ecosystem without duplicating the E
 | Component | Role |
 |---|---|
 | **Framework** | Defines ETIS as an engineering discipline. |
-| **Book** | Provides the complete, integrated treatment of ETIS. |
-| **Publications** | Extend ETIS through focused white papers, executive briefs, and education papers. |
+| **Framework Reference Work** | Provides the comprehensive, integrated treatment of ETIS. |
+| **Two-Volume Professional Edition** | Presents the Framework Reference Work in two complementary volumes. |
+| **Professional Computing Series** | Develops durable professional computing capabilities aligned with ETIS. |
+| **Publications** | Provide focused White Papers, Executive Briefs, and Education Papers. |
 | **Engineering Platform** | Applies ETIS through stages, templates, examples, governance assets, and workspaces. |
 | **Repositories** | Preserve engineering evidence, decisions, reusable artifacts, and public source materials. |
 | **Education** | Teaches ETIS through courses, instructor resources, student guidance, and adoption models. |
-| **Educational Tooling** | Supports repository analysis, engineering evidence evulation, lifecycle readiness, and educational review workflows. |
+| **Educational Tooling** | Supports repository analysis, engineering evidence evaluation, lifecycle readiness, and educational review workflows. |
 | **Downloads** | Package selected ETIS products into durable, portable editions and archives. |
 | **Resource Center** | Connects users to the right ETIS experience based on their goal. |
 
@@ -239,10 +249,12 @@ New professional resources should extend the ecosystem without duplicating the E
 ## Bottom Line
 
 The Framework defines ETIS.  
-The Book provides its complete treatment.  
-Publications extend ETIS through focused, citable guidance.  
-The Engineering Platform applies ETIS.  
-Repositories preserve its source and engineering evidence.  
-Education teaches ETIS.  
-Downloads package ETIS into durable products.  
+The Framework Reference Work provides its comprehensive treatment.
+The Two-Volume Professional Edition presents that work in two integrated volumes.
+The Professional Computing Series develops durable professional capabilities aligned with ETIS.
+Publications provide focused, citable guidance.
+The Engineering Platform applies ETIS.
+Repositories preserve its source and engineering evidence.
+Education teaches ETIS.
+Downloads package ETIS into durable products.
 The Resource Center connects the entire ecosystem.

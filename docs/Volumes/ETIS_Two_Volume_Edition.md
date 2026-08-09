@@ -9,21 +9,21 @@ hide:
        style="width:320px; max-width:60%; height:auto;">
 </div>
 
-# ETIS Two-Volume Edition
+# ETIS Two-Volume Professional Edition
 
-*Engineering Trustworthy Intelligent Systems* is one integrated framework presented in two complementary volumes.
+*Engineering Trustworthy Intelligent Systems* is the ETIS Framework Reference Work, presented in two complementary volumes as the **ETIS Two-Volume Professional Edition**.
 
-The two-volume edition improves usability without fragmenting the ETIS body of work. Volume I establishes the engineering foundation and construction practices required to build trustworthy intelligent systems. Volume II continues into operation, governance, organizational trust, and long-term stewardship.
+The Two-Volume Professional Edition improves usability without fragmenting the ETIS body of work. Volume I establishes the engineering foundation and construction practices required to build trustworthy intelligent systems. Volume II continues into operation, governance, organizational trust, and long-term stewardship.
 
-The volumes are not separate books.
+The volumes are not separate books or independent titles in a series.
 
-They are two phases of a single professional engineering journey.
+They are two complementary volumes of one integrated Framework Reference Work and two movements in a single professional engineering journey.
 
 > Trust is engineered continuously through evidence, governance, and human stewardship.
 
 ---
 
-## Why Two Volumes?
+## Why a Two-Volume Professional Edition?
 
 ETIS follows the full lifecycle of trustworthy intelligent systems, from initial intent through long-term operational stewardship.
 
@@ -294,34 +294,31 @@ Then use the ETIS Educational Ecosystem, instructor resources, student resources
 
 ## Print Editions
 
-The ETIS two-volume edition is also available as professionally printed paperback and hardcover editions through Amazon.
+The ETIS Two-Volume Professional Edition is also available as professionally printed paperback and hardcover editions through Amazon.
 
 The ETIS website remains the authoritative source for the framework, educational ecosystem, and downloadable resources. Amazon provides a convenient option for readers who prefer durable print editions for long-term reference, teaching, and professional use.
 
-[View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+[View the ETIS Two-Volume Professional Edition on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
 
 ---
 
 ## Beyond the Volumes
 
-*Engineering Trustworthy Intelligent Systems* is designed to extend beyond the printed page.
-
-The broader ETIS ecosystem supports continued learning, teaching, adoption, and professional practice.
+*Engineering Trustworthy Intelligent Systems* is the foundational ETIS Framework Reference Work, but the broader ETIS ecosystem extends beyond the printed volumes.
 
 Resources include:
 
-* the ETIS website
+* the ETIS Books area and Framework Reference Work pages
+* the ETIS Professional Computing Series
+* the ETIS Publications Program
+* the Educational Ecosystem
+* the ETIS Engineering Platform and Starter Kit
 * the ETIS public repository
-* student professional engineering resources
-* instructor course materials
-* educational products
-* implementation examples
-* adoption guidance
-* professional engineering tools
-* review board practices
-* evidence-centered workflows
+* educational products and adoption guidance
+* implementation examples and professional engineering tools
+* review-board and evidence-centered engineering practices
 
-These resources transform ETIS from a static reference into a continuously evolving engineering framework.
+These resources extend the Framework Reference Work into a broader professional ecosystem for learning, application, teaching, adoption, and stewardship.
 
 The objective is not simply to teach concepts.
 
@@ -335,7 +332,7 @@ They will emerge from engineers who continuously maintain evidence, governance, 
 
 ## Bottom Line
 
-The ETIS two-volume edition presents one framework in two complementary movements.
+The ETIS Two-Volume Professional Edition presents one Framework Reference Work in two complementary movements.
 
 ```text
 Volume I

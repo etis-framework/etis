@@ -15,7 +15,7 @@ hide:
 
 The ETIS appendices are the professional reference library of the framework.
 
-The Two-Volume Edition develops ETIS across the lifecycle. The appendices consolidate the most reusable structures into durable reference materials that readers can consult during engineering work, reviews, teaching, governance, operations, adoption, and stewardship.
+The ETIS Framework Reference Work develops ETIS across the lifecycle and is presented in the **ETIS Two-Volume Professional Edition**. The appendices consolidate the most reusable structures into durable reference materials that readers can consult during engineering work, reviews, teaching, governance, operations, adoption, and stewardship.
 
 They are not supplementary afterthoughts. They are where major ETIS ideas become easier to inspect, compare, apply, and reuse.
 
@@ -59,7 +59,7 @@ Engineering Decisions, Reviews, Evidence, and Governance
 Operational Practice and Stewardship
 ```
 
-The appendices support the book, Publications Program, Educational Ecosystem, and Engineering Platform without replacing engineering judgment.
+The appendices support the Framework Reference Work, Publications Program, Educational Ecosystem, and Engineering Platform without replacing engineering judgment.
 
 ---
 
