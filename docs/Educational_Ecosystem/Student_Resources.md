@@ -42,6 +42,8 @@ The ETIS Engineering Platform provides the practical workspace. Engineering Stag
 | [Launch the Engineering Platform ↗](https://platform.etisframework.org) | Enter the working project environment |
 | [Student Professional Engineering Guide](Educational_Products.md#student-product) | Obtain deeper practical guidance |
 
+Course requirements vary by implementation. Your instructor or course LMS determines which ETIS books, publications, tools, and resources are required.
+
 ---
 
 ## Professional Computing and Engineering Judgment
@@ -330,7 +332,7 @@ Students should leave the course with evidence of engineering ability—not only
 
 1. Read the Education Papers and any ETIS book assigned or relevant to your course.
 2. Understand repository-centered engineering.
-3. Set up the Engineering Platform Project Workspace.
+3. Use the Engineering Platform Project Workspace or the course-specific repository environment designated by your instructor.
 4. Organize evidence before producing too much code.
 5. Use the Student Submission Preflight Toolkit throughout the project to identify repository gaps and strengthen engineering evidence.
 6. Use AI responsibly and visibly.
