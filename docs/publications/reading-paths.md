@@ -106,5 +106,5 @@ The books and publications are complementary: publications provide focused argum
   <a class="md-button md-button--primary" href="../white-papers/">ETIS White Papers</a>
   <a class="md-button" href="../executive-briefs/">Executive Briefs</a>
   <a class="md-button" href="../education-papers/">Education Papers</a>
-  <a class="md-button" href="../Books/index.md">ETIS Books</a>
+  <a class="md-button" href="/Books/">ETIS Books</a>
 </div>

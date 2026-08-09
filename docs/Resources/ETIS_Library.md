@@ -180,17 +180,17 @@ Each publication has:
 <div style="margin-top:.75rem;">
 
 <a class="md-button md-button--primary"
-   href="../publications/index.md">
+   href="/publications/">
 Explore Publications
 </a>
 
 <a class="md-button"
-   href="../publications/reading-paths.md">
+   href="/publications/reading-paths/">
 View Reading Paths
 </a>
 
 <a class="md-button"
-   href="../publications/citations.md">
+   href="/publications/citations/">
 Citation & Version Information
 </a>
 

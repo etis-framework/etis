@@ -37,6 +37,9 @@ hide:
       </p>
 
       <div class="etis-hero-links">
+        <a class="etis-education-link" href="Books/">
+          Explore Books →
+        </a>
         <a class="etis-education-link" href="Educational_Ecosystem/Educational_Ecosystem/">
           Explore Education →
         </a>

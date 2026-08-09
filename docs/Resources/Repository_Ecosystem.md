@@ -33,7 +33,7 @@ The Starter Kit repository demonstrates how to apply the discipline.
 
 | Repository | Public Site | Primary Responsibility |
 |---|---|---|
-| **ETIS Framework Repository** | [etisframework.org](https://etisframework.org) | Authoritative source for the framework, book, Publications Program, educational ecosystem, downloads, resources, roadmap, and public website. |
+| **ETIS Framework Repository** | [etisframework.org](https://etisframework.org) | Authoritative source for the Framework, Framework Reference Work, Books and Professional Computing Series materials, Publications Program, Educational Ecosystem, downloads, resources, roadmap, and public website. |
 | **ETIS Engineering Platform Starter Kit Repository** | [platform.etisframework.org](https://platform.etisframework.org) | Practical implementation environment containing Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspace materials. |
 
 <div style="margin-top:.75rem;">
@@ -63,8 +63,10 @@ The Framework repository contains the authoritative source for the ETIS public k
 
 It includes:
 
-- the complete ETIS book;
-- the two-volume edition;
+- the complete *Engineering Trustworthy Intelligent Systems* Framework Reference Work;
+- the ETIS Two-Volume Professional Edition;
+- the ETIS Books architecture and Professional Computing Series materials;
+- *From Data Structures to Engineering Judgment* website and companion-resource materials;
 - the ETIS White Paper Series;
 - the ETIS Executive Brief Series;
 - the ETIS Education Paper Series;
@@ -77,7 +79,9 @@ It includes:
 - MkDocs website source;
 - visual, branding, and navigation assets.
 
-This repository is the long-term authority for ETIS doctrine, publications, and public framework content.
+This repository is the long-term authority for ETIS doctrine, the Framework Reference Work, ETIS Books, focused publications, and public framework content.
+
+[Explore ETIS Books →](../Books/index.md)
 
 [Explore ETIS Publications →](../publications/index.md)
 
@@ -112,7 +116,8 @@ This repository is the practical application layer for ETIS.
 ```text
 ETIS Framework Website and Repository
     Learn ETIS
-    Read the complete book
+    Read the Framework Reference Work
+    Explore ETIS Books and the Professional Computing Series
     Explore focused publications
     Understand the doctrine
     Use education and framework resources
@@ -221,7 +226,8 @@ A repository archive is a packaged distribution of the working repository. It do
 |---|---|
 | Learn what ETIS is | [What is ETIS?](../Framework/What_is_ETIS.md) |
 | Understand why ETIS exists | [Why ETIS?](../Framework/Why_ETIS.md) |
-| Read the complete framework | [Read Online](../Front_Matter/01_Title_Page.md) |
+| Read the complete Framework Reference Work | [Read Online](../Front_Matter/01_Title_Page.md) |
+| Explore ETIS Books and the Professional Computing Series | [ETIS Books](../Books/index.md) |
 | Explore ETIS publications | [Publications](../publications/index.md) |
 | Follow a publication reading path | [Reading Paths](../publications/reading-paths.md) |
 | Download books or products | [Downloads](download.md) |
@@ -259,9 +265,10 @@ Some specialized repositories may be distributed differently from the public fra
 
 ## Bottom Line
 
-ETIS is intentionally organized as a framework, publication, and platform ecosystem.
+ETIS is intentionally organized as a framework, books, publication, and platform ecosystem.
 
-The Framework explains the discipline.  
-Publications extend the discipline through focused, citable guidance.  
-The Platform operationalizes the discipline.  
+The Framework Reference Work explains the discipline.
+The Professional Computing Series develops durable professional capabilities aligned with ETIS.
+Publications provide focused, citable guidance.
+The Platform operationalizes the discipline.
 The repositories preserve the source, reusable assets, and engineering evidence that make ETIS inspectable.

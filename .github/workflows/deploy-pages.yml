@@ -33,7 +33,10 @@ jobs:
 
       - name: Install MkDocs
         run: |
-          pip install mkdocs mkdocs-material
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements-docs.txt
+          python --version
+          mkdocs --version
 
       - name: Build site
         run: mkdocs build --clean --strict

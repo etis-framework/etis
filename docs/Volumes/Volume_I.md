@@ -13,7 +13,7 @@ hide:
 
 **Foundations and Engineering Construction**
 
-Volume I establishes the engineering foundation for trustworthy intelligent systems. It moves from the mindset of professional software engineering into the practices required to define intent, manage complexity, organize repository evidence, develop requirements, make architectural decisions, plan work, use AI responsibly, review implementation, verify behavior, and defend release readiness.
+Volume I is the first half of the **ETIS Framework Reference Work** and establishes the engineering foundation for trustworthy intelligent systems. It moves from the mindset of professional software engineering into the practices required to define intent, manage complexity, organize repository evidence, develop requirements, make architectural decisions, plan work, use AI responsibly, review implementation, verify behavior, and defend release readiness.
 
 ## Central Question
 
@@ -57,9 +57,9 @@ It answers the question:
 
 ## Before You Begin
 
-If you are new to ETIS, start with the ETIS Two-Volume Edition overview to understand how the two volumes work together.
+If you are new to ETIS, start with the ETIS Two-Volume Professional Edition overview to understand how the two volumes work together.
 
-[Explore the ETIS Two-Volume Edition →](ETIS_Two_Volume_Edition.md)
+[Explore the ETIS Two-Volume Professional Edition →](ETIS_Two_Volume_Edition.md)
 
 ## Volume Snapshot
 
@@ -72,9 +72,13 @@ If you are new to ETIS, start with the ETIS Two-Volume Edition overview to under
 
 ## Beyond This Volume
 
-Volume I is one component of the broader ETIS ecosystem.
+Volume I is the first of two integrated volumes in the ETIS Framework Reference Work.
 
-Explore additional publication formats, downloadable products, educational resources, and professionally printed editions.
+For the complete publishing context, explore the Framework Reference Work, ETIS Books, publications, downloadable products, educational resources, and professionally printed editions.
+
+[Explore the Framework Reference Work →](../Books/ETIS_Framework_Reference.md)
+
+[Explore ETIS Books →](../Books/index.md)
 
 [Explore the ETIS Library →](../Resources/ETIS_Library.md)
 

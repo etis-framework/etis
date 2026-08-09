@@ -1,7 +1,10 @@
 site_name: Engineering Trustworthy Intelligent Systems
 site_url: https://etisframework.org/
 site_description: Software Engineering, Governance, and Operational Trust in the AI Era
-site_author: Dr. William O'Connell
+site_author: William O'Connell, Ph.D.
+
+repo_url: https://github.com/etis-framework/etis
+repo_name: etis-framework/etis
 
 theme:
   name: material
@@ -12,8 +15,11 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.path
     - navigation.top
     - navigation.footer
+    - toc.follow
+    - search.suggest
     - search.highlight
     - search.share
     - content.code.copy
@@ -149,6 +155,14 @@ nav:
           - Companion Resources: Books/engineering-judgment/companion-resources.md
           - Updates & Errata: Books/engineering-judgment/updates-and-errata.md
 
+  - Publications:
+     - Overview: publications/index.md
+     - White Papers: publications/white-papers/index.md
+     - Executive Briefs: publications/executive-briefs/index.md
+     - Education Papers: publications/education-papers/index.md
+     - Reading Paths: publications/reading-paths.md
+     - Citation & Version Information: publications/citations.md
+
   - Education:
       - Educational Ecosystem: Educational_Ecosystem/Educational_Ecosystem.md
       - Educational Products: Educational_Ecosystem/Educational_Products.md
@@ -159,21 +173,13 @@ nav:
 
   - Platform: Platform/Platform.md
 
-  - Publications:
-     - Overview: publications/index.md
-     - White Papers: publications/white-papers/index.md
-     - Executive Briefs: publications/executive-briefs/index.md
-     - Education Papers: publications/education-papers/index.md
-     - Reading Paths: publications/reading-paths.md
-     - Citation & Version Information: publications/citations.md
-
   - Resources:
       - Resource Center: Resources/Resources.md
       - ETIS Library: Resources/ETIS_Library.md
       - Downloads: Resources/download.md
       - Repository Ecosystem: Resources/Repository_Ecosystem.md
   
-  - Appendices:
+  - Reference Appendices:
       - Appendices Overview: Appendices/Appendices.md
       - Appendix A: Appendices/Appendix_A/Appendix_A.md
       - Appendix B: Appendices/Appendix_B/Appendix_B.md
