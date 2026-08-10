@@ -103,7 +103,7 @@ Each stage provides:
 - stage manifests;
 - links to templates and reference examples.
 
-[Explore the Engineering Stages ↗](https://platform.etisframework.org/engineering-stages/)
+[Explore the Engineering Stages ↗](https://platform.etisframework.org/engineering/)
 
 ---
 
@@ -200,7 +200,7 @@ Governance is not added after engineering work.
 
 Within ETIS, governance is architecture.
 
-[Explore Governance Assets ↗](https://platform.etisframework.org/governance/)
+[Explore Governance Assets ↗](https://platform.etisframework.org/template-library/governance/)
 
 ---
 
