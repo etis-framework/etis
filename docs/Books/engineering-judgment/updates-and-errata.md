@@ -17,6 +17,16 @@ This page is the authoritative ETIS website location for post-publication correc
 
 ---
 
+## Current Edition
+
+- **Published:** August 2026 · First Edition
+- **Paperback ISBN:** 979-8-9966760-4-0
+- **Hardcover ISBN:** 979-8-9966760-5-7
+
+Corrections and clarifications posted here apply to the First Edition unless an entry explicitly identifies another edition.
+
+---
+
 ## Current Status
 
 **No errata have been posted.**

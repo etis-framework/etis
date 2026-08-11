@@ -17,7 +17,7 @@ ETIS Books form the long-form publishing foundation of the ETIS ecosystem.
 
 The **ETIS Framework Reference Work, _Engineering Trustworthy Intelligent Systems_**, is the definitive two-volume professional treatment of the ETIS Framework and its software-engineering discipline for the AI era. It addresses how software and intelligent systems should be framed, engineered, verified, governed, operated, and stewarded—from requirements and architecture through construction, release, operational trust, oversight, learning, and long-term responsibility.
 
-The **ETIS Professional Computing Series** extends that foundation through books that develop enduring professional capabilities aligned with ETIS. Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing evidence-based engineering judgment, disciplined tradeoff reasoning, AI accountability, system thinking, and professional responsibility.
+The **ETIS Professional Computing Series** complements that foundation through books that develop enduring professional capabilities aligned with ETIS. Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing evidence-based engineering judgment, disciplined tradeoff reasoning, AI accountability, system thinking, and professional responsibility.
 
 ---
 
@@ -59,10 +59,25 @@ Together, the two book roles connect professional formation with full-lifecycle 
   </a>
 </div>
 
-<p style="text-align:center; margin:.2rem 0 1.4rem 0;">
+<p style="text-align:center; margin:.2rem 0 .9rem 0;">
   <strong>ETIS Two-Volume Professional Edition</strong><br>
   <span style="font-size:.92rem;">One integrated framework. Two lifecycle movements.</span>
 </p>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1rem; width:100%; max-width:720px; margin:0 auto 1.45rem auto; font-size:.92rem;">
+  <div style="border:1px solid #e0e0e0; border-radius:.25rem; padding:.8rem 1rem;">
+    <strong>Volume I</strong><br>
+    <strong>Published:</strong> July 2026 · First Edition<br>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-0-2</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-3-3</span>
+  </div>
+  <div style="border:1px solid #e0e0e0; border-radius:.25rem; padding:.8rem 1rem;">
+    <strong>Volume II</strong><br>
+    <strong>Published:</strong> July 2026 · First Edition<br>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-2-6</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-1-9</span>
+  </div>
+</div>
 
 **_Engineering Trustworthy Intelligent Systems_ is the foundational reference work of the ETIS ecosystem.** Across 39 chapters in four parts and two integrated volumes, it presents the complete professional framework for software engineering, governance, operational trust, and stewardship in the AI era.
 
@@ -74,6 +89,7 @@ The volumes are not separate works. They are complementary parts of one integrat
 [Explore the Framework Reference Work →](ETIS_Framework_Reference.md){ .md-button .md-button--primary }
 [Explore the Two-Volume Edition →](../Volumes/ETIS_Two_Volume_Edition.md){ .md-button }
 [Read ETIS Online →](../Front_Matter/01_Title_Page.md){ .md-button }
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 
 ---
 
@@ -93,17 +109,18 @@ The series provides a durable home for future ETIS-aligned books that develop or
   </div>
   <div style="flex:1 1 320px; min-width:280px;">
     <p style="margin-top:0;"><strong>From Data Structures to Engineering Judgment</strong><br>
-    <em>Professional Computing in the AI Era</em><br>
+    <em>Engineering Trustworthy Intelligent Systems in the AI Era</em><br>
     William T. O'Connell, Ph.D.</p>
 
     <p>The inaugural title uses data structures and algorithms as the <strong>technical teaching vehicle</strong> for developing professional engineering judgment. Lists, trees, hashing, priority queues, sorting, graphs, and algorithm analysis are important in their own right, but the larger purpose is to teach readers to make explicit decisions, expose assumptions, protect invariants, evaluate evidence, understand tradeoffs, verify AI-assisted work, and own the consequences of what gets built.</p>
 
     <p>It is intentionally not a conventional data structures textbook, Java programming guide, or algorithms reference.</p>
 
-    <p><strong>Status:</strong> Forthcoming · First Edition · 2026<br>
+    <p><strong>Published:</strong> August 2026 · First Edition<br>
     <strong>PDF edition:</strong> Free website download<br>
     <strong>Amazon:</strong> Coming soon<br>
-    <strong>ISBN:</strong> Coming soon</p>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-4-0</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-5-7</span></p>
   </div>
 </div>
 
@@ -117,24 +134,31 @@ The book develops a cumulative professional formation arc through **Representati
 
 ## How the Books Work Together
 
-The relationship is cumulative rather than competitive.
+The relationship is **complementary rather than competitive or sequential**.
 
 ```text
-Professional Formation
-From Data Structures to Engineering Judgment
-        ↓
-Engineering Judgment
-Explicit decisions · Evidence · Boundaries · Tradeoffs · Accountability
-        ↓
-Full-Lifecycle Engineering
-Engineering Trustworthy Intelligent Systems
-        ↓
-Requirements · Architecture · Construction · Verification
-Operations · Governance · Oversight · Stewardship
+                    ETIS Ecosystem
+                          │
+          ┌───────────────┴───────────────┐
+          │                               │
+Professional Computing            Framework Reference Work
+          │                               │
+From Data Structures              Engineering Trustworthy
+to Engineering Judgment           Intelligent Systems
+          │                               │
+Engineering Judgment              Full-Lifecycle Engineering
+Evidence and Tradeoffs            Governance and Oversight
+AI Accountability                 Operational Trust
+Professional Responsibility       Long-Term Stewardship
+          │                               │
+          └───────────────┬───────────────┘
+                          │
+             Trustworthy Engineering
+                 in the AI Era
 ```
 
-*From Data Structures to Engineering Judgment* develops habits of mind for making technical decisions explicit, bounded, evidence-based, and accountable.
+*From Data Structures to Engineering Judgment* develops and applies professional engineering judgment in a focused computing domain, using data structures and algorithms as the technical teaching vehicle.
 
-*Engineering Trustworthy Intelligent Systems* extends those habits across complete software lifecycles and intelligent systems that must remain understandable, reviewable, governable, observable, recoverable, and worthy of trust in operation.
+*Engineering Trustworthy Intelligent Systems* is the foundational ETIS Framework Reference Work, providing the comprehensive lifecycle discipline for engineering, governing, operating, and stewarding trustworthy intelligent systems.
 
-Neither work replaces the other. Together they connect professional formation to full-lifecycle engineering practice.
+Neither work is a prerequisite for or continuation of the other. Together they provide different but mutually reinforcing paths into the same ETIS engineering philosophy.

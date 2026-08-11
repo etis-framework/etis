@@ -80,6 +80,12 @@ The same frameworks can be adapted as lightweight professional review discipline
 
 ## Current Availability
 
+These resources currently support the published First Edition.
+
+- **Published:** August 2026 · First Edition
+- **Paperback ISBN:** 979-8-9966760-4-0
+- **Hardcover ISBN:** 979-8-9966760-5-7
+
 Resources will be added and stewarded over time.
 
 The complete PDF edition is available as a free ETIS website download.
