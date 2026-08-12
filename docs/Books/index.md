@@ -67,13 +67,13 @@ Together, the two book roles connect professional formation with full-lifecycle 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1rem; width:100%; max-width:720px; margin:0 auto 1.45rem auto; font-size:.92rem;">
   <div style="border:1px solid #e0e0e0; border-radius:.25rem; padding:.8rem 1rem;">
     <strong>Volume I</strong><br>
-    <strong>Published:</strong> July 2026 · First Edition<br>
+    <strong>Published:</strong> June 2026 · First Edition<br>
     <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-0-2</span><br>
     <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-3-3</span>
   </div>
   <div style="border:1px solid #e0e0e0; border-radius:.25rem; padding:.8rem 1rem;">
     <strong>Volume II</strong><br>
-    <strong>Published:</strong> July 2026 · First Edition<br>
+    <strong>Published:</strong> June 2026 · First Edition<br>
     <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-2-6</span><br>
     <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-1-9</span>
   </div>
