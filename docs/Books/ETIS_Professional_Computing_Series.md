@@ -48,13 +48,14 @@ The series is intentionally selective. It is not organized around a publication 
          style="width:230px; max-width:100%; height:auto; border:1px solid #d9d9d9; box-shadow:0 10px 30px rgba(0,0,0,.12); border-radius:.25rem;">
   </div>
   <div style="flex:1 1 320px; min-width:280px;">
-    <p style="margin-top:0;"><em>Professional Computing in the AI Era</em><br>
+    <p style="margin-top:0;"><em>Engineering Trustworthy Intelligent Systems in the AI Era</em><br>
     <strong>William T. O'Connell, Ph.D.</strong></p>
 
-    <p><strong>Status:</strong> Forthcoming · First Edition · 2026<br>
+    <p><strong>Published:</strong> August 2026 · First Edition<br>
     <strong>PDF edition:</strong> Free download on the ETIS website<br>
     <strong>Amazon paperback:</strong> Coming soon<br>
-    <strong>ISBN:</strong> Coming soon</p>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-4-0</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-5-7</span></p>
 
     <p>The inaugural title uses data structures and algorithms as a vehicle for developing engineering judgment rather than treating technical topics as isolated mechanisms to memorize.</p>
   </div>
@@ -86,16 +87,24 @@ The series and the ETIS Framework are related but not identical.
 - The **ETIS Framework Reference Work** defines the complete lifecycle discipline.
 - The **Professional Computing Series** develops the professional judgment needed to apply that discipline responsibly.
 
-The relationship is cumulative:
+The relationship is **complementary rather than competitive or sequential**:
 
 ```text
-Professional Formation
-↓
-Engineering Judgment
-↓
-Full-Lifecycle Engineering
-↓
-Operational Trust, Governance, Oversight, and Stewardship
+                    ETIS Ecosystem
+                          │
+          ┌───────────────┴───────────────┐
+          │                               │
+Professional Computing            Framework Reference Work
+          │                               │
+Engineering Judgment              Full-Lifecycle Engineering
+Technical Decision-Making         Governance and Oversight
+Evidence and Tradeoffs            Operational Trust
+Professional Responsibility       Long-Term Stewardship
+          │                               │
+          └───────────────┬───────────────┘
+                          │
+             Trustworthy Engineering
+                 in the AI Era
 ```
 
-That is why the series belongs within the ETIS publishing ecosystem while each title remains capable of standing on its own as a professional computing book.
+That is why the series belongs within the ETIS publishing ecosystem while each title remains capable of standing on its own. The Professional Computing Series applies and reinforces ETIS principles in focused computing domains without serving as a prerequisite to, or continuation of, the Framework Reference Work.

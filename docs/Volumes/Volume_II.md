@@ -11,9 +11,19 @@ hide:
 
 # Volume II — Parts III–IV
 
-**Operations, Governance, and Organizational Trust**
+**Operations, Governance, Oversight, and Stewardship**
 
 Volume II is the second half of the **ETIS Framework Reference Work** and moves beyond construction into the realities of operation, governance, organizational trust, and long-term stewardship. It examines what happens after a system begins to matter: defects emerge, incidents occur, AI use expands, operational evidence accumulates, governance decisions become consequential, and organizations must learn from real system behavior.
+
+---
+
+## Publication Information
+
+- **Published:** July 2026 · First Edition
+- **Paperback ISBN:** 979-8-9966760-2-6
+- **Hardcover ISBN:** 979-8-9966760-1-9
+
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 
 ## Central Question
 
@@ -72,7 +82,7 @@ If you are new to ETIS, start with the ETIS Two-Volume Professional Edition over
 
 ## Beyond This Volume
 
-Volume II completes the integrated ETIS Framework Reference Work.
+Volume II completes the integrated ETIS Framework Reference Work. Volume I and Volume II are separately published and purchasable, but neither is an independent work; together they form the complete two-volume Framework Reference Work.
 
 The broader ETIS ecosystem extends the Framework into focused publications, professional computing books, education, implementation, and adoption resources.
 
@@ -92,4 +102,6 @@ Continue exploring:
 [Explore the Educational Ecosystem →](../Educational_Ecosystem/Educational_Ecosystem.md)
 
 [Explore the ETIS Library →](../Resources/ETIS_Library.md)
+
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D)
 

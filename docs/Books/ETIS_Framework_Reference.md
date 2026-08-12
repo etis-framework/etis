@@ -30,15 +30,34 @@ hide:
   </a>
 </div>
 
-<p style="text-align:center; margin:.2rem 0 1.3rem 0;">
+<p style="text-align:center; margin:.2rem 0 .9rem 0;">
   <strong>ETIS Two-Volume Professional Edition</strong><br>
   <span style="font-size:.94rem;">One integrated framework. Two lifecycle movements.</span>
 </p>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1rem; width:100%; max-width:720px; margin:0 auto 1.45rem auto; font-size:.92rem;">
+  <div style="border:1px solid #e0e0e0; border-radius:.25rem; padding:.8rem 1rem;">
+    <strong>Volume I</strong><br>
+    <strong>Published:</strong> July 2026 · First Edition<br>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-0-2</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-3-3</span>
+  </div>
+  <div style="border:1px solid #e0e0e0; border-radius:.25rem; padding:.8rem 1rem;">
+    <strong>Volume II</strong><br>
+    <strong>Published:</strong> July 2026 · First Edition<br>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-2-6</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-1-9</span>
+  </div>
+</div>
 
 <div style="text-align:center; margin:0 0 1.6rem 0;">
   <a class="md-button md-button--primary" href="../../Volumes/ETIS_Two_Volume_Edition/">Explore the Two-Volume Edition</a>
   <a class="md-button" href="../../Front_Matter/01_Title_Page/">Read ETIS Online</a>
   <a class="md-button" href="../../Resources/download/">Download Editions</a>
+  <a class="md-button"
+     href="https://www.amazon.com/dp/B0H6297N1D"
+     target="_blank"
+     rel="noopener">View Print Editions on Amazon ↗</a>
 </div>
 
 !!! info "One framework reference, two lifecycle movements"
@@ -178,9 +197,11 @@ The ETIS Professional Computing Series serves a different but complementary purp
 
 Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing explicit, evidence-based technical judgment: identifying assumptions, protecting invariants, testing claims, defining evidence boundaries, evaluating tradeoffs, understanding system consequences, verifying AI-assisted work, and owning decisions professionally.
 
-The Framework Reference Work extends those disciplines across complete software lifecycles and intelligent systems that must be engineered, governed, operated, and stewarded over time.
+The Framework Reference Work applies related disciplines across complete software lifecycles and intelligent systems that must be engineered, governed, operated, and stewarded over time.
 
-> **Professional judgment prepares the engineer. The ETIS Framework organizes that judgment across the lifecycle.**
+The relationship is complementary rather than sequential: neither work is a prerequisite for, or continuation of, the other.
+
+> **The Professional Computing Series develops engineering judgment in focused computing domains. The ETIS Framework Reference Work organizes trustworthy engineering across the full lifecycle.**
 
 [Explore the ETIS Professional Computing Series →](ETIS_Professional_Computing_Series.md){ .md-button }
 [Explore *From Data Structures to Engineering Judgment* →](engineering-judgment/index.md){ .md-button }

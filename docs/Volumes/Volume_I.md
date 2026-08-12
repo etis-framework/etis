@@ -11,9 +11,19 @@ hide:
 
 # Volume I — Parts I–II
 
-**Foundations and Engineering Construction**
+**Foundations, Engineering Practices, and System Construction**
 
 Volume I is the first half of the **ETIS Framework Reference Work** and establishes the engineering foundation for trustworthy intelligent systems. It moves from the mindset of professional software engineering into the practices required to define intent, manage complexity, organize repository evidence, develop requirements, make architectural decisions, plan work, use AI responsibly, review implementation, verify behavior, and defend release readiness.
+
+---
+
+## Publication Information
+
+- **Published:** July 2026 · First Edition
+- **Paperback ISBN:** 979-8-9966760-0-2
+- **Hardcover ISBN:** 979-8-9966760-3-3
+
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 
 ## Central Question
 
@@ -74,13 +84,15 @@ If you are new to ETIS, start with the ETIS Two-Volume Professional Edition over
 
 Volume I is the first of two integrated volumes in the ETIS Framework Reference Work.
 
-For the complete publishing context, explore the Framework Reference Work, ETIS Books, publications, downloadable products, educational resources, and professionally printed editions.
+For the complete publishing context, explore the Framework Reference Work, ETIS Books, publications, downloadable products, educational resources, and professionally printed editions. Volume I and Volume II are separately published and purchasable, but together they form one integrated Framework Reference Work.
 
 [Explore the Framework Reference Work →](../Books/ETIS_Framework_Reference.md)
 
 [Explore ETIS Books →](../Books/index.md)
 
 [Explore the ETIS Library →](../Resources/ETIS_Library.md)
+
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D)
 
 ## What Comes Next
 

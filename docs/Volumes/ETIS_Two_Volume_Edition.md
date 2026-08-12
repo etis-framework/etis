@@ -15,13 +15,24 @@ hide:
 
 The Two-Volume Professional Edition improves usability without fragmenting the ETIS body of work. Volume I establishes the engineering foundation and construction practices required to build trustworthy intelligent systems. Volume II continues into operation, governance, organizational trust, and long-term stewardship.
 
-The volumes are not separate books or independent titles in a series.
+The volumes are separately published and independently purchasable, each with its own paperback and hardcover ISBNs, but they are not independent works.
 
 They are two complementary volumes of one integrated Framework Reference Work and two movements in a single professional engineering journey.
 
 > Trust is engineered continuously through evidence, governance, and human stewardship.
 
 ---
+
+## Publication Information
+
+Both volumes were published in **July 2026** as the **First Edition** of the ETIS Two-Volume Professional Edition.
+
+| Volume | Paperback ISBN | Hardcover ISBN |
+|---|---|---|
+| **Volume I — Foundations, Engineering Practices, and System Construction** | 979-8-9966760-0-2 | 979-8-9966760-3-3 |
+| **Volume II — Operations, Governance, Oversight, and Stewardship** | 979-8-9966760-2-6 | 979-8-9966760-1-9 |
+
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button .md-button--primary }
 
 ## Why a Two-Volume Professional Edition?
 
@@ -98,7 +109,7 @@ The transition between the two volumes reflects a central ETIS principle:
 
 ## Volume I — Parts I–II
 
-**Foundations and Engineering Construction**
+**Foundations, Engineering Practices, and System Construction**
 
 Volume I establishes the engineering foundation for trustworthy intelligent systems.
 
@@ -140,7 +151,7 @@ It moves from the mindset of professional software engineering into the practice
 
 ## Volume II — Parts III–IV
 
-**Operations, Governance, and Organizational Trust**
+**Operations, Governance, Oversight, and Stewardship**
 
 Volume II moves beyond construction into the realities of operating, governing, overseeing, and stewarding trustworthy intelligent systems.
 
@@ -294,11 +305,11 @@ Then use the ETIS Educational Ecosystem, instructor resources, student resources
 
 ## Print Editions
 
-The ETIS Two-Volume Professional Edition is also available as professionally printed paperback and hardcover editions through Amazon.
+The ETIS Two-Volume Professional Edition is available as professionally printed paperback and hardcover editions through Amazon. Each volume and format has its own ISBN, while the Amazon series page presents the two volumes together as one integrated professional edition.
 
 The ETIS website remains the authoritative source for the framework, educational ecosystem, and downloadable resources. Amazon provides a convenient option for readers who prefer durable print editions for long-term reference, teaching, and professional use.
 
-[View the ETIS Two-Volume Professional Edition on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+[View the ETIS Two-Volume Professional Edition on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 
 ---
 

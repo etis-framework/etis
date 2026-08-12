@@ -13,7 +13,7 @@ hide:
 
 **ETIS Professional Computing Series · Book 1**
 
-*Professional Computing in the AI Era*
+*Engineering Trustworthy Intelligent Systems in the AI Era*
 
 **William T. O'Connell, Ph.D.**
 
@@ -34,9 +34,11 @@ hide:
 </div>
 
 !!! note "Publication status"
+    **Published:** August 2026 · First Edition  
     **PDF edition:** Available here as a free ETIS website download.  
-    **Amazon listing:** Coming soon.  
-    **ISBN:** Coming soon.
+    **Amazon print editions:** Coming soon.  
+    **Paperback ISBN:** 979-8-9966760-4-0  
+    **Hardcover ISBN:** 979-8-9966760-5-7
 
 ---
 
@@ -116,9 +118,11 @@ For this title, the website provides:
 - educator and practitioner support materials;
 - and distribution links as they become available.
 
-Within the ETIS publishing architecture, the two-volume *Engineering Trustworthy Intelligent Systems* work defines the broader philosophy. *From Data Structures to Engineering Judgment* provides a professional foundation for the ETIS Professional Computing Series by developing the judgment readers need before applying that philosophy across complete software lifecycles, AI-assisted engineering, and future domain-specific ETIS work.
+Within the ETIS publishing architecture, the two-volume *Engineering Trustworthy Intelligent Systems* work is the foundational ETIS Framework Reference Work. *From Data Structures to Engineering Judgment* is Book 1 of the ETIS Professional Computing Series and applies and reinforces ETIS principles through a focused computing domain, using data structures and algorithms as the technical vehicle for developing professional engineering judgment.
 
-> **This book develops engineering judgment. The ETIS Framework applies that judgment across the lifecycle.**
+The relationship is complementary rather than competitive or sequential. Neither work is a prerequisite for, or continuation of, the other: the Professional Computing Series develops and applies enduring engineering judgment in focused computing domains, while the Framework Reference Work provides the comprehensive lifecycle discipline for engineering, governing, operating, and stewarding trustworthy intelligent systems.
+
+> **The Professional Computing Series develops engineering judgment in focused computing domains. The ETIS Framework Reference Work organizes trustworthy engineering across the full lifecycle.**
 
 [Explore the ETIS Professional Computing Series →](../ETIS_Professional_Computing_Series.md){ .md-button .md-button--primary }
 [Explore the ETIS Framework Reference Work →](../ETIS_Framework_Reference.md){ .md-button }
