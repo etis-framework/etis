@@ -19,7 +19,7 @@ Volume I is the first half of the **ETIS Framework Reference Work** and establis
 
 ## Publication Information
 
-- **Published:** July 2026 · First Edition
+- **Published:** June 2026 · First Edition
 - **Paperback ISBN:** 979-8-9966760-0-2
 - **Hardcover ISBN:** 979-8-9966760-3-3
 

@@ -19,7 +19,7 @@ Volume II is the second half of the **ETIS Framework Reference Work** and moves 
 
 ## Publication Information
 
-- **Published:** July 2026 · First Edition
+- **Published:** June 2026 · First Edition
 - **Paperback ISBN:** 979-8-9966760-2-6
 - **Hardcover ISBN:** 979-8-9966760-1-9
 
