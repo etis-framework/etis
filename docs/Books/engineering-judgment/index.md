@@ -29,6 +29,10 @@ hide:
      download>
      Download Free PDF
   </a>
+  <a class="md-button"
+     href="https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/">
+     View on Amazon ↗
+  </a>
   <a class="md-button" href="companion-resources/">Companion Resources</a>
   <a class="md-button" href="updates-and-errata/">Updates &amp; Errata</a>
 </div>
@@ -36,7 +40,7 @@ hide:
 !!! note "Publication status"
     **Published:** August 2026 · First Edition  
     **PDF edition:** Available here as a free ETIS website download.  
-    **Amazon print editions:** Coming soon.  
+    **Amazon:** [Available now ↗](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/)  
     **Paperback ISBN:** 979-8-9966760-4-0  
     **Hardcover ISBN:** 979-8-9966760-5-7
 
@@ -113,10 +117,10 @@ For this title, the website provides:
 
 - book identity and bibliographic information;
 - the authorized downloadable PDF edition;
+- print-edition purchase links;
 - companion resources;
 - updates and errata;
-- educator and practitioner support materials;
-- and distribution links as they become available.
+- and educator and practitioner support materials.
 
 Within the ETIS publishing architecture, the two-volume *Engineering Trustworthy Intelligent Systems* work is the foundational ETIS Framework Reference Work. *From Data Structures to Engineering Judgment* is Book 1 of the ETIS Professional Computing Series and applies and reinforces ETIS principles through a focused computing domain, using data structures and algorithms as the technical vehicle for developing professional engineering judgment.
 

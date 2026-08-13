@@ -13,7 +13,7 @@ hide:
 
 _Last updated: August 2026_
 
-Copyright © William T. O'Connell, Ph.D.
+Copyright © 2026 William T. O'Connell, Ph.D.
 
 All rights reserved.
 
@@ -26,7 +26,7 @@ This page applies generally to the ETIS Framework website and its protected cont
 - ETIS white papers, executive briefs, and education papers;
 - figures, appendices, and website content;
 - downloadable educational products;
-- publication metadata and associated assets;
+- original publication descriptions and associated creative assets;
 - other original ETIS materials unless separate terms are stated.
 
 Specific repositories, templates, examples, archives, or other resources may be governed by separate license files. Where a resource includes separate terms, those terms control for that resource.
@@ -69,7 +69,7 @@ Redistribution or reproduction of substantial protected ETIS content, educationa
 
 No permission is granted to use protected ETIS book text, figures, appendices, publications, downloadable materials, website content, or associated resources for training, fine-tuning, evaluation-dataset construction, synthetic-data generation, model distillation, or commercial development of artificial intelligence or machine-learning systems without prior written authorization from the copyright holder.
 
-This restriction does not limit lawful quotation, citation, analysis, or ordinary human use of the public materials.
+This restriction does not limit uses permitted by applicable law, including lawful quotation, citation, analysis, or other applicable exceptions.
 
 ## Repositories, Templates, and Starter Kits
 

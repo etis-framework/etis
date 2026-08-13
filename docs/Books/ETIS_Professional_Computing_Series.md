@@ -53,7 +53,7 @@ The series is intentionally selective. It is not organized around a publication 
 
     <p><strong>Published:</strong> August 2026 · First Edition<br>
     <strong>PDF edition:</strong> Free download on the ETIS website<br>
-    <strong>Amazon paperback:</strong> Coming soon<br>
+    <strong>Amazon:</strong> <a href="https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/">Available now ↗</a><br>
     <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-4-0</span><br>
     <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-5-7</span></p>
 
@@ -75,6 +75,7 @@ The book develops eight cumulative professional capabilities:
 | Production reality | **Responsibility** | What evidence supports readiness, what risks remain, and who owns the consequences? |
 
 [Explore the Book →](engineering-judgment/index.md){ .md-button .md-button--primary }
+[View on Amazon ↗](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/){ .md-button }
 [Companion Resources →](engineering-judgment/companion-resources.md){ .md-button }
 [Updates & Errata →](engineering-judgment/updates-and-errata.md){ .md-button }
 

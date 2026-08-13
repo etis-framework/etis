@@ -122,7 +122,9 @@ Each stage requires stronger evidence, better judgment, and greater ownership.
 
 ---
 
-## Engineering Platform Project Environment
+## A Professional Repository Pattern
+
+The Engineering Platform illustrates a professional repository structure in which responsibilities are separated clearly:
 
 | Area | Responsibility |
 |---|---|
@@ -135,6 +137,8 @@ Each stage requires stronger evidence, better judgment, and greater ownership.
 The most important area is often `docs/`.
 
 That is where intent, assumptions, decisions, reviews, risks, and release evidence become visible.
+
+Your course repository may adapt this structure. Follow the repository model and evidence requirements established by your instructor rather than assuming that every ETIS course uses the Platform Project Workspace directly.
 
 [Explore the Platform Overview →](../Platform/Platform.md)
 
@@ -151,6 +155,8 @@ The ETIS Student Submission Preflight Toolkit analyzes repository organization, 
 The toolkit is intended to strengthen engineering practice—not to replace thoughtful review or engineering judgment. Students remain responsible for the quality, accuracy, and completeness of the work they submit.
 
 Used throughout the semester, the Student Submission Preflight Toolkit encourages continuous repository improvement, reinforces evidence-centered engineering, and helps students prepare for engineering phase-gate reviews.
+
+[Explore Student Submission Preflight →](https://github.com/etis-framework/comp330-submission-preflight){ .md-button }
 
 ---
 

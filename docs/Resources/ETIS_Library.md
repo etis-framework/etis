@@ -91,7 +91,7 @@ It provides:
 - repository guidance;
 - continuing ecosystem updates.
 
-For Professional Computing Series titles, the website provides the canonical book record, authorized downloads, companion resources, updates, errata, and distribution links.
+For Professional Computing Series titles, the website provides the canonical book record, authorized downloads, companion resources, updates, errata, and print-edition purchase links.
 
 New public ETIS resources should appear on the website first.
 
@@ -107,7 +107,7 @@ ETIS books now serve two complementary publishing roles.
 
 *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* is the definitive ETIS framework reference. It defines the complete lifecycle discipline across software engineering, AI-assisted development, governance, operations, oversight, and stewardship.
 
-Its print and PDF form is the **ETIS Two-Volume Professional Edition**.
+For print publication, the Framework Reference Work is organized as the **ETIS Two-Volume Professional Edition**. Authorized PDF access is available both as the complete First Edition and as individual volume editions.
 
 ### ETIS Professional Computing Series
 
@@ -116,12 +116,16 @@ The **ETIS Professional Computing Series** develops durable professional judgmen
 The inaugural title is:
 
 **From Data Structures to Engineering Judgment**  
-*Professional Computing in the AI Era*  
+*Engineering Trustworthy Intelligent Systems in the AI Era*  
 William T. O'Connell, Ph.D.
 
 The book uses data structures and algorithms as a vehicle for developing engineering judgment about representation, prediction, evidence, tradeoffs, scale, policy, system consequences, AI-assisted engineering, and professional responsibility.
 
-The ETIS website provides a free PDF edition, companion resources, and the canonical publication record. Amazon availability and ISBN information will be added when available.
+The ETIS website provides a free PDF edition, companion resources, and the canonical publication record. Print editions are available through Amazon.
+
+**Published:** August 2026 · First Edition  
+**Paperback ISBN:** 979-8-9966760-4-0  
+**Hardcover ISBN:** 979-8-9966760-5-7
 
 <div style="margin-top:.75rem;">
 
@@ -133,6 +137,10 @@ Explore ETIS Books
 <a class="md-button"
    href="../../Books/engineering-judgment/">
 Explore Engineering Judgment
+</a>
+<a class="md-button"
+   href="https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/">
+View on Amazon ↗
 </a>
 
 <a class="md-button"
@@ -251,7 +259,7 @@ Volume II addresses how intelligent systems are operated, governed, observed, se
 
 ## Print Editions
 
-Professionally printed paperback and hardcover editions of the **ETIS Framework Reference Work** are available through Amazon. The Amazon listing for *From Data Structures to Engineering Judgment* is coming soon.
+Professionally printed paperback and hardcover editions of the ETIS Framework Reference Work and From Data Structures to Engineering Judgment are available through Amazon.
 
 Print editions support:
 
@@ -265,7 +273,9 @@ Print editions support:
 
 The website remains the authoritative and most current public source.
 
-[View the ETIS Book Series on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+[View the ETIS Framework Reference Work on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+
+[View From Data Structures to Engineering Judgment on Amazon →](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/)
 
 ---
 
@@ -338,17 +348,17 @@ Repository and platform resources support:
 
 ## Citation and Attribution
 
-### Cite the ETIS Book
+### Cite the ETIS Framework Reference Work
 
 Preferred citation:
 
-> O’Connell, William T. *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. First Edition. ETIS Framework, 2026.
+> O’Connell, William T. *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. First Edition. ETIS Framework, June 2026.
 
 ### Cite *From Data Structures to Engineering Judgment*
 
 Preferred citation:
 
-> O’Connell, William T. *From Data Structures to Engineering Judgment: Professional Computing in the AI Era*. First Edition. ETIS Framework, 2026.
+> O’Connell, William T. *From Data Structures to Engineering Judgment: Engineering Trustworthy Intelligent Systems in the AI Era*. First Edition. ETIS Framework, August 2026.
 
 Use the canonical book page for current edition information, companion resources, updates, and errata.
 
@@ -389,7 +399,7 @@ ETIS is designed to evolve without becoming unstable.
 | Support student or instructor development | [Education Papers](../publications/education-papers/index.md) |
 | Follow a role-based sequence | [Publication Reading Paths](../publications/reading-paths.md) |
 | Read offline | [Downloads](download.md) |
-| Use printed books | [Print Editions](https://www.amazon.com/dp/B0H6297N1D) |
+| Use printed books | [ETIS Framework Reference Work](https://www.amazon.com/dp/B0H6297N1D) · [From Data Structures to Engineering Judgment](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/) |
 | Teach a course | [Educational Products](../Educational_Ecosystem/Educational_Products.md) |
 | Understand the two-volume split | [Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md) |
 | Understand how the Platform supports ETIS adoption | [Platform Overview](../Platform/Platform.md) |

@@ -51,7 +51,7 @@ hide:
 </div>
 
 <div style="text-align:center; margin:0 0 1.6rem 0;">
-  <a class="md-button md-button--primary" href="../../Volumes/ETIS_Two_Volume_Edition/">Explore the Two-Volume Edition</a>
+  <a class="md-button md-button--primary" href="../../Volumes/ETIS_Two_Volume_Edition/">Explore the Two-Volume Professional Edition</a>
   <a class="md-button" href="../../Front_Matter/01_Title_Page/">Read ETIS Online</a>
   <a class="md-button" href="../../Resources/download/">Download Editions</a>
   <a class="md-button"
@@ -117,7 +117,7 @@ The volumes are complementary parts of one integrated framework. Readers can use
 <div style="margin-top:.8rem;">
   <a class="md-button md-button--primary"
      href="/Volumes/ETIS_Two_Volume_Edition/">
-    Explore the Two-Volume Edition
+    Explore the Two-Volume Professional Edition
   </a>
 
   <a class="md-button"

@@ -32,9 +32,9 @@ The **ETIS Professional Computing Series** provides a separate home for books th
 Its inaugural title is:
 
 **From Data Structures to Engineering Judgment**  
-*Professional Computing in the AI Era*
+*Engineering Trustworthy Intelligent Systems in the AI Era*
 
-The book uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, system thinking, and professional responsibility. It is not a conventional data structures textbook, programming guide, or algorithms reference.
+The book uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, systems thinking, and professional responsibility. It is not a conventional data structures textbook, programming guide, or algorithms reference.
 
 [Explore ETIS Books →](Books/index.md)
 
@@ -57,7 +57,7 @@ The publishing model is now explicit:
 - **Professional Computing Series** — sustained professional-formation books aligned with ETIS;
 - **Publications Program** — focused, citable White Papers, Executive Briefs, and Education Papers;
 - **Educational Ecosystem** — teaching, learning, tooling, implementation, and adoption guidance;
-- **Engineering Platform** — staged, repository-centered application environment;
+- **Engineering Platform** — professional reference and implementation environment for staged, repository-centered engineering;
 - **Downloads** — curated portable editions and implementation products.
 
 This alignment preserves clear boundaries while making it easier for readers to move from professional formation to framework doctrine, focused guidance, education, and practical application.
@@ -140,7 +140,7 @@ The ETIS Engineering Platform Starter Kit is complete and publicly available.
 
 - [Platform Overview](Platform/Platform.md)
 - [Launch the Engineering Platform ↗](https://platform.etisframework.org)
-- [Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
+- [Engineering Platform Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
 
 The Platform operationalizes the ETIS Framework through:
 
@@ -164,14 +164,14 @@ A new **Platform Overview** page on the ETIS Framework website now serves as the
 
 ### Public Ecosystem Architecture Completed
 
-The ETIS public architecture is built around two canonical repositories: the Framework Repository and the Engineering Platform Starter Kit Repository. Public course, adoption, demonstration, or implementation repositories may also exist; these are implementation artifacts and do not extend the canonical ETIS repository architecture.
+The ETIS public architecture is anchored by two primary repositories: the Framework Repository and the Engineering Platform Starter Kit Repository. These are complemented by specialized educational, community, course, and organization repositories that support focused capabilities while preserving clear responsibility and provenance.
 
 | Component | Role |
 |---|---|
 | **ETIS Framework Website** | Authoritative public site for the framework, Two-Volume Edition, Publications Program, education, downloads, resources, and ecosystem guidance |
 | **ETIS Engineering Platform Website** | Practical application site for stages, templates, examples, governance assets, and Project Workspace guidance |
 | **ETIS Framework Repository** | Source repository for the framework, book, publications, education, downloads, roadmap, and public website |
-| **ETIS Starter Kit Repository** | Source repository for the Engineering Platform and reusable engineering assets |
+| **ETIS Engineering Platform Starter Kit Repository** | Source repository for the Engineering Platform and reusable engineering assets |
 
 LMU/COICP is represented through completed reference examples inside the Engineering Platform Starter Kit rather than as a separate planned repository.
 
@@ -211,28 +211,34 @@ Together, the Framework Reference Work, ETIS Books, Publications, Educational Ec
 
 The ETIS First Edition established *Engineering Trustworthy Intelligent Systems* as the foundational Framework Reference Work for engineering trustworthy intelligent systems in the AI era.
 
-The release made ETIS available as:
+The initial public release made ETIS available through:
 
-- a complete online edition;
-- a downloadable full PDF;
-- a two-volume professional edition;
-- paperback editions;
-- hardcover editions.
+- the complete online Framework Reference Work;
+- the downloadable complete First Edition PDF;
+- the initial public Framework website and supporting resources.
+
+The ETIS Two-Volume Professional Edition followed in June 2026 with professionally published paperback and hardcover editions.
 
 The website remains the authoritative and continuously stewarded public source.
 
 ---
 
-### Two-Volume Professional Edition Released
+### Two Integrated Professional Volumes
+
+The ETIS Framework Reference Work was published as the **ETIS Two-Volume Professional Edition** in July 2026.
 
 | Volume | Focus |
 |---|---|
 | **Volume I** | Foundations, Engineering Practices, and System Construction |
 | **Volume II** | Operations, Governance, Oversight, and Stewardship |
 
-The Two-Volume Professional Edition improves readability, navigation, and long-term usability while preserving the integrity of the complete Framework Reference Work.
+The Two-Volume Professional Edition improves readability, navigation, teaching, and long-term professional use while preserving *Engineering Trustworthy Intelligent Systems* as one integrated Framework Reference Work.
+
+Paperback and hardcover editions are available for both volumes.
 
 [Explore the Two-Volume Professional Edition →](Volumes/ETIS_Two_Volume_Edition.md)
+
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D)
 
 ---
 
@@ -248,7 +254,7 @@ The ETIS Educational Ecosystem became publicly available with:
 
 The ecosystem transforms ETIS from a publication into a teachable framework for universities, instructors, students, and institutional adopters.
 
-The Engineering Platform now serves as the practical project environment for ETIS-aligned courses, labs, teams, and professional formation.
+The Engineering Platform provides a professional reference and implementation environment for ETIS-aligned courses, labs, teams, and professional formation. Course implementations may use the Platform Project Workspace directly or establish their own authoritative project repository model.
 
 [Explore the Educational Ecosystem →](Educational_Ecosystem/Educational_Ecosystem.md)
 

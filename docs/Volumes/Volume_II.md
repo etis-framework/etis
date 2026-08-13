@@ -91,7 +91,7 @@ Continue exploring:
 * ETIS Books and the Professional Computing Series
 * ETIS Publications
 * Educational Ecosystem and Educational Products
-* ETIS Engineering Platform and Starter Kit
+* ETIS Engineering Platform and its Starter Kit Repository
 * Repository Ecosystem
 * Resource Center and Downloads
 
@@ -103,5 +103,5 @@ Continue exploring:
 
 [Explore the ETIS Library →](../Resources/ETIS_Library.md)
 
-[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D)
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 

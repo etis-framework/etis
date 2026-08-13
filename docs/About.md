@@ -102,7 +102,7 @@ The volumes are not separate works. They are two lifecycle movements within one 
 
 ### ETIS Professional Computing Series
 
-The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, system thinking, and professional responsibility.
+The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, systems thinking, and professional responsibility.
 
 The series complements the Framework Reference Work. It does not replace or summarize it.
 
@@ -156,7 +156,7 @@ The goal is observable engineering maturity.
 
 ## The ETIS Engineering Platform
 
-The ETIS Engineering Platform is the practical implementation environment for the Framework Reference Work.
+The ETIS Engineering Platform is the professional reference and implementation environment for applying the ETIS Framework.
 
 The Framework Reference Work defines the discipline and comprehensive lifecycle treatment.  
 Publications provide focused guidance.  
@@ -175,7 +175,7 @@ The Platform includes:
 
 [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
-[Browse the Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
+[Browse the ETIS Engineering Platform Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
 
 ---
 
@@ -250,6 +250,8 @@ It can be applied within waterfall, iterative, agile, hybrid, DevOps, and AI-ass
 | **ETIS Publications** | Provide focused, citable guidance through White Papers, Executive Briefs, and Education Papers |
 | **Appendices** | Provide detailed professional reference material |
 | **Educational Ecosystem** | Supports teaching, learning, professional formation, and institutional adoption |
+| **Educational Engineering Tooling** | Supports student repository readiness and instructor evidence-centered review while preserving human engineering judgment |
+| **ETIS Community** | Provides a persistent public space for engineering questions, clarification, discussion, and shared professional learning |
 | **Platform Overview** | Introduces the ETIS implementation environment and how to begin |
 | **Engineering Platform** | Companion implementation site for stages, templates, examples, governance assets, and project workspaces |
 | **Resource Center** | Connects users to the right ETIS experience |
@@ -274,7 +276,9 @@ The ETIS First Edition and public ecosystem are established and available throug
 - the ETIS Books area and Professional Computing Series;
 - the ETIS Publications Program;
 - the Educational Ecosystem and downloadable educational products;
-- the ETIS Engineering Platform and Starter Kit;
+- the ETIS Engineering Platform and Engineering Platform Starter Kit Repository;
+- Student Submission Preflight and instructor engineering review tooling;
+- ETIS Community Discussions;
 - the Resource Center and Repository Ecosystem;
 - public legal, privacy, contact, and project information.
 

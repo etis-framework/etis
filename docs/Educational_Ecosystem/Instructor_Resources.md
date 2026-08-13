@@ -31,7 +31,7 @@ The **Education Papers** provide focused professional readings.
 
 The **Instructor Resources** provide the teaching system.
 
-The **ETIS Engineering Platform** provides the course project environment through staged lifecycle guidance, reusable templates, LMU/COICP examples, governance assets, and Project Workspaces.
+The **ETIS Engineering Platform** provides a professional reference and implementation environment through staged lifecycle guidance, reusable templates, LMU/COICP examples, governance assets, and Project Workspace patterns. Course implementations may use their own team repositories as the authoritative location for project-specific engineering evidence.
 
 ---
 
@@ -47,7 +47,7 @@ The **ETIS Engineering Platform** provides the course project environment throug
 | **COMP 330 Flagship Implementation Guide** | Real implementation reference without confusing one course with ETIS doctrine |
 | **ETIS Education Papers** | Professional student readings for orientation, teamwork, AI use, portfolios, and careers |
 | **Platform Overview** | Learn how the Platform supports ETIS courses |
-| **Launch the Engineering Platform ↗** | Enter the working project environment |
+| **Launch the Engineering Platform ↗** | Enter the working ETIS implementation environment |
 
 [Explore Educational Products →](Educational_Products.md)
 
@@ -277,27 +277,29 @@ Every offering should improve the next one.
 
 ---
 
-## Engineering Platform as the Project Environment
+## Engineering Platform as a Reference and Implementation Environment
 
 The Engineering Platform can support:
 
-- project startup;
+- project startup and lifecycle orientation;
 - staged engineering work;
-- requirements, architecture, and decision records;
-- AI-use records and verification evidence;
+- requirements, architecture, and decision-record patterns;
+- responsible AI-use and verification practices;
 - review and phase-gate preparation;
-- testing and release-readiness evidence;
+- testing and release-readiness practices;
 - operational thinking and stewardship.
 
 The Platform should be adapted to the course rather than treated as a rigid compliance system.
 
-The Engineering Platform supports student engineering work, while complementary educational tooling supports instructor review and assessment. Together they create a consistent repository-centered engineering workflow from project initiation through engineering evaluation.
+A course may use the Platform Project Workspace directly or establish a separate course-specific repository model. When a course-specific repository is designated, that repository remains the authoritative location for project-specific engineering evidence.
+
+The Engineering Platform provides lifecycle guidance, templates, examples, and professional reference patterns. Complementary educational tooling supports student readiness and instructor review. Together they reinforce a consistent repository-centered engineering workflow without requiring every course to use the same repository implementation.
 
 [Explore the Platform Overview →](../Platform/Platform.md)
 
 [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
-[Browse the Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
+[Browse the ETIS Engineering Platform Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
 
 ---
 
