@@ -323,7 +323,7 @@ Resources include:
 * the ETIS Professional Computing Series
 * the ETIS Publications Program
 * the Educational Ecosystem
-* the ETIS Engineering Platform and Starter Kit
+* the ETIS Engineering Platform and its Starter Kit Repository
 * the ETIS public repository
 * educational products and adoption guidance
 * implementation examples and professional engineering tools

@@ -25,7 +25,9 @@ It is where trust becomes reviewable.
 
 ## The Public ETIS Repository Model
 
-The public ETIS ecosystem has two complementary repositories.
+The public ETIS ecosystem is anchored by two primary repositories, complemented by specialized educational, community, and organization repositories.
+
+These two repositories form the primary Framework-and-Platform architecture. Specialized repositories support focused capabilities such as course implementations, student-facing engineering tooling, community participation, and organization-level resources.
 
 | Repository | Public Site | Primary Role |
 |---|---|---|
@@ -219,18 +221,21 @@ Readers should enter through the canonical publication webpages, not through rep
 
 For instructors, Repository-Centered Engineering gives students an environment where professional behavior becomes visible.
 
-Students can use the Engineering Platform to:
+Students can use the Engineering Platform as a professional reference and implementation environment to:
 
-- start a project using a disciplined workspace;
-- move through staged engineering work;
-- create requirements, plans, ADRs, review records, tests, and release evidence;
-- disclose and verify AI assistance;
-- compare their work against LMU/COICP examples;
-- defend readiness using evidence instead of presentation alone.
+- understand staged engineering work;
+- study reusable artifact structures;
+- examine requirements, planning, architecture, review, verification, release, and operational evidence patterns;
+- understand how AI assistance should be disclosed and verified;
+- compare engineering approaches against LMU/COICP reference examples;
+- and strengthen the quality of evidence preserved in their project repositories.
+
+When a course defines a course-specific team repository, that repository remains the authoritative location for project-specific engineering evidence. The Engineering Platform provides the lifecycle guidance, examples, templates, and professional reference model that help students produce stronger engineering work.
 
 The Framework teaches the professional doctrine.  
 The Education Papers reinforce professional formation.  
-The Platform gives the class a working environment.
+The Platform demonstrates how the discipline is applied.  
+The course repository preserves what the team actually did.
 
 [Explore the ETIS Education Papers →](../publications/education-papers/index.md)
 
@@ -287,4 +292,4 @@ It is where engineering truth lives.
 
 [Launch the ETIS Engineering Platform ↗](https://platform.etisframework.org)
 
-[Browse the ETIS Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
+[Browse the ETIS Engineering Platform Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)

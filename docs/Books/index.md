@@ -17,7 +17,7 @@ ETIS Books form the long-form publishing foundation of the ETIS ecosystem.
 
 The **ETIS Framework Reference Work, _Engineering Trustworthy Intelligent Systems_**, is the definitive two-volume professional treatment of the ETIS Framework and its software-engineering discipline for the AI era. It addresses how software and intelligent systems should be framed, engineered, verified, governed, operated, and stewarded—from requirements and architecture through construction, release, operational trust, oversight, learning, and long-term responsibility.
 
-The **ETIS Professional Computing Series** complements that foundation through books that develop enduring professional capabilities aligned with ETIS. Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing evidence-based engineering judgment, disciplined tradeoff reasoning, AI accountability, system thinking, and professional responsibility.
+The **ETIS Professional Computing Series** complements that foundation through books that develop enduring professional capabilities aligned with ETIS. Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing evidence-based engineering judgment, disciplined tradeoff reasoning, AI accountability, systems thinking, and professional responsibility.
 
 ---
 
@@ -87,7 +87,7 @@ Together, the two book roles connect professional formation with full-lifecycle 
 The volumes are not separate works. They are complementary parts of one integrated framework reference.
 
 [Explore the Framework Reference Work →](ETIS_Framework_Reference.md){ .md-button .md-button--primary }
-[Explore the Two-Volume Edition →](../Volumes/ETIS_Two_Volume_Edition.md){ .md-button }
+[Explore the Two-Volume Professional Edition →](../Volumes/ETIS_Two_Volume_Edition.md){ .md-button }
 [Read ETIS Online →](../Front_Matter/01_Title_Page.md){ .md-button }
 [View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 
@@ -118,7 +118,7 @@ The series provides a durable home for future ETIS-aligned books that develop or
 
     <p><strong>Published:</strong> August 2026 · First Edition<br>
     <strong>PDF edition:</strong> Free website download<br>
-    <strong>Amazon:</strong> Coming soon<br>
+    <strong>Amazon:</strong> Available now<br>
     <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-4-0</span><br>
     <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-5-7</span></p>
   </div>
@@ -129,6 +129,7 @@ The book develops a cumulative professional formation arc through **Representati
 [Explore the Professional Computing Series →](ETIS_Professional_Computing_Series.md){ .md-button .md-button--primary }
 [Explore the Book →](engineering-judgment/index.md){ .md-button }
 [Companion Resources →](engineering-judgment/companion-resources.md){ .md-button }
+[View on Amazon ↗](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/){ .md-button }
 
 ---
 

@@ -405,15 +405,17 @@ ETIS calls that professional identity the trustworthy engineer.
 |---|---|
 | [Why ETIS?](Why_ETIS.md) | Understand the engineering problem ETIS addresses |
 | [ETIS Framework](ETIS_Framework.md) | Understand the full framework and lifecycle |
+| [ETIS Books](../Books/index.md) | Explore the Framework Reference Work and ETIS Professional Computing Series |
 | [ETIS Publications](../publications/index.md) | Explore focused white papers, executive briefs, and education papers |
 | [Publication Reading Paths](../publications/reading-paths.md) | Follow a role-based publication sequence |
 | [Read Online](../Front_Matter/01_Title_Page.md) | Begin the complete online book |
-| [Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand the book structure |
+| [Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the Framework Reference Work is presented across two integrated volumes |
 | [Platform Overview](../Platform/Platform.md) | Understand the implementation environment and how to begin |
 | [Launch Engineering Platform ↗](https://platform.etisframework.org) | Enter the working stages, templates, examples, governance assets, and workspaces |
 | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Explore teaching, learning, and adoption |
 | [Resource Center](../Resources/Resources.md) | Navigate the complete ETIS ecosystem |
 | [Repository Ecosystem](../Resources/Repository_Ecosystem.md) | Understand public source and repository responsibilities |
+| [ETIS Community Discussions ↗](https://github.com/orgs/etis-framework/discussions) | Ask public questions, discuss ETIS, and participate in shared professional learning |
 
 ---
 

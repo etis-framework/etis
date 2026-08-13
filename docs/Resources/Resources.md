@@ -24,7 +24,8 @@ ETIS is organized as a connected professional ecosystem:
 - **ETIS Publications** provide focused, citable papers and executive guidance;
 - the **ETIS Engineering Platform** demonstrates how to apply ETIS;
 - the **Educational Ecosystem** supports teaching, learning, institutional adoption, and educational engineering practices;
-- **Educational Engineering Tooling** supports evidence-centered repository review for both instructors and students;
+- **Educational Engineering Tooling** supports repository readiness, evidence-centered review, and engineering evaluation workflows for students and instructors;
+- the **ETIS Community** provides a persistent public space for engineering questions, discussion, clarification, and shared learning;
 - the **ETIS Repositories** preserve source, reusable artifacts, and engineering evidence;
 - **Downloads** package selected ETIS products into durable, portable forms.
 
@@ -44,8 +45,9 @@ ETIS is organized as a connected professional ecosystem:
 | Follow a role-based publication sequence | [Publication Reading Paths](../publications/reading-paths.md) |
 | Understand and apply ETIS through the Platform | [Platform Overview](../Platform/Platform.md) |
 | Enter the working Engineering Platform | [Launch the Engineering Platform ↗](https://platform.etisframework.org) |
-| Use stages, templates, examples, or workspaces | [ETIS Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
+| Use stages, templates, examples, or workspaces | [ETIS Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
 | Teach or study ETIS | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) |
+| Discuss ETIS or participate in shared engineering questions | [ETIS Community Discussions](https://github.com/orgs/etis-framework/discussions) |
 | Download books, educational products, or the Starter Kit archive | [Downloads](download.md) |
 | Understand ETIS editions and publication formats | [ETIS Library](ETIS_Library.md) |
 | Inspect the Framework source | [ETIS Framework Repository](https://github.com/etis-framework/etis) |
@@ -62,7 +64,7 @@ ETIS is organized as a connected professional ecosystem:
 | **Platform Overview** | Canonical gateway on the ETIS Framework website introducing the Engineering Platform, its audiences, capabilities, and relationship to the ETIS ecosystem. |
 | **ETIS Engineering Platform Website** | Companion implementation environment for Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP examples, governance assets, and project workspaces. |
 | **ETIS Framework Repository** | Public source for the Framework website, book, publications, education materials, downloads, roadmap, and framework assets. |
-| **ETIS Starter Kit Repository** | Public source for the Engineering Platform, Template Library, LMU/COICP examples, governance assets, and Project Workspace. |
+| **ETIS Engineering Platform Starter Kit Repository** | Public source for the Engineering Platform, Template Library, LMU/COICP examples, governance assets, and Project Workspace. |
 
 **Read the Framework. Learn the discipline. Apply it through the Engineering Platform.**
 
@@ -137,7 +139,7 @@ The ETIS Engineering Platform is the practical implementation layer of ETIS. It 
 
 - [Platform Overview](../Platform/Platform.md)
 - [Launch the Engineering Platform ↗](https://platform.etisframework.org)
-- [ETIS Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
+- [ETIS Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
 - Engineering Stages ES-100 through ES-114
 - Template Library
 - LMU/COICP reference examples
@@ -163,11 +165,13 @@ The ETIS Educational Ecosystem supports instructors, students, universities, pro
 - [ETIS Education Papers](../publications/education-papers/index.md)
 - [Student and Instructor Reading Path](../publications/reading-paths.md#student-or-instructor)
 
-The Engineering Platform can serve as the project environment for ETIS-based courses, labs, team projects, and professional formation activities.
+The Engineering Platform can serve as a professional reference and implementation environment for ETIS-based courses, labs, team projects, and professional formation activities. Course-specific repositories remain the authoritative location for project-specific engineering evidence when the course implementation defines them that way.
 
 The Educational Ecosystem also includes complementary educational engineering tooling.
 
 Students can strengthen repository quality throughout a project using the **ETIS Student Submission Preflight Toolkit**, which evaluates repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal review.
+
+[Explore Student Submission Preflight →](https://github.com/etis-framework/comp330-submission-preflight)
 
 Instructors can perform evidence-centered repository reviews using the **ETIS Instructor Engineering Workbench**, which assists with lifecycle evaluation, engineering evidence assessment, and consistent review across multiple engineering teams.
 
@@ -201,7 +205,7 @@ Repository-centered engineering is the bridge between ETIS doctrine and ETIS pra
 - [Repository-Centered Engineering](../Framework/ETIS_Repository_Centered_Engineering.md)
 - [Repository Ecosystem](Repository_Ecosystem.md)
 - [ETIS Framework Repository](https://github.com/etis-framework/etis)
-- [ETIS Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
+- [ETIS Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
 
 The repository is where engineering memory becomes visible. Requirements, decisions, reviews, AI use, evidence, release readiness, operational learning, and stewardship records are preserved so trust can be inspected, challenged, defended, and improved.
 
@@ -243,6 +247,9 @@ New professional resources should extend the ecosystem without duplicating the E
 | **Educational Tooling** | Supports repository analysis, engineering evidence evaluation, lifecycle readiness, and educational review workflows. |
 | **Downloads** | Package selected ETIS products into durable, portable editions and archives. |
 | **Resource Center** | Connects users to the right ETIS experience based on their goal. |
+| **Community** | Supports persistent engineering discussion, questions, clarification, education, and shared professional learning across the ETIS ecosystem. |
+
+The Community connects people through persistent engineering discussion and shared learning.
 
 ---
 

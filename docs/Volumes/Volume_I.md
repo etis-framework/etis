@@ -92,7 +92,7 @@ For the complete publishing context, explore the Framework Reference Work, ETIS 
 
 [Explore the ETIS Library →](../Resources/ETIS_Library.md)
 
-[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D)
+[View Print Editions on Amazon ↗](https://www.amazon.com/dp/B0H6297N1D){ .md-button }
 
 ## What Comes Next
 

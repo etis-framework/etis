@@ -19,7 +19,7 @@ It shows how ETIS operates in a real software engineering course—and how the E
 
 > Educational laboratories are where educational frameworks become trustworthy.
 
-The ETIS Engineering Platform strengthens the implementation by providing a reusable project environment for staged engineering work. Teams can use Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspaces in a manner aligned with ETIS doctrine.
+The ETIS Engineering Platform strengthens the implementation by providing a professional reference and implementation environment for staged engineering work. Teams use its Engineering Stages ES-100 through ES-114, templates, LMU/COICP reference examples, and governance assets to strengthen how they engineer their work. Project-specific engineering evidence is preserved in each team’s course repository.
 
 ---
 
@@ -59,9 +59,9 @@ ETIS Improvement
 | **Project Model** | One team project matured across the semester |
 | **Engineering Model** | Two-cycle ETIS engineering model |
 | **Review Model** | Six engineering phase gates |
-| **Repository Model** | GitHub-supported repository-centered engineering |
+| **Repository Model** | Private team GitHub repositories created from the COMP 330 course starter kit and used as the authoritative engineering record |
 | **AI Model** | AI encouraged throughout the lifecycle and governed through ETIS principles |
-| **Platform Model** | ETIS Engineering Platform stages, templates, examples, governance assets, and workspaces |
+| **Platform Model** | ETIS Engineering Platform used as a professional reference and implementation environment providing stages, templates, examples, and governance assets |
 
 ---
 
@@ -210,25 +210,25 @@ Students use the ETIS Student Submission Preflight Toolkit to evaluate repositor
 
 Instructors use the ETIS Instructor Engineering Workbench to review repositories, analyze engineering evidence, assess lifecycle maturity, and support consistent evidence-centered evaluation across multiple engineering teams.
 
-Together, the Platform and educational tooling reinforce repository-centered engineering while preserving the principle that engineering judgment always remains a human responsibility.
+Together, the Platform, course repository, and educational tooling reinforce repository-centered engineering while preserving clear responsibilities: the Platform provides professional lifecycle guidance and reference patterns; the team repository preserves the project-specific engineering evidence; Student Submission Preflight helps students strengthen readiness; and the Instructor Engineering Workbench supports evidence-centered instructor review. Engineering judgment always remains a human responsibility.
 
 > **Flagship Implementation — COMP 330/474 Software Engineering**
-> The ETIS Engineering Platform and educational tooling are used together in COMP 330/474 as the flagship classroom implementation of the ETIS educational model. Student teams apply the lifecycle through six phase-gate reviews while building and evolving a semester-long engineering repository.
+> COMP 330/474 combines the ETIS Framework, Engineering Platform, course-specific team repositories, Student Submission Preflight, and instructor review tooling into the flagship classroom implementation of the ETIS educational model. Student teams apply the lifecycle through six phase-gate reviews while building and evolving a semester-long engineering repository that serves as the authoritative record of their engineering work.
 
 Students can:
 
-- use stages to understand what work comes next;
-- use templates to structure important artifacts;
+- use Platform stages to understand what work comes next;
+- use templates and reference patterns to structure important artifacts;
 - study LMU/COICP examples to calibrate quality;
-- use governance assets to make AI work visible;
-- preserve project-specific evidence in the Project Workspace;
-- connect construction, review, release, operations, and stewardship.
+- use governance guidance to make AI-assisted work visible and reviewable;
+- preserve project-specific evidence in their course team repository;
+- connect construction, review, release, operations, and stewardship across the lifecycle.
 
 [Explore the Platform Overview →](../Platform/Platform.md)
 
 [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
-[Browse the General ETIS Starter Kit ↗](https://github.com/etis-framework/etis-starter-kit)
+[Browse the ETIS Engineering Platform Starter Kit Repository ↗](https://github.com/etis-framework/etis-starter-kit)
 
 [View the COMP 330 Fall 2026 Starter Kit ↗](https://github.com/etis-framework/comp330-f26-starter-kit)
 

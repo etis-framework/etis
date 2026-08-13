@@ -161,7 +161,7 @@ The appendices provide the canonical reference architecture.
 
 The ETIS Publications Program provides focused treatments of selected ideas.
 
-The ETIS Engineering Platform turns those ideas into stages, templates, examples, governance assets, and project workspaces.
+The ETIS Engineering Platform provides a professional reference and implementation environment that turns those ideas into stages, templates, examples, governance assets, and Project Workspace patterns.
 
 ```text
 Appendices
@@ -171,7 +171,7 @@ Publications
 Focused explanation and decision guidance
 
 Engineering Platform
-Practical implementation
+Practical reference and implementation
 ```
 
 [Explore ETIS Publications →](../publications/index.md)

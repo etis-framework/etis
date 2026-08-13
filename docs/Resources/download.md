@@ -178,7 +178,7 @@ The **ETIS Professional Computing Series** develops the professional judgment re
 
 ### Book 1 — From Data Structures to Engineering Judgment
 
-*Professional Computing in the AI Era*  
+*Engineering Trustworthy Intelligent Systems in the AI Era*  
 **William T. O'Connell, Ph.D.**
 
 <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin:1rem 0 1.5rem 0;">
@@ -192,10 +192,11 @@ The **ETIS Professional Computing Series** develops the professional judgment re
   <div style="flex:1 1 320px; min-width:280px;">
     <p style="margin-top:0;">The inaugural title uses data structures and algorithms as the <strong>teaching vehicle</strong> for developing engineering judgment about representation, evidence, tradeoffs, system consequences, AI-assisted engineering, verification, and professional responsibility. It is intentionally not a conventional data structures textbook, Java programming guide, or algorithms reference.</p>
 
-    <p><strong>Edition:</strong> First Edition · 2026<br>
+    <p><strong>Published:</strong> August 2026 · First Edition<br>
     <strong>ETIS website PDF:</strong> Free download<br>
-    <strong>Amazon:</strong> Coming soon<br>
-    <strong>ISBN:</strong> Coming soon</p>
+    <strong>Amazon:</strong> Available now<br>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-4-0</span><br>
+   <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-5-7</span></p>
   </div>
 </div>
 
@@ -213,6 +214,11 @@ Open PDF
 </a>
 
 <a class="md-button"
+   href="https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/">
+View on Amazon ↗
+</a>
+
+<a class="md-button"
    href="/Books/engineering-judgment/">
 Explore Book
 </a>
@@ -224,7 +230,7 @@ Companion Resources
 
 </div>
 
-The canonical book page provides publication information, companion resources, updates, and errata. The PDF is the authorized free ETIS website edition; Amazon availability and ISBN information will be added when available.
+The canonical book page provides publication information, companion resources, updates, and errata. The PDF is the authorized free ETIS website edition; professionally printed editions are available through Amazon.
 
 [Explore the ETIS Professional Computing Series →](../Books/ETIS_Professional_Computing_Series.md)
 
@@ -370,6 +376,8 @@ These tools support continuous engineering improvement throughout the lifecycle 
 The Student Submission Preflight Toolkit helps engineering teams evaluate repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal engineering reviews.
 
 The toolkit is intended to strengthen engineering practice throughout the project rather than function solely as a final submission checker.
+
+[Explore Student Submission Preflight →](https://github.com/etis-framework/comp330-submission-preflight){ .md-button }
 
 ### ETIS Instructor Engineering Workbench
 

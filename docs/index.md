@@ -249,14 +249,14 @@ hide:
 <section class="etis-repo-section">
   <div class="etis-repo-inner">
     <h2>Applying ETIS Through the Engineering Platform</h2>
-    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference implementations, governance assets, and project workspaces.</p>
+    <p>The Framework defines the engineering discipline. The Engineering Platform demonstrates how disciplined engineering is applied through Engineering Stages ES-100–ES-114, reusable templates, reference examples, governance assets, and Project Workspace patterns.</p>
     <p>Complementary educational engineering tooling further supports repository-centered engineering by helping students strengthen engineering repositories before formal review and helping instructors perform consistent evidence-centered engineering evaluations.</p>
 
     <div class="etis-capability-row">
       <div><span>①</span><strong>Stages</strong><small>ES-100 through ES-114 guide lifecycle work.</small></div>
       <div><span>▤</span><strong>Templates</strong><small>Reusable artifacts preserve engineering judgment.</small></div>
       <div><span>🏛</span><strong>Examples</strong><small>LMU/COICP shows ETIS in practice.</small></div>
-      <div><span>🗂</span><strong>Workspace</strong><small>Project evidence has a clear home.</small></div>
+      <div><span>🗂</span><strong>Workspace</strong><small>Project evidence has a clear structure.</small></div>
       <div><span>⚖</span><strong>Governance</strong><small>AI use, review, and readiness become visible.</small></div>
       <div><span>↗</span><strong>Execution</strong><small>Teams move from doctrine to action.</small></div>
     </div>
@@ -266,7 +266,7 @@ hide:
     <div class="etis-platform-links" style="margin-top:.25rem; line-height:1.55;">
       <a class="etis-inline-link" href="Platform/Platform/">Explore the Platform →</a><br>
       <a class="etis-inline-link" href="https://platform.etisframework.org">Launch the Engineering Platform ↗</a><br>
-      <a class="etis-inline-link" href="https://github.com/etis-framework/etis-starter-kit">Browse the Starter Kit Repository ↗</a>
+      <a class="etis-inline-link" href="https://github.com/etis-framework/etis-starter-kit">Browse the Engineering Platform Starter Kit Repository ↗</a>
     </div>
   </div>
 </section>

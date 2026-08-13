@@ -288,7 +288,7 @@ Trustworthy engineering should be inspectable.
 
 ETIS is published as a public framework because the AI era needs shared engineering language, shared evidence models, shared educational patterns, and shared professional expectations.
 
-The Framework, Two-Volume Edition, Publications Program, Educational Ecosystem, Engineering Platform, downloads, and repositories are designed to make ETIS usable by:
+The Framework, Framework Reference Work, Professional Computing Series, Publications Program, Educational Ecosystem, Engineering Platform, Community, downloads, and repositories are designed to make ETIS usable by:
 
 - students;
 - instructors;
@@ -316,7 +316,7 @@ The Executive Briefs translate engineering consequences into leadership decision
 
 The Education Papers support professional formation for students, instructors, early-career engineers, and academic programs.
 
-Publications do not replace the Two-Volume Edition or the Framework. They provide focused entry points into them.
+Publications do not replace the ETIS Framework or its Framework Reference Work. They provide focused entry points into the broader body of ETIS knowledge and practice.
 
 [Explore ETIS Publications →](../publications/index.md)
 
@@ -380,15 +380,17 @@ That is the engineering question of the AI era.
 |---|---|
 | [What is ETIS?](What_is_ETIS.md) | Plain-language introduction to the framework |
 | [ETIS Framework](ETIS_Framework.md) | Full framework overview and lifecycle architecture |
+| [ETIS Books](../Books/index.md) | Explore the Framework Reference Work and Professional Computing Series |
 | [ETIS Publications](../publications/index.md) | Focused white papers, executive briefs, and education papers |
 | [Publication Reading Paths](../publications/reading-paths.md) | Role-based publication sequences |
 | [Platform Overview](../Platform/Platform.md) | Understand the implementation environment and how to begin |
 | [Launch Engineering Platform ↗](https://platform.etisframework.org) | Enter the working stages, templates, examples, governance assets, and project workspaces |
 | [Read Online](../Front_Matter/01_Title_Page.md) | Begin the complete online book |
-| [Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the two volumes work together |
+| [Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md) | Understand how the Framework Reference Work is presented across two integrated volumes |
 | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) | Explore teaching, learning, and institutional adoption |
 | [Resource Center](../Resources/Resources.md) | Navigate the complete ETIS ecosystem |
 | [Repository-Centered Engineering](ETIS_Repository_Centered_Engineering.md) | Understand repositories as systems of record for engineering evidence |
+| [ETIS Community Discussions ↗](https://github.com/orgs/etis-framework/discussions) | Participate in public ETIS questions, discussion, and shared professional learning |
 
 ---
 

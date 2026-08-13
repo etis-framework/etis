@@ -79,7 +79,7 @@ The ETIS ecosystem provides complementary layers rather than a single course pac
 - implementation examples;
 - adoption guidance;
 - long-term stewardship models;
-- the Engineering Platform as a practical project environment.
+- the Engineering Platform as a professional reference and implementation environment that can support project work.
 
 Educational tooling complements the Engineering Platform by helping instructors evaluate engineering evidence consistently while enabling students to assess repository readiness before formal engineering reviews.
 
@@ -285,7 +285,7 @@ The implementation adapts.
 6. Study Student Resources.
 7. Review the Educational Products.
 8. Study the COMP 330/474 Flagship Implementation.
-9. Explore the Platform Overview, then launch the Engineering Platform and Starter Kit.
+9. Explore the Platform Overview, then launch the Engineering Platform and review the ETIS Engineering Platform Starter Kit Repository.
 10. Design and run a bounded pilot.
 11. Collect evidence and improve the next offering.
 12. Establish stewardship for future instructors.
@@ -311,7 +311,7 @@ Educational systems improve through use.
 | **ETIS Student Professional Engineering Guide** | Professional student engineering behavior |
 | **ETIS COMP 330 Flagship Implementation Guide** | Real-world implementation reference |
 | **Platform Overview** | Orientation to the ETIS implementation environment |
-| **ETIS Engineering Platform** | Working implementation environment with stages, templates, examples, governance assets, and project workspaces |
+| **ETIS Engineering Platform** | Professional reference and implementation environment with stages, templates, examples, governance assets, and Project Workspace patterns |
 
 [Explore Educational Products →](Educational_Products.md)
 

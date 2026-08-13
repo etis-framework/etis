@@ -15,9 +15,9 @@ hide:
 
 ETIS is a repository-centered engineering ecosystem.
 
-The public ETIS ecosystem is organized around two primary public repositories that are complemented by specialized educational and operational repositories.
+The public ETIS ecosystem is organized around two primary repositories complemented by specialized educational, community, and organization repositories.
 
-The public repositories define and operationalize the ETIS Framework. Specialized repositories support educational engineering tooling and future ETIS capabilities while remaining aligned with the same repository-centered engineering principles.
+The two primary repositories form the foundation of the ETIS ecosystem. Specialized repositories support educational tooling, course implementations, community participation, organization-level resources, and other focused capabilities while preserving clear separation of responsibilities and release models.
 
 - the **ETIS Framework Repository** defines, publishes, and preserves the ETIS body of knowledge;
 - the **ETIS Engineering Platform Starter Kit Repository** operationalizes ETIS through stages, templates, examples, governance assets, and project workspaces.
@@ -45,7 +45,7 @@ Browse Framework Repository
 
 <a class="md-button"
    href="https://github.com/etis-framework/etis-starter-kit">
-Browse Starter Kit Repository
+Browse Engineering Platform Starter Kit
 </a>
 
 </div>
@@ -214,7 +214,7 @@ The Downloads area may provide curated repository archives for local use, classr
 A repository archive is a packaged distribution of the working repository. It does not replace the public GitHub repository or the Engineering Platform website.
 
 - [Download the ETIS Engineering Platform Starter Kit](download.md#engineering-platform-starter-kit)
-- [Browse the Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
+- [Browse the Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
 - [Explore the Platform Overview](../Platform/Platform.md)
 - [Launch the Engineering Platform ↗](https://platform.etisframework.org)
 
@@ -227,16 +227,19 @@ A repository archive is a packaged distribution of the working repository. It do
 | Learn what ETIS is | [What is ETIS?](../Framework/What_is_ETIS.md) |
 | Understand why ETIS exists | [Why ETIS?](../Framework/Why_ETIS.md) |
 | Read the complete Framework Reference Work | [Read Online](../Front_Matter/01_Title_Page.md) |
+| Understand repository-centered engineering | [Repository-Centered Engineering](../Framework/ETIS_Repository_Centered_Engineering.md) |
+| Understand the Platform and how to begin | [Platform Overview](../Platform/Platform.md) |
+| Enter the working implementation environment | [Launch Engineering Platform ↗](https://platform.etisframework.org) |
+| Use stages, templates, and examples | [Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
+| Download the Engineering Platform Starter Kit archive | [Starter Kit Download](download.md#engineering-platform-starter-kit) |
+| Create a COMP 330 Fall 2026 team repository | [COMP 330 Course Starter Kit](https://github.com/etis-framework/comp330-f26-starter-kit) |
+| Check COMP 330 repository readiness | [Student Submission Preflight](https://github.com/etis-framework/comp330-submission-preflight) |
+| Participate in the ETIS community | [ETIS Community Discussions](https://github.com/orgs/etis-framework/discussions) |
 | Explore ETIS Books and the Professional Computing Series | [ETIS Books](../Books/index.md) |
 | Explore ETIS publications | [Publications](../publications/index.md) |
 | Follow a publication reading path | [Reading Paths](../publications/reading-paths.md) |
-| Download books or products | [Downloads](download.md) |
-| Understand repository-centered engineering | [Repository-Centered Engineering](../Framework/ETIS_Repository_Centered_Engineering.md) |
-| Inspect Framework source | [Framework Repository](https://github.com/etis-framework/etis) |
-| Understand the Platform and how to begin | [Platform Overview](../Platform/Platform.md) |
-| Enter the working implementation environment | [Launch Engineering Platform ↗](https://platform.etisframework.org) |
-| Use stages, templates, and examples | [Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
-| Download the Starter Kit archive | [Starter Kit Download](download.md#engineering-platform-starter-kit) |
+| Download books or other ETIS resources | [Downloads](download.md) |
+| Inspect the Framework source | [Framework Repository](https://github.com/etis-framework/etis) |
 
 ---
 
@@ -253,13 +256,20 @@ The public repository ecosystem follows several principles:
 
 ---
 
-## Specialized Repository Components
+## Specialized Repositories
 
-As the ETIS ecosystem evolves, specialized repositories may be used to support educational engineering tooling and other focused capabilities.
+In addition to the two primary ETIS repositories, specialized repositories support focused educational, community, and organization capabilities.
 
-These repositories allow individual components to evolve independently while remaining aligned with ETIS engineering doctrine, repository-centered engineering, and evidence-centered engineering principles.
+| Repository | Visibility | Role |
+|---|---|---|
+| **COMP 330 Fall 2026 Starter Kit** | Public template | Official Loyola University Chicago COMP 330 course repository template used by student teams to create their project repositories. It is distinct from the ETIS Engineering Platform Starter Kit. |
+| **COMP 330 Submission Preflight** | Public | Student-facing deterministic repository-readiness tooling for evidence completeness, Git/GitHub workflow, roles, AI accountability, traceability, CI/release readiness, and submission preparation. It does not grade student work or perform AI-based scoring. |
+| **ETIS Community** | Public | Organization-level home for GitHub Discussions and persistent dialogue about the Framework, books, publications, education, professional computing, trustworthy AI, and engineering practice. |
+| **ETIS Organization Profile** | Public | GitHub organization profile and public organization-level configuration. |
 
-Some specialized repositories may be distributed differently from the public framework repositories to preserve instructional integrity, support institutional deployment, or simplify lifecycle management.
+Instructor-only assessment systems and protected engineering workbenches may remain private when publication would weaken assessment integrity or expose protected review logic.
+
+Specialized repositories allow individual capabilities to evolve independently while preserving clear responsibility, provenance, and alignment with ETIS engineering doctrine.
 
 ---
 

@@ -17,7 +17,7 @@ The ETIS Engineering Platform is the practical implementation environment for th
 
 The **ETIS Framework Reference Work** provides the comprehensive lifecycle treatment of the discipline. Its **Two-Volume Professional Edition** presents that work in two integrated volumes. **ETIS Publications** provide focused guidance. The **Engineering Platform** turns ETIS doctrine into structured, repository-centered engineering work.
 
-The Platform is complemented by ETIS educational tooling that supports engineering practice throughout the lifecycle. While the Platform provides the working environment for creating engineering evidence, complementary instructor and student tools help evaluate repository readiness, engineering evidence, and lifecycle maturity without replacing professional judgment.
+The Platform is complemented by ETIS educational tooling that supports engineering practice throughout the lifecycle. The Platform provides a structured reference and implementation environment for creating and organizing engineering evidence, while complementary instructor and student tools help strengthen repository readiness, engineering evidence, and lifecycle review without replacing professional judgment.
 
 The Platform provides Engineering Stages ES-100 through ES-114, reusable templates, completed LMU/COICP reference examples, governance assets, a Project Workspace, and integration with complementary educational tooling that supports evidence-centered engineering throughout the lifecycle.
 
@@ -30,7 +30,7 @@ Launch the Engineering Platform ↗
 
 <a class="md-button"
    href="https://github.com/etis-framework/etis-starter-kit">
-Browse the Starter Kit Repository ↗
+Browse the Engineering Platform Starter Kit Repository ↗
 </a>
 
 <a class="md-button"
@@ -63,7 +63,7 @@ It provides a structured environment in which teams can:
 - learn from incidents;
 - steward systems after release.
 
-The Platform serves as the engineering workspace. Complementary educational tooling supports engineering review by helping students assess repository readiness before formal evaluation and helping instructors perform consistent evidence-centered repository reviews across engineering teams.
+The Platform serves as a professional reference and implementation environment. Teams may use its Project Workspace directly or adapt its lifecycle, templates, examples, and governance patterns within their own project repositories. Complementary educational tooling supports engineering readiness and review by helping students assess repository readiness before formal evaluation and helping instructors perform consistent evidence-centered repository reviews across engineering teams.
 
 The Platform is designed for real projects, course projects, professional pilots, institutional adoption, and reference implementations.
 
@@ -178,6 +178,8 @@ The objective is not to fill folders.
 
 The objective is to make important engineering work understandable, reviewable, governable, and durable.
 
+The Project Workspace is a reusable reference architecture, not a requirement that every ETIS adoption use the same repository structure. Teams and courses may adapt it to their own project environment. When a course or organization designates a separate project repository, that repository remains the authoritative location for project-specific engineering evidence.
+
 [Explore the Project Workspace ↗](https://platform.etisframework.org/project-workspace/)
 
 ---
@@ -208,13 +210,13 @@ Within ETIS, governance is architecture.
 
 ### Students
 
-Use the Platform to practice professional engineering, produce reviewable evidence, use AI responsibly, defend decisions, and build credible portfolio material.
+Use the Platform to understand and practice professional engineering through staged lifecycle guidance, templates, reference examples, governance patterns, and Project Workspace structures. Preserve project-specific evidence in the repository environment designated for your project or course.
 
 Students may also use the ETIS Student Submission Preflight Toolkit to evaluate repository organization, engineering evidence, governance artifacts, and phase-gate readiness throughout the project lifecycle.
 
 ### Instructors
 
-Use the Platform as a course project environment for staged assignments, phase gates, templates, reviews, release defenses, and professional formation.
+Use the Platform as a professional reference and implementation environment for staged assignments, phase gates, templates, reviews, release defenses, and professional formation. A course may use the Platform Project Workspace directly or establish its own course-specific repository model.
 
 Instructors may complement the Platform with the ETIS Instructor Engineering Workbench to review repositories, evaluate engineering evidence, monitor lifecycle progression, and support consistent evidence-centered assessment across multiple engineering teams.
 
@@ -250,7 +252,7 @@ ETIS Engineering Platform
 Provides the implementation environment
         ↓
 Educational Tooling
-Supports engineering review, assessment, and continuous improvement
+Supports readiness, assessment, and continuous improvement
         ↓
 Project Repository
 Preserves project-specific engineering evidence
@@ -285,16 +287,16 @@ The **Two-Volume Professional Edition** is the preferred two-volume publishing f
 1. Launch the Platform.
 2. Begin with ES-100.
 3. Review ES-101 through ES-103 before committing to implementation.
-4. Create a Project Workspace.
-5. Use templates and examples as guidance.
-6. Preserve evidence continuously.
+4. Create or adapt a Project Workspace for the project.
+5. Use templates and examples as guidance rather than scripts to copy.
+6. Preserve project-specific evidence continuously in the authoritative project repository.
 
 ### Teaching ETIS
 
 1. Review the [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md).
 2. Review [Instructor Resources](../Educational_Ecosystem/Instructor_Resources.md).
 3. Use the [Education Papers](../publications/education-papers/index.md) for professional orientation.
-4. Use the Platform as the project environment.
+4. Use the Platform as the professional reference and implementation environment, and establish the project repository model appropriate for the course.
 
 ### Exploring AI Governance
 
@@ -309,12 +311,12 @@ The **Two-Volume Professional Edition** is the preferred two-volume publishing f
 The Engineering Platform is publicly available through:
 
 - the [Engineering Platform website](https://platform.etisframework.org);
-- the [ETIS Starter Kit repository](https://github.com/etis-framework/etis-starter-kit);
+- the [ETIS Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit);
 - the [downloadable Starter Kit archive](../Resources/download.md#engineering-platform-starter-kit).
 
 The website provides the guided implementation experience.
 
-The repository provides the working source and reusable assets.
+The Engineering Platform Starter Kit Repository provides the working source and reusable implementation assets.
 
 The downloadable archive supports offline use, institutional adoption, and project startup.
 
@@ -349,7 +351,7 @@ Launch the ETIS Engineering Platform ↗
 
 <a class="md-button"
    href="https://github.com/etis-framework/etis-starter-kit">
-Browse the Starter Kit Repository ↗
+Browse the Engineering Platform Starter Kit Repository ↗
 </a>
 
 </div>

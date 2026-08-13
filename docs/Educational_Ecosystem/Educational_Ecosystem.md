@@ -21,13 +21,13 @@ ETIS education is built on a simple premise:
 
 The **ETIS Framework Reference Work, *Engineering Trustworthy Intelligent Systems***, provides the comprehensive full-lifecycle engineering doctrine for software and intelligent systems in the AI era. Its Two-Volume Professional Edition presents that integrated work across the journey from intent, requirements, architecture, and construction through verification, release, operations, governance, oversight, and long-term stewardship.
 
-The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with that framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing evidence-based engineering judgment, tradeoff reasoning, AI accountability, system thinking, and professional responsibility.
+The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with that framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing evidence-based engineering judgment, tradeoff reasoning, AI accountability, systems thinking, and professional responsibility.
 
 The **ETIS Education Papers** provide focused professional readings. The **Educational Ecosystem** translates ETIS doctrine and professional formation into course systems, instructor and student resources, downloadable products, implementation guidance, and institutional adoption pathways.
 
-The **ETIS Engineering Platform** provides the practical project environment. Instructors and students can use Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and Project Workspaces to practice repository-centered, evidence-centered engineering.
+The **ETIS Engineering Platform** provides a professional reference and implementation environment. Instructors and students can use Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and Project Workspace patterns to understand and practice repository-centered, evidence-centered engineering. When a course defines a course-specific team repository, that repository remains the authoritative location for project-specific engineering evidence.
 
-**The Framework defines the discipline. ETIS Books develop and extend professional judgment. Publications provide focused guidance. The Educational Ecosystem teaches the discipline. The Engineering Platform gives learners a place to practice it.**
+**The Framework defines the discipline. ETIS Books develop and extend professional judgment. Publications provide focused guidance. The Educational Ecosystem teaches the discipline. The Engineering Platform demonstrates how to apply it. Course repositories preserve the evidence of what learners actually do.**
 
 ---
 
@@ -168,7 +168,7 @@ Current tooling includes:
 • Instructor Engineering Workbench (Instructor-only)
 • Student Submission Preflight Toolkit
 
-Some educational tools are distributed as public releases while their engineering source repositories remain private in order to preserve educational integrity and assessment effectiveness.
+Educational tooling uses different distribution models based on purpose. Student-facing tooling may be published openly when transparency supports learning and readiness, while instructor-only assessment systems and protected reviewer logic may remain private when disclosure would weaken assessment integrity.
 
 ---
 
@@ -191,11 +191,11 @@ It supports six instructional engines:
 
 ---
 
-## Engineering Platform Project Environment
+## Engineering Platform Reference Environment
 
-The ETIS Engineering Platform provides a professional engineering project environment.
+The ETIS Engineering Platform demonstrates a professional repository architecture that separates engineering responsibilities clearly.
 
-It separates work into clear responsibilities:
+A representative project structure includes:
 
 ```text
 docs/      Think, decide, explain, and preserve evidence
@@ -208,6 +208,8 @@ scripts/   Automate repeatable work
 Repositories are not merely places to store code.
 
 They are engineering memory systems.
+
+Courses may adapt this structure to their own repository model. When an instructor designates a course-specific team repository, that repository is the authoritative engineering record for the course; the Engineering Platform remains the professional reference and implementation environment.
 
 [Go to Student Resources →](Student_Resources.md)
 
@@ -342,4 +344,4 @@ The Framework Reference Work defines the discipline.
 The Professional Computing Series develops enduring professional judgment.  
 The Education Papers provide focused professional orientation.  
 The Educational Ecosystem teaches the discipline.  
-The Engineering Platform provides the environment in which students practice it.
+The Engineering Platform demonstrates how the discipline can be applied in practice.

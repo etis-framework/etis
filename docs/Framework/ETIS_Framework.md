@@ -192,11 +192,13 @@ ETIS is larger than a book. It is a connected professional ecosystem for teachin
 The ecosystem includes:
 
 - the **ETIS Framework**, which defines the engineering discipline;
-- the **ETIS Two-Volume Edition**, which presents the complete treatment of that discipline;
+- the **ETIS Framework Reference Work**, *Engineering Trustworthy Intelligent Systems*, which provides the comprehensive treatment of that discipline and is presented in print as the ETIS Two-Volume Professional Edition;
+- the **ETIS Professional Computing Series**, which develops durable professional computing judgment in focused technical domains;
 - **ETIS Publications**, which extend the framework through focused, citable white papers, executive briefs, and education papers;
 - the **ETIS Engineering Platform**, introduced through the [Platform Overview](../Platform/Platform.md), which demonstrates how to apply ETIS;
 - the **Educational Ecosystem**, which supports teaching, learning, and institutional adoption;
 - **Educational Products and Tooling**, which provide reusable guides, instructor resources, student resources, and engineering tools that operationalize ETIS educational practices;
+- the **ETIS Community**, which provides a persistent public space for engineering questions, clarification, discussion, and shared learning;
 - the **ETIS Repositories**, which preserve public source, reusable artifacts, and engineering evidence;
 - and **Downloads**, which package selected ETIS products into durable, portable forms.
 
@@ -247,11 +249,13 @@ As intelligent systems become more capable, interconnected, and autonomous, thos
 
 ETIS is expressed publicly through several connected forms:
 
-- **The ETIS Two-Volume Edition** provides the complete professional treatment of the framework.
+- **The ETIS Framework Reference Work** provides the complete professional treatment of the framework and is presented in print as the ETIS Two-Volume Professional Edition.
+- **The ETIS Professional Computing Series** develops durable engineering judgment in focused computing domains.
 - **ETIS Publications** provide focused, citable treatments of major ideas and decisions.
 - **The Educational Ecosystem** turns ETIS into teachable and adoptable resources.
 - **Educational Products and Tooling** operationalize those resources for instructors, students, and institutional adopters.
-- **The Platform Overview** introduces the implementation environment...
+- **The ETIS Community** supports persistent engineering discussion, clarification, and shared professional learning.
+- **The Platform Overview** introduces the ETIS implementation environment and explains its relationship to the broader ecosystem.
 - **The Engineering Platform** turns framework doctrine into staged engineering practice.
 - **The repository model** preserves engineering evidence, source, and continuity.
 - **Downloads** provide durable offline editions and packaged resources.
@@ -265,14 +269,17 @@ Together, these forms make ETIS more than a publication. They make it a stewarde
 - [What is ETIS?](What_is_ETIS.md)
 - [Why ETIS?](Why_ETIS.md)
 - [ETIS Publications](../publications/index.md)
-- [ETIS Two-Volume Edition](../Volumes/ETIS_Two_Volume_Edition.md)
-- [Volume I — Foundations and Engineering Construction](../Volumes/Volume_I.md)
-- [Volume II — Operations, Governance, and Organizational Trust](../Volumes/Volume_II.md)
+- [ETIS Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md)
+- [Volume I — Foundations, Engineering Practices, and System Construction](../Volumes/Volume_I.md)
+- [Volume II — Operations, Governance, Oversight, and Stewardship](../Volumes/Volume_II.md)
+- [ETIS Books](../Books/index.md)
+- [ETIS Professional Computing Series](../Books/ETIS_Professional_Computing_Series.md)
 - [Repository-Centered Engineering](ETIS_Repository_Centered_Engineering.md)
 - [Platform Overview](../Platform/Platform.md)
 - [Launch the ETIS Engineering Platform ↗](https://platform.etisframework.org)
 - [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
 - [Resource Center](../Resources/Resources.md)
+- [ETIS Community Discussions ↗](https://github.com/orgs/etis-framework/discussions)
 - [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md)
 - [Appendix B — Repository-Centered Engineering Reference Architecture](../Appendices/Appendix_B/Appendix_B.md)
 - [Appendix F — Engineering Judgment Framework](../Appendices/Appendix_F/Appendix_F.md)

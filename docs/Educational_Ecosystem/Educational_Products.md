@@ -179,7 +179,7 @@ The ETIS Educational Ecosystem includes purpose-built engineering tools that com
 
 These tools support evidence-centered software engineering education by helping instructors evaluate repository maturity and helping students assess repository readiness before formal engineering reviews.
 
-Some educational tools are distributed as public releases while their engineering source repositories remain private to preserve educational integrity and assessment effectiveness.
+Educational tooling uses different distribution models based on purpose. Student-facing tooling may be published openly, while instructor-only assessment systems and protected reviewer logic may remain private when disclosure would weaken assessment integrity.
 
 ---
 
@@ -188,6 +188,11 @@ Some educational tools are distributed as public releases while their engineerin
 <h3>ETIS Student Submission Preflight Toolkit</h3>
 
 <p>Repository analysis toolkit that helps students evaluate engineering evidence, repository completeness, lifecycle readiness, and governance artifacts before assignment submission.</p>
+
+<a class="md-button"
+   href="https://github.com/etis-framework/comp330-submission-preflight">
+Explore Student Submission Preflight ↗
+</a>
 
 </div>
 

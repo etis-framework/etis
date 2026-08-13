@@ -21,11 +21,13 @@ For general questions, website issues, resource questions, errata, corrections, 
 
 [contact@etisframework.org](mailto:contact@etisframework.org)
 
-## Author and Professional Inquiries
+## Community Discussions
 
-For speaking, teaching, academic, professional, consulting, interview, or author-related inquiries:
+For public engineering questions, shared technical discussion, clarification, education, or conversation about the ETIS ecosystem:
 
-[author@etisframework.org](mailto:author@etisframework.org)
+[ETIS Community Discussions ↗](https://github.com/orgs/etis-framework/discussions)
+
+Use email rather than a public Discussion when the inquiry is private, publication-specific, institutional, professional, or otherwise inappropriate for a public forum. Do not post confidential, student-protected, client-sensitive, security-sensitive, export-controlled, or legally privileged information in a public Discussion.
 
 ## Appropriate Uses
 
