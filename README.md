@@ -31,7 +31,7 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 📝 [Explore ETIS Publications](https://etisframework.org/publications/)  
 🧭 [Explore the Platform Overview](https://etisframework.org/Platform/Platform/)  
 🚀 [Launch the Engineering Platform](https://platform.etisframework.org)  
-🛠️ [Browse the Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)  
+🛠️ [Browse the Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
 📥 [Downloads](https://etisframework.org/Resources/download/)  
 🎓 [Educational Ecosystem](https://etisframework.org/Educational_Ecosystem/Educational_Ecosystem/)  
 📎 [Appendices](https://etisframework.org/Appendices/Appendices/)  
@@ -43,22 +43,24 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 
 ## Current Release
 
-**Repository release:** v1.2.0  
+**Repository release:** v1.4.0  
 **Book edition:** First Edition  
-**Initial publication:** June 2026  
-**Current ecosystem status:** Active public framework, books, publication, education, and platform ecosystem
+**Initial Framework publication:** June 2026  
+**ETIS Two-Volume Professional Edition:** July 2026  
+**Current ecosystem status:** Active public framework, books, publications, education, Engineering Platform, and supporting repository ecosystem
 
-**Current source status:** Includes the Books and Professional Computing Series architecture added after v1.2.0; these changes remain unreleased until a new repository release is formally created.
+The v1.4.0 release established the current ETIS publishing architecture, including:
 
-The v1.2.0 release expands ETIS from a book-centered publication site into a complete professional engineering ecosystem. It includes:
-
+- the ETIS Framework Reference Work;
+- the ETIS Two-Volume Professional Edition;
+- the ETIS Professional Computing Series;
+- *From Data Structures to Engineering Judgment* as the inaugural Professional Computing Series title;
 - the ETIS Publications Program;
-- a dedicated Platform gateway;
-- site-wide Publications and Platform integration;
-- a reworked Resource Center;
-- updated Framework, Education, About, and Appendix sections;
-- clarified distinctions among Publications, Downloads, the Platform, and repositories;
-- improved navigation, release history, citations, and public ecosystem architecture.
+- the Educational Ecosystem;
+- the Engineering Platform and Platform gateway;
+- integrated resource, download, repository, and navigation architecture.
+
+The `main` branch may contain documentation, editorial, ecosystem-alignment, and maintenance changes made after the most recent formal release.
 
 Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases).
 
@@ -132,11 +134,11 @@ ETIS Framework Website and Repository
 ├── About and Release Information
 └── Public Roadmap and Governance
 
-ETIS Engineering Platform and Starter Kit Repository
+ETIS Engineering Platform and Engineering Platform Starter Kit Repository
 ├── Engineering Stages ES-100 through ES-114
 ├── Template Library
 ├── LMU/COICP Reference Examples
-├── Project Workspace
+├── Project Workspace Patterns
 ├── Governance Assets
 ├── Evidence-Centered Engineering Assets
 └── GitHub Collaboration and Deployment Workflows
@@ -154,9 +156,9 @@ Each component has a distinct role:
 | **ETIS Appendices** | Provide reusable professional reference architectures, catalogs, frameworks, and terminology. |
 | **Educational Ecosystem** | Supports teaching, student development, instructor practice, flagship implementation, and institutional adoption. |
 | **Platform Gateway** | Introduces the Engineering Platform and explains how it fits into the broader ETIS ecosystem. |
-| **Engineering Platform** | Applies ETIS through staged lifecycle guidance, templates, examples, governance assets, and workspaces. |
+| **Engineering Platform** | Provides the professional reference and implementation environment for applying ETIS through staged lifecycle guidance, templates, reference examples, governance assets, and Project Workspace patterns. |
 | **Framework Repository** | Preserves the authoritative source for the website, book, publications, education, appendices, downloads, and public framework materials. |
-| **Starter Kit Repository** | Preserves the source for the Engineering Platform and reusable engineering assets. |
+| **Engineering Platform Starter Kit Repository** | Preserves the source for the Engineering Platform and reusable engineering assets. |
 | **Downloads** | Package selected books, educational products, and implementation resources for offline use. |
 | **Resource Center** | Connects users to the right ETIS experience based on their goal. |
 
@@ -166,7 +168,7 @@ The Professional Computing Series develops enduring professional capabilities al
 Publications provide focused, citable guidance.  
 The Platform gateway explains how to begin.  
 The Engineering Platform applies it.  
-Repositories preserve the evidence.
+Project repositories preserve project-specific engineering evidence.
 
 ---
 
@@ -206,14 +208,14 @@ https://etisframework.org/publications/
 
 ## ETIS Engineering Platform
 
-The ETIS Engineering Platform is the practical implementation environment for the ETIS Framework.
+The ETIS Engineering Platform is the professional reference and implementation environment for applying the ETIS Framework.
 
 The Platform includes:
 
 - Engineering Stages ES-100 through ES-114;
 - reusable engineering templates;
 - completed LMU/COICP reference examples;
-- Project Workspace structure;
+- reusable Project Workspace patterns;
 - governance and evidence-centered engineering assets;
 - repository-centered workflow guidance;
 - GitHub collaboration templates and workflows;
@@ -230,7 +232,7 @@ The gateway explains:
 - what the Platform is;
 - who it serves;
 - what it provides;
-- how stages, templates, examples, governance assets, and workspaces fit together;
+- how stages, templates, reference examples, governance assets, and Project Workspace patterns fit together;
 - how to begin;
 - when to launch the companion Platform site.
 
@@ -240,7 +242,7 @@ The working Platform site is published at:
 
 https://platform.etisframework.org
 
-### Starter Kit Source
+### Engineering Platform Starter Kit Source
 
 The implementation source is maintained separately at:
 
@@ -256,7 +258,7 @@ The public navigation convention is:
 
 ## Repository Purpose
 
-This repository is the authoritative source for the ETIS Framework ecosystem.
+This repository is the authoritative source for the ETIS Framework website, Framework Reference Work, books, publications, educational content, appendices, downloads, and public framework resources.
 
 It contains:
 
@@ -278,9 +280,9 @@ It contains:
 - release history;
 - roadmap and public ecosystem planning materials.
 
-This repository serves as both a publication system and the long-term source authority for ETIS.
+This repository serves as both a publication system and the long-term source authority for the ETIS Framework, its books and publications, educational content, and public framework resources.
 
-The practical Engineering Platform is maintained separately in the Starter Kit repository.
+The Engineering Platform and its reusable implementation assets are maintained separately in the ETIS Engineering Platform Starter Kit repository.
 
 ---
 
@@ -334,13 +336,26 @@ The practical Engineering Platform is maintained separately in the Starter Kit r
 
 - Platform gateway
 - Engineering Platform site
-- Starter Kit repository
+- Engineering Platform Starter Kit repository
 - Engineering Stages ES-100 through ES-114
 - Template Library
 - LMU/COICP examples
 - Project Workspace
 - Governance assets
 - Evidence-centered engineering assets
+
+### Specialized Public Repositories
+
+The ETIS public repository ecosystem is anchored by the Framework Repository and the Engineering Platform Starter Kit Repository, with specialized repositories supporting education, course implementation, student readiness, community participation, and organization-wide resources.
+
+Current specialized public repositories include:
+
+- [COMP 330 Fall 2026 Starter Kit](https://github.com/etis-framework/comp330-f26-starter-kit) — course-specific team repository template for COMP 330/474;
+- [COMP 330 Submission Preflight](https://github.com/etis-framework/comp330-submission-preflight) — student-facing deterministic submission-readiness tooling;
+- [ETIS Community](https://github.com/etis-framework/community) — public community infrastructure supporting ETIS Discussions;
+- [ETIS Organization Resources](https://github.com/etis-framework/.github) — organization-level GitHub configuration and public profile resources.
+
+Instructor-only assessment and review tooling may be maintained in private repositories where assessment integrity or protected instructional workflows require it.
 
 ### Resources and Distribution
 
@@ -350,7 +365,7 @@ The practical Engineering Platform is maintained separately in the Starter Kit r
 - Repository Ecosystem
 - Book PDFs
 - Educational product PDFs
-- Starter Kit archive
+- Engineering Platform Starter Kit archive
 
 ### Professional Ecosystem
 
@@ -382,13 +397,13 @@ https://platform.etisframework.org
 | Site | Primary Focus |
 |---|---|
 | **etisframework.org** | Learn ETIS, read the book, explore publications, use appendices, access education and resources, and understand the Platform. |
-| **platform.etisframework.org** | Apply ETIS through engineering stages, templates, examples, governance assets, and project workspaces. |
+| **platform.etisframework.org** | Apply ETIS through engineering stages, templates, reference examples, governance assets, and Project Workspace patterns. |
 
 This separation is intentional.
 
 The Framework website is the authoritative public portal.
 
-The Platform site is the practical implementation environment.
+The Platform site is the professional reference and implementation environment for applying ETIS.
 
 ---
 
@@ -422,10 +437,10 @@ docs/
   stylesheets/
 
 education/
-publication/
-scripts/
-build/
+overrides/
+.github/
 mkdocs.yml
+requirements.txt
 LICENSE.md
 README.md
 ROADMAP.md
@@ -487,25 +502,19 @@ Do not use `git pull` when the local working tree contains authoritative uncommi
 
 Official ETIS Framework releases are published through GitHub Releases.
 
-Current release line:
+Current release history:
 
 - `v1.0.0` — initial public ETIS Framework release
 - `v1.1.0` — earlier framework and publication evolution
 - `v1.2.0` — Publications Program and Platform integration
-- `Unreleased` — Books architecture and ETIS Professional Computing Series integration
+- `v1.3.0` — Educational Ecosystem and Platform integration
+- `v1.4.0` — Books and Professional Computing Series
 
-Formal releases should use annotated Git tags.
+The `main` branch may advance beyond the latest formal release through documentation, editorial, maintenance, and ecosystem-alignment changes.
 
-Example:
+Formal releases use versioned Git tags and are documented through GitHub Releases.
 
-```bash
-git tag -a v1.2.0 \
-  -m "ETIS Framework v1.2.0 — Publications and Platform integration"
-
-git push origin v1.2.0
-```
-
-Engineering Platform releases are managed separately through the ETIS Starter Kit repository.
+Engineering Platform releases are managed separately through the ETIS Engineering Platform Starter Kit repository.
 
 ---
 
@@ -566,5 +575,5 @@ The Framework Reference Work defines and publishes the discipline.
 The Professional Computing Series develops enduring professional capabilities aligned with ETIS.  
 The Publications Program provides focused, citable guidance.  
 The Platform gateway explains how to begin.  
-The Engineering Platform demonstrates how to apply it.  
-The repositories preserve the source, reusable assets, and engineering evidence.
+The Engineering Platform provides the professional reference and implementation environment for applying it.  
+The Framework and Engineering Platform repositories preserve their authoritative source and reusable assets; project repositories preserve project-specific engineering evidence.
