@@ -29,11 +29,13 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 📚 [Explore the Two-Volume Professional Edition](https://etisframework.org/Volumes/ETIS_Two_Volume_Edition/)  
 📗 [Explore From Data Structures to Engineering Judgment](https://etisframework.org/Books/engineering-judgment/)  
 📝 [Explore ETIS Publications](https://etisframework.org/publications/)  
+🎓 [Educational Ecosystem](https://etisframework.org/Educational_Ecosystem/Educational_Ecosystem/)  
+🧪 [Engineering Education Suite](https://etisframework.org/Educational_Ecosystem/Engineering_Education_Suite/)  
+🧠 [Engineering Studio](https://etisframework.org/Educational_Ecosystem/Engineering_Studio/)  
 🧭 [Explore the Platform Overview](https://etisframework.org/Platform/Platform/)  
 🚀 [Launch the Engineering Platform](https://platform.etisframework.org)  
-🛠️ [Browse the Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)
+🛠️ [Browse the Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit)  
 📥 [Downloads](https://etisframework.org/Resources/download/)  
-🎓 [Educational Ecosystem](https://etisframework.org/Educational_Ecosystem/Educational_Ecosystem/)  
 📎 [Appendices](https://etisframework.org/Appendices/Appendices/)  
 💻 [Framework Repository](https://github.com/etis-framework/etis)  
 🗺️ [ETIS Roadmap](ROADMAP.md)  
@@ -47,7 +49,7 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 **Book edition:** First Edition  
 **Initial Framework publication:** June 2026  
 **ETIS Two-Volume Professional Edition:** July 2026  
-**Current ecosystem status:** Active public framework, books, publications, education, Engineering Platform, and supporting repository ecosystem
+**Current ecosystem status:** Active public framework, books, publications, education, Engineering Platform, Engineering Education Suite, and supporting repository ecosystem
 
 The v1.4.0 release established the current ETIS publishing architecture, including:
 
@@ -61,6 +63,8 @@ The v1.4.0 release established the current ETIS publishing architecture, includi
 - integrated resource, download, repository, and navigation architecture.
 
 The `main` branch may contain documentation, editorial, ecosystem-alignment, and maintenance changes made after the most recent formal release.
+
+Post-v1.4.0 ecosystem development includes the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review into the Educational Ecosystem.
 
 Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases).
 
@@ -106,13 +110,13 @@ ETIS is grounded in durable engineering principles:
 - **Humans cannot govern what they cannot understand.**
 - **Trustworthiness is accumulated, not declared.**
 
-These principles guide the Framework Reference Work, Two-Volume Professional Edition, Professional Computing Series, Publications Program, Educational Ecosystem, Engineering Platform, repositories, appendices, and professional resources.
+These principles guide the Framework Reference Work, Two-Volume Professional Edition, Professional Computing Series, Publications Program, Educational Ecosystem, Engineering Education Suite, Engineering Platform, repositories, appendices, and professional resources.
 
 ---
 
 ## ETIS Ecosystem Architecture
 
-ETIS is intentionally structured as a coordinated framework, publication, education, and platform ecosystem.
+ETIS is intentionally structured as a coordinated framework, publication, education, and engineering-platform ecosystem.
 
 ```text
 ETIS Framework Website and Repository
@@ -128,6 +132,15 @@ ETIS Framework Website and Repository
 │   └── Education Paper Series
 ├── Appendices
 ├── Educational Ecosystem
+│   ├── Instructor Resources
+│   ├── Student Resources
+│   ├── Educational Products
+│   ├── COMP 330/474 Flagship Implementation
+│   ├── Institutional Adoption
+│   └── Engineering Education Suite
+│       ├── ETIS Preflight
+│       ├── ETIS Engineering Studio
+│       └── ETIS Engineering Review Center
 ├── Platform Gateway
 ├── Resource Center
 ├── Downloads
@@ -142,6 +155,14 @@ ETIS Engineering Platform and Engineering Platform Starter Kit Repository
 ├── Governance Assets
 ├── Evidence-Centered Engineering Assets
 └── GitHub Collaboration and Deployment Workflows
+
+Course and Project Repositories
+├── Requirements and Architecture
+├── Engineering Decisions
+├── Verification and Validation
+├── AI Accountability Evidence
+├── Release and Operational Evidence
+└── Phase-Gate Evidence
 ```
 
 Each component has a distinct role:
@@ -150,15 +171,20 @@ Each component has a distinct role:
 |---|---|
 | **ETIS Framework** | Defines the engineering discipline, lifecycle, principles, governance model, and trustworthiness architecture. |
 | **ETIS Framework Reference Work** | Provides the comprehensive full-lifecycle treatment in *Engineering Trustworthy Intelligent Systems*. |
-| **ETIS Two-Volume Professional Edition** | Presents the integrated Framework Reference Work in two professional volumes. |
+| **ETIS Two-Volume Professional Edition** | Presents the integrated Framework Reference Work in two professional volumes, moving from foundations and engineering construction into operations, governance, oversight, and stewardship. |
 | **ETIS Professional Computing Series** | Develops enduring professional computing capabilities aligned with ETIS. |
 | **ETIS Publications** | Provide focused, citable White Papers, Executive Briefs, and Education Papers. |
 | **ETIS Appendices** | Provide reusable professional reference architectures, catalogs, frameworks, and terminology. |
-| **Educational Ecosystem** | Supports teaching, student development, instructor practice, flagship implementation, and institutional adoption. |
+| **Educational Ecosystem** | Adapts ETIS for teaching, student development, instructor practice, different course durations, flagship implementation, and institutional adoption. |
+| **Engineering Education Suite** | Provides coordinated, phase-gate-aware educational capabilities for student readiness, engineering-judgment development, and instructor-led formal engineering review. |
+| **ETIS Preflight** | Helps student teams determine whether expected phase-gate evidence is present and has the basic shape required for formal review. |
+| **ETIS Engineering Studio** | Provides an instructor-operated, student-team environment for evidence-grounded developmental review, mentoring, and engineering-judgment development. |
+| **ETIS Engineering Review Center** | Provides the instructor-facing environment for formal, evidence-centered phase-gate review and rubric-aligned analysis. |
 | **Platform Gateway** | Introduces the Engineering Platform and explains how it fits into the broader ETIS ecosystem. |
 | **Engineering Platform** | Provides the professional reference and implementation environment for applying ETIS through staged lifecycle guidance, templates, reference examples, governance assets, and Project Workspace patterns. |
 | **Framework Repository** | Preserves the authoritative source for the website, book, publications, education, appendices, downloads, and public framework materials. |
 | **Engineering Platform Starter Kit Repository** | Preserves the source for the Engineering Platform and reusable engineering assets. |
+| **Project Repositories** | Preserve the actual engineering evidence produced by teams as they apply ETIS. |
 | **Downloads** | Package selected books, educational products, and implementation resources for offline use. |
 | **Resource Center** | Connects users to the right ETIS experience based on their goal. |
 
@@ -166,8 +192,10 @@ The Framework Reference Work defines the discipline and provides the comprehensi
 The Two-Volume Professional Edition presents that work in two integrated volumes.  
 The Professional Computing Series develops enduring professional capabilities aligned with ETIS.  
 Publications provide focused, citable guidance.  
+The Educational Ecosystem adapts ETIS for teaching and learning.  
+The Engineering Education Suite creates phase-gate-aware learning and review environments.  
 The Platform gateway explains how to begin.  
-The Engineering Platform applies it.  
+The Engineering Platform provides stages, templates, examples, and implementation guidance.  
 Project repositories preserve project-specific engineering evidence.
 
 ---
@@ -203,6 +231,140 @@ Each publication includes:
 Explore the Publications Program:
 
 https://etisframework.org/publications/
+
+---
+
+## ETIS Educational Ecosystem
+
+The ETIS Educational Ecosystem adapts the broader ETIS lifecycle for teaching.
+
+A semester course cannot deeply implement every topic in the full Framework. ETIS therefore supports different instructional models and course durations while preserving the underlying engineering principles, evidence model, and lifecycle orientation.
+
+The Educational Ecosystem includes:
+
+- Instructor Resources;
+- Student Resources;
+- Educational Products;
+- classroom facilitation guidance;
+- professional engineering guidance for students;
+- COMP 330/474 Flagship Implementation;
+- Institutional Adoption guidance;
+- ETIS Education Papers;
+- Engineering Platform course-use guidance;
+- the ETIS Engineering Education Suite.
+
+### Two-Cycle Educational Model
+
+The COMP 330/474 flagship implementation uses a two-cycle delivery model.
+
+The first five phase gates move student engineering teams from project launch through an initial release.
+
+The sixth phase gate begins an operational enhancement cycle, reinforcing the principle that:
+
+> **Release is a transition in engineering responsibility, not the end of it.**
+
+This progression reflects the broader movement across ETIS from system construction and delivery toward the operational, governance, oversight, resilience, and stewardship concerns emphasized in Volume II.
+
+The six-gate implementation is an educational adaptation of the broader ETIS lifecycle, not a claim that a single semester can cover every ETIS topic.
+
+[Explore the Educational Ecosystem](https://etisframework.org/Educational_Ecosystem/Educational_Ecosystem/)
+
+---
+
+## ETIS Engineering Education Suite
+
+The **ETIS Engineering Education Suite** is a coordinated set of phase-gate-aware capabilities designed around semester software engineering courses.
+
+The suite is designed to work as an integrated system, but adopting institutions may use one or more components according to their instructional model.
+
+| Capability | Primary Persona | Core Question |
+|---|---|---|
+| **ETIS Preflight** | Student team | Are we ready for formal phase-gate review? |
+| **ETIS Engineering Studio** | Students and student teams | Do we understand and have evidence for our engineering decisions? |
+| **ETIS Engineering Review Center** | Instructor | What does the evidence submitted for this phase gate actually demonstrate? |
+
+All three capabilities are phase-gate aware. Their expectations, analysis, and review emphasis change according to the current phase gate and the engineering history established at prior gates.
+
+The suite supports engineering analysis, developmental review, and instructor evaluation; it does not replace the instructor's academic judgment or authority. Evidence, findings, confidence assessments, summaries, and rubric-aligned analysis are inputs to instructor decision-making, not autonomous grading decisions.
+
+### ETIS Preflight
+
+ETIS Preflight performs phase-specific readiness analysis before formal review.
+
+It uses deterministic checks, analytical heuristics, structural analysis, evidence expectations, and related techniques to determine whether expected repository evidence is present and has the basic shape required for the current phase gate.
+
+Preflight helps answer:
+
+> **Is the repository ready to be reviewed?**
+
+It does not perform the formal engineering review and does not make the phase-gate decision.
+
+Reference implementation:
+
+https://github.com/etis-framework/comp330-submission-preflight
+
+### ETIS Engineering Studio
+
+ETIS Engineering Studio is an instructor-operated learning environment for student engineering teams.
+
+Students can create frozen evidence snapshots throughout a phase as their repository evolves. Team members share the same evidence snapshot while interacting independently with controlled engineering reviewers.
+
+The Studio review board examines repository evidence holistically and can:
+
+- identify facts and evidence;
+- surface gaps, risks, and unresolved questions;
+- challenge assumptions;
+- ask probing questions;
+- conduct developmental mini-reviews;
+- help students examine tradeoffs;
+- revisit earlier engineering concerns;
+- direct students to relevant ETIS Engineering Platform stages, Starter Kit guidance, templates, and LMU/COICP examples.
+
+The reviewers operate as bounded mentors and challengers.
+
+They do not provide the engineering answer.
+
+The educational objective is to strengthen the student's ability to reason from evidence, explain decisions, recognize uncertainty, challenge reviewer conclusions when appropriate, and take responsibility for engineering outcomes.
+
+> **The student remains the engineer.**
+
+Engineering Studio source is maintained separately at:
+
+https://github.com/etis-framework/etis-engineering-studio
+
+Engineering Studio is not a public self-service application. It is deployed and configured by an instructor or adopting institution for authorized courses, teams, students, and repositories.
+
+### ETIS Engineering Review Center
+
+The ETIS Engineering Review Center is the instructor-facing formal phase-gate review environment.
+
+At a formal gate, the submitted Git tag establishes the evidence boundary. Controlled engineering reviewers analyze that evidence according to the current phase gate and produce outputs such as:
+
+- rubric-aligned evidence;
+- engineering findings;
+- confidence assessments;
+- summaries;
+- evidence lineage;
+- traceability to repository artifacts;
+- longitudinal context from prior formal gate analysis.
+
+The Review Center supports instructor judgment; it does not replace it.
+
+The instructor retains academic authority and responsibility for the formal evaluation.
+
+### Developmental and Formal Review Remain Separate
+
+Engineering Studio is developmental.
+
+The Engineering Review Center is formal.
+
+Studio review history and student-reviewer dialogue may be visible to the instructor, but those developmental conversations do not silently become evidence in the formal phase-gate review.
+
+The evidence submitted at the designated phase-gate tag must stand on its own.
+
+[Explore the Engineering Education Suite](https://etisframework.org/Educational_Ecosystem/Engineering_Education_Suite/)
+
+[Explore Engineering Studio](https://etisframework.org/Educational_Ecosystem/Engineering_Studio/)
 
 ---
 
@@ -254,6 +416,24 @@ The public navigation convention is:
 - **Launch** — enter the companion Platform site;
 - **Browse Repository** — enter GitHub.
 
+### Relationship to the Engineering Education Suite
+
+The Engineering Platform and Engineering Education Suite serve different but connected roles.
+
+The Engineering Platform provides the stages, templates, examples, governance assets, and reference patterns students use while performing engineering work.
+
+The Engineering Education Suite uses the phase-gate model and repository evidence to support readiness, developmental review, and formal review.
+
+Engineering Studio can direct students to relevant Platform guidance, Starter Kit materials, and LMU/COICP examples when the evidence indicates that additional engineering guidance would be useful.
+
+The Platform provides guidance.
+
+The student team performs the engineering work.
+
+The repository preserves the evidence.
+
+The Suite helps students and instructors examine that evidence at the appropriate point in the lifecycle.
+
 ---
 
 ## Repository Purpose
@@ -271,6 +451,7 @@ It contains:
 - appendices;
 - the public framework website;
 - Educational Ecosystem materials;
+- Engineering Education Suite documentation and public integration;
 - educational products and download references;
 - Platform gateway materials;
 - Resource Center and ETIS Library content;
@@ -283,6 +464,10 @@ It contains:
 This repository serves as both a publication system and the long-term source authority for the ETIS Framework, its books and publications, educational content, and public framework resources.
 
 The Engineering Platform and its reusable implementation assets are maintained separately in the ETIS Engineering Platform Starter Kit repository.
+
+Engineering Studio application source is maintained separately in the ETIS Engineering Studio repository.
+
+Instructor-only assessment and formal-review implementation components may be maintained separately where assessment integrity, protected instructional workflows, or institutional requirements make public distribution inappropriate.
 
 ---
 
@@ -331,6 +516,11 @@ The Engineering Platform and its reusable implementation assets are maintained s
 - Educational Products
 - Education Paper integration
 - Engineering Platform course-use guidance
+- Engineering Education Suite
+- ETIS Preflight
+- ETIS Engineering Studio
+- ETIS Engineering Review Center
+- Two-cycle, six-phase-gate flagship teaching model
 
 ### Engineering Platform Ecosystem
 
@@ -346,16 +536,17 @@ The Engineering Platform and its reusable implementation assets are maintained s
 
 ### Specialized Public Repositories
 
-The ETIS public repository ecosystem is anchored by the Framework Repository and the Engineering Platform Starter Kit Repository, with specialized repositories supporting education, course implementation, student readiness, community participation, and organization-wide resources.
+The ETIS public repository ecosystem is anchored by the Framework Repository and the Engineering Platform Starter Kit Repository, with specialized repositories supporting education, course implementation, student readiness, Engineering Studio, community participation, and organization-wide resources.
 
 Current specialized public repositories include:
 
 - [COMP 330 Fall 2026 Starter Kit](https://github.com/etis-framework/comp330-f26-starter-kit) — course-specific team repository template for COMP 330/474;
-- [COMP 330 Submission Preflight](https://github.com/etis-framework/comp330-submission-preflight) — student-facing deterministic submission-readiness tooling;
+- [ETIS Preflight — COMP 330/474 Reference Implementation](https://github.com/etis-framework/comp330-submission-preflight) — student-facing, phase-gate-aware readiness tooling using deterministic checks and analytical heuristics to evaluate whether expected repository evidence is present and has the basic shape required for formal review;
+- [ETIS Engineering Studio](https://github.com/etis-framework/etis-engineering-studio) — instructor-operated, student-team environment for evidence-grounded developmental review and engineering-judgment development;
 - [ETIS Community](https://github.com/etis-framework/community) — public community infrastructure supporting ETIS Discussions;
 - [ETIS Organization Resources](https://github.com/etis-framework/.github) — organization-level GitHub configuration and public profile resources.
 
-Instructor-only assessment and review tooling may be maintained in private repositories where assessment integrity or protected instructional workflows require it.
+Instructor-only assessment and formal-review tooling may be maintained in private repositories where assessment integrity, protected instructional workflows, or institutional requirements require it.
 
 ### Resources and Distribution
 
@@ -396,7 +587,7 @@ https://platform.etisframework.org
 
 | Site | Primary Focus |
 |---|---|
-| **etisframework.org** | Learn ETIS, read the book, explore publications, use appendices, access education and resources, and understand the Platform. |
+| **etisframework.org** | Learn ETIS, read the books, explore publications, use appendices, access the Educational Ecosystem and Engineering Education Suite, discover resources, and understand the Platform. |
 | **platform.etisframework.org** | Apply ETIS through engineering stages, templates, reference examples, governance assets, and Project Workspace patterns. |
 
 This separation is intentional.
@@ -455,7 +646,7 @@ The `docs/` directory is the source of truth for the public ETIS Framework websi
 Install the required dependencies in your normal ETIS development environment, then run:
 
 ```bash
-mkdocs build --strict
+mkdocs build --strict --clean
 ```
 
 To preview locally:
@@ -486,7 +677,7 @@ git switch -c <feature-branch>
 After making and validating changes:
 
 ```bash
-mkdocs build --strict
+mkdocs build --strict --clean
 git add <files>
 git commit -m "<clear commit message>"
 git push -u origin <feature-branch>
@@ -511,6 +702,8 @@ Current release history:
 - `v1.4.0` — Books and Professional Computing Series
 
 The `main` branch may advance beyond the latest formal release through documentation, editorial, maintenance, and ecosystem-alignment changes.
+
+Current post-v1.4.0 development includes integration of the ETIS Engineering Education Suite across the public framework website and repository documentation.
 
 Formal releases use versioned Git tags and are documented through GitHub Releases.
 
@@ -550,7 +743,7 @@ https://etisframework.org/publications/citations/
 
 **William T. O'Connell, Ph.D.**
 
-Computer science educator, software engineering practitioner, engineering leader, author of the ETIS Framework Reference Work, founder of the ETIS Professional Computing Series, and creator of the ETIS Publications Program, Educational Ecosystem, and Engineering Platform.
+Computer science educator, software engineering practitioner, engineering leader, author of the ETIS Framework Reference Work, founder of the ETIS Professional Computing Series, and creator of the ETIS Publications Program, Educational Ecosystem, Engineering Education Suite, and Engineering Platform.
 
 ---
 
@@ -574,6 +767,8 @@ It is a long-term professional discipline for creating intelligent systems that 
 The Framework Reference Work defines and publishes the discipline.  
 The Professional Computing Series develops enduring professional capabilities aligned with ETIS.  
 The Publications Program provides focused, citable guidance.  
+The Educational Ecosystem adapts ETIS for teaching and learning.  
+The Engineering Education Suite supports phase-gate readiness, engineering-judgment development, and instructor-led formal review.  
 The Platform gateway explains how to begin.  
-The Engineering Platform provides the professional reference and implementation environment for applying it.  
-The Framework and Engineering Platform repositories preserve their authoritative source and reusable assets; project repositories preserve project-specific engineering evidence.
+The Engineering Platform provides the professional reference and implementation environment for applying ETIS.  
+The Framework, Engineering Platform, and specialized educational repositories preserve their authoritative source and reusable assets; project repositories preserve project-specific engineering evidence.
