@@ -27,7 +27,9 @@ The **ETIS Education Papers** provide focused professional readings. The **Educa
 
 The **ETIS Engineering Platform** provides a professional reference and implementation environment. Instructors and students can use Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP reference examples, governance assets, and Project Workspace patterns to understand and practice repository-centered, evidence-centered engineering. When a course defines a course-specific team repository, that repository remains the authoritative location for project-specific engineering evidence.
 
-**The Framework defines the discipline. ETIS Books develop and extend professional judgment. Publications provide focused guidance. The Educational Ecosystem teaches the discipline. The Engineering Platform demonstrates how to apply it. Course repositories preserve the evidence of what learners actually do.**
+The **ETIS Engineering Education Suite** adds phase-gate-aware course systems for student readiness, engineering-judgment development, and instructor-led formal review. Preflight, Engineering Studio, and the Engineering Review Center are designed as an integrated suite but can be adopted individually.
+
+**The Framework defines the discipline. ETIS Books develop and extend professional judgment. Publications provide focused guidance. The Educational Ecosystem teaches the discipline. The Engineering Platform provides stages, patterns, templates, and examples. The Engineering Education Suite creates phase-aware environments for readiness, judgment development, and formal review. Course repositories preserve the evidence of what learners actually engineer.**
 
 ---
 
@@ -41,6 +43,8 @@ The **ETIS Engineering Platform** provides a professional reference and implemen
 | [Student Resources](Student_Resources.md) | Professional engineering behavior, AI responsibility, repository evidence, review, and portfolio development |
 | [Education Papers](../publications/education-papers/index.md) | Focused readings on software engineering, portfolios, teamwork, AI use, and engineering careers |
 | [Educational Products](Educational_Products.md) | Downloadable instructor, student, facilitation, and implementation guides |
+| [Engineering Education Suite](Engineering_Education_Suite.md) | Phase-gate readiness, engineering judgment development, and formal instructor review |
+| [Engineering Studio](Engineering_Studio.md) | Student-team evidence-grounded coaching and developmental review |
 | [Flagship Implementation](Flagship_Implementation.md) | Loyola University Chicago COMP 330/474 reference implementation |
 | [Institutional Adoption](Institutional_Adoption.md) | Responsible adaptation for universities, departments, and professional programs |
 | [Platform Overview](../Platform/Platform.md) | Learn how the Platform supports ETIS education |
@@ -157,18 +161,27 @@ Adoption examples demonstrate ETIS in practice.
 
 ---
 
-## Educational Tooling
+## Engineering Education Suite
 
-The ETIS Educational Ecosystem also includes purpose-built engineering tools that support evidence-centered software engineering education.
+The ETIS Educational Ecosystem includes a coordinated suite of phase-gate-aware systems built around semester software engineering.
 
-These tools complement the publications, products, and Engineering Platform by providing automated repository analysis, engineering review support, and instructor workflow acceleration.
+| Capability | Primary Persona | Educational Role |
+|---|---|---|
+| **ETIS Preflight** | Student team | Analyze whether expected phase-gate evidence is present and basically ready for formal review |
+| **ETIS Engineering Studio** | Students and teams | Develop engineering judgment through repeated frozen-evidence reviews, questions, challenge, and coaching |
+| **ETIS Engineering Review Center** | Instructor | Conduct formal, tagged phase-gate review with rubric evidence, confidence, summaries, and evidence lineage |
 
-Current tooling includes:
+All three capabilities understand the current phase gate and prior phase-gate analysis, but they do not collapse into one workflow. Readiness, developmental learning, and formal evaluation remain intentionally distinct.
 
-• Instructor Engineering Workbench (Instructor-only)
-• Student Submission Preflight Toolkit
+Engineering Studio is the most developmental of the three. Students can create multiple evidence snapshots as their repository improves and interact independently with a controlled review board working from the same frozen team evidence. Reviewers mentor and challenge rather than provide answers.
 
-Educational tooling uses different distribution models based on purpose. Student-facing tooling may be published openly when transparency supports learning and readiness, while instructor-only assessment systems and protected reviewer logic may remain private when disclosure would weaken assessment integrity.
+The formal Engineering Review Center uses the evidence identified by the phase-gate Git tag. Studio review conversations may be visible to the instructor but do not become hidden evidence in the formal gate review.
+
+The suite is instructor-operated and course-configured. It is not a public self-service application environment. Institutions may adopt the complete suite or use individual components.
+
+[Explore the Engineering Education Suite →](Engineering_Education_Suite.md)
+
+[Explore Engineering Studio →](Engineering_Studio.md)
 
 ---
 

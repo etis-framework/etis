@@ -293,7 +293,7 @@ The Platform should be adapted to the course rather than treated as a rigid comp
 
 A course may use the Platform Project Workspace directly or establish a separate course-specific repository model. When a course-specific repository is designated, that repository remains the authoritative location for project-specific engineering evidence.
 
-The Engineering Platform provides lifecycle guidance, templates, examples, and professional reference patterns. Complementary educational tooling supports student readiness and instructor review. Together they reinforce a consistent repository-centered engineering workflow without requiring every course to use the same repository implementation.
+The Engineering Platform provides lifecycle guidance, templates, examples, and professional reference patterns. The Engineering Education Suite complements that reference environment with phase-gate readiness, student engineering-judgment development, and formal instructor review. Together they reinforce a consistent repository-centered engineering workflow without requiring every course to use the same repository implementation.
 
 [Explore the Platform Overview →](../Platform/Platform.md)
 
@@ -303,24 +303,26 @@ The Engineering Platform provides lifecycle guidance, templates, examples, and p
 
 ---
 
-## Instructor Engineering Tooling
+## Instructor Role in the Engineering Education Suite
 
-The ETIS Educational Ecosystem includes engineering tooling that helps instructors evaluate engineering work while preserving professional judgment.
+The ETIS Engineering Education Suite gives instructors a coordinated environment for student readiness, developmental engineering review, and formal phase-gate evaluation while preserving clear authority boundaries.
 
-The ETIS Instructor Engineering Workbench supports repository-centered, evidence-centered assessment by providing a structured environment for reviewing engineering repositories across the lifecycle.
+[ETIS Preflight](Preflight.md) is student-facing. It uses phase-aware analytical checks to help teams determine whether expected evidence is present and basically ready for formal review.
 
-The Workbench is designed to assist—not replace—instructor evaluation. It helps instructors:
+[ETIS Engineering Studio](Engineering_Studio.md) is also student-facing, but its role is developmental rather than checklist-oriented. Student teams can create repeated frozen evidence snapshots and engage independently with a controlled multidisciplinary review board. Instructors can see the longitudinal review activity and dialogue, helping them understand where teams are learning, struggling, or repeatedly encountering unresolved engineering concerns.
 
-- review repository organization and engineering evidence;
-- evaluate lifecycle and phase-gate readiness;
-- analyze engineering artifacts across assignments;
-- identify evidence gaps and areas requiring additional review;
-- support consistent evaluation across multiple engineering teams;
-- preserve instructional continuity across course offerings.
+[ETIS Engineering Review Center](Engineering_Review_Center.md) is the instructor-facing formal review environment. At each gate, the designated Git tag establishes the formal evidence snapshot. The Review Center provides rubric-aligned evidence, reviewer findings, confidence, summaries, longitudinal context, and evidence lineage back to the repository sources that support the analysis.
 
-The Workbench complements the Engineering Platform by providing an instructor-focused review environment while maintaining the ETIS principle that engineering judgment remains a human responsibility.
+The same controlled reviewer perspectives appear in Studio and the formal review environment, but their mandate changes:
 
-The Instructor Engineering Workbench is provided to instructors and educational stewards as part of the ETIS Educational Ecosystem.
+- in Studio they mentor, coach, question, and challenge;
+- in the Review Center they perform formal evidence-centered phase-gate analysis.
+
+Developmental Studio conversations do not silently become evidence in the formal gate review. The tagged submission must stand on its own.
+
+The instructor remains responsible for interpreting evidence, applying the rubric, resolving ambiguity, and making the academic decision.
+
+[Explore the Engineering Education Suite →](Engineering_Education_Suite.md)
 
 ---
 

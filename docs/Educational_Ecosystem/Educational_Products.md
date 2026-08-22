@@ -173,36 +173,54 @@ They are designed to:
 
 ---
 
-## Educational Engineering Tooling
+## Engineering Education Suite
 
-The ETIS Educational Ecosystem includes purpose-built engineering tools that complement the publications, educational products, and Engineering Platform.
+The ETIS Educational Ecosystem includes purpose-built course systems that complement the publications, educational products, and Engineering Platform.
 
-These tools support evidence-centered software engineering education by helping instructors evaluate repository maturity and helping students assess repository readiness before formal engineering reviews.
+The suite separates three responsibilities that should not be conflated: phase-gate readiness, student engineering-judgment development, and instructor-led formal review.
 
-Educational tooling uses different distribution models based on purpose. Student-facing tooling may be published openly, while instructor-only assessment systems and protected reviewer logic may remain private when disclosure would weaken assessment integrity.
-
----
+The systems are designed to work together but can be adopted individually. Their distribution models differ by purpose: student-facing readiness tooling can be published openly, while instructor environments and protected review configuration may remain controlled when disclosure would weaken assessment integrity.
 
 <div class="etis-download-panel">
 
-<h3>ETIS Student Submission Preflight Toolkit</h3>
+<h3>ETIS Preflight</h3>
 
-<p>Repository analysis toolkit that helps students evaluate engineering evidence, repository completeness, lifecycle readiness, and governance artifacts before assignment submission.</p>
+<p>Phase-gate-aware readiness analysis that helps student teams determine whether expected repository evidence is present and has the basic shape needed before formal engineering review.</p>
 
 <a class="md-button"
-   href="https://github.com/etis-framework/comp330-submission-preflight">
-Explore Student Submission Preflight ↗
+   href="/Educational_Ecosystem/Preflight/">
+Explore ETIS Preflight
 </a>
 
 </div>
 
 <div class="etis-download-panel">
 
-<h3>ETIS Instructor Engineering Workbench</h3>
+<h3>ETIS Engineering Studio</h3>
 
-<p>Instructor-only repository review environment supporting engineering evidence analysis, assignment assessment, longitudinal team review, and AI-assisted instructional workflows.</p>
+<p>Instructor-operated student-team learning environment for repeated frozen-evidence review, engineering questions, multidisciplinary challenge, and development of engineering judgment before the formal gate.</p>
+
+<a class="md-button"
+   href="/Educational_Ecosystem/Engineering_Studio/">
+Explore Engineering Studio
+</a>
 
 </div>
+
+<div class="etis-download-panel">
+
+<h3>ETIS Engineering Review Center</h3>
+
+<p>Instructor-facing formal phase-gate review environment providing rubric-aligned evidence, confidence, summaries, longitudinal context, and traceable lineage to the tagged repository evidence.</p>
+
+<a class="md-button"
+   href="/Educational_Ecosystem/Engineering_Review_Center/">
+Explore Engineering Review Center
+</a>
+
+</div>
+
+[Explore the complete Engineering Education Suite →](Engineering_Education_Suite.md)
 
 ---
 

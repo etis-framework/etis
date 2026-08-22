@@ -165,6 +165,11 @@ nav:
 
   - Education:
       - Educational Ecosystem: Educational_Ecosystem/Educational_Ecosystem.md
+      - Engineering Education Suite:
+          - Suite Overview: Educational_Ecosystem/Engineering_Education_Suite.md
+          - Engineering Studio: Educational_Ecosystem/Engineering_Studio.md
+          - Preflight: Educational_Ecosystem/Preflight.md
+          - Engineering Review Center: Educational_Ecosystem/Engineering_Review_Center.md
       - Educational Products: Educational_Ecosystem/Educational_Products.md
       - Instructor Resources: Educational_Ecosystem/Instructor_Resources.md
       - Student Resources: Educational_Ecosystem/Student_Resources.md

@@ -29,7 +29,7 @@ hide:
       </p>
 
       <p class="etis-hero-education-text">
-        The ETIS ecosystem provides books, publications, educational resources, the Engineering Platform, and engineering tools needed to put ETIS into practice.
+        The ETIS ecosystem provides books, publications, educational resources, the Engineering Platform, and an integrated Engineering Education Suite for phase-gate readiness, engineering-judgment development, and instructor-led review.
       </p>
 
       <p class="etis-hero-copy-text etis-hero-action-statement">

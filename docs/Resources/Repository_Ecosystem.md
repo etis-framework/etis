@@ -15,9 +15,9 @@ hide:
 
 ETIS is a repository-centered engineering ecosystem.
 
-The public ETIS ecosystem is organized around two primary repositories complemented by specialized educational, community, and organization repositories.
+The public ETIS ecosystem is organized around two foundational repositories complemented by specialized educational, service, community, and organization repositories.
 
-The two primary repositories form the foundation of the ETIS ecosystem. Specialized repositories support educational tooling, course implementations, community participation, organization-level resources, and other focused capabilities while preserving clear separation of responsibilities and release models.
+The Framework and Engineering Platform repositories form the knowledge-and-implementation foundation of ETIS. Specialized repositories support course implementations, educational services, community participation, organization-level resources, and other focused capabilities while preserving clear separation of responsibilities and release models.
 
 - the **ETIS Framework Repository** defines, publishes, and preserves the ETIS body of knowledge;
 - the **ETIS Engineering Platform Starter Kit Repository** operationalizes ETIS through stages, templates, examples, governance assets, and project workspaces.
@@ -35,6 +35,7 @@ The Starter Kit repository demonstrates how to apply the discipline.
 |---|---|---|
 | **ETIS Framework Repository** | [etisframework.org](https://etisframework.org) | Authoritative source for the Framework, Framework Reference Work, Books and Professional Computing Series materials, Publications Program, Educational Ecosystem, downloads, resources, roadmap, and public website. |
 | **ETIS Engineering Platform Starter Kit Repository** | [platform.etisframework.org](https://platform.etisframework.org) | Practical implementation environment containing Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspace materials. |
+| **ETIS Engineering Studio Repository** | [Engineering Studio overview](../Educational_Ecosystem/Engineering_Studio.md) | Open-source reference implementation of the instructor-operated student-team environment for evidence-grounded developmental review and engineering-judgment formation. |
 
 <div style="margin-top:.75rem;">
 
@@ -135,7 +136,7 @@ ETIS Engineering Platform and Starter Kit Repository
 
 The repositories complement each other without duplicating their primary responsibilities.
 
-The two public repositories form the foundation of the ETIS ecosystem. Additional specialized repositories may support educational tooling, instructor resources, student engineering workflows, and future professional capabilities while preserving clear separation of responsibilities and release models.
+The Framework and Engineering Platform repositories remain the two foundational knowledge-and-implementation repositories. The public Engineering Studio repository adds an adoptable educational service implementation with a different operational responsibility and release model. Additional specialized repositories may support course tooling, instructor resources, student engineering workflows, and future professional capabilities while preserving clear separation of authority and provenance.
 
 ---
 
@@ -233,7 +234,7 @@ A repository archive is a packaged distribution of the working repository. It do
 | Use stages, templates, and examples | [Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
 | Download the Engineering Platform Starter Kit archive | [Starter Kit Download](download.md#engineering-platform-starter-kit) |
 | Create a COMP 330 Fall 2026 team repository | [COMP 330 Course Starter Kit](https://github.com/etis-framework/comp330-f26-starter-kit) |
-| Check COMP 330 repository readiness | [Student Submission Preflight](https://github.com/etis-framework/comp330-submission-preflight) |
+| Check COMP 330/474 phase-gate readiness | [ETIS Preflight](https://github.com/etis-framework/comp330-submission-preflight) |
 | Participate in the ETIS community | [ETIS Community Discussions](https://github.com/orgs/etis-framework/discussions) |
 | Explore ETIS Books and the Professional Computing Series | [ETIS Books](../Books/index.md) |
 | Explore ETIS publications | [Publications](../publications/index.md) |
@@ -263,11 +264,12 @@ In addition to the two primary ETIS repositories, specialized repositories suppo
 | Repository | Visibility | Role |
 |---|---|---|
 | **COMP 330 Fall 2026 Starter Kit** | Public template | Official Loyola University Chicago COMP 330 course repository template used by student teams to create their project repositories. It is distinct from the ETIS Engineering Platform Starter Kit. |
-| **COMP 330 Submission Preflight** | Public | Student-facing deterministic repository-readiness tooling for evidence completeness, Git/GitHub workflow, roles, AI accountability, traceability, CI/release readiness, and submission preparation. It does not grade student work or perform AI-based scoring. |
+| **COMP 330 Submission Preflight** | Public | Reference implementation of **ETIS Preflight** for COMP 330/474. Student-facing, phase-gate-aware readiness tooling uses deterministic checks and analytical heuristics to evaluate whether expected repository evidence is present and has the basic shape required for formal review. It does not perform the formal phase-gate review or make the gate decision. |
+| **ETIS Engineering Studio** | Public source / instructor-operated deployment | Open-source student-team learning environment for frozen-evidence review, controlled reviewer dialogue, engineering-judgment development, and links to relevant ETIS Platform guidance. Production use requires course and institutional configuration. |
 | **ETIS Community** | Public | Organization-level home for GitHub Discussions and persistent dialogue about the Framework, books, publications, education, professional computing, trustworthy AI, and engineering practice. |
 | **ETIS Organization Profile** | Public | GitHub organization profile and public organization-level configuration. |
 
-Instructor-only assessment systems and protected engineering workbenches may remain private when publication would weaken assessment integrity or expose protected review logic.
+Instructor-only formal review systems, rubrics, protected reviewer configuration, and other assessment logic may remain private when publication would weaken assessment integrity. The instructor-facing formal review environment is described publicly as the ETIS Engineering Review Center.
 
 Specialized repositories allow individual capabilities to evolve independently while preserving clear responsibility, provenance, and alignment with ETIS engineering doctrine.
 

@@ -24,7 +24,7 @@ ETIS is organized as a connected professional ecosystem:
 - **ETIS Publications** provide focused, citable papers and executive guidance;
 - the **ETIS Engineering Platform** demonstrates how to apply ETIS;
 - the **Educational Ecosystem** supports teaching, learning, institutional adoption, and educational engineering practices;
-- **Educational Engineering Tooling** supports repository readiness, evidence-centered review, and engineering evaluation workflows for students and instructors;
+- the **ETIS Engineering Education Suite** supports phase-gate readiness, student engineering-judgment development, and instructor-led formal review;
 - the **ETIS Community** provides a persistent public space for engineering questions, discussion, clarification, and shared learning;
 - the **ETIS Repositories** preserve source, reusable artifacts, and engineering evidence;
 - **Downloads** package selected ETIS products into durable, portable forms.
@@ -47,6 +47,10 @@ ETIS is organized as a connected professional ecosystem:
 | Enter the working Engineering Platform | [Launch the Engineering Platform ↗](https://platform.etisframework.org) |
 | Use stages, templates, examples, or workspaces | [ETIS Engineering Platform Starter Kit Repository](https://github.com/etis-framework/etis-starter-kit) |
 | Teach or study ETIS | [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md) |
+| Understand the course review systems | [Engineering Education Suite](../Educational_Ecosystem/Engineering_Education_Suite.md) |
+| Develop student engineering judgment | [Engineering Studio](../Educational_Ecosystem/Engineering_Studio.md) |
+| Prepare for a formal phase gate | [ETIS Preflight](../Educational_Ecosystem/Preflight.md) |
+| Understand instructor formal review | [Engineering Review Center](../Educational_Ecosystem/Engineering_Review_Center.md) |
 | Discuss ETIS or participate in shared engineering questions | [ETIS Community Discussions](https://github.com/orgs/etis-framework/discussions) |
 | Download books, educational products, or the Starter Kit archive | [Downloads](download.md) |
 | Understand ETIS editions and publication formats | [ETIS Library](ETIS_Library.md) |
@@ -157,6 +161,10 @@ The Platform is designed for projects, courses, teams, pilots, and organizations
 The ETIS Educational Ecosystem supports instructors, students, universities, professional programs, and institutional adopters.
 
 - [Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
+- [Engineering Education Suite](../Educational_Ecosystem/Engineering_Education_Suite.md)
+- [Engineering Studio](../Educational_Ecosystem/Engineering_Studio.md)
+- [ETIS Preflight](../Educational_Ecosystem/Preflight.md)
+- [Engineering Review Center](../Educational_Ecosystem/Engineering_Review_Center.md)
 - [Instructor Resources](../Educational_Ecosystem/Instructor_Resources.md)
 - [Student Resources](../Educational_Ecosystem/Student_Resources.md)
 - [Flagship Implementation](../Educational_Ecosystem/Flagship_Implementation.md)
@@ -165,17 +173,15 @@ The ETIS Educational Ecosystem supports instructors, students, universities, pro
 - [ETIS Education Papers](../publications/education-papers/index.md)
 - [Student and Instructor Reading Path](../publications/reading-paths.md#student-or-instructor)
 
-The Engineering Platform can serve as a professional reference and implementation environment for ETIS-based courses, labs, team projects, and professional formation activities. Course-specific repositories remain the authoritative location for project-specific engineering evidence when the course implementation defines them that way.
+The Engineering Platform supplies stages, templates, examples, governance assets, and professional reference patterns. Course-specific repositories remain authoritative for project-specific evidence when the instructor defines them that way.
 
-The Educational Ecosystem also includes complementary educational engineering tooling.
+The Engineering Education Suite operates around that evidence with three distinct responsibilities:
 
-Students can strengthen repository quality throughout a project using the **ETIS Student Submission Preflight Toolkit**, which evaluates repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal review.
+- **Preflight** checks phase-gate readiness;
+- **Engineering Studio** develops student engineering judgment through repeated evidence-grounded review;
+- **Engineering Review Center** supports the instructor's formal tagged phase-gate review.
 
-[Explore Student Submission Preflight →](https://github.com/etis-framework/comp330-submission-preflight)
-
-Instructors can perform evidence-centered repository reviews using the **ETIS Instructor Engineering Workbench**, which assists with lifecycle evaluation, engineering evidence assessment, and consistent review across multiple engineering teams.
-
-These tools complement the Engineering Platform while preserving the ETIS principle that engineering judgment remains a human responsibility.
+The suite is course-configured rather than public self-service software. Institutions may adopt the complete suite or individual components.
 
 ---
 
@@ -244,6 +250,7 @@ New professional resources should extend the ecosystem without duplicating the E
 | **Engineering Platform** | Applies ETIS through stages, templates, examples, governance assets, and workspaces. |
 | **Repositories** | Preserve engineering evidence, decisions, reusable artifacts, and public source materials. |
 | **Education** | Teaches ETIS through courses, instructor resources, student guidance, and adoption models. |
+| **Engineering Education Suite** | Supports phase-gate readiness, student engineering-judgment development, and instructor-led formal review. |
 | **Educational Tooling** | Supports repository analysis, engineering evidence evaluation, lifecycle readiness, and educational review workflows. |
 | **Downloads** | Package selected ETIS products into durable, portable editions and archives. |
 | **Resource Center** | Connects users to the right ETIS experience based on their goal. |

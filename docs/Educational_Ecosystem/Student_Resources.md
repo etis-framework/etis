@@ -146,17 +146,39 @@ Your course repository may adapt this structure. Follow the repository model and
 
 ---
 
-## Student Engineering Tooling
+## Student Engineering Systems
 
-The ETIS Educational Ecosystem includes engineering tooling that helps students evaluate the quality and completeness of their engineering repositories before formal review.
+ETIS student-facing systems help you prepare evidence and develop engineering judgment before formal phase-gate review.
 
-The ETIS Student Submission Preflight Toolkit analyzes repository organization, engineering evidence, lifecycle readiness, and governance artifacts to help students identify areas that may require additional attention before assignment submission.
+### ETIS Preflight
 
-The toolkit is intended to strengthen engineering practice—not to replace thoughtful review or engineering judgment. Students remain responsible for the quality, accuracy, and completeness of the work they submit.
+[ETIS Preflight](Preflight.md) checks whether the evidence expected for the current phase gate is present and has the basic shape needed for review.
 
-Used throughout the semester, the Student Submission Preflight Toolkit encourages continuous repository improvement, reinforces evidence-centered engineering, and helps students prepare for engineering phase-gate reviews.
+Use it to find readiness gaps while you still have time to improve the repository.
 
-[Explore Student Submission Preflight →](https://github.com/etis-framework/comp330-submission-preflight){ .md-button }
+Passing a readiness check does not prove that an engineering decision is correct. You remain responsible for the quality, accuracy, completeness, and meaning of the evidence you submit.
+
+[Open ETIS Preflight Repository ↗](https://github.com/etis-framework/comp330-submission-preflight){ .md-button }
+
+### ETIS Engineering Studio
+
+[ETIS Engineering Studio](Engineering_Studio.md) is the team learning environment for deeper engineering review.
+
+Your team can create frozen evidence snapshots as the project evolves. Every student on the team sees the same snapshot evidence, but each student can ask questions and interact independently with the controlled engineering reviewers.
+
+Use Studio to:
+
+- conduct mini-reviews before the formal gate;
+- ask why a reviewer surfaced a fact or concern;
+- defend a decision with repository evidence;
+- challenge a reviewer when the evidence supports a different conclusion;
+- identify risks, unknowns, and unresolved decisions;
+- strengthen your reasoning before the tagged submission;
+- open relevant Engineering Platform stages, Starter Kit guidance, or LMU/COICP examples when additional help is needed.
+
+The reviewers do not give you the answer. They coach and challenge you so that **you** remain the engineer.
+
+Your instructor provisions the course environment and determines which ETIS systems your course uses.
 
 ---
 
@@ -340,12 +362,12 @@ Students should leave the course with evidence of engineering ability—not only
 2. Understand repository-centered engineering.
 3. Use the Engineering Platform Project Workspace or the course-specific repository environment designated by your instructor.
 4. Organize evidence before producing too much code.
-5. Use the Student Submission Preflight Toolkit throughout the project to identify repository gaps and strengthen engineering evidence.
-6. Use AI responsibly and visibly.
-7. Preserve decisions, tests, reviews, and release evidence.
-8. Prepare to defend engineering work.
-9. Improve the repository as the project matures.
-10. Translate the evidence into portfolio and interview stories.
+5. Use ETIS Preflight before formal gates to identify readiness gaps in the expected repository evidence.
+6. Use Engineering Studio when available to conduct developmental mini-reviews, ask questions, challenge findings, and strengthen engineering judgment.
+7. Use AI responsibly and visibly.
+8. Preserve decisions, tests, reviews, and release evidence.
+9. Prepare to defend engineering work.
+10. Improve the repository as the project matures and translate the evidence into portfolio and interview stories.
 
 The objective is not to fill folders.
 

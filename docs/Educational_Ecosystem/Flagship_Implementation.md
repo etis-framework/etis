@@ -124,19 +124,27 @@ It demonstrates that ETIS doctrine can be implemented in a real educational envi
 
 ## Two-Cycle Engineering Model
 
+The flagship course compresses a much broader ETIS lifecycle into a semester-sized instructional path.
+
+A semester cannot examine every ETIS chapter or lifecycle concern with equal depth. The Educational Ecosystem therefore supports different teaching models and durations. COMP 330/474 selects a deliberate path through the framework using a two-cycle delivery model.
+
 ```text
 Cycle 1
-Can it work?
+Project launch → first release
 
 Cycle 2
-Can it survive?
+Operational enhancement → continued engineering responsibility
 ```
 
-Cycle 1 emphasizes initial construction, requirements clarity, architecture direction, working functionality, and early evidence.
+The first five phase gates form Cycle 1, moving the team from project launch through its initial release.
 
-Cycle 2 emphasizes maturity, quality, verification, release readiness, operational thinking, and defense.
+The sixth phase gate begins Cycle 2 as an operational enhancement. Students must work on a system that now exists, has accumulated engineering history, and carries continuing responsibility.
 
-This model helps students understand that software engineering does not end when the first working version appears.
+This structure reflects the broader movement of ETIS from the system-construction concerns emphasized in Volume I toward the operations, governance, oversight, and stewardship concerns emphasized in Volume II.
+
+It does not attempt to compress the entire ETIS Framework into six gates.
+
+> **Release changes the nature of engineering responsibility. It does not end it.**
 
 A working demo is not operational proof.
 
@@ -194,35 +202,62 @@ The tool can change.
 
 The engineering behavior must endure.
 
-Within the flagship implementation, repository quality is reinforced through complementary educational tooling. Students evaluate their repositories prior to submission using the Student Submission Preflight Toolkit, while instructors perform evidence-centered repository reviews using the Instructor Engineering Workbench.
+Within the flagship implementation, the repository also becomes the shared evidence base for the ETIS Engineering Education Suite. Preflight checks phase-gate readiness, Engineering Studio supports repeated developmental review and engineering-judgment practice, and the Engineering Review Center supports the instructor's formal phase-gate review.
 
-These tools improve visibility, consistency, and engineering feedback. They do not replace professional review, engineering judgment, or instructor oversight.
+These systems improve visibility, continuity, and engineering feedback. They do not replace professional review, student responsibility, engineering judgment, or instructor authority.
 
 ---
 
-## Engineering Platform Connection
+## Engineering Platform and Engineering Education Suite
 
 The Engineering Platform gives teams a repeatable lifecycle and evidence architecture.
 
-The Platform is complemented by ETIS educational tooling that supports both instructors and students throughout the engineering lifecycle.
+Students can use Platform stages to understand what work comes next, templates and reference patterns to structure important artifacts, governance guidance to make AI-assisted work visible and reviewable, and LMU/COICP examples to calibrate the shape of professional engineering evidence.
 
-Students use the ETIS Student Submission Preflight Toolkit to evaluate repository completeness, engineering evidence, governance artifacts, and phase-gate readiness before submitting assignments.
+The Engineering Education Suite then operates around the team's own authoritative course repository.
 
-Instructors use the ETIS Instructor Engineering Workbench to review repositories, analyze engineering evidence, assess lifecycle maturity, and support consistent evidence-centered evaluation across multiple engineering teams.
+### ETIS Preflight
 
-Together, the Platform, course repository, and educational tooling reinforce repository-centered engineering while preserving clear responsibilities: the Platform provides professional lifecycle guidance and reference patterns; the team repository preserves the project-specific engineering evidence; Student Submission Preflight helps students strengthen readiness; and the Instructor Engineering Workbench supports evidence-centered instructor review. Engineering judgment always remains a human responsibility.
+Before formal gate submission, Preflight uses phase-aware analytical heuristics and rules to identify whether expected evidence is present and has the basic shape needed for review.
+
+### ETIS Engineering Studio
+
+Throughout the phase, teams can create frozen evidence snapshots whenever a developmental review would help. The controlled engineering reviewers inspect the same team evidence, ask questions, challenge assumptions, and guide students toward stronger reasoning. When students need additional help, Studio can link them directly to relevant Platform stages, Starter Kit material, or LMU/COICP examples in a separate tab.
+
+The reviewers coach and guide. They do not provide the engineering answer.
+
+### ETIS Engineering Review Center
+
+At the formal gate, the designated Git tag establishes the submitted evidence boundary. The instructor review environment analyzes that tagged evidence and provides rubric-aligned evidence, confidence, summaries, findings, and lineage back to the repository sources that support the analysis.
+
+The instructor remains the academic authority.
+
+### Developmental and Formal Review Remain Separate
+
+An instructor can see Studio review history and student/reviewer dialogue, but the formal phase-gate analysis is based on the evidence presented at the gate. Studio conversations are not silently incorporated into the gate evidence.
+
+```text
+Engineer the work
+      ↓
+Use Studio repeatedly as evidence evolves
+      ↓
+Use Preflight to check gate readiness
+      ↓
+Tag the formal phase-gate submission
+      ↓
+Engineering Review Center analyzes tagged evidence
+      ↓
+Instructor exercises academic judgment
+```
+
+The sequence is intentionally not rigid. A team may return to Studio many times and may run Preflight more than once before the final tag.
 
 > **Flagship Implementation — COMP 330/474 Software Engineering**
-> COMP 330/474 combines the ETIS Framework, Engineering Platform, course-specific team repositories, Student Submission Preflight, and instructor review tooling into the flagship classroom implementation of the ETIS educational model. Student teams apply the lifecycle through six phase-gate reviews while building and evolving a semester-long engineering repository that serves as the authoritative record of their engineering work.
+> COMP 330/474 combines the ETIS Framework, Engineering Platform, course-specific team repositories, and the Engineering Education Suite into the flagship classroom implementation of the ETIS educational model. Student teams progress through six phase-gate reviews across a two-cycle semester model while preserving the repository as the authoritative record of their engineering work.
 
-Students can:
+[Explore the Engineering Education Suite →](Engineering_Education_Suite.md)
 
-- use Platform stages to understand what work comes next;
-- use templates and reference patterns to structure important artifacts;
-- study LMU/COICP examples to calibrate quality;
-- use governance guidance to make AI-assisted work visible and reviewable;
-- preserve project-specific evidence in their course team repository;
-- connect construction, review, release, operations, and stewardship across the lifecycle.
+[Explore Engineering Studio →](Engineering_Studio.md)
 
 [Explore the Platform Overview →](../Platform/Platform.md)
 
