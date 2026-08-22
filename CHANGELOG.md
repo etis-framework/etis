@@ -8,9 +8,88 @@ The format is inspired by *Keep a Changelog* and adapted for framework, publicat
 
 ## [Unreleased] - August 2026
 
-### Books and Publishing Architecture
+### Engineering Education Suite Integration
 
-This update expands the ETIS publishing architecture while preserving *Engineering Trustworthy Intelligent Systems* as the foundational ETIS Framework Reference Work.
+This update expands the ETIS Educational Ecosystem with a coordinated, phase-gate-aware Engineering Education Suite for student readiness, engineering-judgment development, and instructor-led formal review.
+
+### Added
+
+#### Engineering Education Suite
+
+- ETIS Engineering Education Suite overview and cross-site integration
+- ETIS Preflight as the student/team phase-gate readiness capability
+- ETIS Engineering Studio as the instructor-operated student-team engineering-judgment environment
+- ETIS Engineering Review Center as the instructor-facing formal phase-gate review environment
+- Dedicated public pages for the Suite, Preflight, Engineering Studio, and Engineering Review Center
+- Education navigation for the three coordinated but modular capabilities
+- Institutional-adoption guidance for instructor- and university-operated deployment
+
+#### Engineering Studio
+
+- Phase-gate-aware developmental review
+- Frozen evidence snapshots initiated by student teams throughout a phase
+- Shared team evidence snapshots with independent student-reviewer conversations
+- Controlled multidisciplinary engineering review board behavior
+- Evidence-grounded mentoring, challenge, questioning, and developmental mini-reviews
+- Prior phase-gate awareness and longitudinal engineering context
+- Links to relevant Engineering Platform stages, Starter Kit guidance, templates, and LMU/COICP examples
+- Public documentation of the Azure production reference deployment and its reliability, availability, serviceability, recoverability, observability, identity, database, backup, and deployment architecture
+
+#### Formal Phase-Gate Review
+
+- Formal evidence boundary based on the designated phase-gate Git tag
+- Rubric-aligned evidence analysis
+- Confidence assessments
+- Review summaries and findings
+- Evidence lineage and traceability to repository artifacts
+- Longitudinal context from prior formal phase-gate analysis
+- Explicit preservation of instructor academic authority
+
+#### Educational Model
+
+- Two-cycle COMP 330/474 flagship delivery model documented
+- First five phase gates positioned from project launch through initial release
+- Sixth phase gate positioned as an operational enhancement cycle
+- Educational relationship to the broader ETIS lifecycle and the transition into Volume II operational, governance, resilience, oversight, and stewardship concerns
+- Clarification that a semester selectively adapts the broader ETIS lifecycle rather than attempting to cover every ETIS topic
+
+### Changed
+
+- Repositioned educational tooling as the **ETIS Engineering Education Suite** rather than a collection of unrelated utilities.
+- Replaced the public-facing **Instructor Engineering Workbench** terminology with **ETIS Engineering Review Center** where the current capability is being described.
+- Repositioned **Student Submission Preflight** as **ETIS Preflight** in current public-facing product language while preserving historical repository and release terminology where appropriate.
+- Clarified the distinct roles of Preflight, Engineering Studio, and Engineering Review Center.
+- Clarified that all three capabilities are phase-gate aware and informed by prior phase-gate analysis.
+- Clarified that Preflight evaluates phase-gate readiness but does not conduct the formal engineering review.
+- Clarified that Engineering Studio reviewers coach, mentor, question, and challenge rather than provide engineering answers.
+- Clarified that Studio developmental review and formal phase-gate review remain intentionally separate.
+- Clarified that Studio conversations do not silently become evidence in the formal phase-gate review.
+- Clarified that the formal phase-gate evidence submitted at the designated Git tag must stand on its own.
+- Clarified that evidence, findings, confidence assessments, summaries, and rubric-aligned analysis support instructor decision-making rather than autonomous grading.
+- Updated Educational Ecosystem, Educational Products, Instructor Resources, Student Resources, Flagship Implementation, Institutional Adoption, Resources, Repository Ecosystem, Downloads, ETIS Library, About, What's New, Framework references, and repository-level documentation.
+- Updated the main landing page with a single text-only ecosystem description change; no homepage layout or CSS changes were introduced.
+- Updated `README.md` and `ROADMAP.md` to reflect the Engineering Education Suite and current ecosystem architecture.
+
+### Validation
+
+- MkDocs strict clean build completed successfully.
+- New and modified Education pages reviewed in the local site.
+- Navigation and internal links reviewed.
+- Homepage CSS and layout intentionally left unchanged.
+
+### Release Note
+
+These changes are currently recorded as **Unreleased**.
+
+The latest tagged repository release remains **v1.4.0** until the next formal release is created.
+
+---
+
+## [1.4.0] - August 2026
+
+### Books and Professional Computing Series Release
+
+This release established the mature ETIS long-form publishing architecture while preserving *Engineering Trustworthy Intelligent Systems* as the foundational ETIS Framework Reference Work.
 
 ### Added
 
@@ -38,9 +117,54 @@ This update expands the ETIS publishing architecture while preserving *Engineeri
 - Corrected malformed or inconsistent internal links discovered during the publishing-architecture review.
 - Clarified ambiguous “Complete Book” homepage language as “Full Framework.”
 
-### Release Note
+### Milestone
 
-These changes are currently recorded as **Unreleased**. The latest tagged repository release remains **v1.2.0** until a new release is formally created.
+This release established the current ETIS publishing architecture:
+
+- ETIS Framework Reference Work
+- ETIS Two-Volume Professional Edition
+- ETIS Professional Computing Series
+- *From Data Structures to Engineering Judgment*
+- ETIS Publications Program
+- Educational Ecosystem
+- Engineering Platform
+- integrated resource, repository, and navigation architecture
+
+---
+
+## [1.3.0] - August 2026
+
+### Educational Ecosystem and Platform Integration Release
+
+This release expanded ETIS education into a coherent public teaching and institutional-adoption architecture and aligned educational practice with the Engineering Platform.
+
+### Added
+
+- ETIS Educational Ecosystem architecture
+- Instructor Resources
+- Student Resources
+- Educational Products
+- COMP 330/474 Flagship Implementation
+- Institutional Adoption guidance
+- ETIS Educational Ecosystem Guide
+- ETIS Instructor Course Package
+- ETIS Classroom Facilitation Guide
+- ETIS Instructor Handbook
+- ETIS Student Professional Engineering Guide
+- ETIS COMP 330 Flagship Implementation Guide
+- Engineering Platform course-use guidance
+
+### Changed
+
+- Positioned ETIS education as professional formation rather than course content alone.
+- Integrated repository-centered engineering, evidence-centered engineering, responsible AI use, professional teamwork, review and release defense, operational thinking, stewardship, and professional portfolio development into the educational model.
+- Aligned the Educational Ecosystem with the Engineering Platform as the practical project environment for ETIS course work.
+- Expanded public navigation, resource discovery, and institutional-adoption guidance for educational users.
+- Updated Framework, Resources, About, and supporting website pages to reflect the mature educational architecture.
+
+### Milestone
+
+This release established the educational foundation later extended by the Engineering Education Suite.
 
 ---
 
