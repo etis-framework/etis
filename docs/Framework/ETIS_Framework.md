@@ -197,7 +197,7 @@ The ecosystem includes:
 - **ETIS Publications**, which extend the framework through focused, citable white papers, executive briefs, and education papers;
 - the **ETIS Engineering Platform**, introduced through the [Platform Overview](../Platform/Platform.md), which demonstrates how to apply ETIS;
 - the **Educational Ecosystem**, which supports teaching, learning, and institutional adoption;
-- **Educational Products and Tooling**, which provide reusable guides, instructor resources, student resources, and engineering tools that operationalize ETIS educational practices;
+- the **ETIS Engineering Education Suite**, which provides phase-gate-aware readiness, student engineering-judgment development, and instructor formal-review capabilities;
 - the **ETIS Community**, which provides a persistent public space for engineering questions, clarification, discussion, and shared learning;
 - the **ETIS Repositories**, which preserve public source, reusable artifacts, and engineering evidence;
 - and **Downloads**, which package selected ETIS products into durable, portable forms.
@@ -253,7 +253,7 @@ ETIS is expressed publicly through several connected forms:
 - **The ETIS Professional Computing Series** develops durable engineering judgment in focused computing domains.
 - **ETIS Publications** provide focused, citable treatments of major ideas and decisions.
 - **The Educational Ecosystem** turns ETIS into teachable and adoptable resources.
-- **Educational Products and Tooling** operationalize those resources for instructors, students, and institutional adopters.
+- **The Engineering Education Suite** supports phase-gate readiness, student engineering-judgment development, and instructor-led formal review through Preflight, Engineering Studio, and the Engineering Review Center.
 - **The ETIS Community** supports persistent engineering discussion, clarification, and shared professional learning.
 - **The Platform Overview** introduces the ETIS implementation environment and explains its relationship to the broader ecosystem.
 - **The Engineering Platform** turns framework doctrine into staged engineering practice.
@@ -278,6 +278,8 @@ Together, these forms make ETIS more than a publication. They make it a stewarde
 - [Platform Overview](../Platform/Platform.md)
 - [Launch the ETIS Engineering Platform ↗](https://platform.etisframework.org)
 - [ETIS Educational Ecosystem](../Educational_Ecosystem/Educational_Ecosystem.md)
+- [ETIS Engineering Education Suite](../Educational_Ecosystem/Engineering_Education_Suite.md)
+- [ETIS Engineering Studio](../Educational_Ecosystem/Engineering_Studio.md)
 - [Resource Center](../Resources/Resources.md)
 - [ETIS Community Discussions ↗](https://github.com/orgs/etis-framework/discussions)
 - [Appendix A — Trustworthiness Framework](../Appendices/Appendix_A/Appendix_A.md)

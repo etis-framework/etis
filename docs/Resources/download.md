@@ -365,27 +365,33 @@ Open PDF
 
 ---
 
-## Educational Engineering Tooling
+## Engineering Education Suite
 
-The ETIS Educational Ecosystem includes complementary engineering tools that reinforce repository-centered, evidence-centered software engineering education.
+The ETIS Engineering Education Suite includes course systems for phase-gate readiness, student engineering-judgment development, and instructor formal review. These are not all distributed as downloadable website products.
 
-These tools support continuous engineering improvement throughout the lifecycle while preserving professional engineering judgment.
+### ETIS Preflight
 
-### ETIS Student Submission Preflight Toolkit
+ETIS Preflight is the student-facing, phase-gate-aware readiness capability. The COMP 330 implementation is published openly so students can inspect and run the repository-readiness checks used by their course.
 
-The Student Submission Preflight Toolkit helps engineering teams evaluate repository organization, engineering evidence, governance artifacts, and phase-gate readiness before formal engineering reviews.
+[Explore ETIS Preflight →](../Educational_Ecosystem/Preflight.md)
 
-The toolkit is intended to strengthen engineering practice throughout the project rather than function solely as a final submission checker.
+[Open ETIS Preflight Repository ↗](https://github.com/etis-framework/comp330-submission-preflight){ .md-button }
 
-[Explore Student Submission Preflight →](https://github.com/etis-framework/comp330-submission-preflight){ .md-button }
+### ETIS Engineering Studio
 
-### ETIS Instructor Engineering Workbench
+Engineering Studio is an instructor-operated student-team service for frozen-evidence developmental review and engineering-judgment formation. Its source is public, but production use requires institutional or instructor deployment, identity, repository authorization, course configuration, privacy controls, and operations.
 
-The Instructor Engineering Workbench supports evidence-centered repository review across multiple engineering teams.
+[Explore Engineering Studio →](../Educational_Ecosystem/Engineering_Studio.md)
 
-It assists instructors with lifecycle assessment, engineering evidence evaluation, repository analysis, and instructional consistency while preserving instructor judgment.
+[Browse the Engineering Studio Source ↗](https://github.com/etis-framework/etis-engineering-studio){ .md-button }
 
-The Workbench is provided to instructors and institutional adopters as part of the ETIS Educational Ecosystem.
+### ETIS Engineering Review Center
+
+The Engineering Review Center is the instructor-facing formal phase-gate review environment. It is described publicly so adopters can understand the educational model, while instructor assessment configuration and protected review logic may remain controlled where disclosure would weaken assessment integrity.
+
+[Explore Engineering Review Center →](../Educational_Ecosystem/Engineering_Review_Center.md)
+
+The suite is designed to work together but may be adopted one component at a time.
 
 ---
 

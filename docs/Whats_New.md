@@ -132,6 +132,34 @@ The distinction is now explicit:
 
 ---
 
+## August 2026 — Engineering Education Suite Expanded
+
+### ETIS Engineering Studio Added to the Educational Ecosystem
+
+The ETIS Educational Ecosystem now includes a coordinated, phase-gate-aware Engineering Education Suite built around three distinct responsibilities:
+
+- **ETIS Preflight** — student-team readiness analysis before formal phase-gate review;
+- **ETIS Engineering Studio** — instructor-operated student-team environment for frozen-evidence mini-reviews, engineering questions, coaching, challenge, and development of engineering judgment;
+- **ETIS Engineering Review Center** — instructor-facing formal phase-gate review providing rubric evidence, confidence, summaries, and traceable lineage to the submitted repository evidence.
+
+All three components are aware of the current phase gate and prior phase-gate analysis, but readiness, developmental review, and formal evaluation remain intentionally separate.
+
+Engineering Studio uses a controlled multidisciplinary review board working from frozen repository evidence. Students may create multiple snapshots as their engineering work improves, and individual team members can interact independently with reviewers against the same shared evidence. Reviewers coach and challenge rather than provide answers.
+
+The Studio can also direct students to relevant ETIS Engineering Platform stages, Starter Kit guidance, and LMU/COICP reference examples when additional engineering context is needed.
+
+At the formal gate, the Engineering Review Center takes its evidence boundary from the course-designated Git tag. Studio conversations may be visible to the instructor but do not become hidden evidence in the formal gate decision.
+
+The COMP 330/474 flagship implementation uses the suite within a two-cycle semester model: the first five phase gates move from project launch through first release, and the sixth begins an operational enhancement cycle that reinforces the continuing engineering responsibility emphasized in ETIS Volume II.
+
+The Engineering Studio reference implementation is open source and completed production acceptance on **August 21, 2026**. Production use is instructor- or institution-operated rather than public self-service.
+
+[Explore the Engineering Education Suite →](Educational_Ecosystem/Engineering_Education_Suite.md)
+
+[Explore ETIS Engineering Studio →](Educational_Ecosystem/Engineering_Studio.md)
+
+---
+
 ## July 2026 — Engineering Platform Release and Ecosystem Alignment
 
 ### ETIS Engineering Platform Starter Kit Completed
@@ -187,7 +215,7 @@ The Platform is distributed as a repository archive because the repository itsel
 
 ---
 
-## July 2026 — Educational Engineering Tooling Released
+## July 2026 — Initial Educational Engineering Tooling Released
 
 ### Instructor and Student Engineering Tools Introduced
 
@@ -201,7 +229,7 @@ Two complementary tools extend the Educational Ecosystem:
 
 These tools complement the Engineering Platform while reinforcing the ETIS principle that engineering judgment remains a human responsibility.
 
-Together, the Framework Reference Work, ETIS Books, Publications, Educational Ecosystem, Engineering Platform, and Educational Engineering Tooling form a connected professional learning and engineering environment.
+These initial tools established the foundation that was expanded in August 2026 into the broader ETIS Engineering Education Suite.
 
 ---
 

@@ -323,6 +323,7 @@ It includes:
 - Educational Products;
 - Classroom Facilitation Guidance;
 - Student Professional Engineering Guidance;
+- the ETIS Engineering Education Suite, including Preflight, Engineering Studio, and the Engineering Review Center;
 - COMP 330/474 Flagship Implementation;
 - Institutional Adoption Guidance;
 - the ETIS Education Paper Series.
@@ -332,6 +333,10 @@ The educational goal is not simply for students to complete assignments.
 The goal is for students to produce evidence of engineering maturity.
 
 [Explore the Educational Ecosystem →](../Educational_Ecosystem/Educational_Ecosystem.md)
+
+[Explore the Engineering Education Suite →](../Educational_Ecosystem/Engineering_Education_Suite.md)
+
+[Explore Engineering Studio →](../Educational_Ecosystem/Engineering_Studio.md)
 
 [Explore the ETIS Education Papers →](../publications/education-papers/index.md)
 

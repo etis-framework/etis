@@ -62,30 +62,31 @@ ETIS helps institutions answer that question through the Framework Reference Wor
 
 ## What Institutions Adopt
 
-Institutions do not adopt a single course.
+Institutions do not have to adopt a single fixed ETIS course or reproduce the Loyola implementation unchanged.
 
-They adopt an educational framework.
-
-The ETIS ecosystem provides complementary layers rather than a single course package:
+They can adopt complementary layers:
 
 - the **ETIS Framework Reference Work** for comprehensive full-lifecycle engineering doctrine;
 - the **ETIS Professional Computing Series** for durable professional formation aligned with ETIS;
-- educational philosophy;
-- durable doctrine;
-- instructor operating systems;
-- student professional-engineering environments;
-- the Education Paper Series;
-- educational engineering tooling;
-- implementation examples;
-- adoption guidance;
-- long-term stewardship models;
-- the Engineering Platform as a professional reference and implementation environment that can support project work.
+- the Education Paper Series and educational products;
+- teaching models and course sequencing appropriate to local duration and objectives;
+- the Engineering Platform as a professional reference and implementation environment;
+- the **ETIS Engineering Education Suite** for phase-gate readiness, student engineering-judgment development, and instructor formal review;
+- implementation examples, adoption guidance, and long-term stewardship models.
 
-Educational tooling complements the Engineering Platform by helping instructors evaluate engineering evidence consistently while enabling students to assess repository readiness before formal engineering reviews.
+The Engineering Education Suite is modular. Institutions may use all three capabilities or only the components that fit their course design:
 
-Together, the Platform and educational tooling reinforce repository-centered, evidence-centered engineering without replacing professional judgment.
+| Component | Institutional Purpose |
+|---|---|
+| **ETIS Preflight** | Student phase-gate readiness analysis |
+| **ETIS Engineering Studio** | Instructor-operated student-team environment for evidence-grounded coaching and engineering judgment development |
+| **ETIS Engineering Review Center** | Instructor-facing formal phase-gate review with rubric evidence, confidence, summaries, and evidence lineage |
 
-This allows institutions to adapt ETIS without rebuilding every educational system from scratch.
+The suite is not a public self-service service. Institutional use requires local instructor or university configuration of the course environment, authorization, repositories, phase gates, and operational responsibilities.
+
+Adopting ETIS educational doctrine does **not** require deploying the Engineering Education Suite.
+
+[Explore the Engineering Education Suite →](Engineering_Education_Suite.md)
 
 ---
 
@@ -98,24 +99,30 @@ Review ETIS Books and Professional Formation Resources
 ↓
 Read the Education Papers
 ↓
-Study the Educational Ecosystem and Products
+Study the Educational Ecosystem and teaching-duration models
 ↓
-Study the Flagship Implementation
+Study the COMP 330/474 Flagship Implementation
 ↓
 Explore the Engineering Platform
 ↓
-Adapt to the Local Environment
+Decide whether to adopt none, some, or all of the Engineering Education Suite
 ↓
-Operate a Pilot
+Adapt phase gates, repositories, and course policies to the local environment
 ↓
-Collect Educational Evidence
+Operate a pilot
 ↓
-Improve the Implementation
+Collect educational and operational evidence
 ↓
-Steward Future Offerings
+Improve the implementation
+↓
+Steward future offerings
 ```
 
 The process is evolutionary rather than prescriptive.
+
+A semester course should not attempt to compress every ETIS chapter into superficial coverage. Instructors select an instructional path through the broader lifecycle that fits course duration, level, and learning objectives.
+
+The COMP 330/474 flagship uses a two-cycle model: five gates move from project launch through first release, and a sixth operational enhancement gate introduces the continuing engineering responsibility emphasized as ETIS moves into the operational concerns of Volume II.
 
 ---
 
@@ -244,6 +251,30 @@ Introduce review boards, release readiness, and structured professional challeng
 ### Stage 7 — Stewardship
 
 Preserve lessons for future offerings and improve the educational system.
+
+---
+
+## Engineering Education Suite Deployment Responsibility
+
+Institutions that deploy Engineering Studio or the Engineering Review Center are operating course services, not merely distributing documents.
+
+The reference Engineering Studio deployment demonstrates production engineering around reliability, availability, serviceability, and recoverability using managed Azure services. An adopting institution may use a different architecture, but it should explicitly own the equivalent responsibilities.
+
+Institutional decisions include:
+
+- cloud environment and service ownership;
+- institutional identity and course authorization;
+- GitHub OAuth, GitHub App, and exact-repository authorization;
+- roster, section, team, and teaching-staff roles;
+- phase-gate and rubric configuration;
+- database, backup, point-in-time recovery, and rollback policy;
+- secret management and service identity;
+- AI service configuration and cost controls;
+- monitoring, alerting, logging, and operational support;
+- privacy, retention, semester archival, and historical access;
+- incident response and continuity planning.
+
+The Loyola COMP 330/474 deployment is a reference architecture, not a shared SaaS tenancy that another university simply joins.
 
 ---
 

@@ -154,6 +154,12 @@ The goal is observable engineering maturity.
 
 ---
 
+### Engineering Education Suite
+
+Within the Educational Ecosystem, the ETIS Engineering Education Suite provides phase-gate-aware systems for student readiness, engineering-judgment development, and instructor formal review. The suite combines ETIS Preflight, Engineering Studio, and the Engineering Review Center while preserving the instructor as educational authority.
+
+[Explore the Engineering Education Suite →](Educational_Ecosystem/Engineering_Education_Suite.md)
+
 ## The ETIS Engineering Platform
 
 The ETIS Engineering Platform is the professional reference and implementation environment for applying the ETIS Framework.
@@ -250,7 +256,7 @@ It can be applied within waterfall, iterative, agile, hybrid, DevOps, and AI-ass
 | **ETIS Publications** | Provide focused, citable guidance through White Papers, Executive Briefs, and Education Papers |
 | **Appendices** | Provide detailed professional reference material |
 | **Educational Ecosystem** | Supports teaching, learning, professional formation, and institutional adoption |
-| **Educational Engineering Tooling** | Supports student repository readiness and instructor evidence-centered review while preserving human engineering judgment |
+| **Engineering Education Suite** | Supports phase-gate readiness, student engineering-judgment development, and instructor-led formal review through Preflight, Engineering Studio, and the Engineering Review Center |
 | **ETIS Community** | Provides a persistent public space for engineering questions, clarification, discussion, and shared professional learning |
 | **Platform Overview** | Introduces the ETIS implementation environment and how to begin |
 | **Engineering Platform** | Companion implementation site for stages, templates, examples, governance assets, and project workspaces |
@@ -277,7 +283,7 @@ The ETIS First Edition and public ecosystem are established and available throug
 - the ETIS Publications Program;
 - the Educational Ecosystem and downloadable educational products;
 - the ETIS Engineering Platform and Engineering Platform Starter Kit Repository;
-- Student Submission Preflight and instructor engineering review tooling;
+- the ETIS Engineering Education Suite: Preflight, Engineering Studio, and the instructor-facing Engineering Review Center;
 - ETIS Community Discussions;
 - the Resource Center and Repository Ecosystem;
 - public legal, privacy, contact, and project information.

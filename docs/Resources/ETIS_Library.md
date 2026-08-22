@@ -53,9 +53,9 @@ Downloads
 ↓
 Authorized book PDFs, educational products, and repository archives
 
-Educational Engineering Tooling
+Engineering Education Suite
 ↓
-Student and instructor tools that support repository-centered, evidence-centered engineering
+Phase-gate readiness, student engineering-judgment development, and instructor formal review
 
 Platform Overview
 ↓
