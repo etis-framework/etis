@@ -27,10 +27,14 @@ description: "ETIS is an engineering framework for trustworthy AI and software s
       </p>
 
       <p class="etis-hero-copy-text">
-        ETIS is an engineering framework for building, governing, operating, and continuously improving trustworthy intelligent systems.
+        ETIS is a full-lifecycle software engineering framework for building, governing, operating, and continuously improving trustworthy intelligent systems.
       </p>
 
-      <p class="etis-hero-education-text">
+      <p class="etis-hero-copy-text">
+        It brings engineering discipline, verifiable evidence, operational accountability, and human oversight together—whether AI assists in developing software or operates autonomously within the systems we deploy, including agentic AI.
+      </p>
+
+      <p class="etis-hero-education-text" style="margin-top: 0.9rem;">
         The ETIS ecosystem provides books, publications, educational resources, the Engineering Platform, and an integrated Engineering Education Suite for phase-gate readiness, engineering-judgment development, and instructor-led review.
       </p>
 
