@@ -126,7 +126,7 @@ That book is particularly relevant to data structures and intermediate computing
 
 ## Education Papers as Professional Readings
 
-The five Education Papers can serve as a structured orientation sequence:
+The six Education Papers can serve as a structured orientation sequence, complemented by the technical perspective in WP-013:
 
 | Paper | Instructional Use |
 |---|---|
@@ -135,6 +135,7 @@ The five Education Papers can serve as a structured orientation sequence:
 | [COMP-WP-003](../publications/education-papers/comp-wp-003.md) | Establish team roles, shared ownership, review, and professional conflict |
 | [COMP-WP-004](../publications/education-papers/comp-wp-004.md) | Define responsible AI-assisted engineering behavior |
 | [COMP-WP-005](../publications/education-papers/comp-wp-005.md) | Connect the course to long-term judgment, growth, and professional trust |
+| [COMP-WP-006](../publications/education-papers/comp-wp-006.md) | Develop five dimensions of professional potential and a sustained, evidence-based engineering portfolio |
 
 These papers are not replacements for lectures or course materials. They provide shared language and professional orientation.
 

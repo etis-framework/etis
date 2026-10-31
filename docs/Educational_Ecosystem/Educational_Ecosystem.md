@@ -118,7 +118,7 @@ Students should graduate with evidence of engineering ability, not merely eviden
 
 ## ETIS Education Paper Series
 
-The ETIS Education Paper Series supports professional formation through five focused readings:
+The ETIS Education Paper Series supports professional formation through six focused readings:
 
 | Paper | Focus |
 |---|---|
@@ -127,6 +127,7 @@ The ETIS Education Paper Series supports professional formation through five foc
 | [COMP-WP-003 — Working Effectively on an Engineering Team](../publications/education-papers/comp-wp-003.md) | Shared ownership, professional challenge, and human-AI collaboration |
 | [COMP-WP-004 — Using AI Professionally](../publications/education-papers/comp-wp-004.md) | Responsible AI-assisted engineering judgment |
 | [COMP-WP-005 — Engineering Career Lessons](../publications/education-papers/comp-wp-005.md) | Judgment, growth, professional trust, and long-term career development |
+| [COMP-WP-006 — Becoming a Software Engineer in the AI Era](../publications/education-papers/comp-wp-006.md) | Five dimensions of professional potential, portfolio evidence, and deliberate career development |
 
 The papers are designed for students, instructors, early-career engineers, academic programs, and professional mentors.
 
