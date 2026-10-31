@@ -2,6 +2,7 @@
 hide:
   - toc
 description: What is ETIS? Engineering Trustworthy Intelligent Systems is a software engineering and AI governance framework for building, operating, and stewarding trustworthy intelligent systems in the AI era.
+title: "What Is ETIS? | Trustworthy Intelligent Systems Framework"
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

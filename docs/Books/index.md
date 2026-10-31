@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Books | Trustworthy Systems & Engineering Judgment"
+description: "Explore ETIS books, including the Engineering Trustworthy Intelligent Systems framework reference and professional computing titles on engineering judgment."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

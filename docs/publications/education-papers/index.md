@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Education Papers | Software Engineering in the AI Era"
+description: "Read ETIS education papers for students and instructors on software engineering, responsible AI, professional judgment, teamwork, and early-career development."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

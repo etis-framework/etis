@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Framework | Trustworthy AI & Software Engineering"
+description: "Discover the ETIS Framework: repository-centered, evidence-driven software engineering for trustworthy AI systems, governance, verification, operations, and human oversight."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

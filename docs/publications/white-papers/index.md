@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS White Papers | Trustworthy AI and Software Engineering"
+description: "Explore the ETIS White Paper Series on agentic AI, software engineering, governance, engineering evidence, operational reliability, and trustworthy systems."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

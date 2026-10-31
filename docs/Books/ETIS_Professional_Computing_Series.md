@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Professional Computing Series | Engineering Judgment"
+description: "Explore the ETIS Professional Computing Series, books that develop durable software engineering skills, technical reasoning, and professional judgment in the AI era."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

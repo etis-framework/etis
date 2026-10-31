@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Engineering Platform | Repository-Centered Practice"
+description: "Explore the ETIS Engineering Platform for staged, repository-centered software engineering, evidence-based verification, governance, and engineering review."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">
