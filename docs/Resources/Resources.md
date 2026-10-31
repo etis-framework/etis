@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Resource Center | Engineering Tools and Publications"
+description: "Find ETIS engineering resources, publications, educational materials, governance guidance, and tools for evidence-based software engineering."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

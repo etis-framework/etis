@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Two-Volume Professional Edition | Framework Reference"
+description: "Explore the integrated two-volume ETIS Framework Reference Work: Volume I covers foundations and construction; Volume II covers operations, governance, and stewardship."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

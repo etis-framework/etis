@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Volume II | Operations, Governance & Oversight"
+description: "Volume II of Engineering Trustworthy Intelligent Systems explores operational reliability, governance, incident response, AI oversight, accountability, and long-term stewardship."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

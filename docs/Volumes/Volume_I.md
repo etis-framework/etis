@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Volume I | Foundations & Engineering Practice"
+description: "Volume I of Engineering Trustworthy Intelligent Systems covers engineering foundations, requirements, architecture, implementation, verification, and release readiness."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

@@ -2,6 +2,8 @@
 hide:
   - navigation
   - toc
+title: "Trustworthy AI and Software Engineering Framework | ETIS"
+description: "ETIS is an engineering framework for trustworthy AI and software systems, connecting governance, evidence-based verification, operational trust, and engineering education."
 ---
 
 <div class="etis-page">

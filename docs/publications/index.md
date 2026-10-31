@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Publications | AI and Software Engineering Research"
+description: "Explore ETIS white papers, executive briefs, and education papers on agentic AI, trustworthy software engineering, governance, and engineering careers."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

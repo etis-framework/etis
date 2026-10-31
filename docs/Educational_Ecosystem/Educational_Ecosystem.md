@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "ETIS Educational Ecosystem | Teaching Trustworthy Engineering"
+description: "Explore the ETIS Educational Ecosystem: instructor and student resources, professional engineering practice, evidence-based learning, and trustworthy AI education."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

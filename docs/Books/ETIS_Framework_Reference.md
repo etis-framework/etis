@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "Engineering Trustworthy Intelligent Systems | Reference Work"
+description: "Explore Engineering Trustworthy Intelligent Systems, the ETIS Framework Reference Work by William T. O’Connell, covering software engineering, AI governance, and operational trust."
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">

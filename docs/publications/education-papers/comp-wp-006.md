@@ -1,7 +1,31 @@
 ---
 hide:
   - toc
+title: "Becoming a Software Engineer in the AI Era | ETIS COMP-WP-006"
+description: "Explore five dimensions of professional potential for aspiring software engineers in the AI era, including engineering judgment, learning, and career readiness."
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Becoming a Software Engineer in the AI Era",
+  "alternativeHeadline": "Five Dimensions of Professional Potential—and the Opportunity to Leapfrog",
+  "identifier": "COMP-WP-006",
+  "author": {
+    "@type": "Person",
+    "name": "William T. O’Connell"
+  },
+  "datePublished": "2026-10",
+  "inLanguage": "en-US",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "ETIS Education Paper Series"
+  },
+  "mainEntityOfPage": "https://etisframework.org/publications/education-papers/comp-wp-006/",
+  "url": "https://etisframework.org/publications/education-papers/comp-wp-006/"
+}
+</script>
 
 <div style="text-align:center; margin-bottom:1.5rem;"><img src="../../../assets/etis-logo.svg" alt="ETIS" style="width:320px; max-width:60%; height:auto;"></div>
 
