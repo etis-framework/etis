@@ -45,6 +45,7 @@ The ETIS Engineering Platform provides the practical workspace. Engineering Stag
 | [COMP-WP-003](../publications/education-papers/comp-wp-003.md) | Work effectively on an engineering team |
 | [COMP-WP-004](../publications/education-papers/comp-wp-004.md) | Use AI professionally |
 | [COMP-WP-005](../publications/education-papers/comp-wp-005.md) | Connect course work to long-term engineering growth |
+| [COMP-WP-006](../publications/education-papers/comp-wp-006.md) | Develop professional potential through deliberate practice and credible engineering evidence |
 | [Platform Overview](../Platform/Platform.md) | Learn how the Platform supports ETIS student work |
 | [Launch the Engineering Platform ↗](https://platform.etisframework.org) | Enter the working project environment |
 | [Student Professional Engineering Guide](Educational_Products.md#student-product) | Obtain deeper practical guidance |

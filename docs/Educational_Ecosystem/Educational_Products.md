@@ -267,6 +267,7 @@ The Education Papers complement these implementation products.
 - [COMP-WP-003 — Working Effectively on an Engineering Team](../publications/education-papers/comp-wp-003.md)
 - [COMP-WP-004 — Using AI Professionally](../publications/education-papers/comp-wp-004.md)
 - [COMP-WP-005 — Engineering Career Lessons](../publications/education-papers/comp-wp-005.md)
+- [COMP-WP-006 — Becoming a Software Engineer in the AI Era](../publications/education-papers/comp-wp-006.md)
 
 ---
 

@@ -278,6 +278,7 @@ The ETIS Education Papers provide a professional reading sequence for the course
 - [COMP-WP-003](../publications/education-papers/comp-wp-003.md) establishes the professional team model.
 - [COMP-WP-004](../publications/education-papers/comp-wp-004.md) defines responsible AI-assisted engineering.
 - [COMP-WP-005](../publications/education-papers/comp-wp-005.md) connects course practices to long-term professional growth.
+- [COMP-WP-006](../publications/education-papers/comp-wp-006.md) helps students turn their engineering work into evidence of professional potential, with [WP-013](../publications/white-papers/wp-013.md) providing the agentic-system obligations that make those capabilities important.
 
 Together, these papers orient students before and during the engineering work.
 
