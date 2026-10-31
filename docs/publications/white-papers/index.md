@@ -12,7 +12,7 @@ hide:
 # ETIS White Papers
 
 <p class="publication-lead">
-The ETIS White Paper Series develops the conceptual and professional foundation of Engineering Trustworthy Intelligent Systems. The twelve papers examine how software engineering, governance, evidence, operations, education, and professional practice are changing in the AI era.
+The ETIS White Paper Series develops the conceptual and professional foundation of Engineering Trustworthy Intelligent Systems. The thirteen papers examine how software engineering, governance, evidence, operations, education, and professional practice are changing in the AI era.
 </p>
 
 <div class="publication-actions publication-actions--overview">
@@ -127,6 +127,15 @@ The ETIS White Paper Series develops the conceptual and professional foundation 
 
 </div>
 
+## New Companion Publication
+
+<div class="publication-start-grid"><article class="publication-start-card">
+  <h3>WP-013 — Engineering Trustworthy Agentic AI Systems</h3>
+  <p><strong>Governed Autonomy, Intelligent Supervision, and the Protection of Business Trust</strong></p>
+  <p>A technical and strategic architecture for independent enforcement, authoritative state, supervisory intelligence, evidence, and recovery. Paired with COMP-WP-006 for emerging engineers.</p>
+  <a class="publication-text-link" href="wp-013/">View WP-013 →</a>
+</article></div>
+
 ## Related ETIS Areas
 
 - [ETIS Framework](../../Framework/ETIS_Framework.md)
@@ -134,4 +143,4 @@ The ETIS White Paper Series develops the conceptual and professional foundation 
 - [Reading Paths](../reading-paths.md)
 - [Citation & Version Information](../citations.md)
 
-The PDF is the authoritative edition of each paper. Canonical publication webpages will be added as the next implementation phase.
+The PDF is the authoritative edition of each paper; the linked publication page is its canonical public record.

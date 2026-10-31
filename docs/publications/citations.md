@@ -30,6 +30,15 @@ ETIS uses permanent identifiers that are never reused:
 
 A revision normally retains the same identifier. A new identifier is assigned only when the work becomes a substantively different publication.
 
+## October 2026 Companion Publications
+
+| Identifier | Canonical record | Authoritative PDF |
+|---|---|---|
+| WP-013 | [Engineering Trustworthy Agentic AI Systems](white-papers/wp-013.md) | [PDF](../assets/publications/white-papers/ETIS_WP-013_Engineering_Trustworthy_Agentic_AI_Systems.pdf) |
+| COMP-WP-006 | [Becoming a Software Engineer in the AI Era](education-papers/comp-wp-006.md) | [PDF](../assets/publications/education-papers/COMP_WP-006_Becoming_a_Software_Engineer_in_the_AI_Era.pdf) |
+
+Both are first public editions, version 1.0, October 2026. The two publications have distinct series identifiers but share a companion reading path. Their canonical pages provide complete citation information and version history.
+
 ## Authoritative Edition
 
 The downloadable PDF is the authoritative publication edition. The website page serves as the canonical record for discovery, metadata, citation, version status, and related ETIS materials.

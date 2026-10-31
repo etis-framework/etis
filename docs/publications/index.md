@@ -24,6 +24,29 @@ Research-informed perspectives for engineers, technology leaders, educators, stu
 !!! info "The ETIS Publication Program"
     The ETIS publication program connects industry direction, engineering discipline, executive decision-making, and professional education. Together, the three publication series provide focused, citable entry points into the ideas, practices, and governance models developed across the ETIS ecosystem. They complement—but do not replace—the ETIS Framework Reference Work, the ETIS Professional Computing Series, or the Engineering Platform.
 
+## Featured Companion White Papers — Two Perspectives, One Engineering Obligation
+
+<p class="publication-lead">One paper explains what enterprises must engineer to keep autonomous systems controlled; the other explains how students and early-career engineers build the judgment and evidence to meet those obligations. <strong>Read the technical paper first for the industry expectations, then the professional-development paper for a practical path forward.</strong></p>
+
+<div class="publication-series-grid">
+  <section class="publication-series-card publication-series-card--white-paper">
+    <div class="publication-series-label">WP-013 · TECHNICAL & STRATEGIC</div>
+    <h3>Engineering Trustworthy Agentic AI Systems</h3>
+    <p><strong>Agents may work. Agents may supervise. Neither may govern itself.</strong></p>
+    <p>Governed autonomy, trusted execution, authoritative state, supervision, evidence, and recovery.</p>
+    <div class="publication-card-actions"><a class="md-button md-button--primary" href="white-papers/wp-013/">Explore WP-013</a></div>
+  </section>
+  <section class="publication-series-card publication-series-card--education">
+    <div class="publication-series-label">COMP-WP-006 · EDUCATION & CAREER</div>
+    <h3>Becoming a Software Engineer in the AI Era</h3>
+    <p><strong>AI can accelerate the work. It cannot substitute for the engineer you must become.</strong></p>
+    <p>Five dimensions of professional potential, authentic portfolio evidence, and deliberate career development.</p>
+    <div class="publication-card-actions"><a class="md-button md-button--primary" href="education-papers/comp-wp-006/">Explore COMP-WP-006</a></div>
+  </section>
+</div>
+
+[Follow the companion reading path →](reading-paths.md#from-industry-expectations-to-engineering-career)
+
 ## Three Publication Series
 
 <div class="publication-series-grid">
@@ -31,7 +54,7 @@ Research-informed perspectives for engineers, technology leaders, educators, stu
   <section class="publication-series-card publication-series-card--white-paper">
     <div class="publication-series-label">ETIS WHITE PAPER SERIES</div>
     <h3>Engineering and intellectual foundation</h3>
-    <div class="publication-count">12 papers</div>
+    <div class="publication-count">13 papers</div>
     <p>The ETIS White Paper Series develops the conceptual and professional foundation of Engineering Trustworthy Intelligent Systems. The papers examine the changing nature of software engineering, repository-centered work, engineering evidence, agentic systems, governance, operational readiness, context engineering, trust, and the future of the profession.</p>
     <p class="publication-audience"><strong>For:</strong> Engineers · Architects · Researchers · Educators · Technology Leaders</p>
     <div class="publication-card-actions">
@@ -55,7 +78,7 @@ Research-informed perspectives for engineers, technology leaders, educators, stu
   <section class="publication-series-card publication-series-card--education">
     <div class="publication-series-label">ETIS EDUCATION PAPER SERIES</div>
     <h3>Professional preparation for the AI era</h3>
-    <div class="publication-count">5 papers</div>
+    <div class="publication-count">6 papers</div>
     <p>Developed through the COMP 330 flagship implementation at Loyola University Chicago, the ETIS Education Paper Series supports broader use in software engineering education, student professional development, and early-career preparation. The papers address professional engineering identity, portfolios, teamwork, responsible AI use, and career development.</p>
     <p class="publication-audience"><strong>For:</strong> Students · Instructors · Early-Career Engineers · Academic Programs</p>
     <div class="publication-card-actions">

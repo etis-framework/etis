@@ -23,6 +23,13 @@ New to ETIS? Start with [What is ETIS?](What_is_ETIS.md) for a plain-language in
 
 ---
 
+## New Companion Papers: Industry Expectations and Engineering Careers
+
+- [Engineering Trustworthy Agentic AI Systems (WP-013)](../publications/white-papers/wp-013.md) — the enterprise engineering obligations behind governed autonomy.
+- [Becoming a Software Engineer in the AI Era (COMP-WP-006)](../publications/education-papers/comp-wp-006.md) — five dimensions of professional potential and evidence-based career development.
+
+[Read the companion sequence](../publications/reading-paths.md#from-industry-expectations-to-engineering-career).
+
 ## What ETIS Is
 
 ETIS is a full-lifecycle engineering framework.
