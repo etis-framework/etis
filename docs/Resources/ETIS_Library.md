@@ -30,6 +30,15 @@ These are complementary access paths into one coherent body of work.
 
 ---
 
+## New ETIS Companion Publications — October 2026
+
+**Two perspectives. One engineering obligation.** The new paired publications connect enterprise expectations with professional preparation:
+
+- [WP-013 — Engineering Trustworthy Agentic AI Systems](../publications/white-papers/wp-013.md): governed autonomy, trusted execution, independent verification, and recoverable business operations.
+- [COMP-WP-006 — Becoming a Software Engineer in the AI Era](../publications/education-papers/comp-wp-006.md): foundations, judgment, learning, collaboration, initiative, and authentic engineering evidence.
+
+[Explore the companion reading path](../publications/reading-paths.md#from-industry-expectations-to-engineering-career). The publication program now includes **13 white papers, 5 executive briefs, and 6 education papers**.
+
 ## Publication and Product Model
 
 ```text

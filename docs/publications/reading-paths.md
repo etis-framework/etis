@@ -29,6 +29,18 @@ These are **publication reading paths**: they sequence ETIS White Papers, Execut
 4. [WP-011 — Engineering Trust](white-papers/wp-011.md)
 5. [WP-012 — The ETIS Manifesto](white-papers/wp-012.md)
 
+## From Industry Expectations to Engineering Career
+
+**Recommended sequence:** WP-013 → COMP-WP-006 → COMP-WP-002
+
+**Outcome:** Understand what trustworthy agentic systems require, translate those obligations into the five dimensions of professional potential, and build an authentic, sustained engineering portfolio.
+
+1. [WP-013 — Engineering Trustworthy Agentic AI Systems](white-papers/wp-013.md) — the industry architecture, trust boundaries, evidence, and recovery obligations.
+2. [COMP-WP-006 — Becoming a Software Engineer in the AI Era](education-papers/comp-wp-006.md) — the capabilities and professional evidence an emerging engineer should develop.
+3. [COMP-WP-002 — Building a Professional Engineering Portfolio](education-papers/comp-wp-002.md) — the practical discipline of presenting sustained work.
+
+This sequence is especially useful for students in their second through fourth years, graduate students, and early-career engineers. The technical paper is intentionally challenging: it describes the profession students are preparing to enter.
+
 ## Technology Executive
 
 **Recommended sequence:** EB-001 → EB-002 → EB-003 → EB-004 → EB-005
@@ -57,7 +69,7 @@ These are **publication reading paths**: they sequence ETIS White Papers, Execut
 
 ## Student or Instructor
 
-**Recommended sequence:** COMP-WP-001 → COMP-WP-003 → COMP-WP-004 → WP-001 → WP-005
+**Recommended sequence:** COMP-WP-001 → COMP-WP-003 → COMP-WP-004 → WP-001 → WP-005 → WP-013 → COMP-WP-006
 
 **Outcome:** Establish the profession, teamwork, responsible AI use, the state of practice, and the ETIS education model.
 
@@ -66,6 +78,8 @@ These are **publication reading paths**: they sequence ETIS White Papers, Execut
 3. [COMP-WP-004 — Using AI Professionally](education-papers/comp-wp-004.md)
 4. [WP-001 — Engineering Trustworthy Software in the AI Era](white-papers/wp-001.md)
 5. [WP-005 — Engineering Education in the AI Era](white-papers/wp-005.md)
+6. [WP-013 — Engineering Trustworthy Agentic AI Systems](white-papers/wp-013.md)
+7. [COMP-WP-006 — Becoming a Software Engineer in the AI Era](education-papers/comp-wp-006.md)
 
 ## Agentic-System Leader
 

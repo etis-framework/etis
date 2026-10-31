@@ -19,6 +19,19 @@ ETIS is a stewarded engineering framework, not a continuously changing software 
 
 ---
 
+## October 2026 — ETIS Companion White Papers Published
+
+### Two Perspectives. One Engineering Obligation.
+
+Two companion publications connect the architecture of trustworthy agentic AI with the professional development of the engineers who must build and defend such systems:
+
+- [WP-013 — Engineering Trustworthy Agentic AI Systems](publications/white-papers/wp-013.md) explains governed autonomy, intelligent supervision, independent trusted execution, authoritative state, evidence, and recovery.
+- [COMP-WP-006 — Becoming a Software Engineer in the AI Era](publications/education-papers/comp-wp-006.md) explains five dimensions of professional potential, a living engineering portfolio, and deliberate preparation for professional responsibility.
+
+Students are encouraged to read the technical paper first to understand the industry obligations, then the education paper to develop and demonstrate the corresponding capabilities. [Explore the paired reading path](publications/reading-paths.md#from-industry-expectations-to-engineering-career).
+
+---
+
 ## August 2026 — ETIS Books Architecture Expanded
 
 ### Framework Reference Work and Professional Computing Series Established

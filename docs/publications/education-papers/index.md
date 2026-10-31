@@ -58,6 +58,15 @@ Developed through the COMP 330 flagship implementation at Loyola University Chic
 
 </div>
 
+## New Companion Publication
+
+<div class="publication-start-grid"><article class="publication-start-card">
+  <h3>COMP-WP-006 — Becoming a Software Engineer in the AI Era</h3>
+  <p><strong>Five Dimensions of Professional Potential—and the Opportunity to Leapfrog</strong></p>
+  <p>A practitioner-informed guide to foundations, judgment, learning, collaboration, initiative, authentic GitHub evidence, and professional development. Read with WP-013 for the industry architecture behind these expectations.</p>
+  <a class="publication-text-link" href="comp-wp-006/">View COMP-WP-006 →</a>
+</article></div>
+
 ## Who Should Read This Series
 
 Students, instructors, early-career engineers, academic programs, internship coordinators, curriculum leaders, and employers interested in professional engineering preparation.
@@ -70,4 +79,4 @@ Students, instructors, early-career engineers, academic programs, internship coo
 - [Student and Instructor Reading Path](../reading-paths.md#student-or-instructor)
 - [Citation & Version Information](../citations.md)
 
-The PDF is the authoritative edition of each paper. Canonical publication webpages will be added as the next implementation phase.
+The PDF is the authoritative edition of each paper; the linked publication page is its canonical public record.
