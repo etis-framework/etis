@@ -129,7 +129,7 @@ body:has(.etis-page) .md-tabs {
 }
 .etis-book-column {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
   height: 100%;
   position: relative;
@@ -1374,5 +1374,20 @@ body:has(.etis-page) .etis-publications-button strong {
     display: block !important;
     width: 2.15rem !important;
     height: 2.15rem !important;
+  }
+}
+
+/* ETIS homepage: original integrated book/framework hero refinement.
+   Keep the original image and all other homepage content unchanged. */
+@media screen and (min-width: 1101px) {
+  .etis-hero-final-inner {
+    grid-template-columns: minmax(420px, 600px) minmax(0, 1fr);
+    gap: 2.5rem;
+  }
+
+  .etis-book-cover {
+    width: 100%;
+    max-width: 600px;
+    transform: translateY(-35px) perspective(1200px) rotateY(-5deg) rotateX(1deg);
   }
 }
