@@ -19,8 +19,8 @@ Students are not simply asked to build software.
 
 They are expected to create evidence that their work can be understood, reviewed, governed, operated, improved, and trusted over time.
 
-> The model is not the system.  
-> The repository is not just code.  
+> The model is not the system.
+> The repository is not just code.
 > Engineering work must leave evidence.
 
 The ETIS Engineering Platform provides the practical workspace. Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspaces help students produce reviewable engineering evidence instead of isolated assignment artifacts.
@@ -58,9 +58,13 @@ Course requirements vary by implementation. Your instructor or course LMS determ
 
 The **ETIS Professional Computing Series** provides longer-form works for developing professional computing judgment.
 
+For advanced readers, [*Engineering Agentic AI Systems*](../Books/agentic-ai/index.md) addresses trustworthy agent architecture, secure execution, operations, and six progressive reference builds.
+
 Its inaugural title, *From Data Structures to Engineering Judgment*, is intentionally not a conventional data structures textbook, programming guide, or algorithms reference. It uses data structures and algorithms as the technical vehicle for learning how engineers reason about representation, performance, tradeoffs, evidence, verification, system consequences, AI-assisted work, and professional responsibility.
 
 The goal is not simply to know which structure or algorithm to choose. The goal is to be able to explain **why** a choice is appropriate, what assumptions and boundaries it depends on, what evidence supports it, and what consequences follow from it.
+
+[Explore *Engineering Agentic AI Systems* →](../Books/agentic-ai/index.md)
 
 [Explore *From Data Structures to Engineering Judgment* →](../Books/engineering-judgment/index.md)
 

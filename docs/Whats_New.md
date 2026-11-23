@@ -19,6 +19,15 @@ ETIS is a stewarded engineering framework, not a continuously changing software 
 
 ---
 
+## November 2026 — Engineering Agentic AI Systems
+
+**New ETIS Professional Computing Series title — Book 2.** *Engineering Agentic AI Systems: Build, Secure, Verify, and Operate Trustworthy AI Agents* is scheduled for publication November 26, 2026. Its 36 chapters and six progressive Python builds address independently authorized agent execution, enterprise integration, security, recovery, and verifiable evidence. The public manuscript and reference implementation are available through the linked repository.
+
+[Explore the book →](Books/agentic-ai/index.md){ .md-button .md-button--primary }
+[Browse the source and code ↗](https://github.com/etis-framework/etis-agentic-ai-book){ .md-button }
+
+---
+
 ## October 2026 — ETIS Companion White Papers Published
 
 ### Two Perspectives. One Engineering Obligation.

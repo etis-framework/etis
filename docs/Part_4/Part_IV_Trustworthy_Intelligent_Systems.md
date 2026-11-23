@@ -180,6 +180,12 @@ The responsibility will not.
 
 ---
 
+## Optional Companion Reading
+
+Part IV provides the ETIS Framework's treatment of agentic workflows, context control, human oversight, and stewardship. Readers seeking a more implementation-focused treatment can continue with [*Engineering Agentic AI Systems*](../Books/agentic-ai/index.md). The book examines model- and agent-originated risks—including objective misalignment and unauthorized actions—alongside independently enforced authorization, trusted execution, verification, and operational recovery. This companion reference supplements Part IV; it does not change its original chapter sequence.
+
+---
+
 ## Start Reading
 
 Begin Part IV with Chapter 33.

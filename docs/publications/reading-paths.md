@@ -93,6 +93,8 @@ This sequence is especially useful for students in their second through fourth y
 4. [EB-003 — Preparing Engineering Organizations for Agentic Development](executive-briefs/eb-003.md)
 5. [EB-004 — Building an AI Engineering Platform](executive-briefs/eb-004.md)
 
+**Optional implementation continuation:** [*Engineering Agentic AI Systems*](../Books/agentic-ai/index.md) develops the architecture, independent authorization boundaries, six progressive Python builds, and adversarial, reliability, and operational testing behind these leadership concerns.
+
 ## Governance or Risk Leader
 
 **Recommended sequence:** WP-003 → WP-006 → WP-007 → WP-011 → EB-001
@@ -110,7 +112,8 @@ This sequence is especially useful for students in their second through fourth y
 The publication paths provide focused entry points. ETIS Books provide the longer-form works that sit beside them in the broader ETIS publishing architecture.
 
 - **For comprehensive full-lifecycle engineering:** continue with the [ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md), *Engineering Trustworthy Intelligent Systems*.
-- **For sustained professional formation:** explore [*From Data Structures to Engineering Judgment*](..//Books/engineering-judgment/index.md), the inaugural title in the ETIS Professional Computing Series. It uses data structures and algorithms as the teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, and professional responsibility.
+- **For advanced enterprise agent engineering:** explore [*Engineering Agentic AI Systems*](../Books/agentic-ai/index.md) for trusted execution, authorization, verification, and six progressive Python builds.
+- **For sustained professional formation:** explore [*From Data Structures to Engineering Judgment*](../Books/engineering-judgment/index.md), the inaugural title in the ETIS Professional Computing Series. It uses data structures and algorithms as the teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, and professional responsibility.
 
 The books and publications are complementary: publications provide focused arguments and role-based guidance; books provide sustained treatment and professional formation.
 

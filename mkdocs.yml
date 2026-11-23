@@ -150,6 +150,10 @@ nav:
       - Overview: Books/index.md
       - Framework Reference Work: Books/ETIS_Framework_Reference.md
       - Professional Computing Series: Books/ETIS_Professional_Computing_Series.md
+      - Engineering Agentic AI Systems:
+          - Book Overview: Books/agentic-ai/index.md
+          - Companion Resources: Books/agentic-ai/companion-resources.md
+          - Updates & Errata: Books/agentic-ai/updates-and-errata.md
       - From Data Structures to Engineering Judgment:
           - Book Overview: Books/engineering-judgment/index.md
           - Companion Resources: Books/engineering-judgment/companion-resources.md

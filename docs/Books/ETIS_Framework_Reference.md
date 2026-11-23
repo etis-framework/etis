@@ -197,7 +197,7 @@ Trust maintained over time
 
 The ETIS Professional Computing Series serves a different but complementary purpose.
 
-Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing explicit, evidence-based technical judgment: identifying assumptions, protecting invariants, testing claims, defining evidence boundaries, evaluating tradeoffs, understanding system consequences, verifying AI-assisted work, and owning decisions professionally.
+Its featured new title, **_Engineering Agentic AI Systems_**, applies the ETIS discipline to bounded, secure, independently verified agent systems. Its inaugural title, **_From Data Structures to Engineering Judgment_**, uses data structures and algorithms as the teaching vehicle for developing explicit, evidence-based technical judgment: identifying assumptions, protecting invariants, testing claims, defining evidence boundaries, evaluating tradeoffs, understanding system consequences, verifying AI-assisted work, and owning decisions professionally.
 
 The Framework Reference Work applies related disciplines across complete software lifecycles and intelligent systems that must be engineered, governed, operated, and stewarded over time.
 
@@ -206,6 +206,7 @@ The relationship is complementary rather than sequential: neither work is a prer
 > **The Professional Computing Series develops engineering judgment in focused computing domains. The ETIS Framework Reference Work organizes trustworthy engineering across the full lifecycle.**
 
 [Explore the ETIS Professional Computing Series →](ETIS_Professional_Computing_Series.md){ .md-button }
+[Explore *Engineering Agentic AI Systems* →](agentic-ai/index.md){ .md-button .md-button--primary }
 [Explore *From Data Structures to Engineering Judgment* →](engineering-judgment/index.md){ .md-button }
 
 ---
