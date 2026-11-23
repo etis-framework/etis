@@ -107,6 +107,8 @@ The running example, **CASE-204**, concerns a $500 refund. Readers follow the sy
 
 The public reference implementation contains **Builds 0–5**, progressing from deterministic controls to bounded agentic assistance, context and identity, approvals, reconciliation, and an integrated capstone. Each build is meant to be run, inspected, tested, and critically evaluated rather than treated as proof of production readiness.
 
+**New to the reference implementation?** [Start with Build 0](companion-resources.md#reference-implementation-builds-05) and progress through the six builds with their tests and engineering evidence.
+
 [View Companion Resources →](companion-resources.md){ .md-button .md-button--primary }
 [Browse the Authoritative Reference Implementation ↗](https://github.com/etis-framework/etis-agentic-ai-book/tree/main/examples/refund-reference-system){ .md-button }
 

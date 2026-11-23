@@ -74,4 +74,4 @@ CTOs, CIOs, heads of engineering, enterprise architects, platform leaders, gover
 - [Executive Reading Path](../reading-paths.md#technology-executive)
 - [Citation & Version Information](../citations.md)
 
-The PDF is the authoritative edition of each brief. Canonical publication webpages will be added as the next implementation phase.
+The PDF is the authoritative edition of each brief; the linked publication page is its canonical public record.

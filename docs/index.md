@@ -35,7 +35,7 @@ description: "ETIS is an engineering framework for trustworthy AI and software s
       </p>
 
       <p class="etis-hero-education-text" style="margin-top: 0.9rem;">
-        The ETIS ecosystem provides books, publications, educational resources, the Engineering Platform, and an integrated Engineering Education Suite for phase-gate readiness, engineering-judgment development, and instructor-led review.
+        The ETIS ecosystem provides foundational reference works, specialized professional computing books, technical publications, educational resources, the Engineering Platform, and an integrated Engineering Education Suite for phase-gate readiness, engineering-judgment development, and instructor-led review.
       </p>
 
       <p class="etis-hero-copy-text etis-hero-action-statement">
