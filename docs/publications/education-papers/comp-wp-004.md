@@ -28,6 +28,8 @@ hide:
   <div class="publication-metadata-item"><span class="publication-metadata-label">Status</span><span class="publication-status publication-status--current">Current</span></div>
 </div>
 
+<p class="publication-primary-focus"><strong>Primary focus:</strong> Using AI responsibly while preserving independent understanding, verification, and ownership.</p>
+
 <div class="publication-actions publication-actions--primary">
   <a class="md-button md-button--primary" href="/assets/publications/education-papers/COMP_WP-004_Using_AI_Professionally.pdf" download>Download PDF</a>
   <a class="md-button" href="/assets/publications/education-papers/COMP_WP-004_Using_AI_Professionally.pdf" target="_blank" rel="noopener">Open PDF</a>

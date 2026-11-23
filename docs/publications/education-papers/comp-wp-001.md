@@ -28,6 +28,8 @@ hide:
   <div class="publication-metadata-item"><span class="publication-metadata-label">Status</span><span class="publication-status publication-status--current">Current</span></div>
 </div>
 
+<p class="publication-primary-focus"><strong>Primary focus:</strong> Why professional software engineering and judgment matter as AI accelerates code production.</p>
+
 <div class="publication-actions publication-actions--primary">
   <a class="md-button md-button--primary" href="/assets/publications/education-papers/COMP_WP-001_Why_Software_Engineering_Matters_More_in_the_AI_Era.pdf" download>Download PDF</a>
   <a class="md-button" href="/assets/publications/education-papers/COMP_WP-001_Why_Software_Engineering_Matters_More_in_the_AI_Era.pdf" target="_blank" rel="noopener">Open PDF</a>

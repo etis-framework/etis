@@ -46,7 +46,7 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 
 ## Current Release
 
-**Repository release:** v1.4.0
+**Latest tagged repository release:** v1.4.0 (August 2026; subsequent changes on `main` are unreleased)
 **Book edition:** First Edition
 **Initial Framework publication:** June 2026
 **ETIS Two-Volume Professional Edition:** July 2026
@@ -66,9 +66,9 @@ The v1.4.0 release established the current ETIS publishing architecture, includi
 
 The `main` branch may contain documentation, editorial, ecosystem-alignment, and maintenance changes made after the most recent formal release.
 
-Post-v1.4.0 ecosystem development includes the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review into the Educational Ecosystem.
+Post-v1.4.0 ecosystem development includes the November 2026 Agentic AI book and publication updates, as well as the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review into the Educational Ecosystem.
 
-Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases).
+Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases). `CITATION.cff` currently identifies the latest **tagged** repository release (v1.4.0), not unreleased changes on `main`. Update its version, release date, and artifact URL together when preparing the next release.
 
 ---
 
@@ -211,7 +211,7 @@ It includes:
 
 ### ETIS White Paper Series
 
-Twelve long-form technical and professional papers covering repository-centered engineering, engineering evidence, agentic systems, governance, context engineering, review and readiness, operational trust, stewardship, and the future of software engineering.
+Thirteen long-form technical and professional papers covering repository-centered engineering, engineering evidence, agentic systems, governance, context engineering, review and readiness, operational trust, stewardship, and the future of software engineering.
 
 ### ETIS Executive Brief Series
 
@@ -219,13 +219,13 @@ Five concise briefs translating AI-era engineering consequences into decision gu
 
 ### ETIS Education Paper Series
 
-Five professional papers supporting students, instructors, early-career engineers, and academic programs.
+Six professional papers supporting students, instructors, early-career engineers, and academic programs.
 
 Each publication includes:
 
 - a canonical landing page;
 - identifier, version, date, and status metadata;
-- a concise summary and intended audience;
+- a concise summary, primary focus, intended audience, estimated reading time, and learning takeaways;
 - related ETIS resources;
 - standard citation formats;
 - version history;
@@ -487,13 +487,14 @@ Instructor-only assessment and formal-review implementation components may be ma
 - Paperback and hardcover editions
 - ETIS Professional Computing Series
 - *From Data Structures to Engineering Judgment* and its companion-resource architecture
+- *Engineering Agentic AI Systems* (First Edition, November 26, 2026), with six progressive Python reference builds and companion resources
 - Framework overview and introductory pages
 
 ### Publications
 
-- 12 ETIS White Papers
+- 13 ETIS White Papers
 - 5 ETIS Executive Briefs
-- 5 ETIS Education Papers
+- 6 ETIS Education Papers
 - Publication reading paths
 - Citation and version guidance
 - Canonical publication landing pages

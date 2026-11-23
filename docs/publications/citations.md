@@ -37,13 +37,15 @@ A revision normally retains the same identifier. A new identifier is assigned on
 | WP-013 | [Engineering Trustworthy Agentic AI Systems](white-papers/wp-013.md) | [PDF](../assets/publications/white-papers/ETIS_WP-013_Engineering_Trustworthy_Agentic_AI_Systems.pdf) |
 | COMP-WP-006 | [Becoming a Software Engineer in the AI Era](education-papers/comp-wp-006.md) | [PDF](../assets/publications/education-papers/COMP_WP-006_Becoming_a_Software_Engineer_in_the_AI_Era.pdf) |
 
-Both are first public editions, version 1.0, October 2026. The two publications have distinct series identifiers but share a companion reading path. Their canonical pages provide complete citation information and version history.
+Both publications first appeared in October 2026. **WP-013 is now Version 1.1 (revised November 2026); COMP-WP-006 remains Version 1.0 (October 2026).** The publications have distinct series identifiers but share a companion reading path. Cite the version actually consulted; each canonical page provides its version history.
 
 ## Authoritative Edition
 
 The downloadable PDF is the authoritative publication edition. The website page serves as the canonical record for discovery, metadata, citation, version status, and related ETIS materials.
 
 Word source files are working documents and are not authoritative public editions.
+
+Publication landing pages also provide reader guidance: estimated reading time, primary focus, intended audience, and learning takeaways. These are website-only discovery aids, not part of the citable PDF editions. Reading-time ranges are approximate, reflect the published page count and existing series conventions, and may vary substantially with diagrams and technical depth.
 
 ## Recommended Citation Elements
 

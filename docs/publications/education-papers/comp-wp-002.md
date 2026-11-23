@@ -28,6 +28,8 @@ hide:
   <div class="publication-metadata-item"><span class="publication-metadata-label">Status</span><span class="publication-status publication-status--current">Current</span></div>
 </div>
 
+<p class="publication-primary-focus"><strong>Primary focus:</strong> Building a credible professional portfolio through authentic repository evidence.</p>
+
 <div class="publication-actions publication-actions--primary">
   <a class="md-button md-button--primary" href="/assets/publications/education-papers/COMP_WP-002_Building_a_Professional_Engineering_Portfolio.pdf" download>Download PDF</a>
   <a class="md-button" href="/assets/publications/education-papers/COMP_WP-002_Building_a_Professional_Engineering_Portfolio.pdf" target="_blank" rel="noopener">Open PDF</a>

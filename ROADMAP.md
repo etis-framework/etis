@@ -384,7 +384,7 @@ Phase II.c established the ETIS Publications Program as a first-class public cap
 
 ### ETIS Education Paper Series
 
-- ✅ 5 ETIS Education Papers
+- ✅ 6 ETIS Education Papers
 - ✅ Student, instructor, and academic-program positioning
 - ✅ Integration with the Educational Ecosystem
 - ✅ Canonical landing pages

@@ -28,6 +28,8 @@ hide:
   <div class="publication-metadata-item"><span class="publication-metadata-label">Status</span><span class="publication-status publication-status--current">Current</span></div>
 </div>
 
+<p class="publication-primary-focus"><strong>Primary focus:</strong> Applying professional engineering lessons to learning, career decisions, and growth.</p>
+
 <div class="publication-actions publication-actions--primary">
   <a class="md-button md-button--primary" href="/assets/publications/education-papers/COMP_WP-005_Engineering_Career_Lessons.pdf" download>Download PDF</a>
   <a class="md-button" href="/assets/publications/education-papers/COMP_WP-005_Engineering_Career_Lessons.pdf" target="_blank" rel="noopener">Open PDF</a>
