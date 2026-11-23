@@ -129,6 +129,23 @@ description: "ETIS is an engineering framework for trustworthy AI and software s
 
 </div>
   </div>
+</div>
+</section>
+
+<!-- Featured publication: compact homepage discovery, kept distinct from the Framework hero. -->
+<section class="etis-featured-publication" aria-label="Featured ETIS publication">
+  <a class="etis-featured-publication-link" href="Books/agentic-ai/">
+    <img class="etis-featured-publication-cover"
+         src="assets/books/agentic-ai/front-cover.png"
+         alt="Engineering Agentic AI Systems book cover"
+         width="76" height="114" loading="lazy" decoding="async">
+    <span class="etis-featured-publication-copy">
+      <span class="etis-featured-publication-kicker">Featured Title · ETIS Professional Computing Series</span>
+      <strong class="etis-featured-publication-title">Engineering Agentic AI Systems</strong>
+      <span class="etis-featured-publication-subtitle">Build, Secure, Verify, and Operate Trustworthy AI Agents</span>
+    </span>
+    <span class="etis-featured-publication-action" aria-hidden="true">Explore the book <span>→</span></span>
+  </a>
 </section>
 
 <section class="etis-main-grid">
