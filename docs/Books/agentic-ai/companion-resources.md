@@ -18,6 +18,8 @@ The progressive **CASE-204 $500 refund** implementation introduces the architect
 
 The reference architecture is mapped to **E1–E9 responsibilities** and **C01–C09 contracts**. MCP clients can reside in the agent application; the MCP server and independent authorization must enforce trusted boundaries before effects. Neither MCP nor A2A grants authority by itself.
 
+**Start with Build 0:** Follow the [guided learning path](https://github.com/etis-framework/etis-agentic-ai-book/blob/main/examples/refund-reference-system/LEARNING_PATH.md) to locate the deterministic baseline, run its tests, and inspect its architectural boundaries before progressing to later builds.
+
 ## Suggested Learning Path
 
 The companion is designed for working software engineers and advanced students. **Basic Python, software engineering, APIs, and testing** are useful starting points; prior experience building AI agents is not required. The examples use the Python standard library and simulated services, so readers do not need paid AI APIs or payment-provider credentials.
