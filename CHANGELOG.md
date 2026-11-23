@@ -6,15 +6,17 @@ The format is inspired by *Keep a Changelog* and adapted for framework, publicat
 
 ---
 
-## [Unreleased] - November 2026
+## [1.5.0] - November 23, 2026
 
 ### Publication discovery and repository metadata maintenance
+
+This release consolidates the November 2026 Agentic AI book website integration, WP-013 v1.1 model-originated-risk clarification, COMP-WP-006 companion education publication, publication discovery improvements, and the Engineering Education Suite integration. It does not revise the underlying First Edition framework doctrine or the authoritative publication PDFs.
 
 - Standardized the primary-focus field on all 24 publication landing pages while retaining existing role-specific audience tags, reading-time ranges, and learning takeaways.
 - Added estimated reading-time ranges to WP-013 and COMP-WP-006; these are reader aids, not measurements of PDF body word count.
 - Corrected the WP-013 v1.1 / COMP-WP-006 v1.0 companion citation record and reconciled the two-volume publication date.
 - Updated publication inventories and the repository roadmap to 13 white papers, five executive briefs, and six education papers.
-- Aligned `CITATION.cff` to the latest *already tagged* v1.4.0 release; it must be advanced again as part of the next formal release.
+- Advanced `CITATION.cff` to the v1.5.0 release candidate; the tag and GitHub Release must be created only after this metadata is merged and verified.
 - Preserved all authoritative PDFs, Word masters, manuscript source, and historical release entries.
 
 ### Engineering Education Suite Integration (August–November 2026)
@@ -88,9 +90,7 @@ This update expands the ETIS Educational Ecosystem with a coordinated, phase-gat
 
 ### Release Note
 
-These changes are currently recorded as **Unreleased**.
-
-The latest tagged repository release remains **v1.4.0** until the next formal release is created.
+These changes are included in the **v1.5.0 release candidate**. Publish the annotated `v1.5.0` tag and GitHub Release only after the final release-metadata commit is merged and validated.
 
 ---
 

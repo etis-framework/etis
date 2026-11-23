@@ -46,13 +46,13 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 
 ## Current Release
 
-**Latest tagged repository release:** v1.4.0 (August 2026; subsequent changes on `main` are unreleased)
+**Release candidate:** v1.5.0 (November 23, 2026; tag and GitHub Release to follow final verification)
 **Book edition:** First Edition
 **Initial Framework publication:** June 2026
 **ETIS Two-Volume Professional Edition:** July 2026
 **Current ecosystem status:** Active public framework, books, publications, education, Engineering Platform, Engineering Education Suite, and supporting repository ecosystem
 
-The v1.4.0 release established the current ETIS publishing architecture, including:
+The v1.5.0 release candidate builds on the publishing architecture established in v1.4.0, including:
 
 - the ETIS Framework Reference Work;
 - the ETIS Two-Volume Professional Edition;
@@ -64,11 +64,9 @@ The v1.4.0 release established the current ETIS publishing architecture, includi
 - the Engineering Platform and Platform gateway;
 - integrated resource, download, repository, and navigation architecture.
 
-The `main` branch may contain documentation, editorial, ecosystem-alignment, and maintenance changes made after the most recent formal release.
+The v1.5.0 candidate consolidates the November 2026 Agentic AI book integration, WP-013 v1.1 and COMP-WP-006 publication pathways, 24 publication landing-page profiles, and the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review.
 
-Post-v1.4.0 ecosystem development includes the November 2026 Agentic AI book and publication updates, as well as the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review into the Educational Ecosystem.
-
-Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases). `CITATION.cff` currently identifies the latest **tagged** repository release (v1.4.0), not unreleased changes on `main`. Update its version, release date, and artifact URL together when preparing the next release.
+Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases). The candidate `CITATION.cff` identifies **v1.5.0** in anticipation of its release. Until the final annotated tag and GitHub Release are published, **v1.4.0 remains the latest published release**. The `main` branch may subsequently advance beyond any tagged release.
 
 ---
 
@@ -705,10 +703,11 @@ Current release history:
 - `v1.2.0` — Publications Program and Platform integration
 - `v1.3.0` — Educational Ecosystem and Platform integration
 - `v1.4.0` — Books and Professional Computing Series
+- `v1.5.0` — November 2026 ecosystem and publication integration (release candidate)
 
 The `main` branch may advance beyond the latest formal release through documentation, editorial, maintenance, and ecosystem-alignment changes.
 
-Current post-v1.4.0 development includes integration of the ETIS Engineering Education Suite across the public framework website and repository documentation.
+The v1.5.0 release candidate includes the November 2026 Engineering Education Suite integration, Agentic AI publication and book discovery, and standardized publication profiles.
 
 Formal releases use versioned Git tags and are documented through GitHub Releases.
 

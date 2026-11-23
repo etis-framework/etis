@@ -1,17 +1,19 @@
-# ETIS Companion Publications — Release and Validation
+# ETIS Companion Publications — Historical Release and Validation Record
+
+> **Historical release checklist (October 2026).** This document records the initial publication workflow. For the current authoritative records, see the canonical WP-013 and COMP-WP-006 publication pages and `docs/publications/citations.md`. WP-013 is now **v1.1 (revised November 2026)**; COMP-WP-006 remains **v1.0 (October 2026)**. The website repository retains authoritative public PDFs; editable Word masters are maintained separately and are not part of this release.
 
 ## Scope
 
 - New canonical publication pages: WP-013 and COMP-WP-006.
-- Authoritative PDFs and editable Word masters in existing series asset directories.
+- Authoritative PDFs in the website publication asset directories; editable Word masters are maintained separately.
 - Updates to publication overview, both series indexes, reading paths, citations, Library, What’s New, and discovery pages.
 - No changes to existing publications or book edition content.
 
 ## Publication governance
 
-- Proposed permanent IDs: WP-013 and COMP-WP-006. Confirm against the authoritative publication registry before merge.
-- Canonical pages describe version **1.0**, October 2026. Existing manuscript cover labels may differ; harmonize in a later controlled source revision if required.
-- PDFs are the authoritative public editions; Word masters are stored alongside them as non-authoritative source documents. The website does not link to DOCX downloads.
+- Permanent identifiers are **WP-013** and **COMP-WP-006**.
+- WP-013 was originally published in October 2026 and is currently **v1.1 (November 2026)**. COMP-WP-006 remains **v1.0 (October 2026)**.
+- PDFs are the authoritative public editions. Word masters are retained separately; the website does not link to DOCX downloads.
 
 ## Validate locally
 
