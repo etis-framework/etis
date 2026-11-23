@@ -144,7 +144,7 @@ Research-informed perspectives for engineers, technology leaders, educators, stu
 The publication program is one part of a larger engineering knowledge and practice ecosystem:
 
 - **The ETIS Framework Reference Work, _Engineering Trustworthy Intelligent Systems_,** defines the comprehensive full-lifecycle engineering discipline for software and intelligent systems in the AI era. Its **Two-Volume Professional Edition** presents that integrated work in two volumes.
-- **The ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the teaching vehicle for developing engineering judgment.
+- **The ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. The featured title, *Engineering Agentic AI Systems*, applies trusted-execution and verification disciplines to enterprise agents; the inaugural title, *From Data Structures to Engineering Judgment*, develops engineering judgment through data structures and algorithms.
 - **ETIS Publications** provide focused, citable treatments of major ideas, decisions, professional practices, and emerging directions through the White Paper, Executive Brief, and Education Paper series.
 - **The ETIS Engineering Platform** turns framework doctrine into staged, repository-centered engineering work.
 - **The Engineering Platform Starter Kit** provides a reusable implementation baseline for project startup and adoption.

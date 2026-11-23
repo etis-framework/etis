@@ -15,17 +15,19 @@ hide:
 
 ETIS is a repository-centered engineering ecosystem.
 
-The public ETIS ecosystem is organized around two foundational repositories complemented by specialized educational, service, community, and organization repositories.
+The public ETIS ecosystem is organized around the Framework and Engineering Platform foundation, together with an authoritative agentic-book manuscript and code repository, and specialized educational, service, community, and organization repositories.
 
 The Framework and Engineering Platform repositories form the knowledge-and-implementation foundation of ETIS. Specialized repositories support course implementations, educational services, community participation, organization-level resources, and other focused capabilities while preserving clear separation of responsibilities and release models.
 
 - the **ETIS Framework Repository** defines, publishes, and preserves the ETIS body of knowledge;
 - the **ETIS Engineering Platform Starter Kit Repository** operationalizes ETIS through stages, templates, examples, governance assets, and project workspaces.
+- the **Engineering Agentic AI Book Repository** is authoritative for the public manuscript and Builds 0–5, including tests and implementation documentation.
 
 This separation is deliberate.
 
-The Framework repository defines and publishes the discipline.  
+The Framework repository defines and publishes the discipline.
 The Starter Kit repository demonstrates how to apply the discipline.
+The Agentic AI Book repository supplies an independently versioned book manuscript and its executable reference implementation.
 
 ---
 
@@ -35,6 +37,7 @@ The Starter Kit repository demonstrates how to apply the discipline.
 |---|---|---|
 | **ETIS Framework Repository** | [etisframework.org](https://etisframework.org) | Authoritative source for the Framework, Framework Reference Work, Books and Professional Computing Series materials, Publications Program, Educational Ecosystem, downloads, resources, roadmap, and public website. |
 | **ETIS Engineering Platform Starter Kit Repository** | [platform.etisframework.org](https://platform.etisframework.org) | Practical implementation environment containing Engineering Stages ES-100 through ES-114, templates, LMU/COICP examples, governance assets, and Project Workspace materials. |
+| **Engineering Agentic AI Book Repository** | [GitHub — etis-agentic-ai-book](https://github.com/etis-framework/etis-agentic-ai-book) | Authoritative manuscript source and six progressive Python reference builds, including tests, build architecture diagrams, and implementation documentation. |
 | **ETIS Engineering Studio Repository** | [Engineering Studio overview](../Educational_Ecosystem/Engineering_Studio.md) | Open-source reference implementation of the instructor-operated student-team environment for evidence-grounded developmental review and engineering-judgment formation. |
 
 <div style="margin-top:.75rem;">
@@ -49,6 +52,8 @@ Browse Framework Repository
 Browse Engineering Platform Starter Kit
 </a>
 
+<a class="md-button" href="https://github.com/etis-framework/etis-agentic-ai-book">Browse Agentic AI Book Repository</a>
+
 </div>
 
 For an introduction to the Platform and its relationship to the ETIS ecosystem, begin with the [Platform Overview](../Platform/Platform.md). The external Platform site is the working implementation environment.
@@ -57,7 +62,7 @@ For an introduction to the Platform and its relationship to the ETIS ecosystem, 
 
 ## ETIS Framework Repository
 
-**Repository:** [github.com/etis-framework/etis](https://github.com/etis-framework/etis)  
+**Repository:** [github.com/etis-framework/etis](https://github.com/etis-framework/etis)
 **Website:** [etisframework.org](https://etisframework.org)
 
 The Framework repository contains the authoritative source for the ETIS public knowledge platform.
@@ -67,6 +72,7 @@ It includes:
 - the complete *Engineering Trustworthy Intelligent Systems* Framework Reference Work;
 - the ETIS Two-Volume Professional Edition;
 - the ETIS Books architecture and Professional Computing Series materials;
+- *Engineering Agentic AI Systems* website book record and reader navigation (with source and builds maintained separately);
 - *From Data Structures to Engineering Judgment* website and companion-resource materials;
 - the ETIS White Paper Series;
 - the ETIS Executive Brief Series;
@@ -90,7 +96,7 @@ This repository is the long-term authority for ETIS doctrine, the Framework Refe
 
 ## ETIS Engineering Platform Starter Kit Repository
 
-**Repository:** [github.com/etis-framework/etis-starter-kit](https://github.com/etis-framework/etis-starter-kit)  
+**Repository:** [github.com/etis-framework/etis-starter-kit](https://github.com/etis-framework/etis-starter-kit)
 **Framework-site gateway:** [Platform Overview](../Platform/Platform.md)
 
 **Website:** [platform.etisframework.org](https://platform.etisframework.org)

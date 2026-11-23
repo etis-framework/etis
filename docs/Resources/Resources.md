@@ -50,6 +50,7 @@ ETIS is organized as a connected professional ecosystem:
 | Learn what ETIS is | [What is ETIS?](../Framework/What_is_ETIS.md) |
 | Read the complete ETIS Framework Reference Work online | [Read ETIS Online](../Front_Matter/01_Title_Page.md) |
 | Explore ETIS books and the Professional Computing Series | [ETIS Books](../Books/index.md) |
+| Explore the featured enterprise agentic AI book | [Engineering Agentic AI Systems](../Books/agentic-ai/index.md) |
 | Explore focused papers and executive guidance | [ETIS Publications](../publications/index.md) |
 | Follow a role-based publication sequence | [Publication Reading Paths](../publications/reading-paths.md) |
 | Understand and apply ETIS through the Platform | [Platform Overview](../Platform/Platform.md) |
@@ -73,6 +74,7 @@ ETIS is organized as a connected professional ecosystem:
 |---|---|
 | **ETIS Framework Website** | Authoritative public site for the ETIS Framework, Framework Reference Work, Books, Publications, Appendices, Educational Ecosystem, Downloads, Platform gateway, and reference materials. |
 | **ETIS Books** | Canonical home for the Framework Reference Work, Two-Volume Professional Edition, Professional Computing Series, and individual book records. |
+| **Agentic AI Book Repository** | Authoritative source for the Engineering Agentic AI Systems manuscript, six progressive Python builds, tests, and implementation documentation. |
 | **ETIS Publications** | Canonical webpages and authoritative PDF editions for the White Paper, Executive Brief, and Education Paper series. |
 | **Platform Overview** | Canonical gateway on the ETIS Framework website introducing the Engineering Platform, its audiences, capabilities, and relationship to the ETIS ecosystem. |
 | **ETIS Engineering Platform Website** | Companion implementation environment for Engineering Stages ES-100 through ES-114, reusable templates, LMU/COICP examples, governance assets, and project workspaces. |
@@ -141,6 +143,7 @@ Use these resources when you want to understand ETIS doctrine, read the complete
 - [ETIS Framework Reference Work](../Books/ETIS_Framework_Reference.md)
 - [ETIS Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md)
 - [ETIS Professional Computing Series](../Books/ETIS_Professional_Computing_Series.md)
+- [Engineering Agentic AI Systems — Featured Title](../Books/agentic-ai/index.md) and its [source and companion builds](https://github.com/etis-framework/etis-agentic-ai-book)
 - [ETIS Books](../Books/index.md)
 - [ETIS Library](ETIS_Library.md)
 
@@ -271,7 +274,7 @@ The Community connects people through persistent engineering discussion and shar
 
 ## Bottom Line
 
-The Framework defines ETIS.  
+The Framework defines ETIS.
 The Framework Reference Work provides its comprehensive treatment.
 The Two-Volume Professional Edition presents that work in two integrated volumes.
 The Professional Computing Series develops durable professional capabilities aligned with ETIS.

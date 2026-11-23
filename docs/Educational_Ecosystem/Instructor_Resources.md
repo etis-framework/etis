@@ -47,6 +47,7 @@ The **ETIS Engineering Platform** provides a professional reference and implemen
 | Resource | Purpose |
 |---|---|
 | [**ETIS Books**](../Books/index.md) | Full-length framework and professional computing works for curriculum design and professional formation |
+| [**Engineering Agentic AI Systems**](../Books/agentic-ai/index.md) | Advanced agentic-system architecture, security, verification, and six progressive Python reference builds for upper-level or professional study |
 | [**From Data Structures to Engineering Judgment**](../Books/engineering-judgment/index.md) | Use data structures and algorithms as a technical vehicle for developing engineering judgment; especially relevant to foundational and intermediate computing courses |
 | **Instructor Course Package** | Course design, sequencing, assignments, assessment, operations, and stewardship |
 | **Classroom Facilitation Guide** | Discussion, team accountability, AI responsibility, review boards, and release defenses |
@@ -112,13 +113,15 @@ ETIS Books serve two complementary instructional roles.
 
 The **ETIS Framework Reference Work** gives instructors the comprehensive engineering model: how trustworthy software and intelligent systems are framed, designed, constructed, verified, released, operated, governed, and stewarded over time. It can serve as a reference work, course foundation, or source for lifecycle-specific readings.
 
-The **ETIS Professional Computing Series** develops durable professional capabilities through sustained computing topics aligned with the framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for engineering judgment rather than treating the subject as an end in itself.
+The **ETIS Professional Computing Series** develops durable professional capabilities through sustained computing topics aligned with the framework. Its featured title, *Engineering Agentic AI Systems*, supports advanced instruction in enterprise agentic systems and executable verification. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms to develop engineering judgment rather than treating the subject as an end in itself.
 
 That book is particularly relevant to data structures and intermediate computing courses. It is not intended to become a required text for every ETIS course or implementation.
 
 [Explore ETIS Books →](../Books/index.md)
 
 [Explore the ETIS Professional Computing Series →](../Books/ETIS_Professional_Computing_Series.md)
+
+[Explore *Engineering Agentic AI Systems* →](../Books/agentic-ai/index.md)
 
 [Explore *From Data Structures to Engineering Judgment* →](../Books/engineering-judgment/index.md)
 

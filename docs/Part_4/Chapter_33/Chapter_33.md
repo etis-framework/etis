@@ -626,3 +626,9 @@ Prepare a governance review packet for a proposed COICP stalled-case follow-up a
 The review packet should be stored conceptually under `/docs/governance/agentic_workflows/` and linked to `/docs/governance/reviews/agentic_workflow_review_record.md`.
 
 Students should be prepared to defend why the workflow should be approved, constrained, deferred, rejected, or require revocation conditions.
+
+---
+
+## Website Companion Reading (November 2026)
+
+For an optional implementation-focused extension of this chapter’s treatment of bounded workflow authority, delegated actions, and independent authorization, see [*Engineering Agentic AI Systems*](../../Books/agentic-ai/index.md). Its six progressive Python reference builds illustrate independently enforced controls and their verification limits. This is a website reading pointer, not a revision to the published Framework chapter.

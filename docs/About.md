@@ -102,13 +102,15 @@ The volumes are not separate works. They are two lifecycle movements within one 
 
 ### ETIS Professional Computing Series
 
-The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, systems thinking, and professional responsibility.
+The **ETIS Professional Computing Series** develops enduring professional capabilities aligned with ETIS. Its new featured title, *Engineering Agentic AI Systems*, addresses agentic AI architecture, secure execution, and verification. The inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the technical teaching vehicle for developing engineering judgment, evidence-based reasoning, tradeoff analysis, AI accountability, systems thinking, and professional responsibility.
 
 The series complements the Framework Reference Work. It does not replace or summarize it.
 
 [Explore ETIS Books →](Books/index.md)
 
 [Explore the Professional Computing Series →](Books/ETIS_Professional_Computing_Series.md)
+
+[Explore *Engineering Agentic AI Systems* →](Books/agentic-ai/index.md)
 
 [Explore *From Data Structures to Engineering Judgment* →](Books/engineering-judgment/index.md)
 

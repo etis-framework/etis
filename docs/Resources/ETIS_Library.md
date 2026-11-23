@@ -4,7 +4,7 @@ hide:
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="../../assets/etis-logo.svg"
+  <img src="/assets/etis-logo.svg"
        alt="ETIS"
        style="width:320px; max-width:60%; height:auto;">
 </div>
@@ -110,54 +110,49 @@ New public ETIS resources should appear on the website first.
 
 ## ETIS Books
 
-ETIS books now serve two complementary publishing roles.
+The ETIS book catalog has two distinct publishing roles: a comprehensive Framework Reference Work and focused titles in the Professional Computing Series. **For book descriptions, covers, purchase options, and companion links, start with [ETIS Books](../Books/index.md).** For an offline copy, go directly to [Downloads](download.md#etis-professional-computing-series).
 
-### ETIS Framework Reference Work
+### Framework Reference Work
 
-*Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era* is the definitive ETIS framework reference. It defines the complete lifecycle discipline across software engineering, AI-assisted development, governance, operations, oversight, and stewardship.
+*Engineering Trustworthy Intelligent Systems* is a single integrated reference work published as two complementary volumes. Both volumes are shown below so readers can recognize the print editions and choose the appropriate starting point.
 
-For print publication, the Framework Reference Work is organized as the **ETIS Two-Volume Professional Edition**. Authorized PDF access is available both as the complete First Edition and as individual volume editions.
-
-### ETIS Professional Computing Series
-
-The **ETIS Professional Computing Series** develops durable professional judgment through focused computing books aligned with the broader ETIS philosophy.
-
-The inaugural title is:
-
-**From Data Structures to Engineering Judgment**  
-*Engineering Trustworthy Intelligent Systems in the AI Era*  
-William T. O'Connell, Ph.D.
-
-The book uses data structures and algorithms as a vehicle for developing engineering judgment about representation, prediction, evidence, tradeoffs, scale, policy, system consequences, AI-assisted engineering, and professional responsibility.
-
-The ETIS website provides a free PDF edition, companion resources, and the canonical publication record. Print editions are available through Amazon.
-
-**Published:** August 2026 · First Edition  
-**Paperback ISBN:** 979-8-9966760-4-0  
-**Hardcover ISBN:** 979-8-9966760-5-7
-
-<div style="margin-top:.75rem;">
-
-<a class="md-button md-button--primary"
-   href="../../Books/">
-Explore ETIS Books
-</a>
-
-<a class="md-button"
-   href="../../Books/engineering-judgment/">
-Explore Engineering Judgment
-</a>
-<a class="md-button"
-   href="https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/">
-View on Amazon ↗
-</a>
-
-<a class="md-button"
-   href="../download/#etis-professional-computing-series">
-Download Free PDF
-</a>
-
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1.25rem;margin:1rem 0 1.5rem;align-items:stretch;">
+  <div style="border:1px solid #cfd7df;border-radius:.45rem;padding:1.1rem;background:var(--md-default-bg-color);">
+    <p style="margin:0 0 .65rem;"><strong>Volume I — Foundations &amp; Construction</strong></p>
+    <a href="/Volumes/Volume_I/"><img src="/assets/books/etis-framework/volume-1-cover.png" alt="ETIS Framework Reference Work Volume I cover" style="display:block;width:150px;max-width:100%;height:auto;margin:0 auto 1rem;border:1px solid #ddd;box-shadow:0 5px 15px rgba(0,0,0,.14);border-radius:.2rem;"></a>
+    <p style="font-size:.91rem;">Foundations, engineering practices, system construction, and verification.</p>
+    <p style="margin-bottom:.5rem;"><a href="/Volumes/Volume_I/">Volume I overview</a> · <a href="/Resources/download/">PDF editions</a></p>
+  </div>
+  <div style="border:1px solid #cfd7df;border-radius:.45rem;padding:1.1rem;background:var(--md-default-bg-color);">
+    <p style="margin:0 0 .65rem;"><strong>Volume II — Operations &amp; Stewardship</strong></p>
+    <a href="/Volumes/Volume_II/"><img src="/assets/books/etis-framework/volume-2-cover.png" alt="ETIS Framework Reference Work Volume II cover" style="display:block;width:150px;max-width:100%;height:auto;margin:0 auto 1rem;border:1px solid #ddd;box-shadow:0 5px 15px rgba(0,0,0,.14);border-radius:.2rem;"></a>
+    <p style="font-size:.91rem;">Operations, governance, oversight, reliability, and long-term stewardship.</p>
+    <p style="margin-bottom:.5rem;"><a href="/Volumes/Volume_II/">Volume II overview</a> · <a href="/Resources/download/">PDF editions</a></p>
+  </div>
 </div>
+
+[Explore the complete Framework Reference Work →](../Books/ETIS_Framework_Reference.md)
+
+### Professional Computing Series
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1.25rem;margin:1.1rem 0 1.3rem;align-items:stretch;">
+  <div style="border:2px solid #bd9137;border-radius:.45rem;padding:1.1rem;background:var(--md-default-bg-color);box-shadow:0 7px 22px rgba(90,69,25,.12);">
+    <p style="margin:0 0 .65rem;"><strong>Featured Title</strong></p>
+    <a href="/Books/agentic-ai/"><img src="/assets/books/agentic-ai/front-cover.png" alt="Engineering Agentic AI Systems book cover" style="display:block;width:150px;max-width:100%;height:auto;margin:0 auto 1rem;border:1px solid #ddd;box-shadow:0 5px 15px rgba(0,0,0,.14);border-radius:.2rem;"></a>
+    <p style="margin:0 0 .4rem;"><strong>Engineering Agentic AI Systems</strong><br><em>Build, Secure, Verify, and Operate Trustworthy AI Agents</em></p>
+    <p style="font-size:.91rem;">Secure enterprise agents, independent controls, verifiable execution, recoverable operations, and six progressive Python builds.</p>
+    <p style="margin-bottom:.5rem;"><a href="/Books/agentic-ai/">Book overview</a> · <a href="/downloads/books/Engineering_Agentic_AI_Systems_First_Edition_2026.pdf">Free PDF</a> · <a href="/Books/agentic-ai/companion-resources/">Companion resources</a></p>
+  </div>
+  <div style="border:1px solid #cfd7df;border-radius:.45rem;padding:1.1rem;background:var(--md-default-bg-color);">
+    <p style="margin:0 0 .65rem;"><strong>Professional Computing Series</strong></p>
+    <a href="/Books/engineering-judgment/"><img src="/assets/books/engineering-judgment/front-cover.png" alt="From Data Structures to Engineering Judgment book cover" style="display:block;width:150px;max-width:100%;height:auto;margin:0 auto 1rem;border:1px solid #ddd;box-shadow:0 5px 15px rgba(0,0,0,.14);border-radius:.2rem;"></a>
+    <p style="margin:0 0 .4rem;"><strong>From Data Structures to Engineering Judgment</strong><br><em>Engineering Trustworthy Intelligent Systems in the AI Era</em></p>
+    <p style="font-size:.91rem;">Data structures and algorithms as a foundation for engineering decisions, evidence, tradeoffs, and professional accountability.</p>
+    <p style="margin-bottom:.5rem;"><a href="/Books/engineering-judgment/">Book overview</a> · <a href="/downloads/books/From_Data_Structures_to_Engineering_Judgment_First_Edition_2026.pdf">Free PDF</a> · <a href="/Books/engineering-judgment/companion-resources/">Companion resources</a></p>
+  </div>
+</div>
+
+The series books are complementary; neither is a prerequisite for the other. The [Professional Computing Series page](../Books/ETIS_Professional_Computing_Series.md) explains how they relate to the Framework Reference Work.
 
 ---
 
@@ -167,7 +162,7 @@ The Publications Program provides focused entry points into major ETIS ideas, en
 
 ### White Paper Series
 
-Twelve long-form papers covering the conceptual and professional foundations of ETIS.
+Thirteen long-form papers covering the conceptual and professional foundations of ETIS.
 
 [Explore the ETIS White Papers →](../publications/white-papers/index.md)
 
@@ -179,7 +174,7 @@ Five concise briefs translating AI-era engineering consequences into decision gu
 
 ### Education Paper Series
 
-Five professional papers supporting software engineering education, student development, responsible AI use, teamwork, portfolios, and career formation.
+Six professional papers supporting software engineering education, student development, responsible AI use, teamwork, portfolios, and career formation.
 
 [Explore the Education Papers →](../publications/education-papers/index.md)
 
@@ -268,7 +263,7 @@ Volume II addresses how intelligent systems are operated, governed, observed, se
 
 ## Print Editions
 
-Professionally printed paperback and hardcover editions of the ETIS Framework Reference Work and From Data Structures to Engineering Judgment are available through Amazon.
+Professionally printed editions of the ETIS Framework Reference Work, Engineering Agentic AI Systems, and From Data Structures to Engineering Judgment have Amazon listings; availability is determined by Amazon and the respective publication dates.
 
 Print editions support:
 
@@ -283,6 +278,9 @@ Print editions support:
 The website remains the authoritative and most current public source.
 
 [View the ETIS Framework Reference Work on Amazon →](https://www.amazon.com/dp/B0H6297N1D)
+
+[View Engineering Agentic AI Systems — paperback on Amazon →](https://www.amazon.com/dp/B0HSKLJPT7)
+[View Engineering Agentic AI Systems — hardcover on Amazon →](https://www.amazon.com/dp/B0HSKMW9FC)
 
 [View From Data Structures to Engineering Judgment on Amazon →](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/)
 
@@ -363,6 +361,12 @@ Preferred citation:
 
 > O’Connell, William T. *Engineering Trustworthy Intelligent Systems: Software Engineering, Governance, and Operational Trust in the AI Era*. First Edition. ETIS Framework, June 2026.
 
+### Cite *Engineering Agentic AI Systems*
+
+> O’Connell, William T. *Engineering Agentic AI Systems: Build, Secure, Verify, and Operate Trustworthy AI Agents*. First Edition. ETIS Professional Computing Series, November 2026.
+
+[Book record →](../Books/agentic-ai/index.md)
+
 ### Cite *From Data Structures to Engineering Judgment*
 
 Preferred citation:
@@ -402,13 +406,14 @@ ETIS is designed to evolve without becoming unstable.
 |---|---|
 | Read the complete ETIS Framework Reference Work online | [Website Edition](../Front_Matter/01_Title_Page.md) |
 | Explore ETIS books | [ETIS Books](../Books/index.md) |
+| Read *Engineering Agentic AI Systems* | [Book Page](../Books/agentic-ai/index.md) or [Free PDF](../downloads/books/Engineering_Agentic_AI_Systems_First_Edition_2026.pdf) |
 | Read *From Data Structures to Engineering Judgment* | [Book Page](../Books/engineering-judgment/index.md) or [Downloads](download.md#etis-professional-computing-series) |
 | Read focused technical guidance | [White Papers](../publications/white-papers/index.md) |
 | Read executive decision guidance | [Executive Briefs](../publications/executive-briefs/index.md) |
 | Support student or instructor development | [Education Papers](../publications/education-papers/index.md) |
 | Follow a role-based sequence | [Publication Reading Paths](../publications/reading-paths.md) |
 | Read offline | [Downloads](download.md) |
-| Use printed books | [ETIS Framework Reference Work](https://www.amazon.com/dp/B0H6297N1D) · [From Data Structures to Engineering Judgment](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/) |
+| Use printed books | [ETIS Framework Reference Work](https://www.amazon.com/dp/B0H6297N1D) · [Engineering Agentic AI Systems](https://www.amazon.com/dp/B0HSKLJPT7) · [From Data Structures to Engineering Judgment](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/) |
 | Teach a course | [Educational Products](../Educational_Ecosystem/Educational_Products.md) |
 | Understand the two-volume split | [Two-Volume Professional Edition](../Volumes/ETIS_Two_Volume_Edition.md) |
 | Understand how the Platform supports ETIS adoption | [Platform Overview](../Platform/Platform.md) |

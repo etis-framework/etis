@@ -591,3 +591,9 @@ Chapter 35, Human Oversight in Intelligent Systems, inherits the central questio
 When intelligent systems have bounded authority and governed context, how do humans remain meaningfully in control?
 
 That question cannot be answered with an approval button. It requires an oversight operating model.
+
+---
+
+## Website Companion Reading (November 2026)
+
+For an optional implementation-focused extension of this chapter’s treatment of governed context, identity, and authorization at the trusted execution boundary, see [*Engineering Agentic AI Systems*](../../Books/agentic-ai/index.md). Its six progressive Python reference builds illustrate independently enforced controls and their verification limits. This is a website reading pointer, not a revision to the published Framework chapter.

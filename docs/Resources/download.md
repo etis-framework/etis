@@ -45,7 +45,7 @@ ETIS has two complementary long-form publishing roles.
 
 The **ETIS Framework Reference Work, _Engineering Trustworthy Intelligent Systems_**, is the foundational professional work of the ETIS ecosystem. It provides the comprehensive treatment of software engineering, governance, operational trust, human oversight, and long-term stewardship in the AI era.
 
-The **ETIS Professional Computing Series** develops durable professional capabilities aligned with that framework. Its inaugural title, *From Data Structures to Engineering Judgment*, uses data structures and algorithms as the teaching vehicle for developing engineering judgment.
+The **ETIS Professional Computing Series** develops durable professional capabilities aligned with that framework. Its featured title, *Engineering Agentic AI Systems*, addresses the engineering of secure, verifiable enterprise agents. Its inaugural title, *From Data Structures to Engineering Judgment*, develops engineering judgment through data structures and algorithms.
 
 [Explore ETIS Books →](../Books/index.md)
 
@@ -176,9 +176,44 @@ Explore Volume II
 
 The **ETIS Professional Computing Series** develops the professional judgment required to understand, verify, build, operate, and steward trustworthy systems in the AI era.
 
-### Book 1 — From Data Structures to Engineering Judgment
+### Featured Title — Engineering Agentic AI Systems
 
-*Engineering Trustworthy Intelligent Systems in the AI Era*  
+*Build, Secure, Verify, and Operate Trustworthy AI Agents*
+**William T. O’Connell, Ph.D.**
+
+<div style="display:flex;gap:1.5rem;align-items:flex-start;flex-wrap:wrap;margin:1rem 0 1.5rem 0;">
+  <div style="flex:0 0 190px;">
+    <a href="/Books/agentic-ai/" style="display:block;">
+      <img src="/assets/books/agentic-ai/front-cover.png" alt="Front cover of Engineering Agentic AI Systems" style="display:block;width:190px;max-width:100%;height:auto;margin:0;border:1px solid #d9d9d9;box-shadow:0 10px 30px rgba(0,0,0,.12);border-radius:.25rem;">
+    </a>
+  </div>
+  <div style="flex:1 1 320px;min-width:280px;">
+    <p style="margin-top:0;">Engineering Agentic AI Systems provides a <strong>vendor-neutral enterprise engineering approach</strong> to agentic applications: secure trust boundaries, independent authorization, durable workflows, observability, verification, recovery, and six progressive Python reference builds.</p>
+    <p><strong>Publication date:</strong> November 26, 2026 · First Edition<br>
+    <strong>ETIS website PDF:</strong> Free download<br>
+    <strong>Amazon:</strong> Paperback and hardcover listings<br>
+    <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-6-4</span><br>
+    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-7-1</span></p>
+  </div>
+</div>
+
+<div style="margin-top:.5rem;">
+
+<a class="md-button md-button--primary" href="/downloads/books/Engineering_Agentic_AI_Systems_First_Edition_2026.pdf" download>Download Free PDF</a>
+<a class="md-button" href="/downloads/books/Engineering_Agentic_AI_Systems_First_Edition_2026.pdf">Open PDF</a>
+<a class="md-button" href="https://www.amazon.com/dp/B0HSKLJPT7">View on Amazon ↗</a>
+<a class="md-button" href="/Books/agentic-ai/">Explore Book</a>
+<a class="md-button" href="/Books/agentic-ai/companion-resources/">Companion Resources</a>
+
+</div>
+
+The canonical [book page](../Books/agentic-ai/index.md) provides the publication record and errata; the [public book repository](https://github.com/etis-framework/etis-agentic-ai-book) is authoritative for manuscript source and Builds 0–5.
+
+---
+
+### From Data Structures to Engineering Judgment
+
+*Engineering Trustworthy Intelligent Systems in the AI Era*
 **William T. O'Connell, Ph.D.**
 
 <div style="display:flex; gap:1.5rem; align-items:flex-start; flex-wrap:wrap; margin:1rem 0 1.5rem 0;">
@@ -192,9 +227,9 @@ The **ETIS Professional Computing Series** develops the professional judgment re
   <div style="flex:1 1 320px; min-width:280px;">
     <p style="margin-top:0;">The inaugural title uses data structures and algorithms as the <strong>teaching vehicle</strong> for developing engineering judgment about representation, evidence, tradeoffs, system consequences, AI-assisted engineering, verification, and professional responsibility. It is intentionally not a conventional data structures textbook, Java programming guide, or algorithms reference.</p>
 
-    <p><strong>Published:</strong> August 2026 · First Edition<br>
+    <p><strong>Publication date:</strong> August 2026 · First Edition<br>
     <strong>ETIS website PDF:</strong> Free download<br>
-    <strong>Amazon:</strong> Available now<br>
+    <strong>Amazon:</strong> Paperback and hardcover listings<br>
     <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-4-0</span><br>
    <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-5-7</span></p>
   </div>

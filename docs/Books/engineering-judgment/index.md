@@ -4,7 +4,7 @@ hide:
 ---
 
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="../../assets/etis-logo.svg"
+  <img src="/assets/etis-logo.svg"
        alt="ETIS"
        style="width:320px; max-width:60%; height:auto;">
 </div>
@@ -18,14 +18,14 @@ hide:
 **William T. O'Connell, Ph.D.**
 
 <div style="text-align:center; margin:1.25rem 0 1.75rem 0;">
-  <img src="../../assets/books/engineering-judgment/front-cover.png"
+  <img src="/assets/books/engineering-judgment/front-cover.png"
        alt="Front cover of From Data Structures to Engineering Judgment"
        style="width:360px; max-width:100%; height:auto; border:1px solid #d9d9d9; box-shadow:0 12px 32px rgba(0,0,0,.14); border-radius:.25rem;">
 </div>
 
 <div style="margin:0 0 1rem 0;">
   <a class="md-button md-button--primary"
-     href="../../downloads/books/From_Data_Structures_to_Engineering_Judgment_First_Edition_2026.pdf"
+     href="/downloads/books/From_Data_Structures_to_Engineering_Judgment_First_Edition_2026.pdf"
      download>
      Download Free PDF
   </a>
@@ -33,14 +33,14 @@ hide:
      href="https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/">
      View on Amazon ↗
   </a>
-  <a class="md-button" href="companion-resources/">Companion Resources</a>
-  <a class="md-button" href="updates-and-errata/">Updates &amp; Errata</a>
+  <a class="md-button" href="/Books/engineering-judgment/companion-resources/">Companion Resources</a>
+  <a class="md-button" href="/Books/engineering-judgment/updates-and-errata/">Updates &amp; Errata</a>
 </div>
 
 !!! note "Publication status"
-    **Published:** August 2026 · First Edition  
+    **Publication date:** August 2026 · First Edition<br>
     **PDF edition:** Available here as a free ETIS website download.  
-    **Amazon:** [Available now ↗](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/)  
+    **Amazon:** [Paperback and hardcover listings ↗](https://www.amazon.com/Data-Structures-Engineering-Judgment-Trustworthy/dp/B0HF2WBKWR/)<br>
     **Paperback ISBN:** 979-8-9966760-4-0  
     **Hardcover ISBN:** 979-8-9966760-5-7
 
