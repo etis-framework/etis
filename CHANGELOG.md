@@ -6,9 +6,18 @@ The format is inspired by *Keep a Changelog* and adapted for framework, publicat
 
 ---
 
-## [Unreleased] - August 2026
+## [Unreleased] - November 2026
 
-### Engineering Education Suite Integration
+### Publication discovery and repository metadata maintenance
+
+- Standardized the primary-focus field on all 24 publication landing pages while retaining existing role-specific audience tags, reading-time ranges, and learning takeaways.
+- Added estimated reading-time ranges to WP-013 and COMP-WP-006; these are reader aids, not measurements of PDF body word count.
+- Corrected the WP-013 v1.1 / COMP-WP-006 v1.0 companion citation record and reconciled the two-volume publication date.
+- Updated publication inventories and the repository roadmap to 13 white papers, five executive briefs, and six education papers.
+- Aligned `CITATION.cff` to the latest *already tagged* v1.4.0 release; it must be advanced again as part of the next formal release.
+- Preserved all authoritative PDFs, Word masters, manuscript source, and historical release entries.
+
+### Engineering Education Suite Integration (August–November 2026)
 
 This update expands the ETIS Educational Ecosystem with a coordinated, phase-gate-aware Engineering Education Suite for student readiness, engineering-judgment development, and instructor-led formal review.
 

@@ -43,9 +43,12 @@ description: "Explore five dimensions of professional potential for aspiring sof
   <div class="publication-metadata-item"><span class="publication-metadata-label">Published</span><span class="publication-metadata-value">October 2026</span></div>
   <div class="publication-metadata-item"><span class="publication-metadata-label">Version</span><span class="publication-metadata-value">1.0 · Companion edition</span></div>
   <div class="publication-metadata-item"><span class="publication-metadata-label">Length</span><span class="publication-metadata-value">15 pages</span></div>
+  <div class="publication-metadata-item"><span class="publication-metadata-label">Reading time</span><span class="publication-metadata-value">35–45 minutes (estimate)</span></div>
   <div class="publication-metadata-item"><span class="publication-metadata-label">Depth</span><span class="publication-metadata-value">Education and professional development</span></div>
   <div class="publication-metadata-item"><span class="publication-metadata-label">Status</span><span class="publication-status publication-status--current">Current</span></div>
 </div>
+
+<p class="publication-primary-focus"><strong>Primary focus:</strong> Developing five dimensions of professional potential through evidence-backed engineering practice.</p>
 
 <div class="publication-actions publication-actions--primary">
   <a class="md-button md-button--primary" href="/assets/publications/education-papers/COMP_WP-006_Becoming_a_Software_Engineer_in_the_AI_Era.pdf" download>Download authoritative PDF</a>

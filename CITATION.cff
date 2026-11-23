@@ -6,13 +6,13 @@ type: book
 authors:
   - family-names: "O'Connell"
     given-names: "William T."
-version: "1.2.0"
-date-released: 2026-07-16
+version: "1.4.0"
+date-released: 2026-08-08
 year: 2026
 publisher: "ETIS Framework"
 url: "https://etisframework.org"
 repository-code: "https://github.com/etis-framework/etis"
-repository-artifact: "https://github.com/etis-framework/etis/releases/tag/v1.2.0"
+repository-artifact: "https://github.com/etis-framework/etis/releases/tag/v1.4.0"
 abstract: >
   Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered,
   evidence-driven engineering framework for building, governing, operating,

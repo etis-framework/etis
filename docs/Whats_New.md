@@ -267,7 +267,7 @@ The initial public release made ETIS available through:
 - the downloadable complete First Edition PDF;
 - the initial public Framework website and supporting resources.
 
-The ETIS Two-Volume Professional Edition followed in June 2026 with professionally published paperback and hardcover editions.
+The ETIS Two-Volume Professional Edition followed in July 2026 with professionally published paperback and hardcover editions.
 
 The website remains the authoritative and continuously stewarded public source.
 
