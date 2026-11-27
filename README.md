@@ -28,6 +28,7 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 📘 [Explore the Framework Reference Work](https://etisframework.org/Books/ETIS_Framework_Reference/)
 📚 [Explore the Two-Volume Professional Edition](https://etisframework.org/Volumes/ETIS_Two_Volume_Edition/)
 📘 [Explore Engineering Agentic AI Systems](https://etisframework.org/Books/agentic-ai/)
+🧪 [Explore the Agentic AI Executable Companion](https://etisframework.org/Books/agentic-ai/companion-resources/)
 📗 [Explore From Data Structures to Engineering Judgment](https://etisframework.org/Books/engineering-judgment/)
 📝 [Explore ETIS Publications](https://etisframework.org/publications/)
 🎓 [Educational Ecosystem](https://etisframework.org/Educational_Ecosystem/Educational_Ecosystem/)
@@ -46,13 +47,14 @@ ETIS is a connected professional ecosystem for learning, applying, teaching, gov
 
 ## Current Release
 
-**Release candidate:** v1.5.0 (November 23, 2026; tag and GitHub Release to follow final verification)
+**Repository release target:** v1.5.1 (November 27, 2026)
+**Published releases:** [GitHub Releases](https://github.com/etis-framework/etis/releases/latest)
 **Book edition:** First Edition
 **Initial Framework publication:** June 2026
 **ETIS Two-Volume Professional Edition:** July 2026
 **Current ecosystem status:** Active public framework, books, publications, education, Engineering Platform, Engineering Education Suite, and supporting repository ecosystem
 
-The v1.5.0 release candidate builds on the publishing architecture established in v1.4.0, including:
+The v1.5.0 release builds on the publishing architecture established in v1.4.0, including:
 
 - the ETIS Framework Reference Work;
 - the ETIS Two-Volume Professional Edition;
@@ -64,9 +66,11 @@ The v1.5.0 release candidate builds on the publishing architecture established i
 - the Engineering Platform and Platform gateway;
 - integrated resource, download, repository, and navigation architecture.
 
-The v1.5.0 candidate consolidates the November 2026 Agentic AI book integration, WP-013 v1.1 and COMP-WP-006 publication pathways, 24 publication landing-page profiles, and the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review.
+The v1.5.0 release consolidates the November 2026 Agentic AI book integration, WP-013 v1.1 and COMP-WP-006 publication pathways, 24 publication landing-page profiles, and the **ETIS Engineering Education Suite**, which integrates phase-gate readiness, engineering-judgment development, and instructor-led formal engineering review.
 
-Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases). The candidate `CITATION.cff` identifies **v1.5.0** in anticipation of its release. Until the final annotated tag and GitHub Release are published, **v1.4.0 remains the latest published release**. The `main` branch may subsequently advance beyond any tagged release.
+The v1.5.1 maintenance update integrates the separately published [Agentic AI companion v1.1.0](https://github.com/etis-framework/etis-agentic-ai-book/releases/tag/v1.1.0), with native Python, Docker and optional VS Code Dev Containers for the same six reference builds. See [Companion Resources](https://etisframework.org/Books/agentic-ai/companion-resources/) for downloads and execution guidance. Book editions and framework doctrine are unchanged.
+
+Official releases are published through [GitHub Releases](https://github.com/etis-framework/etis/releases). The `main` branch and its citation metadata may advance beyond the latest published tag; use the released version for version-specific citations.
 
 ---
 
@@ -703,15 +707,16 @@ Current release history:
 - `v1.2.0` — Publications Program and Platform integration
 - `v1.3.0` — Educational Ecosystem and Platform integration
 - `v1.4.0` — Books and Professional Computing Series
-- `v1.5.0` — November 2026 ecosystem and publication integration (release candidate)
+- `v1.5.0` — November 2026 ecosystem and publication integration
+- `v1.5.1` — Agentic AI companion integration and documentation maintenance
 
 The `main` branch may advance beyond the latest formal release through documentation, editorial, maintenance, and ecosystem-alignment changes.
 
-The v1.5.0 release candidate includes the November 2026 Engineering Education Suite integration, Agentic AI publication and book discovery, and standardized publication profiles.
+The v1.5.0 release includes the November 2026 Engineering Education Suite integration, Agentic AI publication and book discovery, and standardized publication profiles.
 
 Formal releases use versioned Git tags and are documented through GitHub Releases.
 
-Engineering Platform releases are managed separately through the ETIS Engineering Platform Starter Kit repository.
+Engineering Platform releases are managed separately through the ETIS Engineering Platform Starter Kit repository. Agentic AI companion releases are maintained independently in the [book repository](https://github.com/etis-framework/etis-agentic-ai-book/releases).
 
 ---
 

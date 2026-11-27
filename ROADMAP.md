@@ -365,7 +365,7 @@ Phase II.c established the ETIS Publications Program as a first-class public cap
 
 ### ETIS White Paper Series
 
-- ✅ 12 long-form ETIS White Papers
+- ✅ 13 long-form ETIS White Papers
 - ✅ Canonical landing pages
 - ✅ Authoritative PDF editions
 - ✅ Publication metadata
@@ -465,6 +465,7 @@ Phase II.e established a durable long-form publishing architecture that separate
 
 - ✅ **ETIS Professional Computing Series** established
 - ✅ *From Data Structures to Engineering Judgment: Professional Computing in the AI Era* established as the inaugural series title
+- ✅ *Engineering Agentic AI Systems* established as Book 2, with separately versioned executable companion resources for native Python, Docker and optional VS Code Dev Containers
 - ✅ Book overview, companion-resource, and updates/errata architecture established
 - ✅ Professional Computing Series distinguished from the ETIS Publications Program
 
@@ -711,7 +712,8 @@ Downloads package selected resources.
 - `v1.2.0` — Publications Program and Platform integration
 - `v1.3.0` — Educational Ecosystem and Platform integration
 - `v1.4.0` — Books and Professional Computing Series
-- `main` after `v1.4.0` — Engineering Education Suite integration and ecosystem-alignment work pending the next formal release
+- `v1.5.0` — Agentic AI, Engineering Education Suite and publication integration
+- `v1.5.1` — Agentic AI companion integration and documentation maintenance
 
 ## Release Discipline
 

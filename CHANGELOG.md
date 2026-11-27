@@ -6,6 +6,18 @@ The format is inspired by *Keep a Changelog* and adapted for framework, publicat
 
 ---
 
+## [1.5.1] - November 27, 2026
+
+### Agentic AI companion integration and documentation maintenance
+
+- Enhanced the Books overview, Professional Computing Series and three Agentic AI book pages to integrate the separately released companion v1.1.0.
+- Added native Python, Docker and optional VS Code Dev Container guidance, version-pinned source downloads, companion release history and authoritative errata links.
+- Reconciled README, citation metadata, roadmap and security reporting boundaries.
+- Preserved website navigation, visual identity, framework doctrine, book editions and authoritative publication materials.
+- The five website pages passed a strict MkDocs build and local visual review; the companion passed its separate native Python and Linux AMD64/ARM64 Docker CI gates.
+
+---
+
 ## [1.5.0] - November 23, 2026
 
 ### Publication discovery and repository metadata maintenance
@@ -16,7 +28,7 @@ This release consolidates the November 2026 Agentic AI book website integration,
 - Added estimated reading-time ranges to WP-013 and COMP-WP-006; these are reader aids, not measurements of PDF body word count.
 - Corrected the WP-013 v1.1 / COMP-WP-006 v1.0 companion citation record and reconciled the two-volume publication date.
 - Updated publication inventories and the repository roadmap to 13 white papers, five executive briefs, and six education papers.
-- Advanced `CITATION.cff` to the v1.5.0 release candidate; the tag and GitHub Release must be created only after this metadata is merged and verified.
+- Advanced `CITATION.cff` to v1.5.0 for the published repository release.
 - Preserved all authoritative PDFs, Word masters, manuscript source, and historical release entries.
 
 ### Engineering Education Suite Integration (August–November 2026)
@@ -90,7 +102,7 @@ This update expands the ETIS Educational Ecosystem with a coordinated, phase-gat
 
 ### Release Note
 
-These changes are included in the **v1.5.0 release candidate**. Publish the annotated `v1.5.0` tag and GitHub Release only after the final release-metadata commit is merged and validated.
+These changes are included in the published [v1.5.0 release](https://github.com/etis-framework/etis/releases/tag/v1.5.0).
 
 ---
 
