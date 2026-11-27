@@ -63,7 +63,7 @@ The series is intentionally selective. It is not organized around a publication 
     <strong>Paperback ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-6-4</span><br>
     <strong>Hardcover ISBN:</strong> <span style="white-space:nowrap;">979-8-9966760-7-1</span></p>
 
-    <p>This 36-chapter professional reference develops enterprise agent architecture, secure and independently authorized execution, durable state, delegated coordination, operational resilience, and verifiable evidence. Six progressive Python reference builds use the CASE-204 refund scenario to connect architectural principles with executable behavior.</p>
+    <p>This 36-chapter professional reference develops enterprise agent architecture, secure and independently authorized execution, durable state, delegated coordination, operational resilience, and verifiable evidence. Six progressive Python reference builds use the CASE-204 refund scenario to connect architectural principles with executable behavior. The companion supports native Python and reproducible Docker-based execution, including optional interactive development and debugging in VS Code.</p>
   </div>
 </div>
 

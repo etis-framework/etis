@@ -105,12 +105,16 @@ The running example, **CASE-204**, concerns a $500 refund. Readers follow the sy
 
 ## Six Progressive Python Builds
 
-The public reference implementation contains **Builds 0–5**, progressing from deterministic controls to bounded agentic assistance, context and identity, approvals, reconciliation, and an integrated capstone. Each build is meant to be run, inspected, tested, and critically evaluated rather than treated as proof of production readiness.
+The public executable companion contains **Builds 0–5**, progressing from deterministic controls to bounded agentic assistance, scoped identity and context, independent authorization, provider reconciliation, and coordinated recovery. Each build includes source code, a source-module architecture diagram, executable tests, and documented engineering limitations.
+
+Readers can use **native Python or Docker**, with optional VS Code Dev Container integration for interactive development and debugging. Docker does not require Python on the host; the original textbook commands remain available to native Python users. No paid AI APIs, payment-provider credentials, or third-party Python packages are required for the standard exercises.
+
+The purpose is to run, inspect, test, and critically evaluate the implementations—not to treat a successful demonstration as proof of production readiness.
 
 **New to the reference implementation?** [Start with Build 0](companion-resources.md#reference-implementation-builds-05) and progress through the six builds with their tests and engineering evidence.
 
 [View Companion Resources →](companion-resources.md){ .md-button .md-button--primary }
-[Browse the Authoritative Reference Implementation ↗](https://github.com/etis-framework/etis-agentic-ai-book/tree/main/examples/refund-reference-system){ .md-button }
+[Explore the Executable Companion ↗](https://github.com/etis-framework/etis-agentic-ai-book/releases/tag/v1.1.0){ .md-button }
 
 ---
 
