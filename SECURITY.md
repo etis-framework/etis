@@ -6,7 +6,7 @@ The ETIS repository is the authoritative source for the ETIS Framework website, 
 
 This repository is primarily a documentation, publication, and educational-resource repository. It does **not** provide hosted software services, production APIs, cloud infrastructure, or applications that process user data.
 
-The companion **ETIS Engineering Platform Starter Kit** is maintained in a separate repository and follows its own security policy and reporting process.
+The companion **ETIS Engineering Platform Starter Kit** is maintained in a separate repository and follows its own security policy and reporting process. The **Engineering Agentic AI Systems** executable companion is also separately maintained; report implementation and container supply-chain issues through its [security policy](https://github.com/etis-framework/etis-agentic-ai-book/blob/main/SECURITY.md).
 
 ---
 
@@ -26,6 +26,7 @@ The following components are within the scope of this repository's security poli
 | Platform gateway | Yes |
 | Documentation build pipeline | Yes |
 | ETIS Engineering Platform Starter Kit repository | No (report through that repository) |
+| Engineering Agentic AI Systems executable companion repository | No (report through that repository) |
 
 ---
 

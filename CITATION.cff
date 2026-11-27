@@ -6,20 +6,21 @@ type: book
 authors:
   - family-names: "O'Connell"
     given-names: "William T."
-version: "1.5.0"
-date-released: 2026-11-23
+version: "1.5.1"
+date-released: 2026-11-27
 year: 2026
 publisher: "ETIS Framework"
 url: "https://etisframework.org"
 repository-code: "https://github.com/etis-framework/etis"
-repository-artifact: "https://github.com/etis-framework/etis/releases/tag/v1.5.0"
+repository-artifact: "https://github.com/etis-framework/etis/releases/tag/v1.5.1"
 abstract: >
   Engineering Trustworthy Intelligent Systems (ETIS) is a repository-centered,
   evidence-driven engineering framework for building, governing, operating,
   teaching, and stewarding trustworthy intelligent systems in the AI era. The
-  ETIS ecosystem includes the Two-Volume Edition, Publications Program,
-  Educational Ecosystem, Engineering Platform, professional appendices,
-  downloadable resources, and public repositories.
+  ETIS ecosystem includes the Framework Reference Work, Two-Volume Professional
+  Edition, ETIS Books and Professional Computing Series, Publications Program,
+  Educational Ecosystem, Engineering Education Suite, Engineering Platform,
+  professional appendices, downloadable resources, and public repositories.
 keywords:
   - "software engineering"
   - "artificial intelligence"
