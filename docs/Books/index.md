@@ -115,7 +115,7 @@ The series provides a durable home for future ETIS-aligned books that develop or
     <em>Build, Secure, Verify, and Operate Trustworthy AI Agents</em><br>
     William T. O'Connell, Ph.D.</p>
 
-    <p>This professional reference addresses what it takes to engineer agentic AI systems beyond the demonstration stage: explicit trust boundaries, independently enforced authorization, durable workflows, secure integration, observability, recovery, and evidence-based verification. Its 36 chapters are complemented by six progressive Python reference builds centered on the CASE-204 refund scenario.</p>
+    <p>This professional reference addresses what it takes to engineer agentic AI systems beyond the demonstration stage: explicit trust boundaries, independently enforced authorization, durable workflows, secure integration, observability, recovery, and evidence-based verification. Its 36 chapters are complemented by six progressive Python reference builds centered on the CASE-204 refund scenario. Readers can run and verify the examples using native Python or Docker, with optional VS Code Dev Container integration.</p>
 
     <p>Rather than treating an agent's output as authority, the book separates agentic coordination from trusted execution of consequential actions.</p>
 
